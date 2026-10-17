@@ -1,21 +1,59 @@
-# Operação horária do Estúdio Editorial Tweed
+# Operação horária — fluxo editorial por etapas (versão 2)
 
-## Escopo e autorização
+## Escopo
 
-A pasta real é `H:\TweedMD\TweedEditorial`; o site é `H:\TweedMD`. Leia ambos os AGENTS.md, o DESIGN.md do site e os arquivos editorial/diretrizes.md, especialistas.md e editorias.json. Nunca use documentos pessoais, diagnósticos privados ou listas internas de clientes. Os perfis Lorenzo/Mauro são guias editoriais locais, não plugins ou bibliotecas disponíveis automaticamente.
+Painel: H:\TweedMD\TweedEditorial. Site estático: H:\TweedMD. Leia ambos os AGENTS.md, DESIGN.md e editorial/diretrizes.md, especialistas.md e editorias.json. Preservar o posicionamento e a identidade atuais. Não usar contexto pessoal, diagnósticos privados ou dados de clientes. Lorenzo/Mauro são diretrizes editoriais locais, não plugins nem bibliotecas disponíveis automaticamente.
 
-Felipe autorizou processar solicitações explícitas do painel, gerar conteúdo pelo GPT, fazer commit/push nos repositórios correspondentes e publicar conteúdos aprovados em Pronto no SFTP. Não precisa pedir aprovação novamente quando a solicitação e o snapshot aprovado são válidos. Não processe as seis pautas iniciais automaticamente. Não vincule o blog ao menu/home institucional.
+Felipe autorizou processar as etapas salvas no painel, gerar conteúdo pelo GPT, fazer commit/push restrito e publicar os posts aprovados em Pronto. Não pedir aprovação novamente para um job e snapshot válidos. As sementes antigas continuam fora da fila até uma ação explícita de Salvar. Não integrar o blog ao menu/home institucional. Não publicar testes.
 
-## Cada execução
+## Reconciliar a fila em cada rodada
 
-1. Confira Git nos dois repositórios. No pai, use `git -c safe.directory=H:/TweedMD` por comando se necessário. Não altere configuração global de segurança. Preserve alterações de outras tarefas e não faça stash/reset/force push. Não puxe por cima de edições locais. Se houver divergência remota, concilie sem perda ou informe o bloqueio.
-2. Execute `node scripts/worker.mjs list` na pasta do painel. A fila é editorial/fila.json. Somente jobs pending/running entram no trabalho. Sem jobs, encerre sem mensagem e sem commit vazio. Um job de publicação com data futura deve aguardar a data. Verifique resultados/status antes de retomar um job running; não dispare outro trabalhador para o mesmo pedido.
-3. Para pauta/redigir/revisar pending, execute `node scripts/worker.mjs claim ID`. O comando retorna o snapshot de entrada. Leia a pauta, contexto público e artigos relevantes já existentes para evitar repetição. Se o job já está running, continue somente o mesmo pedido, verificando se o snapshot ainda é atual. Nunca aprove checks humanos.
-4. Crie o resultado GPT em `.local/resultados/ID.json`, sem segredos. Para pauta: title, angle, audience, goal, sources. Para redigir/revisar: title, angle, audience, goal, body (Markdown sem H1 repetido), keyword, slug, meta, sources, prompt, faq. FAQ é texto com pergunta na primeira linha e resposta nas seguintes, blocos separados por linha em branco. Use apenas strings. Não altere ID, editoria, data ou capa aprovados. O texto deve cumprir a direção editorial; 900–1.400 palavras apenas quando justificadas pela tese, sem enchimento. Frase-chave na abertura e metadescrição; subtítulos concretos; até 3 FAQs úteis. Prompt Midjourney em inglês com apenas --ar 3:2. Referências primárias acessadas para números, estudos e cases; identificar exemplos hipotéticos. Não invente fontes, links, estatísticas ou citações. Inclua referências verificáveis em sources. A revisão deve resolver problemas sem apagar a intenção da pauta.
-5. Execute `node scripts/worker.mjs complete ID .local/resultados/ID.json`. O helper verifica que o usuário não editou a pauta e salva índice, Markdown, briefing e metadados. Pauta volta a Pauta para aprovação; redação/revisão voltam a Revisão com checks vazios. Não avance automaticamente para Pronto. Se o resultado ficou obsoleto, preserve-o e informe a conciliação necessária. Uma edição humana cancela o pedido pendente automaticamente.
-6. Para publicar: confirme snapshot, status Pronto, quatro checks, capa local, SEO e data. Execute `python scripts/publicar.py --job ID --dry-run`. Só se passar, execute `python scripts/publicar.py --job ID`. O helper usa a credencial `TweedEditorial/Kinghost` no cofre Windows e a chave SSH fixada. Não copie senha para prompt, argumentos, arquivos ou Git. A publicação gera BlogPosting com dados reais, texto/FAQs visíveis, metadados, capa e dimensões reais, breadcrumbs e links para a série. Atualiza o blog, a seção, sitemap e .htaccess estreito. A lista de envio é explícita; nunca espelhe a raiz FTP nem toque nas pastas de clientes. Home e artigos antigos são preservados. Antes de sobrescrever, o helper compara hashes remotos e guarda backups privados. Verifica SFTP e HTTP antes de marcar published/done.
-7. Se um envio for interrompido, use o mesmo job e registro `.local/publicacoes/ID.json`; não crie outra publicação nem remova o registro. Não marque published manualmente. Se a credencial estiver indisponível, os arquivos remotos divergirem ou a data estiver no futuro, pare essa publicação sem alterá-la. Informar apenas problemas acionáveis; não repetir alertas idênticos a cada hora. Para falha de criação de conteúdo, salve uma explicação sem segredos em `.local/resultados/ID-erro.txt` e use `worker.mjs fail ID arquivo`. Falhas de publicação permanecem retomáveis; registre o problema no relatório da tarefa.
-8. Rode `node scripts/check-editorial.cjs` e `node scripts/check-workflow.mjs` quando o código mudar. Após publicar, rode os validadores do site e confira a página publicada em desktop/mobile e o retorno para a seção. Não afirme publicação completa antes das verificações.
-9. Registre os arquivos envolvidos com commit/push explícito e restrito. No painel, somente studio, editorial, conteudos, scripts, referencias, README.md, AGENTS.md, LEIA-ME-CODEX.md, Abrir-Estudio.cmd e .gitignore. No site, somente arquivos do plano, ledger/miniaturas/manifesto e documentação correspondente. Não incluir alterações de outras tarefas, .local, backups, segredos ou credenciais. Verifique commit remoto antes de informar push. Se o push falhar, preserve o commit e reporte o problema; não republique o artigo já concluído.
+1. Confira Git dos dois repositórios. Preserve edições concorrentes; não fazer stash/reset/force push nem alterar configurações globais de segurança. No pai, use `git -c safe.directory=H:/TweedMD` por comando se necessário. Concilie divergência remota antes de enviar, sem perder trabalho.
+2. Execute `node scripts/worker.mjs sync` na pasta do painel. Esse comando cria/reconcilia jobs das etapas submetidas (`workflowVersion:2`, `submitted:true`) e devolve pending/running. Não submeta itens por conta própria. Sem mudanças ou trabalho, encerre em silêncio e sem commit vazio. Para uma segunda leitura sem gravações, use `worker.mjs list`.
+3. Para um job pending de redigir/revisar, use `node scripts/worker.mjs claim ID`. Para um job running, retome somente aquele pedido e verifique resultados locais existentes; não gere trabalhadores duplicados. Os helpers comparam o conteúdo de entrada e impedem uma resposta obsoleta de sobrescrever edições humanas. Falhas não são reenviadas indefinidamente: o usuário pode pedir nova tentativa no painel.
 
-Reporte novas entregas, URLs publicadas e bloqueios que exigem ação. Quando nada mudou, permaneça em silêncio. Não envie mensagens a terceiros. O computador precisa estar ligado, com o Codex aberto e acesso à pasta para esta automação local funcionar; não há execução autônoma em nuvem.
+## Pauta → redação automática → coluna Redação
+
+O usuário já definiu título, editoria, voz, ângulo/tese, leitor e mudança de percepção. Não faça outra rodada de desenvolvimento de pauta nem mude essas decisões sem pedido.
+
+Para `action:redigir`, leia o briefing, direção editorial e conteúdo público pertinente já publicado, evitando repetição. Use o GPT para escrever um artigo completo em português brasileiro, com tese clara, exemplos concretos e aplicação útil. Prefira 900–1.400 palavras apenas quando a tese justificar, sem enchimento. Não usar travessões, emojis ou títulos genéricos Introdução/Conclusão. Identifique exemplos hipotéticos. Para dados, estudos, cases ou citações, pesquise e acesse fontes primárias, sem inventar links, números ou citações. Não usar conteúdo privado.
+
+Salve `.local/resultados/ID.json` com strings `body` (Markdown sem H1 repetido e sem seção FAQ), `sources` (links verificados e notas) e `prompt` (prompt Midjourney em inglês, somente o parâmetro --ar 3:2). O GPT desta rodada é o gerador, sem chave de API no navegador.
+
+Execute `node scripts/worker.mjs complete ID .local/resultados/ID.json`. O helper salva os arquivos e move para **Redação**, com luz verde. Pare nessa etapa: Felipe editará texto/prompt e usará Salvar redação para avançar. Não envie automaticamente para Revisão.
+
+## Revisão → metadados automáticos → permanece em Revisão
+
+O texto já foi editado/aprovado na Redação. Para `action:revisar`, confira coerência, fontes e aderência ao posicionamento. Produza **somente metadados**, preservando título, corpo, editoria, voz e prompt. Se houver erro material no texto ou fonte insuficiente que não pode ser resolvido em metadados, sinalize a falha para revisão humana; não invente nem mude o texto silenciosamente.
+
+Entregue `.local/resultados/ID.json` com strings:
+- `keyword`: frase-chave de foco natural, alinhada ao texto e preferencialmente presente na abertura;
+- `slug`: slug curto e descritivo, minúsculo e sem acentos, números/letras/hífens, sem colisão com home, blog, séries, artigos ou pastas do servidor;
+- `meta`: metadescrição específica que contenha a frase-chave sem repetição artificial;
+- `faq`: até três perguntas/respostas úteis derivadas do artigo, em blocos separados por linha em branco; cada bloco começa com pergunta e depois a resposta. Pode ficar vazio quando não agregar.
+
+O FAQ pertence **exclusivamente ao JSON-LD**, não ao Markdown nem ao HTML visível. O publicador usa BlogPosting.hasPart com Question/Answer; não adiciona FAQPage nem promete rich results. Autor sempre Felipe Rijo; logo e URL do autor são fixos, sem perguntas ao usuário.
+
+Execute `worker.mjs complete ID arquivo.json`. O post continua em **Revisão**, com luz verde. O usuário enviará a imagem e salvará a revisão para aprovar Pronto. Não avance para Pronto nem marque critérios humanos. Editar corpo/briefing/fontes/prompt invalida a revisão e gera um novo passe; capa, descrição da capa e data não invalidam os metadados.
+
+## Pronto → publicação → histórico em Artigos
+
+Para cada `action:publicar`, verifique status Pronto, snapshot aprovado, revisão válida, capa local e descrição. O botão Salvar revisão e aprovar publicação registra a aprovação humana e os critérios editoriais, substituindo os quatro checkboxes antigos. Não aprovar pelo GPT. Se a data estiver vazia, o painel registra o dia da aprovação; data futura deve aguardar, sem alertar a cada hora.
+
+Execute `python scripts/publicar.py --job ID --dry-run`; só se passar, execute o mesmo comando sem --dry-run. O helper usa a credencial TweedEditorial/Kinghost no cofre do Windows e a chave SSH fixada. Nunca escrever senha em prompt, argumentos, arquivos ou Git.
+
+O publicador gera a página no layout existente com BlogPosting, FAQ somente estruturado, autoria/datas/dimensões reais, breadcrumbs e links para a série. Atualiza capa, artigo, índice do blog, seção, sitemap e .htaccess estreito, quando necessário. Envia lista explícita, compara hashes antes de sobrescrever, guarda backup privado e verifica SFTP/HTTP. Nunca espelhar/excluir a raiz FTP, tocar em pastas de clientes ou mudar a home institucional.
+
+Somente após confirmação, publication.state=published e job.state=done são gravados. Isso faz o post sair das quatro colunas e aparecer apenas em **Artigos**, com texto, metadados, capa e link preservados. Não excluir o item ou os arquivos para arquivar. Não simular confirmação em produção. Para envio interrompido, retome o mesmo job e `.local/publicacoes/ID.json`; não apague o registro nem crie outro post.
+
+## Falhas, validação e Git
+
+Para falha de redação/revisão, salve uma explicação sem segredos em `.local/resultados/ID-erro.txt` e use `worker.mjs fail ID arquivo`. O card fica vermelho e oferece nova tentativa. Preserve resultados obsoletos para conciliação, sem sobrescrever trabalho humano.
+
+Falha SFTP/HTTP mantém a publicação retomável. Credencial indisponível, arquivo remoto divergente ou conflito real exigem interromper aquela publicação. Informe apenas bloqueios acionáveis e não repita alertas idênticos em toda rodada.
+
+Quando mudar código, rode check-editorial.cjs, check-workflow.mjs e verificações de sintaxe. Após publicar, rode os validadores do site e confira desktop/mobile e links de retorno da página publicada.
+
+Faça commit/push restrito após entregas ou publicações, verificando o commit remoto. No painel: studio, editorial, conteudos, scripts, referencias e documentos do projeto. No site: somente saídas do plano, ledger, miniaturas, manifesto e documentação envolvida. Não incluir .local, backups, segredos ou mudanças de outras tarefas. Se push falhar, preserve o commit e reporte; não republique o post já confirmado.
+
+Reporte novas entregas e URLs publicadas, ou bloqueios que exigem ação. Sem trabalho ou mudança significativa, permaneça em silêncio. Não enviar mensagens a terceiros. A execução é local: computador ligado, internet e Codex aberto; não é um serviço em nuvem.

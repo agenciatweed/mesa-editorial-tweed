@@ -12,19 +12,23 @@ Para ver o servidor no terminal: `node scripts/serve.mjs`. Fechar a aba não enc
 
 ## Fluxo de trabalho
 
-1. Crie uma pauta, informe tema/ângulo e clique em **Desenvolver pauta** se quiser ajuda do GPT.
-2. Revise a proposta e clique em **Aprovar pauta e solicitar redação**.
-3. A tarefa horária do Codex pesquisa e devolve texto, SEO, fontes, FAQ e prompt de Midjourney em **Revisão**.
-4. Revise o texto; se precisar de outro passe, use **Solicitar revisão do texto**.
-5. Crie a capa no Midjourney e envie pelo campo de upload. Preencha a descrição acessível da imagem, a data e os metadados. PNG, JPEG e WebP até 12 MB; mínimo 600 × 400 px. As dimensões reais são preservadas.
-6. Marque os quatro critérios editoriais e mude para **Pronto**. A confirmação autoriza publicação automática na próxima execução horária, respeitando a data.
-7. O publicador envia capa, artigo, índice do blog, seção, sitemap e .htaccess quando necessário. A página inicial institucional não é alterada. O painel passa a indicar **Publicado** com a URL.
+1. **Pauta:** preencha somente título, editoria, voz principal, ângulo e tese, quem precisa ler e mudança de percepção. Clique em **Salvar pauta**. A luz fica vermelha enquanto aguarda a tarefa horária.
+2. **Redação:** o GPT escreve o artigo e o prompt de capa para Midjourney, e devolve o post nesta coluna com luz verde. Edite o texto e clique em **Salvar redação e enviar para revisão**.
+3. **Revisão:** a luz fica vermelha até o GPT conferir o texto e preencher frase-chave de foco, slug e metadescrição. Ele também prepara o FAQ exclusivamente como metadado. Quando a luz ficar verde, confira os dados, envie a capa e preencha a descrição da imagem. Clique em **Salvar revisão e aprovar publicação**. Se mudar o texto ou o briefing após a revisão, a luz volta a vermelho e os metadados precisam ser conferidos novamente.
+4. **Pronto:** o post está aprovado e aguarda a próxima rodada de publicação. A data é opcional na revisão; se ficar vazia, a aprovação utiliza o dia atual. Uma data futura adia o envio. **Voltar para revisão** cancela o envio pendente para permitir ajustes.
+5. **Artigos:** depois que SFTP e HTTP confirmarem a publicação, o post sai das quatro colunas e aparece somente nesta aba, com texto, metadados, capa, data e link do site preservados. O histórico publicado é somente leitura.
 
-As seis pautas originais foram preservadas e **não estão aprovadas para geração ou publicação automática**. Somente solicitações explícitas entram na fila. Uma pauta desenvolvida pelo GPT aguarda sua aprovação antes da redação; o GPT nunca marca sua própria revisão como aprovada.
+O rascunho é salvo automaticamente durante a edição, mas **o botão Salvar conclui cada etapa**. Uma pauta nova só entra na fila ao clicar em Salvar pauta. As seis pautas do pacote original continuam preservadas: abra e salve a etapa para incluí-las no fluxo novo.
+
+Luz vermelha: automação pendente ou falha. Luz verde: trabalho automático concluído nesta etapa. Os indicadores também têm texto, para que a cor não seja a única informação. Falhas podem ser reenviadas com **Tentar automação novamente**.
+
+Autor e logo são fixos e não ocupam campos no formulário. O FAQ fica apenas no JSON-LD (`BlogPosting.hasPart`), sem seção no Markdown ou no HTML visível e sem marcação `FAQPage` ou promessa de rich results.
+
+Capa: PNG, JPEG ou WebP até 12 MB, mínimo 600 × 400 px. O upload fica disponível quando a revisão automática estiver concluída. As dimensões reais são preservadas.
 
 ## GPT e agendamento
 
-A criação de conteúdo acontece pelo GPT da tarefa agendada do Codex, usando os arquivos locais e pesquisa de fontes. Não há chave OpenAI no painel nem cobrança de API configurada. O botão registra uma solicitação; o retorno não é instantâneo. Mantenha o computador ligado, conectado e o aplicativo Codex aberto. O navegador e o servidor do painel podem estar fechados durante o processamento.
+A criação de conteúdo acontece pelo GPT da tarefa agendada do Codex, usando os arquivos locais e pesquisa de fontes. Não há chave OpenAI no painel nem cobrança de API configurada. Salvar a etapa registra o trabalho correspondente; o retorno do GPT ocorre na rodada horária. Mantenha o computador ligado, conectado e o aplicativo Codex aberto. O navegador e o servidor do painel podem estar fechados durante o processamento.
 
 A especificação da tarefa está em `editorial/AUTOMACAO.md`. Ela processa a fila a cada hora e usa `scripts/worker.mjs` para assumir e concluir pedidos com verificação de versão. Não existe webhook ou GitHub Actions executando este painel na nuvem. O GitHub guarda o histórico; o computador local executa o trabalho.
 

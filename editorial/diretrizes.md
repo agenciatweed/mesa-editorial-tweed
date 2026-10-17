@@ -12,4 +12,4 @@ Verificar fontes primárias para dados, estudos, cases e citações. Distinguir 
 Teal Tweed #08ffb1; azul-escuro #0b0c13; branco #ffffff. Tipografia Inter. Logo oficial. Fonte: https://github.com/agenciatweed/brand-guidelines-tweed (commit ac2f5c11089641941a4a20bb91a718375b362910).
 
 ## Publicação
-Artigo, frase-chave na abertura, metadescrição, fontes, FAQs visíveis e prompt em inglês com apenas --ar 3:2. Dados estruturados dependem de metadados reais e revisão editorial. Publicar no blog é uma etapa separada.
+Artigo, frase-chave na abertura, metadescrição, fontes, FAQ exclusivamente no JSON-LD, sem seção visível no artigo e prompt em inglês com apenas --ar 3:2. Dados estruturados dependem de metadados reais e revisão editorial. Publicar no blog é uma etapa separada.

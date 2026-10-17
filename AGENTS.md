@@ -39,3 +39,8 @@ A pasta real é `H:\TweedMD\TweedEditorial`, preservada no local escolhido por F
 Leia também `editorial/AUTOMACAO.md` antes de processar pedidos. O GPT roda na tarefa horária do Codex, sem API embutida ou chave no navegador. O painel registra ações explícitas em fila.json; não processe sementes apenas por estarem em Pauta/Redação.
 Felipe autorizou commit/push do painel e, após aprovação Pronto, publicação no SFTP e commit/push dos arquivos envolvidos no site. Nenhuma outra página institucional nem pasta de cliente entra nessa autorização.
 A única credencial persistida está no cofre do Windows, não nos arquivos do projeto. O publicador deve exigir o hash do texto e capa aprovados e validar todas as saídas antes de marcar publicado.
+
+## Fluxo atual por etapas (substitui o fluxo de solicitações anterior)
+
+Salvar Pauta agenda redação; o GPT entrega corpo, fontes e prompt em Redação. Salvar Redação envia para Revisão; o GPT prepara keyword, slug, meta e FAQ e permanece em Revisão com luz verde. Salvar Revisão com capa e descrição aprova Pronto e autoriza publicação. Depois da confirmação, publication.state=published tira o item da mesa e o mantém em Artigos. Não apagar o item ou os arquivos ao arquivar.
+O FAQ é exclusivamente JSON-LD, nunca visível no artigo ou no Markdown. Autor e logo são fixos. O botão de aprovação da revisão registra os critérios humanos sem exigir os quatro checkboxes antigos. A tarefa usa worker.mjs sync para reconciliar etapas submetidas; não submeter sementes antigas automaticamente.

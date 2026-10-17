@@ -20,7 +20,7 @@ A voz principal conduz a pergunta, a tese e o encadeamento. O segundo olhar cont
 
 Texto em Markdown, frase-chave de foco presente na abertura, título SEO, slug, metadescrição com a frase-chave, fontes verificadas, FAQs úteis e prompt visual em inglês com apenas o parâmetro --ar 3:2. Pedir data de publicação e URL da capa quando faltarem.
 
-JSON-LD só com dados reais: BlogPosting; autor Felipe Rijo; editora Agência Tweed; capa 1344x896; data e URL corretas; FAQs visíveis no texto exportado. Não prometer rich results ou ranking. Verificar URLs atuais do autor e logo antes de publicar.
+JSON-LD só com dados reais: BlogPosting; autor Felipe Rijo; editora Agência Tweed; capa com dimensões reais; data e URL corretas; FAQ exclusivamente no JSON-LD, fora do texto exportado. Não prometer rich results ou ranking. Verificar URLs atuais do autor e logo antes de publicar.
 
 ## Evidência
 
@@ -28,4 +28,4 @@ Autoria e obra devem acompanhar citações de livros. Os livros dos plugins não
 
 ## Dados reais de publicação
 
-Na integração local atual, use sempre https://www.agenciatweed.com.br/. Autor Felipe Rijo com perfil https://www.agenciatweed.com.br/#agencia e identificador https://www.agenciatweed.com.br/#felipe-rijo. Logo: https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg. A capa não tem dimensões presumidas: usar as dimensões do arquivo aprovado. O publicador mantém as FAQs no texto visível; não adiciona FAQPage automaticamente nem promete elegibilidade a rich results. Os perfis acima são diretrizes de voz, não plugins conectados.
+Na integração local atual, use sempre https://www.agenciatweed.com.br/. Autor Felipe Rijo com perfil https://www.agenciatweed.com.br/#agencia e identificador https://www.agenciatweed.com.br/#felipe-rijo. Logo: https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg. A capa não tem dimensões presumidas: usar as dimensões do arquivo aprovado. O publicador mantém o FAQ somente em BlogPosting.hasPart no JSON-LD; não gera seção visível nem FAQPage, nem promete elegibilidade a rich results. Os perfis acima são diretrizes de voz, não plugins conectados.
