@@ -22,7 +22,15 @@
   },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "sources": "Ensaio de análise da Tweed. Exemplo explicitamente hipotético; sem estatísticas ou cases de clientes.",
-  "imagePrompt": "",
+  "imagePrompt": "Conceptual editorial still-life photograph about the hidden effort of coordinating fragmented marketing: several individually refined miniature architectural structures arranged on a dark navy worktable, each connected by a taut fine thread to one small central brass ring, the ring visibly bearing the tension of keeping the separate pieces aligned, precise craftsmanship, realistic wood and matte metal textures, a single restrained emerald-teal accent, soft directional daylight revealing the threads through delicate shadows, sophisticated independent business magazine art direction, quiet visual tension, generous negative space, eye-level close-up, no people, no charts, no lettering, no logos --ar 3:2",
   "faq": [],
-  "review": {}
+  "review": {},
+  "prompt": "Conceptual editorial still-life photograph about the hidden effort of coordinating fragmented marketing: several individually refined miniature architectural structures arranged on a dark navy worktable, each connected by a taut fine thread to one small central brass ring, the ring visibly bearing the tension of keeping the separate pieces aligned, precise craftsmanship, realistic wood and matte metal textures, a single restrained emerald-teal accent, soft directional daylight revealing the threads through delicate shadows, sophisticated independent business magazine art direction, quiet visual tension, generous negative space, eye-level close-up, no people, no charts, no lettering, no logos --ar 3:2",
+  "automation": {
+    "stage": "Redação",
+    "state": "done",
+    "lastJob": "c7008d77-ff83-4336-8129-52ac59347e1e",
+    "completedAt": "2026-10-17T16:22:46.775Z",
+    "message": "Prompt de capa preenchido; texto preservado."
+  }
 }
