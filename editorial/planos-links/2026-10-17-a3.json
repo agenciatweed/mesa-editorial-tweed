@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "newSlug": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+  "contentSha256": "06d07c201b646e70d9823f0bcc9cafec67a3dcb8c3fc0a90770b6e5a6f00bb68",
+  "modifiedAt": "2026-10-17",
+  "links": [
+    {
+      "from": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "um atendimento humanizado",
+      "context": "Uma marca que se posiciona como próxima precisa ter um atendimento humanizado. Uma que promete agilidade precisa garantir que seu processo de entrega seja rápido e transparente. Uma que fala de cuidado precisa refletir isso na embalagem, no tom de voz, na escuta atenta.",
+      "reason": "O novo artigo traduz a promessa de proximidade em responsabilidades, contexto e decisões operacionais de atendimento."
+    },
+    {
+      "from": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "to": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+      "anchor": "o funcionamento da empresa",
+      "context": "A equipe pode estar se esforçando. O problema é que o funcionamento da empresa dificulta a proximidade prometida. Pedir mais simpatia aos atendentes não define um responsável, não organiza o histórico e não esclarece o próximo passo.",
+      "reason": "Relaciona a causa operacional da experiência de atendimento à construção de marca além do marketing."
+    }
+  ]
+}

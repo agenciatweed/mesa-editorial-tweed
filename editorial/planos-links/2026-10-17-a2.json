@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "newSlug": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+  "contentSha256": "f96436558419fa036639c2574065d8b8063e4ec624c958229058e8f75a996652",
+  "modifiedAt": "2026-10-17",
+  "links": [
+    {
+      "from": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "to": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "anchor": "proposta de valor",
+      "context": "Branding vai muito além do visual. Uma marca forte nasce de clareza: de posicio-namento, de proposta de valor, de narrativa. O design é a expressão dessa clareza, não o ponto de partida. Quando não existe direção estratégica, até o layout mais sofisticado vira apenas ruído bonito.",
+      "reason": "A passagem sobre clareza da proposta ganha aprofundamento prático na negociação de preço e confiança."
+    },
+    {
+      "from": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "to": "divida-de-marca",
+      "anchor": "sinais de confiança",
+      "context": "Os sinais de confiança precisam ser verdadeiros e pertinentes à dúvida do comprador. Um caso autorizado pode mostrar experiência com um problema semelhante. Uma descrição clara do processo pode explicar como a empresa lida com incertezas. A identificação dos responsáveis pode esclarecer a senioridade disponível.",
+      "reason": "Aprofunda a relação entre clareza, posicionamento e valor percebido que sustenta a negociação."
+    },
+    {
+      "from": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "to": "posicionamento-de-marca-para-pequenas-empresas",
+      "anchor": "para quem o trabalho faz sentido",
+      "context": "Uma proposta de valor ganha precisão quando mostra para quem o trabalho faz sentido, qual problema ele enfrenta e quais condições são necessárias para entregar bem. Isso pode incluir reconhecer que a empresa não é a melhor alternativa para determinada demanda.",
+      "reason": "Aprofunda a relação entre clareza, posicionamento e valor percebido que sustenta a negociação."
+    }
+  ]
+}
