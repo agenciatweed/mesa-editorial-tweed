@@ -14,7 +14,7 @@ Para ver o servidor no terminal: `node scripts/serve.mjs`. Fechar a aba não enc
 
 1. **Pauta:** preencha somente título, editoria, voz principal, ângulo e tese, quem precisa ler e mudança de percepção. Clique em **Salvar pauta**. A luz fica vermelha enquanto aguarda a tarefa horária.
 2. **Redação:** o GPT escreve o artigo e o prompt de capa para Midjourney, e devolve o post nesta coluna com luz verde. Se um post em Redação tiver texto mas estiver sem prompt, a tarefa também cria apenas o prompt na próxima rodada, inclusive para rascunhos antigos, sem reescrever o artigo. Edite o texto e clique em **Salvar redação e enviar para revisão**.
-3. **Revisão:** a luz fica vermelha até o GPT conferir o texto e preencher frase-chave de foco, slug e metadescrição. Ele também prepara o FAQ exclusivamente como metadado. Quando a luz ficar verde, confira os dados, envie a capa e preencha a descrição da imagem. Clique em **Salvar revisão e aprovar publicação**. Se mudar o texto ou o briefing após a revisão, a luz volta a vermelho e os metadados precisam ser conferidos novamente.
+3. **Revisão:** a luz fica vermelha até o GPT conferir o texto e preencher frase-chave de foco, slug e metadescrição. Ele também prepara o FAQ exclusivamente como metadado. Você pode enviar a capa e preencher a descrição assim que entrar nesta etapa. Quando a luz ficar verde, confira os dados. Clique em **Salvar revisão e aprovar publicação**. Se mudar o texto ou o briefing após a revisão, a luz volta a vermelho e os metadados precisam ser conferidos novamente.
 4. **Pronto:** o post está aprovado e aguarda a próxima rodada de publicação. A data é opcional na revisão; se ficar vazia, a aprovação utiliza o dia atual. Uma data futura adia o envio. **Voltar para revisão** cancela o envio pendente para permitir ajustes.
 5. **Artigos:** depois que SFTP e HTTP confirmarem a publicação, o post sai das quatro colunas e aparece somente nesta aba, com texto, metadados, capa, data e link do site preservados. O histórico publicado é somente leitura.
 
@@ -24,7 +24,7 @@ Luz vermelha: automação pendente ou falha. Luz verde: trabalho automático con
 
 Autor e logo são fixos e não ocupam campos no formulário. O FAQ fica apenas no JSON-LD (`BlogPosting.hasPart`), sem seção no Markdown ou no HTML visível e sem marcação `FAQPage` ou promessa de rich results.
 
-Capa: PNG, JPEG ou WebP até 12 MB, mínimo 600 × 400 px. O upload fica disponível quando a revisão automática estiver concluída. As dimensões reais são preservadas.
+Capa: PNG, JPEG ou WebP até 12 MB, mínimo 600 × 400 px. O upload fica disponível imediatamente ao entrar em Revisão, mesmo antes da rodada automática. A aprovação para Pronto continua exigindo a revisão concluída. As dimensões reais são preservadas.
 
 ## GPT e agendamento
 
