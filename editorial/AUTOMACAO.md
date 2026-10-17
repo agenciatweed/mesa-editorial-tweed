@@ -10,7 +10,7 @@ Felipe autorizou processar as etapas salvas no painel, gerar conteúdo pelo GPT,
 
 1. Confira Git dos dois repositórios. Preserve edições concorrentes; não fazer stash/reset/force push nem alterar configurações globais de segurança. No pai, use `git -c safe.directory=H:/TweedMD` por comando se necessário. Concilie divergência remota antes de enviar, sem perder trabalho.
 2. Execute `node scripts/worker.mjs sync` na pasta do painel. Esse comando cria/reconcilia jobs das etapas submetidas (`workflowVersion:2`, `submitted:true`) e devolve pending/running. Não submeta itens por conta própria. Sem mudanças ou trabalho, encerre em silêncio e sem commit vazio. Para uma segunda leitura sem gravações, use `worker.mjs list`.
-3. Para um job pending de redigir/revisar, use `node scripts/worker.mjs claim ID`. Para um job running, retome somente aquele pedido e verifique resultados locais existentes; não gere trabalhadores duplicados. Os helpers comparam o conteúdo de entrada e impedem uma resposta obsoleta de sobrescrever edições humanas. Falhas não são reenviadas indefinidamente: o usuário pode pedir nova tentativa no painel.
+3. Para um job pending de redigir/revisar/prompt, use `node scripts/worker.mjs claim ID`. Para um job running, retome somente aquele pedido e verifique resultados locais existentes; não gere trabalhadores duplicados. Os helpers comparam o conteúdo de entrada e impedem uma resposta obsoleta de sobrescrever edições humanas. Falhas não são reenviadas indefinidamente: o usuário pode pedir nova tentativa no painel.
 
 ## Pauta → redação automática → coluna Redação
 
@@ -21,6 +21,12 @@ Para `action:redigir`, leia o briefing, direção editorial e conteúdo público
 Salve `.local/resultados/ID.json` com strings `body` (Markdown sem H1 repetido e sem seção FAQ), `sources` (links verificados e notas) e `prompt` (prompt Midjourney em inglês, somente o parâmetro --ar 3:2). O GPT desta rodada é o gerador, sem chave de API no navegador.
 
 Execute `node scripts/worker.mjs complete ID .local/resultados/ID.json`. O helper salva os arquivos e move para **Redação**, com luz verde. Pare nessa etapa: Felipe editará texto/prompt e usará Salvar redação para avançar. Não envie automaticamente para Revisão.
+
+## Redação sem prompt → completar apenas o prompt da capa
+
+Toda rodada também identifica posts em Redação com corpo preenchido e prompt vazio, inclusive os rascunhos anteriores ao fluxo versão 2. Felipe autorizou expressamente completar esses prompts sem exigir Salvar pauta novamente. Não preencher prompts de posts vazios, não reescrever a redação, não substituir prompts já preenchidos e não avançar o post para Revisão.
+
+Para `action:prompt`, leia o artigo completo e o briefing. Crie pelo GPT um único prompt Midjourney em inglês, com uma metáfora visual concreta alinhada à tese e sem texto/logos legíveis, terminando apenas com `--ar 3:2`, sem outros parâmetros. Salve `.local/resultados/ID.json` com a string `prompt` e use `worker.mjs complete ID arquivo.json`. O helper grava apenas o prompt e o status da automação; preserva corpo, Markdown, briefing, título, metadados SEO e a coluna Redação. Se o texto ou o prompt mudar durante o trabalho, a entrega fica obsoleta e não pode sobrescrever a edição humana. A luz fica verde depois de preencher.
 
 ## Revisão → metadados automáticos → permanece em Revisão
 

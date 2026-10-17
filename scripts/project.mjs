@@ -7,6 +7,7 @@ export const canonical='https://www.agenciatweed.com.br';
 export const digest=value=>createHash('sha256').update(typeof value==='string'||Buffer.isBuffer(value)?value:JSON.stringify(value)).digest('hex');
 export const snapshot=i=>digest(Object.fromEntries(Object.entries(i).filter(([k])=>!['automation','publication'].includes(k))));
 export const workKey=(i,action)=>action==='publicar'?snapshot(i):digest((action==='redigir'?['title','edition','expert','angle','audience','goal']:['title','edition','expert','angle','audience','goal','body','sources','prompt']).map(k=>i[k]??''));
+export const phaseFor=action=>({redigir:'Pauta',prompt:'Redação',revisar:'Revisão',publicar:'Pronto'}[action]);
 export const published=i=>i.publication?.state==='published';
 export const reviewReady=i=>i.automation?.reviewKey===workKey(i,'revisar')&&['keyword','slug','meta'].every(k=>typeof i[k]==='string'&&i[k].trim())&&/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(i.slug);
 export async function json(file,fallback){try{return JSON.parse(await readFile(path.join(root,file),'utf8'))}catch(e){if(e.code==='ENOENT'&&fallback!==undefined)return fallback;throw e}}
@@ -22,13 +23,13 @@ export function articleText(i){return '# '+i.title+'\n\n'+(i.body||'')+'\n'}
 export async function saveContent(doc){for(const i of doc.items){const dir=path.join(root,'conteudos',i.id);await mkdir(dir,{recursive:true});await writeFile(path.join(dir,'artigo.md'),articleText(i));await writeFile(path.join(dir,'briefing.txt'),'TÍTULO: '+i.title+'\nEDITORIA: '+i.edition+'\nÂNGULO: '+(i.angle||'')+'\nLEITOR: '+(i.audience||'')+'\nOBJETIVO: '+(i.goal||'')+'\n\nConsultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.\n');await atomic('conteudos/'+i.id+'/metadados.json',i);}await atomic('editorial/pautas.json',doc)}
 export async function enqueue(queue,item,action){if(queue.jobs.some(j=>j.itemId===item.id&&['pending','running'].includes(j.state)))throw Error('Esta pauta já tem uma solicitação pendente.');const job={id:randomUUID(),itemId:item.id,action,state:'pending',workKey:workKey(item,action),snapshot:snapshot(item),input:structuredClone(item),createdAt:new Date().toISOString()};queue.jobs.push(job);return job}
 export async function reconcile(doc,queue,{retryId}={}){
- for(const job of queue.jobs.filter(j=>['pending','running'].includes(j.state))){const i=doc.items.find(i=>i.id===job.itemId);const phase=job.action==='redigir'?'Pauta':job.action==='revisar'?'Revisão':'Pronto';if(!i||published(i)||i.status!==phase||workKey(i,job.action)!==(job.workKey||job.snapshot)){job.state='cancelled';job.message='Etapa ou conteúdo mudou; solicitação substituída.';}}
- for(const i of doc.items){if(published(i)||!i.submitted||i.workflowVersion!==2)continue;let action=i.status==='Pauta'?'redigir':i.status==='Revisão'&&!reviewReady(i)?'revisar':i.status==='Pronto'?'publicar':null;
+ for(const job of queue.jobs.filter(j=>['pending','running'].includes(j.state))){const i=doc.items.find(i=>i.id===job.itemId);const phase=phaseFor(job.action);if(!i||published(i)||i.status!==phase||workKey(i,job.action)!==(job.workKey||job.snapshot)){job.state='cancelled';job.message='Etapa ou conteúdo mudou; solicitação substituída.';}}
+ for(const i of doc.items){const needsPrompt=i.status==='Redação'&&!!i.body?.trim()&&!i.prompt?.trim();if(published(i)||(!needsPrompt&&(!i.submitted||i.workflowVersion!==2)))continue;let action=needsPrompt?'prompt':i.status==='Pauta'?'redigir':i.status==='Revisão'&&!reviewReady(i)?'revisar':i.status==='Pronto'?'publicar':null;
   if(i.status==='Revisão'&&reviewReady(i)){i.automation={...i.automation,stage:i.status,state:'done'};continue}
   if(!action)continue;
   if(action==='publicar')ready(i);
   const key=workKey(i,action);const same=queue.jobs.filter(j=>j.itemId===i.id&&j.action===action&&(j.workKey||j.snapshot)===key&&j.state!=='cancelled').at(-1);
-  if(same&&(['pending','running'].includes(same.state)||(same.state==='done'&&action!=='revisar')))continue;
+  if(same&&(['pending','running'].includes(same.state)||(same.state==='done'&&!['revisar','prompt'].includes(action))))continue;
   if(same?.state==='failed'&&retryId!==i.id)continue;
   await enqueue(queue,i,action);if(action!=='publicar')i.automation={...i.automation,stage:i.status,state:'pending'};
  }
