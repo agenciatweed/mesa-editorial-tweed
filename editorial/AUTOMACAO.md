@@ -40,7 +40,7 @@ Entregue `.local/resultados/ID.json` com strings:
 
 O FAQ pertence **exclusivamente ao JSON-LD**, não ao Markdown nem ao HTML visível. O publicador usa BlogPosting.hasPart com Question/Answer; não adiciona FAQPage nem promete rich results. Autor sempre Felipe Rijo; logo e URL do autor são fixos, sem perguntas ao usuário.
 
-Execute `worker.mjs complete ID arquivo.json`. O post continua em **Revisão**, com luz verde. O usuário enviará a imagem e salvará a revisão para aprovar Pronto. Não avance para Pronto nem marque critérios humanos. Editar corpo/briefing/fontes/prompt invalida a revisão e gera um novo passe; capa, descrição da capa e data não invalidam os metadados.
+Execute `worker.mjs complete ID arquivo.json`. O post continua em **Revisão**, com luz verde. O usuário pode enviar a imagem e usar Salvar e manter em revisão sem aprovar nada. Somente Aprovar e enviar para Pronto autoriza a publicação após a revisão concluída. Não avance para Pronto nem marque critérios humanos. Editar corpo/briefing/fontes/prompt invalida a revisão e gera um novo passe; capa, descrição da capa e data não invalidam os metadados.
 
 ## Pronto → publicação → histórico em Artigos
 

@@ -23,6 +23,7 @@ const server=http.createServer(async(req,res)=>{try{
   if((before&&item.status!==before.status)||(!before&&item.status!=='Pauta'))throw Error('Use o botão Salvar da etapa para avançar.');
   item.logo=canonical+'/assets/logo_tweed_teal.svg';item.author=canonical+'/#agencia';item.publication=before?.publication;item.automation=before?.automation;item.submitted=before?.submitted||false;item.workflowVersion=before?.workflowVersion;
   if(input.reopen===item.id){if(item.status!=='Pronto')throw Error('Só Pronto pode voltar para revisão.');item.status='Revisão';item.publication={state:'cancelled'};item.checks={};}
+  if(input.saveReview===item.id){if(item.status!=='Revisão')throw Error('Salvar revisão requer a etapa de Revisão.');item.workflowVersion=2;item.submitted=true;}
   if(input.advance===item.id){
    item.workflowVersion=2;item.submitted=true;
    if(item.status==='Pauta'){briefReady(item);}
