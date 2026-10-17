@@ -259,6 +259,80 @@
       "createdAt": "2026-10-17T17:04:10.719Z",
       "startedAt": "2026-10-17T17:06:06.577Z",
       "completedAt": "2026-10-17T17:08:32.212Z"
+    },
+    {
+      "id": "3ab3edcc-a111-4257-ad3c-e616b7121224",
+      "itemId": "a2",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "ac57da0bce4a7acd3136bc37bf2836a9e4259c39ee7867e3733b3b41dbe56dc1",
+      "snapshot": "f0f93620d6d757273a93d5bcd4074281c5a049b82acb221a05d07c4f2a01d4d6",
+      "input": {
+        "id": "a2",
+        "title": "Seu cliente pede desconto ou pede uma razão para confiar?",
+        "edition": 1,
+        "status": "Revisão",
+        "angle": "Explorar como clareza da oferta e sinais de confiança participam da percepção de valor. Evitar atribuir toda negociação a um viés.",
+        "expert": "Lorenzo",
+        "voiceVersion": 2,
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "submitted": true,
+        "audience": "Donos de empresas, gestores comerciais e responsáveis por marketing que enfrentam pedidos frequentes de desconto, comparação de preços ou dificuldade para defender o valor da própria oferta.",
+        "goal": "Sair da ideia de que todo pedido de desconto significa preço alto, crise ou falta de dinheiro e perceber que, muitas vezes, a negociação revela uma proposta de valor pouco clara, diferenciação insuficiente ou falta de sinais que reduzam o risco percebido pelo cliente.",
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "5f444f67-22a4-4feb-b068-363a0504eac5",
+          "completedAt": "2026-10-17T17:08:31.913Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "workflowVersion": 2,
+        "body": "O pedido de desconto chega e a conversa muda de assunto. Até ali, você apresentava uma solução. Agora, precisa defender um número. Antes de reduzir o preço, vale entender o que ficou sem resposta na proposta de valor.\n\nÀs vezes, o orçamento realmente não cabe. Em outras situações, negociar faz parte do processo de compras. Mas também existe o cliente que não consegue explicar por que deveria escolher sua empresa, nem o que estaria colocando em risco ao contratar uma alternativa aparentemente equivalente.\n\nEssas situações pedem respostas diferentes. Tratar todas como resistência ao preço pode levar a concessões que reduzem a margem sem esclarecer a decisão.\n\n## Primeiro, descubra o que está sendo comparado\n\nImagine uma consultoria que apresenta uma proposta para reorganizar a operação comercial de uma empresa. É um exemplo hipotético. O documento lista diagnóstico, reuniões, relatório e acompanhamento. O comprador recebe outra proposta com uma lista parecida e um valor menor.\n\nA diferença entre as duas consultorias pode ser importante. Uma talvez envolva profissionais mais experientes, investigue a rotina da equipe e acompanhe a implementação. Mas nada disso fica evidente se a proposta descreve apenas os nomes das etapas.\n\nO comprador compara o que consegue enxergar. Se as duas ofertas parecem entregar reuniões e documentos, o preço se torna um critério concreto para decidir.\n\nA primeira pergunta útil é simples: “Quando você compara as propostas, quais diferenças considera relevantes?”. A resposta ajuda a perceber se existe uma limitação de verba, uma comparação de escopos ou uma dificuldade para reconhecer valor.\n\n## Confiança precisa aparecer na oferta\n\nDizer que sua empresa tem qualidade não esclarece como ela trabalha. “Atendimento personalizado” também pode significar coisas muito diferentes para quem vende e para quem compra.\n\nNo exemplo da consultoria, a proposta poderia explicar quem participa do diagnóstico, quais decisões serão tomadas junto à liderança e como as recomendações serão acompanhadas. Poderia delimitar o que depende do cliente e o que está fora do escopo. São informações que tornam a contratação mais compreensível, sem prometer um resultado que ninguém controla sozinho.\n\nOs sinais de confiança precisam ser verdadeiros e pertinentes à dúvida do comprador. Um caso autorizado pode mostrar experiência com um problema semelhante. Uma descrição clara do processo pode explicar como a empresa lida com incertezas. A identificação dos responsáveis pode esclarecer a senioridade disponível.\n\nAcumular selos, depoimentos e nomes sem relação com a contratação não substitui essa clareza. A pergunta é qual informação falta para o cliente avaliar a escolha.\n\n## Diferenciação também exige escolhas\n\nSe a oferta tenta atender qualquer empresa, resolver qualquer problema e caber em qualquer orçamento, fica difícil explicar por que ela custa o que custa.\n\nUma proposta de valor ganha precisão quando mostra para quem o trabalho faz sentido, qual problema ele enfrenta e quais condições são necessárias para entregar bem. Isso pode incluir reconhecer que a empresa não é a melhor alternativa para determinada demanda.\n\nEssa conversa também protege o cliente. Se ele precisa apenas de uma execução pontual e recebe uma proposta de acompanhamento estratégico, talvez a diferença esteja no que está sendo contratado. Defender o preço sem revisar essa adequação só prolonga o desencontro.\n\n## Negociar com critério preserva a relação\n\nEntender a objeção não significa que o cliente aceitará o valor. Você ainda pode perder a negociação. O ganho está em decidir com mais informação.\n\nSe o limite é financeiro, vale avaliar um escopo menor ou uma execução por etapas, desde que isso preserve a utilidade do trabalho. Se faltam evidências, apresente o que pode ser comprovado. Se as ofertas são equivalentes para aquela necessidade, talvez o preço realmente seja decisivo.\n\nAntes de conceder um desconto, experimente perguntar o que precisaria mudar para a proposta fazer sentido. Evite transformar a pergunta em uma técnica para pressionar o fechamento. Use a resposta para rever escopo, explicação ou adequação.\n\nNa Tweed, essa leitura aproxima branding e conversa comercial: a percepção de valor precisa ser sustentada pela oferta, pela apresentação e pela forma de trabalhar. Quando esses elementos se conectam, a empresa tem argumentos concretos para explicar seu investimento, mesmo quando a resposta do comprador continua sendo não.",
+        "sources": "",
+        "prompt": "Conceptual editorial still life of two unmarked proposal folders on a dark navy desk, one folder open revealing a precisely crafted brass structure with visible joints and supporting elements, the other closed and visually ambiguous, a small teal light illuminating the construction details, sophisticated tactile materials, restrained composition, dramatic side lighting, realistic studio photography, generous negative space, no writing, no typography, no logos --ar 3:2",
+        "checks": {}
+      },
+      "createdAt": "2026-10-17T17:10:54.071Z",
+      "startedAt": "2026-10-17T17:12:22.943Z",
+      "completedAt": "2026-10-17T17:12:51.729Z"
+    },
+    {
+      "id": "a751f6d9-3742-49df-801f-c32ca718ed6f",
+      "itemId": "a3",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "42b098ece0562673c128e285bdb10c20e950127661d936aa28dc3ae4154bf017",
+      "snapshot": "95af4d5bd0600c515124fc2a16338878d812df017a5df05f95725e7ec0a6773c",
+      "input": {
+        "id": "a3",
+        "title": "O atendimento está desmentindo o seu posicionamento?",
+        "edition": 3,
+        "status": "Revisão",
+        "angle": "Conectar promessa de marca, experiência e detalhes de atendimento, usando um exemplo hipotético.",
+        "expert": "Lorenzo",
+        "voiceVersion": 2,
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "submitted": true,
+        "audience": "Donos de empresas, gestores de marca, marketing, vendas e atendimento de negócios que prometem proximidade, agilidade, excelência ou experiência premium, mas não sabem se essa promessa aparece na rotina do cliente.",
+        "goal": "Deixar de enxergar posicionamento como algo definido apenas por identidade visual, campanha ou discurso e perceber que a marca também é construída pelo comportamento da empresa em cada contato com o cliente.",
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "8b249f3b-b37a-4554-a1c2-9fa7efaa3909",
+          "completedAt": "2026-10-17T17:08:31.985Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "workflowVersion": 2,
+        "body": "Sua empresa promete proximidade. O cliente entra em contato, explica o problema e recebe uma resposta que poderia ter sido enviada a qualquer pessoa. Depois, precisa repetir tudo para outro atendente. O atendimento acaba de dar uma definição de posicionamento mais concreta que a campanha.\n\nÉ nessa rotina que palavras como cuidado, agilidade e excelência precisam ganhar forma. O cliente pode conhecer a promessa no site, mas avalia o que ela significa quando precisa de uma informação, encontra um imprevisto ou recebe uma negativa.\n\nRever essa experiência exige observar o que a empresa permite que sua equipe faça, quais informações circulam e quem responde por resolver cada situação.\n\n## A promessa precisa virar uma conduta possível\n\nConsidere um exemplo hipotético: uma empresa de serviços se apresenta como uma parceira próxima. O site destaca acompanhamento e atenção aos detalhes. Depois da contratação, porém, o cliente não sabe quem procurar. Cada solicitação passa por pessoas diferentes, sem histórico compartilhado.\n\nA equipe pode estar se esforçando. O problema é que o funcionamento da empresa dificulta a proximidade prometida. Pedir mais simpatia aos atendentes não define um responsável, não organiza o histórico e não esclarece o próximo passo.\n\nPara essa empresa, traduzir o posicionamento poderia começar por algo operacional: cada cliente conhecer seu ponto de contato, cada solicitação ter um responsável e cada encaminhamento informar o que vai acontecer a seguir. A promessa se torna uma condição de trabalho verificável.\n\nO mesmo raciocínio vale para outras escolhas. Agilidade precisa de prioridades e prazos possíveis. Atendimento consultivo exige acesso a contexto e tempo para compreender a demanda. Uma experiência premium precisa deixar claro em que consiste o cuidado adicional.\n\n## Observe os momentos em que a rotina aperta\n\nÉ relativamente fácil parecer atencioso quando tudo corre como previsto. Vale examinar também uma dúvida difícil, uma cobrança contestada, uma mudança de prazo ou um pedido fora do escopo.\n\nUma resposta honesta pode preservar a postura da marca mesmo quando a empresa precisa dizer não. No exemplo anterior, informar o limite do serviço, explicar as alternativas disponíveis e assumir o próximo encaminhamento seria coerente com uma relação próxima. Prometer uma exceção que a operação não consegue cumprir criaria outra frustração.\n\nEscolha alguns contatos recentes e autorizados para análise interna, preservando os dados pessoais. Observe o que foi perguntado, qual resposta foi dada e quanto esforço adicional o cliente precisou fazer. Procure diferenças entre canais e momentos da relação. Uma mensagem cordial pode esconder uma orientação incompleta.\n\n## A equipe precisa de critérios, contexto e autonomia\n\nUm manual de frases ajuda a padronizar termos, mas não resolve toda situação. Se a pessoa não sabe o histórico do cliente ou precisa pedir autorização para qualquer encaminhamento, o atendimento fica limitado pelo processo.\n\nDefina quais decisões podem ser tomadas diretamente, quais exigem consulta e quem deve responder quando há um impasse. Esclareça também o que não pode ser prometido. Autonomia sem limites pode criar compromissos inviáveis; limites sem alternativas podem deixar a equipe sem uma resposta útil.\n\nDepois, use exemplos para discutir a aplicação. Como a marca responde a um atraso que causou? Como explica uma cobrança correta que o cliente não entendeu? Como recusa uma demanda sem abandonar a conversa? São situações mais úteis para orientar comportamento do que uma lista isolada de adjetivos.\n\n## Corrija uma contradição por vez\n\nNão é necessário redesenhar toda a operação para começar. Escolha uma promessa importante e um ponto de contato em que ela esteja falhando. Identifique a causa que a empresa consegue tratar e defina quem acompanhará a mudança.\n\nSe o cliente precisa repetir informações, reveja o compartilhamento do histórico. Se fica sem saber o andamento, organize as atualizações. Se recebe respostas contraditórias, esclareça os critérios antes de revisar o tom das mensagens.\n\nAcompanhe se a mudança aconteceu na prática. O objetivo inicial pode ser tão concreto quanto garantir que toda transferência de atendimento leve o contexto necessário e um responsável definido.\n\nNa Tweed, olhar para a experiência faz parte de discutir marca. O posicionamento orienta a comunicação, mas também precisa ajudar a empresa a escolher como age. Uma boa pergunta para a próxima revisão é: se o cliente conhecesse apenas o nosso atendimento, que promessa ele diria que fazemos?",
+        "sources": "",
+        "prompt": "Conceptual editorial photograph of a refined dark navy doorway reflected in a mirror, the doorway promises a carefully lit teal pathway but the reflection reveals an interrupted path of misaligned stone tiles, subtle visual tension between invitation and actual experience, architectural miniature with realistic materials, precise composition, soft cinematic side light, sophisticated understated atmosphere, no people, no writing, no typography, no logos --ar 3:2",
+        "checks": {}
+      },
+      "createdAt": "2026-10-17T17:11:26.728Z",
+      "startedAt": "2026-10-17T17:12:23.003Z",
+      "completedAt": "2026-10-17T17:12:51.799Z"
     }
   ]
 }

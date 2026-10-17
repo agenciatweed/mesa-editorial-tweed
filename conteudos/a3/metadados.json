@@ -2,7 +2,7 @@
   "id": "a3",
   "title": "O atendimento está desmentindo o seu posicionamento?",
   "edition": 3,
-  "status": "Redação",
+  "status": "Revisão",
   "angle": "Conectar promessa de marca, experiência e detalhes de atendimento, usando um exemplo hipotético.",
   "expert": "Lorenzo",
   "voiceVersion": 2,
@@ -12,15 +12,28 @@
   "audience": "Donos de empresas, gestores de marca, marketing, vendas e atendimento de negócios que prometem proximidade, agilidade, excelência ou experiência premium, mas não sabem se essa promessa aparece na rotina do cliente.",
   "goal": "Deixar de enxergar posicionamento como algo definido apenas por identidade visual, campanha ou discurso e perceber que a marca também é construída pelo comportamento da empresa em cada contato com o cliente.",
   "automation": {
-    "stage": "Redação",
+    "stage": "Revisão",
     "state": "done",
-    "lastJob": "8b249f3b-b37a-4554-a1c2-9fa7efaa3909",
-    "completedAt": "2026-10-17T17:08:31.985Z",
-    "message": "Redação e prompt prontos para edição."
+    "lastJob": "a751f6d9-3742-49df-801f-c32ca718ed6f",
+    "completedAt": "2026-10-17T17:12:51.786Z",
+    "message": "SEO revisado; envie a capa e aprove.",
+    "reviewKey": "42b098ece0562673c128e285bdb10c20e950127661d936aa28dc3ae4154bf017"
   },
   "workflowVersion": 2,
   "body": "Sua empresa promete proximidade. O cliente entra em contato, explica o problema e recebe uma resposta que poderia ter sido enviada a qualquer pessoa. Depois, precisa repetir tudo para outro atendente. O atendimento acaba de dar uma definição de posicionamento mais concreta que a campanha.\n\nÉ nessa rotina que palavras como cuidado, agilidade e excelência precisam ganhar forma. O cliente pode conhecer a promessa no site, mas avalia o que ela significa quando precisa de uma informação, encontra um imprevisto ou recebe uma negativa.\n\nRever essa experiência exige observar o que a empresa permite que sua equipe faça, quais informações circulam e quem responde por resolver cada situação.\n\n## A promessa precisa virar uma conduta possível\n\nConsidere um exemplo hipotético: uma empresa de serviços se apresenta como uma parceira próxima. O site destaca acompanhamento e atenção aos detalhes. Depois da contratação, porém, o cliente não sabe quem procurar. Cada solicitação passa por pessoas diferentes, sem histórico compartilhado.\n\nA equipe pode estar se esforçando. O problema é que o funcionamento da empresa dificulta a proximidade prometida. Pedir mais simpatia aos atendentes não define um responsável, não organiza o histórico e não esclarece o próximo passo.\n\nPara essa empresa, traduzir o posicionamento poderia começar por algo operacional: cada cliente conhecer seu ponto de contato, cada solicitação ter um responsável e cada encaminhamento informar o que vai acontecer a seguir. A promessa se torna uma condição de trabalho verificável.\n\nO mesmo raciocínio vale para outras escolhas. Agilidade precisa de prioridades e prazos possíveis. Atendimento consultivo exige acesso a contexto e tempo para compreender a demanda. Uma experiência premium precisa deixar claro em que consiste o cuidado adicional.\n\n## Observe os momentos em que a rotina aperta\n\nÉ relativamente fácil parecer atencioso quando tudo corre como previsto. Vale examinar também uma dúvida difícil, uma cobrança contestada, uma mudança de prazo ou um pedido fora do escopo.\n\nUma resposta honesta pode preservar a postura da marca mesmo quando a empresa precisa dizer não. No exemplo anterior, informar o limite do serviço, explicar as alternativas disponíveis e assumir o próximo encaminhamento seria coerente com uma relação próxima. Prometer uma exceção que a operação não consegue cumprir criaria outra frustração.\n\nEscolha alguns contatos recentes e autorizados para análise interna, preservando os dados pessoais. Observe o que foi perguntado, qual resposta foi dada e quanto esforço adicional o cliente precisou fazer. Procure diferenças entre canais e momentos da relação. Uma mensagem cordial pode esconder uma orientação incompleta.\n\n## A equipe precisa de critérios, contexto e autonomia\n\nUm manual de frases ajuda a padronizar termos, mas não resolve toda situação. Se a pessoa não sabe o histórico do cliente ou precisa pedir autorização para qualquer encaminhamento, o atendimento fica limitado pelo processo.\n\nDefina quais decisões podem ser tomadas diretamente, quais exigem consulta e quem deve responder quando há um impasse. Esclareça também o que não pode ser prometido. Autonomia sem limites pode criar compromissos inviáveis; limites sem alternativas podem deixar a equipe sem uma resposta útil.\n\nDepois, use exemplos para discutir a aplicação. Como a marca responde a um atraso que causou? Como explica uma cobrança correta que o cliente não entendeu? Como recusa uma demanda sem abandonar a conversa? São situações mais úteis para orientar comportamento do que uma lista isolada de adjetivos.\n\n## Corrija uma contradição por vez\n\nNão é necessário redesenhar toda a operação para começar. Escolha uma promessa importante e um ponto de contato em que ela esteja falhando. Identifique a causa que a empresa consegue tratar e defina quem acompanhará a mudança.\n\nSe o cliente precisa repetir informações, reveja o compartilhamento do histórico. Se fica sem saber o andamento, organize as atualizações. Se recebe respostas contraditórias, esclareça os critérios antes de revisar o tom das mensagens.\n\nAcompanhe se a mudança aconteceu na prática. O objetivo inicial pode ser tão concreto quanto garantir que toda transferência de atendimento leve o contexto necessário e um responsável definido.\n\nNa Tweed, olhar para a experiência faz parte de discutir marca. O posicionamento orienta a comunicação, mas também precisa ajudar a empresa a escolher como age. Uma boa pergunta para a próxima revisão é: se o cliente conhecesse apenas o nosso atendimento, que promessa ele diria que fazemos?",
   "sources": "",
   "prompt": "Conceptual editorial photograph of a refined dark navy doorway reflected in a mirror, the doorway promises a carefully lit teal pathway but the reflection reveals an interrupted path of misaligned stone tiles, subtle visual tension between invitation and actual experience, architectural miniature with realistic materials, precise composition, soft cinematic side light, sophisticated understated atmosphere, no people, no writing, no typography, no logos --ar 3:2",
-  "checks": {}
+  "checks": {},
+  "keyword": "posicionamento",
+  "slug": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+  "meta": "Seu posicionamento aparece no atendimento? Veja como traduzir promessas de marca em critérios, responsabilidades e condutas possíveis para a equipe.",
+  "date": "",
+  "imageAlt": "",
+  "imageFile": "conteudos/a3/imagens/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_a_refined_36a0e4d0-0cd3-427c-aaa4-ca1096628231_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/9cdabccfc84986356664688de941a2d50a367fc6f39763d5e8a1721f6cbb4eb3.png",
+  "faq": "Como o atendimento expressa o posicionamento da marca?\nPela maneira como orienta, resolve dúvidas, comunica limites e acompanha solicitações. Esses comportamentos precisam ser coerentes com a promessa da empresa.\n\nUm manual de frases resolve a experiência de atendimento?\nNão sozinho. A equipe também precisa de contexto, histórico, responsabilidades claras e critérios sobre quais decisões pode tomar e quando deve consultar outra pessoa.\n\nPor onde começar a corrigir contradições no atendimento?\nEscolha uma promessa importante e um ponto de contato em que ela esteja falhando. Identifique a causa, defina um responsável pela mudança e acompanhe sua aplicação na prática.",
+  "url": "https://www.agenciatweed.com.br/o-atendimento-esta-desmentindo-o-seu-posicionamento/"
 }
