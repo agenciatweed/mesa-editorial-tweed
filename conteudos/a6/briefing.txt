@@ -1,0 +1,26 @@
+Crie um artigo para o blog da Agência Tweed com os plugins Lorenzo Vidal - Branding e Marketing e Mauro Castelan - Comportamento do Consumidor selecionados nesta conversa.
+
+TÍTULO DE TRABALHO: Personalidade de marca aparece nas escolhas pequenas
+EDITORIA: Marcas com Alma
+ÂNGULO: Tratar personalidade como consistência de comportamento e linguagem, evitando testes de arquétipos como diagnóstico científico.
+LEITOR: undefined
+MUDANÇA DE PERCEPÇÃO: Defina uma mudança específica antes de redigir.
+VOZ PRINCIPAL: Mauro.
+DESCRIÇÃO OFICIAL DA SÉRIE: Toda marca que se conecta de verdade tem algo em comum: uma essência clara. Na série Marcas com Alma, mergulhamos no universo dos arquétipos, da personalidade e da influência emocional para mostrar como empresas — especialmente as menores — podem criar conexões profundas, autênticas e memoráveis com seu público. Porque antes de ser lembrada, uma marca precisa ser sentida — e seguida, por afinidade, desejo e identificação.
+DIREÇÃO DA COLABORAÇÃO: Afinidade, identificação e influência emocional conduzem a análise. Lorenzo traduz essa leitura em personalidade e posicionamento. Arquétipos são uma lente de criação, sem valor de diagnóstico científico.
+A voz principal conduz tese, encadeamento e estilo; o segundo olhar complementa sem disputar a narrativa.
+
+CONTEXTO: A Tweed é uma agência boutique full-service que integra estratégia, branding, design, conteúdo, websites e execução. O valor está em dar direção e resolver a comunicação de forma coerente, reduzindo a necessidade de coordenação pelo gestor. Não prometer escopo ilimitado, disponibilidade 24/7 ou resultados garantidos.
+
+DIREÇÃO: Lorenzo conecta o argumento a branding, posicionamento e desafios de PMEs; Mauro examina percepção de valor, confiança e decisão, quando o tema justificar. Não force vieses cognitivos em todo assunto. Comece por uma pergunta concreta de negócio, desenvolva uma tese, exemplos e aplicações práticas. Não use seções intituladas Introdução ou Conclusão. Prefira 900 a 1.400 palavras quando a tese sustentar essa extensão, sem enchimento.
+
+VOZ: Português brasileiro natural, autoridade sem arrogância, exigência, repertório e generosidade. Ensine o porquê. Sem travessões, emojis, frases genéricas ou jargão ornamental. O decisor nunca deve ser o vilão. Não transformar características pessoais do Felipe em assunto.
+
+EVIDÊNCIA: Pesquise fontes primárias para estudos, estatísticas, citações e casos reais. Forneça links e identifique o que é fato, interpretação e recomendação. Não invente dados. Citações de livros exigem acesso ao trecho e menção a autor e obra. Os livros dos plugins não estão automaticamente disponíveis. Exemplos hipotéticos devem ser identificados. Respeite limites da evidência comportamental. Não usar documentos internos, dados comerciais ou histórias identificáveis de clientes.
+
+ENTREGA: Artigo completo em Markdown; frase-chave de foco presente na abertura; título SEO e slug sugeridos; metadescrição com a frase-chave; fontes verificadas; até 3 FAQs com respostas úteis; prompt visual em inglês, proporção 3:2, usando apenas o parâmetro --ar 3:2.
+
+NOTAS E FONTES DA PAUTA:
+Ainda não pesquisadas.
+
+Ao final, se faltarem, solicite a data de publicação e a URL da capa. Prepare JSON-LD apenas com metadados reais e FAQs visíveis no artigo. Autor: Felipe Rijo. Confirme as URLs antes de concluir.

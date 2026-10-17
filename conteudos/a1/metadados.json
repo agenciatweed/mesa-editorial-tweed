@@ -1,0 +1,28 @@
+{
+  "id": "a1",
+  "title": "O custo invisível de coordenar o próprio marketing",
+  "edition": "Pequeno, mas Estratégico",
+  "editionId": 0,
+  "lead": "Lorenzo",
+  "support": "Mauro",
+  "status": "Redação",
+  "keyword": "integração do marketing",
+  "slug": "o-custo-invisivel-de-coordenar-o-proprio-marketing",
+  "description": "A integração do marketing exige direção. Entenda o custo de coordenar fornecedores e o que avaliar em uma parceria integrada.",
+  "datePublished": null,
+  "url": null,
+  "image": {
+    "url": null,
+    "width": 1344,
+    "height": 896
+  },
+  "author": {
+    "name": "Felipe Rijo",
+    "url": "https://www.agenciatweed.com.br/#agencia"
+  },
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "sources": "Ensaio de análise da Tweed. Exemplo explicitamente hipotético; sem estatísticas ou cases de clientes.",
+  "imagePrompt": "",
+  "faq": [],
+  "review": {}
+}

@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "order": [
+    0,
+    5,
+    1,
+    2,
+    3,
+    4
+  ],
+  "editorias": [
+    {
+      "name": "Pequeno, mas Estratégico",
+      "series": "Pequeno, mas Estratégico",
+      "desc": "Mesmo com recursos limitados, decisões bem direcionadas fazem toda a diferença. Na série Pequeno, mas Estratégico, exploramos como pequenas e médias empresas podem atingir seus objetivos de marketing com foco, consistência e inteligência aplicada. Compartilhamos provocações práticas, aprendizados da ciência do comportamento e novas formas de enxergar os desafios do dia a dia empresarial.",
+      "lens": "O que precisa mudar no negócio?",
+      "expert": "Lorenzo",
+      "support": "Mauro",
+      "reason": "A decisão estratégica e a aplicação ao negócio conduzem o artigo. Mauro aprofunda os mecanismos de comportamento quando ajudarem a explicar o problema."
+    },
+    {
+      "name": "Marcas que Ficam",
+      "series": "Marcas que Ficam",
+      "desc": "Marca é aquilo que permanece quando a propaganda acaba. Marcas que Ficam é uma série que investiga o que realmente constrói percepção: da promessa feita à experiência entregue, do discurso à estrutura invisível da escolha. Com reflexões, exemplos e provocações, ajudamos empresas a entender que branding não é sobre o que se mostra, mas sobre como se molda o que o público percebe, sente e valoriza.",
+      "lens": "Por que esta marca permanece na percepção do público?",
+      "expert": "Lorenzo",
+      "support": "Mauro",
+      "reason": "Branding e construção de percepção são o eixo. Mauro contribui para entender memória, escolha e valor percebido, sem reduzir marca a uma sequência de vieses."
+    },
+    {
+      "name": "Branding na Marra",
+      "series": "Branding na Marra",
+      "desc": "Quem disse que marca forte precisa de verba alta? Na série Branding na Marra, mostramos como criatividade, consistência e estratégia comportamental podem construir marcas memoráveis com poucos recursos. Casos reais, insights práticos e soluções acessíveis para quem quer usar psicologia, copy e posicionamento a seu favor — mesmo com o orçamento curto.",
+      "lens": "Que decisão criativa faz os recursos disponíveis renderem mais?",
+      "expert": "Lorenzo",
+      "support": "Mauro",
+      "reason": "Lorenzo conduz criatividade, copy e posicionamento aplicados às restrições da empresa. Mauro avalia as hipóteses comportamentais e seus limites."
+    },
+    {
+      "name": "Marcas em Ação",
+      "series": "Marcas em Ação",
+      "desc": "Branding não vive no manual — vive na prática. Na série Marcas em Ação, exploramos como o dia a dia de uma empresa revela (ou contradiz) sua promessa de marca — e como as decisões comportamentais, tanto do cliente quanto da equipe, moldam essa entrega. Do atendimento ao conteúdo, da cultura interna à experiência do usuário, tudo comunica. E o que sua marca faz fala mais alto do que o que ela diz.",
+      "lens": "A experiência confirma a promessa?",
+      "expert": "Lorenzo",
+      "support": "Mauro",
+      "reason": "A coerência entre posicionamento e entrega organiza a narrativa. Mauro investiga os comportamentos da equipe e dos clientes que sustentam ou contradizem essa experiência."
+    },
+    {
+      "name": "Marcas em Movimento",
+      "series": "Marcas em Movimento",
+      "desc": "Toda marca que cresce tem decisões estratégicas por trás. Na série Marcas em Movimento, analisamos as escolhas, os erros e os acertos de marcas em diferentes estágios. Com comparações, cases e táticas, mostramos como o crescimento é construído — e como pequenas e médias empresas podem aplicar esses caminhos com clareza, estrutura e um posicionamento percebido como valioso de verdade.",
+      "lens": "Quais decisões ajudam a explicar o crescimento?",
+      "expert": "Lorenzo",
+      "support": "Mauro",
+      "reason": "Análise de estratégia, escolhas e posicionamento de marcas conduz os cases. Mauro contribui com hipóteses sobre percepção e decisão, distinguindo associação e causalidade."
+    },
+    {
+      "name": "Marcas com Alma",
+      "series": "Marcas com Alma",
+      "desc": "Toda marca que se conecta de verdade tem algo em comum: uma essência clara. Na série Marcas com Alma, mergulhamos no universo dos arquétipos, da personalidade e da influência emocional para mostrar como empresas — especialmente as menores — podem criar conexões profundas, autênticas e memoráveis com seu público. Porque antes de ser lembrada, uma marca precisa ser sentida — e seguida, por afinidade, desejo e identificação.",
+      "lens": "O que produz afinidade e identificação com a marca?",
+      "expert": "Mauro",
+      "support": "Lorenzo",
+      "reason": "Afinidade, identificação e influência emocional conduzem a análise. Lorenzo traduz essa leitura em personalidade e posicionamento. Arquétipos são uma lente de criação, sem valor de diagnóstico científico."
+    }
+  ]
+}
