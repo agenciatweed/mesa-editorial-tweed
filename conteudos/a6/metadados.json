@@ -2,7 +2,7 @@
   "id": "a6",
   "title": "Personalidade de marca aparece nas escolhas pequenas",
   "edition": 5,
-  "status": "Redação",
+  "status": "Revisão",
   "angle": "Tratar personalidade como consistência de comportamento e linguagem, evitando testes de arquétipos como diagnóstico científico.",
   "expert": "Mauro",
   "voiceVersion": 2,
@@ -12,15 +12,28 @@
   "audience": "Donos de empresas, gestores de marketing e profissionais responsáveis por branding que já definiram personalidade, arquétipos ou tom de voz, mas ainda têm dificuldade para transformar esses conceitos em decisões consistentes no dia a dia.",
   "goal": "Sair da ideia de que personalidade de marca é um rótulo, arquétipo ou estilo de comunicação e perceber que ela se torna reconhecível pela repetição coerente de pequenas escolhas de linguagem, comportamento, design e experiência.",
   "automation": {
-    "stage": "Redação",
+    "stage": "Revisão",
     "state": "done",
-    "lastJob": "09f8b657-fc22-40d3-80dc-ab3c50009529",
-    "completedAt": "2026-10-17T17:08:32.199Z",
-    "message": "Redação e prompt prontos para edição."
+    "lastJob": "d657e5d8-2dc1-4395-865e-765c3ceef673",
+    "completedAt": "2026-10-18T08:22:46.732Z",
+    "message": "SEO revisado; envie a capa e aprove.",
+    "reviewKey": "567451dad2e313a5ec5b9e7be24731dc3fa2808bd15f02405039d298e2b4ace6"
   },
   "workflowVersion": 2,
   "body": "Sua marca foi definida como próxima, segura e curiosa. Essas palavras aparecem no manual, mas a equipe ainda precisa decidir como responder a uma reclamação, escrever uma cobrança e apresentar um serviço novo. É nesse nível que a personalidade de marca começa a ganhar forma.\n\nAdjetivos podem orientar o trabalho. Para serem úteis, precisam ajudar a escolher entre comportamentos possíveis. O que uma marca próxima explica quando precisa recusar um pedido? Como demonstra segurança ao admitir que ainda não tem uma resposta? Onde a curiosidade aparece no atendimento?\n\nTraduzir essas intenções em decisões recorrentes permite avaliar se a personalidade está sendo expressa ou permanece apenas descrita.\n\n## Um adjetivo precisa chegar a uma escolha\n\nImagine uma empresa de serviços que se define como acolhedora e objetiva. É um exemplo hipotético. Na confirmação de uma contratação, ela pode enviar uma mensagem afetuosa, cheia de entusiasmo, mas sem informar os próximos passos. Também pode enviar uma lista de tarefas clara, em um tom distante.\n\nNenhuma dessas opções resolve sozinha a intenção declarada. Uma terceira versão pode agradecer a confiança, explicar o que acontece agora, identificar o responsável e dizer onde esclarecer dúvidas. O acolhimento aparece no cuidado com a situação do cliente; a objetividade aparece na organização das informações.\n\nEsse tipo de discussão aproxima a personalidade da execução. Em vez de perguntar se um texto “está simpático”, a equipe pode avaliar se ele orienta, se respeita o contexto e se oferece um caminho de continuidade.\n\nO mesmo vale para design. Hierarquia, contraste, seleção de imagens e organização dos conteúdos precisam ser avaliados em relação ao que a empresa quer expressar e ao que a pessoa precisa fazer. Uma escolha visual bonita pode estar desalinhada com a experiência pretendida.\n\n## A mesma personalidade pode mudar de tom\n\nUma marca não precisa falar com a mesma intensidade em toda situação. Celebrar uma conquista e explicar um erro pedem posturas diferentes. Insistir no humor em um momento de frustração pode ignorar o problema que o cliente está tentando resolver.\n\nVale definir o que permanece e o que varia. No exemplo, clareza e atenção poderiam ser constantes. O grau de informalidade mudaria conforme o assunto, a relação e a gravidade da situação.\n\nUma cobrança pode ser respeitosa, direta e completa, sem soar como uma mensagem de boas-vindas. Uma negativa pode explicar o limite e as alternativas, sem adotar uma linguagem excessivamente leve. A coerência está nos critérios que orientam a resposta.\n\n## Arquétipos servem como referência de criação\n\nArquétipos podem ajudar uma equipe a conversar sobre repertório, postura e possibilidades de expressão. É importante tratá-los como uma lente interpretativa de criação, não como diagnóstico científico da empresa ou de seus clientes.\n\nEscolher um rótulo não determina uma personalidade pronta. Duas empresas que usam a mesma referência ainda precisam decidir o que defendem, como trabalham e como se relacionam com seu público. Sem essas particularidades, a orientação pode produzir apenas um conjunto de clichês.\n\nSe uma referência ajuda, teste sua utilidade em situações concretas. Que escolha ela esclarece em uma proposta, em uma dúvida de atendimento ou no lançamento de um serviço? Se não ajuda a decidir, talvez seja necessário aprofundar a definição antes de ampliar o vocabulário do manual.\n\n## Crie exemplos que a equipe consiga usar\n\nEscolha alguns pontos de contato importantes: a primeira resposta, uma apresentação comercial, uma explicação de prazo e uma situação de erro. Para cada um, registre a intenção da marca, uma resposta possível e a razão das escolhas.\n\nInclua limites. Se a marca é confiante, explique como evita promessas que não consegue sustentar. Se é próxima, discuta como respeita a privacidade e o espaço do cliente. Se é irreverente, estabeleça quando o humor deve ceder lugar a uma orientação sóbria.\n\nEsses exemplos precisam continuar abertos ao contexto. Copiar uma frase sem compreender o critério pode gerar uma resposta inadequada. A função do material é dar base para o julgamento da equipe.\n\nDepois, compare a orientação com peças e atendimentos reais autorizados. Procure onde as decisões divergem e investigue o motivo: falta de referência, processo que impede a conduta ou definição abstrata demais.\n\nNa Tweed, personalidade faz parte da construção de uma marca que consegue se expressar com coerência. Para começar essa revisão, escolha uma palavra do seu manual e procure as decisões em que ela deveria aparecer. Se for difícil encontrá-las, você já tem uma pergunta concreta para trabalhar.",
   "sources": "",
   "prompt": "Conceptual editorial still life of a series of small handcrafted ceramic objects with different functions sharing the same distinctive curved detail and surface texture, arranged across a dark navy table, subtle teal accent on one object, warm precise side lighting revealing consistent craftsmanship, realistic macro product photography, refined restrained composition, no faces, no writing, no typography, no logos --ar 3:2",
-  "checks": {}
+  "checks": {},
+  "keyword": "personalidade de marca",
+  "slug": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+  "meta": "A personalidade de marca ganha forma nas escolhas de linguagem, design e atendimento. Veja como transformar adjetivos em critérios úteis para a equipe.",
+  "date": "",
+  "imageAlt": "Conjunto de pequenos objetos de cerâmica artesanal com formas diferentes e detalhes curvos semelhantes, dispostos sobre mesa azul-marinho.",
+  "imageFile": "conteudos/a6/imagens/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_still_life_of_a_series__ef84aae0-55ae-48ec-93a8-339fd084b4b7_2.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+  "faq": "Como transformar a personalidade de marca em prática?\nDefina comportamentos e critérios para situações concretas, como responder a dúvidas, apresentar serviços e lidar com erros. Registre exemplos e a razão de cada escolha.\n\nUma marca precisa usar o mesmo tom em toda situação?\nNão. Os critérios podem permanecer coerentes enquanto a intensidade, a informalidade e o humor se adaptam ao contexto e à necessidade do cliente.\n\nArquétipos definem cientificamente a personalidade da marca?\nNão. Podem servir como referências interpretativas de criação, mas não substituem escolhas próprias sobre postura, linguagem, comportamento e experiência.",
+  "url": "https://www.agenciatweed.com.br/personalidade-de-marca-aparece-nas-escolhas-pequenas/"
 }

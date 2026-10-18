@@ -2,7 +2,7 @@
   "id": "a5",
   "title": "Antes de investir em mídia, sua oferta precisa fazer sentido",
   "edition": 4,
-  "status": "Redação",
+  "status": "Revisão",
   "angle": "Discutir o alinhamento entre promessa, página de destino e conversa comercial. Sem prometer causalidade ou retorno garantido.",
   "expert": "Lorenzo",
   "voiceVersion": 2,
@@ -12,15 +12,28 @@
   "audience": "Donos de empresas e gestores de marketing ou vendas que estão pensando em aumentar o investimento em mídia porque os leads, conversões ou vendas estão abaixo do esperado.",
   "goal": "Deixar de tratar mídia paga como solução automática para problemas comerciais e perceber que aumentar distribuição não corrige uma oferta confusa. Antes de escalar o tráfego, é preciso alinhar promessa, proposta de valor, página de destino e conversa comercial.",
   "automation": {
-    "stage": "Redação",
+    "stage": "Revisão",
     "state": "done",
-    "lastJob": "1d96b1e7-a6c0-41e9-a3ba-038c6a061127",
-    "completedAt": "2026-10-17T17:08:32.130Z",
-    "message": "Redação e prompt prontos para edição."
+    "lastJob": "726bfb62-2944-4dca-aa0b-a00fe26085ed",
+    "completedAt": "2026-10-18T08:22:46.613Z",
+    "message": "SEO revisado; envie a capa e aprove.",
+    "reviewKey": "da82f5bb36ddabb6f727d97e78e04c7d13fc9e4104c5517ee47c75302ef67780"
   },
   "workflowVersion": 2,
   "body": "Você considera aumentar o investimento em mídia porque as oportunidades comerciais estão abaixo do esperado. Antes de decidir quanto colocar na campanha, vale acompanhar o caminho que sua oferta faz até o comprador.\n\nO anúncio pode prometer uma coisa, a página explicar outra e a conversa comercial revelar condições que não estavam claras. Nesse percurso, aumentar a distribuição também pode ampliar o contato com uma oferta difícil de entender.\n\nIsso não permite concluir que todo problema de vendas está na proposta de valor. Segmentação, execução da campanha, demanda, concorrência e capacidade comercial também importam. O ponto é verificar a coerência da oferta antes de atribuir o resultado apenas ao volume de tráfego.\n\n## Siga uma promessa do anúncio até a proposta\n\nImagine uma empresa de tecnologia que anuncia uma solução para organizar processos sem complicação. O exemplo é hipotético. Ao clicar, o visitante encontra uma página centrada em funcionalidades, sem entender como a implantação acontece. Na conversa com vendas, descobre que precisa mobilizar a própria equipe durante várias semanas.\n\nA participação do cliente pode ser necessária e fazer parte de um bom serviço. Mas, se a promessa inicial sugeria uma adoção sem esforço, existe uma expectativa que precisa ser revista. O comercial passa a explicar uma condição que a comunicação deveria ter ajudado a compreender.\n\nUma revisão útil começa com uma campanha e uma oferta, em vez de tentar avaliar todos os canais de uma vez. Anote o que é prometido, o que a página demonstra e o que aparece na proposta comercial. Procure diferenças de escopo, esforço, prazo, público e condições de contratação.\n\n## A oferta precisa ajudar o comprador a avaliar\n\nUma lista de funcionalidades descreve o produto, mas pode deixar em aberto sua adequação à necessidade do cliente. Para quem ele foi pensado? Que problema enfrenta? O que está incluído? O que exige participação da empresa contratante? Quando outra solução seria mais indicada?\n\nResponder a essas perguntas ajuda a explicitar o valor e os limites da contratação. No exemplo, explicar as etapas da implantação e as responsabilidades de cada lado permitiria ao comprador avaliar se dispõe das condições necessárias.\n\nTambém vale observar as evidências. Uma afirmação sobre suporte precisa corresponder ao atendimento disponível. Um caso apresentado precisa ser real, autorizado e pertinente. Uma demonstração deve representar o uso possível, sem esconder dependências importantes.\n\nClareza pode fazer algumas pessoas desistirem por falta de adequação. Esse efeito precisa ser considerado na leitura dos indicadores: nem todo aumento de formulários significa uma melhora na qualidade das oportunidades.\n\n## Ouça o que acontece depois do clique\n\nA página não conta sozinha toda a história. O comercial pode perceber dúvidas recorrentes sobre o que está incluído, expectativas incompatíveis ou comparações com soluções de outro escopo.\n\nReúna exemplos de objeções e encaminhamentos, preservando informações pessoais e comerciais. Procure padrões que mereçam investigação. “Está caro” pode encobrir uma comparação inadequada, mas também pode significar exatamente um limite de orçamento. Evite decidir a causa antes de ouvir o contexto.\n\nPergunte à equipe quais explicações precisa repetir e em que ponto os compradores parecem entender a oferta de outra maneira. Compare essas observações com os anúncios e a página. Essa conversa pode indicar ajustes na mensagem, na qualificação ou na própria proposta.\n\n## Mude com uma hipótese clara\n\nSe a revisão apontar uma incoerência, registre o que será alterado e por quê. Por exemplo: esclarecer a participação do cliente na implantação para que a conversa comercial comece com expectativas mais próximas da realidade.\n\nDefina como acompanhar essa hipótese. Além de observar contatos e conversões, avalie as dúvidas recebidas e a adequação das oportunidades, respeitando o volume e o tempo necessários para interpretar os dados. Uma mudança simultânea de público, oferta, criativo e página dificulta compreender o que aconteceu.\n\nEsse processo não garante retorno nem elimina a necessidade de testar mídia. Ele ajuda a tomar uma decisão mais informada sobre o que merece ganhar distribuição.\n\nNa Tweed, estratégia, conteúdo, site e performance participam dessa leitura conjunta. Antes de ampliar o investimento, vale conferir se o comprador encontra uma proposta compreensível do primeiro contato à negociação. A campanha precisa ter algo consistente para apresentar.",
   "sources": "",
   "prompt": "Conceptual editorial photograph of a precisely focused beam of light passing through three aligned glass apertures and illuminating one solid sculptural object, an adjacent misaligned aperture scattering a faint secondary beam into darkness, deep navy environment, subtle teal light, tactile glass and brushed metal, restrained premium art direction, cinematic studio lighting, no charts, no writing, no typography, no logos --ar 3:2",
-  "checks": {}
+  "checks": {},
+  "keyword": "investimento em mídia",
+  "slug": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+  "meta": "Antes de ampliar o investimento em mídia, confira se anúncio, página e conversa comercial apresentam uma oferta clara e expectativas coerentes.",
+  "date": "",
+  "imageAlt": "Feixe de luz atravessando três aberturas de vidro alinhadas e iluminando um objeto escultórico em ambiente azul-marinho.",
+  "imageFile": "conteudos/a5/imagens/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_a_precise_bc71fd68-5440-4adc-be6b-7f110ab167ca_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
+  "faq": "O que revisar antes de ampliar o investimento em mídia?\nCompare a promessa do anúncio, a explicação da página e as condições da proposta comercial. Verifique público, escopo, esforço, prazos e responsabilidades.\n\nUma oferta mais clara garante retorno da mídia?\nNão. Clareza ajuda a tomar decisões mais informadas, mas segmentação, demanda, concorrência, execução e capacidade comercial também influenciam os resultados.\n\nComo o comercial pode ajudar a revisar a comunicação?\nAo identificar dúvidas recorrentes, expectativas incompatíveis e explicações que precisa repetir. Essas observações ajudam a investigar possíveis incoerências na oferta.",
+  "url": "https://www.agenciatweed.com.br/antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/"
 }
