@@ -1,0 +1,10 @@
+TÍTULO: A marca que o algoritmo recomenda, mas ninguém confia
+EDITORIA: 1
+ÂNGULO: A discussão sobre IA está excessivamente concentrada em “como aparecer nas respostas”. O artigo faria a pergunta anterior: o que acontece quando a máquina encontra sua marca, mas o consumidor não acredita nela?
+A Kantar mostra exatamente essa tensão entre adoção e confiança. Paralelamente, WARC observa erosão do valor de inventário publicitário genérico conforme respostas de IA retiram tráfego e contexto de publishers, enquanto ambientes com conteúdo especializado, relacionamento direto e confiança ganham importância. 
+O artigo poderia trabalhar algo especialmente interessante para branding: algoritmos podem acelerar distribuição, mas não fabricam retrospectivamente reputação. Reviews, experiência anterior, reconhecimento, consistência de discurso, presença em fontes confiáveis e diferenciação continuam sendo matéria-prima da decisão.
+Isso transforma branding em infraestrutura para a era da IA, não em decoração anterior à performance.
+LEITOR: Empresas fascinadas por automação, GEO, mídia de performance e IA, mas que investem pouco em reputação, diferenciação e experiência de marca.
+OBJETIVO: De “ser recomendado é vencer” para “ser recomendado só cria oportunidade; confiança é o que transforma recomendação em escolha”.
+
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

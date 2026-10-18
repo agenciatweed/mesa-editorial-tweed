@@ -1,0 +1,10 @@
+TÍTULO: Depois do “clean”: 2027 devolve textura, cor e sotaque às marcas
+EDITORIA: 5
+ÂNGULO: O artigo partiria de uma provocação: se qualquer marca consegue produzir em segundos uma imagem impecavelmente iluminada, perfeitamente composta e cromaticamente correta, talvez a perfeição deixe de funcionar como prova de qualidade.
+Adobe vem destacando conexão humana, sensorialidade e referências culturais locais; o TikTok identifica uma procura crescente por processos reais, bastidores e pessoas em lugar da estética excessivamente curada; forecasts recentes para 2027 apontam para superfícies táteis, craft visível, tipografia expressiva e cor mais autoral. A própria WGSN define “interconexão” como um dos temas de 2027, aproximando natureza e tecnologia, passado e futuro, racionalidade e emoção. 
+A tese não seria “minimalismo morreu”. Isso seria superficial. Seria: num mundo de produção visual praticamente infinita, especificidade se transforma em sinal de autoria. Textura, fotografia menos esterilizada, tipografia particular, referências culturais, imperfeições controladas e códigos próprios ajudam uma marca a parecer originada de algum lugar e de alguém.
+Até o Luminous Blue, escolhido por WGSN/Coloro como cor de 2027, entraria apenas como exemplo de uma tendência maior, não como “pinte sua marca de azul no ano que vem”.
+LEITOR: Empresários, designers e gestores que associam profissionalismo visual exclusivamente a layouts neutros, minimalistas e extremamente polidos.
+OBJETIVO: De “uma marca sofisticada precisa parecer perfeita” para “uma marca memorável precisa parecer particular”.
+
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

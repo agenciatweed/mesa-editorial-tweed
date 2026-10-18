@@ -1,0 +1,8 @@
+TÍTULO: Sua marca precisa ser escolhida por pessoas e por máquinas
+EDITORIA: 0
+ÂNGULO: Durante anos, uma pequena empresa precisava ser encontrada no Google e convencer uma pessoa. Em 2027, surge uma terceira etapa: ser suficientemente compreensível, confiável e distinta para também entrar nas respostas de assistentes de IA. A pauta não seria um tutorial de “GEO”, mas uma discussão prática sobre como uma PME pode aumentar sua legibilidade digital sem orçamento milionário: conteúdo original, páginas claras sobre produtos e serviços, autoridade temática, avaliações, presença em fontes confiáveis, informações consistentes e uma proposta de valor que não pareça intercambiável.
+O gancho é excelente porque existe uma discrepância curiosa: 32% dos consumidores pesquisados pela Kantar já usam IA para pesquisar marcas e produtos, mas só 23% confiam nas recomendações recebidas. Ao mesmo tempo, um saldo de 75% dos profissionais de marketing pretende aumentar investimentos em visibilidade dentro de assistentes de IA em 2027.
+LEITOR: Donos de PMEs, gestores de marketing e empresas que ainda enxergam presença digital como “site + Instagram + Google”.
+OBJETIVO: De “preciso aparecer mais” para “preciso construir informação e reputação suficientemente claras para que pessoas, buscadores e sistemas de IA entendam por que minha marca merece ser escolhida”.
+
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

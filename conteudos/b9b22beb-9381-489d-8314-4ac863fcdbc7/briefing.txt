@@ -1,0 +1,10 @@
+TÍTULO: 500 pessoas certas podem valer mais que 500 mil impressões
+EDITORIA: 2
+ÂNGULO: Aqui eu atacaria frontalmente uma herança do marketing digital dos últimos quinze anos: tratar alcance como sinônimo automático de oportunidade.
+A Kantar identifica uma migração para microcomunidades, ambientes menores nos quais relevância e pertencimento pesam mais que alcance. Quase 40% dos consumidores no estudo citado pela empresa dizem confiar em recomendações de microcomunidades tanto quanto em recomendações pessoais. Ao mesmo tempo, o investimento dos anunciantes está migrando dentro do creator marketing em direção a creators micro e nano, justamente pelo vínculo com comunidades específicas. 
+Para uma PME, isso abre uma pauta deliciosa: em vez de tentar competir pela praça principal da internet, ocupe bem uma rua lateral onde as pessoas certas já conversam.
+O texto poderia mostrar caminhos sem depender de mídia pesada: pequenos creators, comunidades locais, grupos especializados, newsletters, eventos pequenos, associações profissionais, fóruns, parcerias, clientes evangelizadores e participação útil em conversas já existentes.
+LEITOR: Pequenas empresas que acham que branding exige grandes campanhas, influenciadores gigantes ou dezenas de milhares de seguidores.
+OBJETIVO: De “minha marca é pequena porque alcança pouca gente” para “uma marca pode crescer dominando primeiro um contexto pequeno, relevante e socialmente conectado”.
+
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

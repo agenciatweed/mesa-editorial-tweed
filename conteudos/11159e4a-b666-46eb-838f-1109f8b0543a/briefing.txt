@@ -1,0 +1,9 @@
+TÍTULO: Os comentários viraram parte do produto
+EDITORIA: 3
+ÂNGULO: O TikTok chama uma das mudanças comportamentais atuais de “economia da evidência”: antes de comprar, pessoas percorrem comentários, avaliações, relatos e conteúdos de creators para descobrir se aquilo que a publicidade prometeu resiste ao contato com outras pessoas. O TikTok também descreve jornadas de descoberta menos lineares, nas quais pesquisa, recomendação, comentários e conteúdos relacionados se misturam. 
+Daí vem a tese: em 2027, a seção de comentários não é mais apenas consequência do conteúdo. Ela é parte da experiência de marca e, muitas vezes, parte do produto percebido.
+Uma propaganda diz que o atendimento é excelente. Dez respostas ríspidas da marca dizem o contrário. Uma campanha diz que o produto funciona. Cinquenta clientes explicando espontaneamente como usam o produto valem como evidência social. Uma empresa que responde dúvidas de forma inteligente constrói material que o próximo comprador provavelmente encontrará durante a pesquisa.
+LEITOR: Empresas que ainda separam “social media”, atendimento, reputação, SAC e vendas como departamentos sem relação entre si.
+OBJETIVO: De “comentários são engajamento” para “comentários, avaliações e respostas são ativos de persuasão e componentes públicos da experiência da marca”.
+
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

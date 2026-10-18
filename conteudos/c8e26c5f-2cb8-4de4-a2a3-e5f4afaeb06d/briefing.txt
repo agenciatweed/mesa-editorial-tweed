@@ -1,0 +1,12 @@
+TÍTULO: O plano de mídia de 2027 não cabe mais dentro de uma plataforma
+EDITORIA: 4
+ÂNGULO: O investimento publicitário global deve chegar a US$ 1,46 trilhão em 2027 segundo a projeção mais recente da WARC, mas o crescimento está fortemente concentrado nas plataformas tecnológicas. Social media é hoje o segmento que mais cresce e social video já deve absorver mais da metade de todo o investimento global em vídeo em 2026. WARC
+Ao mesmo tempo, a fotografia do mercado está ficando muito mais fragmentada: creator marketing, TikTok, YouTube, streaming/CTV, retail media, busca e agora assistentes de IA disputam partes diferentes da jornada. Retail media, por exemplo, deve representar 15,2% do investimento publicitário mundial em 2027. 
+A pauta compararia dois modelos.
+Uma empresa coloca praticamente tudo na Meta porque “é onde nosso público está”. Outra entende que descoberta, prova, confiança e conversão podem acontecer em ambientes diferentes e constrói um pequeno ecossistema de pontos de contato.
+A grande tese seria: diversificação de mídia não significa estar em todo lugar. Significa parar de exigir que uma única plataforma desempenhe todos os papéis do marketing.
+E existe uma bela evidência para sustentar isso: a Kantar calcula que 43% do impacto das campanhas analisadas hoje vem da atuação combinada dos canais, contra 18% antes de 2014.
+LEITOR: Empresários e gestores que tomam decisões de mídia pelo canal da moda, pelo CPM mais barato ou por hábitos históricos da empresa.
+OBJETIVO: De “qual é a melhor rede social para 2027?” para “qual combinação de ambientes resolve descoberta, confiança, consideração e compra para a minha marca?”
+
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
