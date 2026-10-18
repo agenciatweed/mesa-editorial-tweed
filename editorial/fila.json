@@ -565,7 +565,7 @@
       "id": "d08ae68f-ef0f-49bf-b616-6b8790a52d1f",
       "itemId": "a4",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "5f1287d388f68fa7c12ea114d6e8b67836a72b2ac25b6eb75deed4c42976df0a",
       "snapshot": "5f1287d388f68fa7c12ea114d6e8b67836a72b2ac25b6eb75deed4c42976df0a",
       "input": {
@@ -616,13 +616,14 @@
           "approvedAt": "2026-10-18T08:23:20.956Z"
         }
       },
-      "createdAt": "2026-10-18T08:23:20.957Z"
+      "createdAt": "2026-10-18T08:23:20.957Z",
+      "completedAt": "2026-10-18T13:22:59.536217+00:00"
     },
     {
       "id": "868014b9-4c70-424b-9a89-f932d49870e1",
       "itemId": "a5",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "fa147fb7157d4758a97d98c3d08b603e6fcd4c6afdd925d924ae9dfe4e674177",
       "snapshot": "fa147fb7157d4758a97d98c3d08b603e6fcd4c6afdd925d924ae9dfe4e674177",
       "input": {
@@ -673,13 +674,14 @@
           "approvedAt": "2026-10-18T08:23:25.331Z"
         }
       },
-      "createdAt": "2026-10-18T08:23:25.332Z"
+      "createdAt": "2026-10-18T08:23:25.332Z",
+      "completedAt": "2026-10-18T13:23:32.617738+00:00"
     },
     {
       "id": "fcfb9990-d254-43a4-b53a-8c7e4bbf3c49",
       "itemId": "a6",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "49343cba880ad505434e131858e6fe1b5327f120531f9c450cd2ef4733abd708",
       "snapshot": "49343cba880ad505434e131858e6fe1b5327f120531f9c450cd2ef4733abd708",
       "input": {
@@ -730,7 +732,8 @@
           "approvedAt": "2026-10-18T08:23:29.938Z"
         }
       },
-      "createdAt": "2026-10-18T08:23:29.938Z"
+      "createdAt": "2026-10-18T08:23:29.938Z",
+      "completedAt": "2026-10-18T13:24:06.325791+00:00"
     },
     {
       "id": "e0ff8546-c797-40e6-a77c-4239e0df6d96",

@@ -42,7 +42,17 @@
   "faq": "Como transformar a personalidade de marca em prática?\nDefina comportamentos e critérios para situações concretas, como responder a dúvidas, apresentar serviços e lidar com erros. Registre exemplos e a razão de cada escolha.\n\nUma marca precisa usar o mesmo tom em toda situação?\nNão. Os critérios podem permanecer coerentes enquanto a intensidade, a informalidade e o humor se adaptam ao contexto e à necessidade do cliente.\n\nArquétipos definem cientificamente a personalidade da marca?\nNão. Podem servir como referências interpretativas de criação, mas não substituem escolhas próprias sobre postura, linguagem, comportamento e experiência.",
   "url": "https://www.agenciatweed.com.br/personalidade-de-marca-aparece-nas-escolhas-pequenas/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-10-18T08:23:29.938Z"
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/personalidade-de-marca-aparece-nas-escolhas-pequenas/",
+    "publishedAt": "2026-10-18T13:24:06.323586+00:00",
+    "job": "fcfb9990-d254-43a4-b53a-8c7e4bbf3c49",
+    "files": [
+      "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+      "personalidade-de-marca-aparece-nas-escolhas-pequenas/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

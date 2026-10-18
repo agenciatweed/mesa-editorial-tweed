@@ -1,1 +1,7 @@
-{"siteRoot":"..","canonical":"https://www.agenciatweed.com.br","repository":"https://github.com/agenciatweed/mesa-editorial-tweed.git","siteRepository":"https://github.com/agenciatweed/novo-site-tweed.git"}
+{
+  "siteRoot": "..",
+  "canonical": "https://www.agenciatweed.com.br",
+  "repository": "https://github.com/agenciatweed/mesa-editorial-tweed.git",
+  "siteRepository": "https://github.com/agenciatweed/novo-site-tweed.git",
+  "transport": "ftp"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "uma-boa-restricao-pode-melhorar-uma-ideia",
+  "contentSha256": "ca244be869a5fed2e28851c7f9b3ab04ad2ca4057b95b5a7996e783ce9c52dea",
+  "modifiedAt": "2026-10-18",
+  "links": [
+    {
+      "from": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "to": "marcas-memoraveis-nao-gritam-elas-fazem-sentido",
+      "anchor": "uma mensagem principal",
+      "context": "Há limites que comprometem o trabalho e precisam ser negociados. Mas também existem restrições que ajudam a definir o problema: um público específico, uma mensagem principal, um formato que a equipe consegue executar bem. Elas oferecem critérios para escolher entre caminhos possíveis.",
+      "reason": "Aprofunda diretamente o conceito do trecho em um artigo já publicado, sem alterar a redação aprovada."
+    }
+  ]
+}

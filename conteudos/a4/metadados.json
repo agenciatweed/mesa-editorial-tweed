@@ -42,7 +42,17 @@
   "faq": "Como uma restrição pode ajudar a criação?\nAo definir público, mensagem ou formato viável, uma restrição oferece critérios para escolher caminhos relevantes e concentrar os recursos disponíveis.\n\nTodo limite estimula a criatividade?\nNão. Falta de informações, equipe sobrecarregada e prazo incompatível podem impedir a entrega e exigem revisão de escopo, capacidade ou calendário.\n\nO que um briefing enxuto precisa esclarecer?\nO objetivo, o público, os compromissos da marca, os recursos disponíveis e quais escolhas criativas permanecem abertas à equipe.",
   "url": "https://www.agenciatweed.com.br/uma-boa-restricao-pode-melhorar-uma-ideia/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-10-18T08:23:20.956Z"
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/uma-boa-restricao-pode-melhorar-uma-ideia/",
+    "publishedAt": "2026-10-18T13:22:59.506758+00:00",
+    "job": "d08ae68f-ef0f-49bf-b616-6b8790a52d1f",
+    "files": [
+      "assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
+      "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
+      "blog/index.html",
+      "blog-branding-na-marra/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

@@ -228,8 +228,18 @@
       "faq": "Como uma restrição pode ajudar a criação?\nAo definir público, mensagem ou formato viável, uma restrição oferece critérios para escolher caminhos relevantes e concentrar os recursos disponíveis.\n\nTodo limite estimula a criatividade?\nNão. Falta de informações, equipe sobrecarregada e prazo incompatível podem impedir a entrega e exigem revisão de escopo, capacidade ou calendário.\n\nO que um briefing enxuto precisa esclarecer?\nO objetivo, o público, os compromissos da marca, os recursos disponíveis e quais escolhas criativas permanecem abertas à equipe.",
       "url": "https://www.agenciatweed.com.br/uma-boa-restricao-pode-melhorar-uma-ideia/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-10-18T08:23:20.956Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/uma-boa-restricao-pode-melhorar-uma-ideia/",
+        "publishedAt": "2026-10-18T13:22:59.506758+00:00",
+        "job": "d08ae68f-ef0f-49bf-b616-6b8790a52d1f",
+        "files": [
+          "assets/artigos-editoriais/d9bcdfabc1c53a1e2ea3befc4e076fab1c1d73bbbe17bdf771b3f77c1004b6a4.png",
+          "uma-boa-restricao-pode-melhorar-uma-ideia/index.html",
+          "blog/index.html",
+          "blog-branding-na-marra/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -276,8 +286,18 @@
       "faq": "O que revisar antes de ampliar o investimento em mídia?\nCompare a promessa do anúncio, a explicação da página e as condições da proposta comercial. Verifique público, escopo, esforço, prazos e responsabilidades.\n\nUma oferta mais clara garante retorno da mídia?\nNão. Clareza ajuda a tomar decisões mais informadas, mas segmentação, demanda, concorrência, execução e capacidade comercial também influenciam os resultados.\n\nComo o comercial pode ajudar a revisar a comunicação?\nAo identificar dúvidas recorrentes, expectativas incompatíveis e explicações que precisa repetir. Essas observações ajudam a investigar possíveis incoerências na oferta.",
       "url": "https://www.agenciatweed.com.br/antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-10-18T08:23:25.331Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/",
+        "publishedAt": "2026-10-18T13:23:32.614795+00:00",
+        "job": "868014b9-4c70-424b-9a89-f932d49870e1",
+        "files": [
+          "assets/artigos-editoriais/cd4bd419ca02a7f3c0728c92d637e56dfab93f9c63929934ea5caa7bf4108793.png",
+          "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido/index.html",
+          "blog/index.html",
+          "blog-marcas-em-movimento/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -324,8 +344,18 @@
       "faq": "Como transformar a personalidade de marca em prática?\nDefina comportamentos e critérios para situações concretas, como responder a dúvidas, apresentar serviços e lidar com erros. Registre exemplos e a razão de cada escolha.\n\nUma marca precisa usar o mesmo tom em toda situação?\nNão. Os critérios podem permanecer coerentes enquanto a intensidade, a informalidade e o humor se adaptam ao contexto e à necessidade do cliente.\n\nArquétipos definem cientificamente a personalidade da marca?\nNão. Podem servir como referências interpretativas de criação, mas não substituem escolhas próprias sobre postura, linguagem, comportamento e experiência.",
       "url": "https://www.agenciatweed.com.br/personalidade-de-marca-aparece-nas-escolhas-pequenas/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-10-18T08:23:29.938Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/personalidade-de-marca-aparece-nas-escolhas-pequenas/",
+        "publishedAt": "2026-10-18T13:24:06.323586+00:00",
+        "job": "fcfb9990-d254-43a4-b53a-8c7e4bbf3c49",
+        "files": [
+          "assets/artigos-editoriais/8f46d32ab62b15cbeb3e3f55c167b8f9b0af2a4cfb2107488c1ab01c246ca17a.png",
+          "personalidade-de-marca-aparece-nas-escolhas-pequenas/index.html",
+          "blog/index.html",
+          "blog-marcas-com-alma/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
