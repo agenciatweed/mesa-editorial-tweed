@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "comentarios-parte-do-produto-experiencia-de-marca",
+  "contentSha256": "40c9f9d73fca22a0bd0bd8456dec8e677b537c9ed1f0e97d38e3789188b3ea5a",
+  "modifiedAt": "2026-10-18",
+  "links": [
+    {
+      "from": "comentarios-parte-do-produto-experiencia-de-marca",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "não confundir cordialidade com resposta",
+      "context": "O importante é não confundir cordialidade com resposta. Uma frase simpática que ignora a pergunta continua deixando a dúvida aberta. Da mesma forma, prometer uma solução sem ter condições de cumpri-la cria outra expectativa difícil de sustentar.",
+      "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência."
+    }
+  ]
+}

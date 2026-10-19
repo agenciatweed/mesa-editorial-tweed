@@ -2,11 +2,16 @@
   "id": "c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d",
   "title": "O plano de mídia de 2027 não cabe mais dentro de uma plataforma",
   "edition": 4,
-  "status": "Revisão",
+  "status": "Pronto",
   "angle": "O investimento publicitário global deve chegar a US$ 1,46 trilhão em 2027 segundo a projeção mais recente da WARC, mas o crescimento está fortemente concentrado nas plataformas tecnológicas. Social media é hoje o segmento que mais cresce e social video já deve absorver mais da metade de todo o investimento global em vídeo em 2026. WARC\nAo mesmo tempo, a fotografia do mercado está ficando muito mais fragmentada: creator marketing, TikTok, YouTube, streaming/CTV, retail media, busca e agora assistentes de IA disputam partes diferentes da jornada. Retail media, por exemplo, deve representar 15,2% do investimento publicitário mundial em 2027. \nA pauta compararia dois modelos.\nUma empresa coloca praticamente tudo na Meta porque “é onde nosso público está”. Outra entende que descoberta, prova, confiança e conversão podem acontecer em ambientes diferentes e constrói um pequeno ecossistema de pontos de contato.\nA grande tese seria: diversificação de mídia não significa estar em todo lugar. Significa parar de exigir que uma única plataforma desempenhe todos os papéis do marketing.\nE existe uma bela evidência para sustentar isso: a Kantar calcula que 43% do impacto das campanhas analisadas hoje vem da atuação combinada dos canais, contra 18% antes de 2014.",
   "expert": "Dupla",
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "submitted": true,
@@ -27,8 +32,27 @@
   "keyword": "plano de mídia",
   "slug": "plano-de-midia-2027-alem-de-uma-plataforma",
   "meta": "Como montar um plano de mídia para 2027 com canais que cumprem papéis diferentes, sem confundir diversificação com estar em todo lugar.",
-  "date": "",
-  "imageAlt": "",
+  "date": "2026-10-18",
+  "imageAlt": "Vários prismas de diferentes tamanhos",
   "faq": "Diversificar mídia significa investir em todas as plataformas?\nNão. Significa avaliar quais ambientes cumprem funções relevantes para o público, a oferta e a capacidade da empresa.\n\nPor onde começar um plano de mídia?\nMapeie como o público descobre, compreende, avalia e contrata a oferta. Defina o papel de cada ponto de contato e as responsabilidades pela execução.\n\nComo avaliar um novo canal?\nDefina uma hipótese e critérios compatíveis com o ciclo de compra. Observe adequação das oportunidades, caminhos de contato, esforço e limites dos dados.",
-  "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/"
+  "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/",
+  "imageFile": "conteudos/c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d/imagens/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_several_d_a87f708a-041d-428d-9109-d061d6756b62_1.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/",
+    "publishedAt": "2026-10-19T01:25:10.985745+00:00",
+    "job": "07e0b0e0-31f5-4e14-91a6-539eaf05f8d0",
+    "files": [
+      "assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+      "plano-de-midia-2027-alem-de-uma-plataforma/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

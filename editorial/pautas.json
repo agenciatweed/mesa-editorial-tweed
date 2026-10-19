@@ -362,11 +362,16 @@
       "id": "c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d",
       "title": "O plano de mídia de 2027 não cabe mais dentro de uma plataforma",
       "edition": 4,
-      "status": "Revisão",
+      "status": "Pronto",
       "angle": "O investimento publicitário global deve chegar a US$ 1,46 trilhão em 2027 segundo a projeção mais recente da WARC, mas o crescimento está fortemente concentrado nas plataformas tecnológicas. Social media é hoje o segmento que mais cresce e social video já deve absorver mais da metade de todo o investimento global em vídeo em 2026. WARC\nAo mesmo tempo, a fotografia do mercado está ficando muito mais fragmentada: creator marketing, TikTok, YouTube, streaming/CTV, retail media, busca e agora assistentes de IA disputam partes diferentes da jornada. Retail media, por exemplo, deve representar 15,2% do investimento publicitário mundial em 2027. \nA pauta compararia dois modelos.\nUma empresa coloca praticamente tudo na Meta porque “é onde nosso público está”. Outra entende que descoberta, prova, confiança e conversão podem acontecer em ambientes diferentes e constrói um pequeno ecossistema de pontos de contato.\nA grande tese seria: diversificação de mídia não significa estar em todo lugar. Significa parar de exigir que uma única plataforma desempenhe todos os papéis do marketing.\nE existe uma bela evidência para sustentar isso: a Kantar calcula que 43% do impacto das campanhas analisadas hoje vem da atuação combinada dos canais, contra 18% antes de 2014.",
       "expert": "Dupla",
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "submitted": true,
@@ -387,20 +392,44 @@
       "keyword": "plano de mídia",
       "slug": "plano-de-midia-2027-alem-de-uma-plataforma",
       "meta": "Como montar um plano de mídia para 2027 com canais que cumprem papéis diferentes, sem confundir diversificação com estar em todo lugar.",
-      "date": "",
-      "imageAlt": "",
+      "date": "2026-10-18",
+      "imageAlt": "Vários prismas de diferentes tamanhos",
       "faq": "Diversificar mídia significa investir em todas as plataformas?\nNão. Significa avaliar quais ambientes cumprem funções relevantes para o público, a oferta e a capacidade da empresa.\n\nPor onde começar um plano de mídia?\nMapeie como o público descobre, compreende, avalia e contrata a oferta. Defina o papel de cada ponto de contato e as responsabilidades pela execução.\n\nComo avaliar um novo canal?\nDefina uma hipótese e critérios compatíveis com o ciclo de compra. Observe adequação das oportunidades, caminhos de contato, esforço e limites dos dados.",
-      "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/"
+      "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/",
+      "imageFile": "conteudos/c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d/imagens/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+      "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_several_d_a87f708a-041d-428d-9109-d061d6756b62_1.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/",
+        "publishedAt": "2026-10-19T01:25:10.985745+00:00",
+        "job": "07e0b0e0-31f5-4e14-91a6-539eaf05f8d0",
+        "files": [
+          "assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+          "plano-de-midia-2027-alem-de-uma-plataforma/index.html",
+          "blog/index.html",
+          "blog-marcas-em-movimento/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "11159e4a-b666-46eb-838f-1109f8b0543a",
       "title": "Os comentários viraram parte do produto",
       "edition": 3,
-      "status": "Revisão",
+      "status": "Pronto",
       "angle": "O TikTok chama uma das mudanças comportamentais atuais de “economia da evidência”: antes de comprar, pessoas percorrem comentários, avaliações, relatos e conteúdos de creators para descobrir se aquilo que a publicidade prometeu resiste ao contato com outras pessoas. O TikTok também descreve jornadas de descoberta menos lineares, nas quais pesquisa, recomendação, comentários e conteúdos relacionados se misturam. \nDaí vem a tese: em 2027, a seção de comentários não é mais apenas consequência do conteúdo. Ela é parte da experiência de marca e, muitas vezes, parte do produto percebido.\nUma propaganda diz que o atendimento é excelente. Dez respostas ríspidas da marca dizem o contrário. Uma campanha diz que o produto funciona. Cinquenta clientes explicando espontaneamente como usam o produto valem como evidência social. Uma empresa que responde dúvidas de forma inteligente constrói material que o próximo comprador provavelmente encontrará durante a pesquisa.",
       "expert": "Mauro",
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "submitted": true,
@@ -421,10 +450,29 @@
       "keyword": "experiência de marca",
       "slug": "comentarios-parte-do-produto-experiencia-de-marca",
       "meta": "Os comentários integram a experiência de marca: veja como dúvidas, avaliações e respostas públicas ajudam o comprador a investigar uma oferta.",
-      "date": "",
-      "imageAlt": "",
+      "date": "2026-10-18",
+      "imageAlt": "vidro de perfume cercado por pequenos quadrados de vidro",
       "faq": "Por que comentários participam da experiência de marca?\nPorque oferecem informações públicas sobre uso, expectativas e relacionamento, ajudando outras pessoas a avaliar a oferta.\n\nToda situação deve ser resolvida nos comentários?\nNão. Questões sobre pedidos e dados pessoais devem seguir para um canal adequado, com orientação clara sobre a continuidade.\n\nComo usar dúvidas recorrentes para melhorar a comunicação?\nRegistre os temas, investigue as causas e confira se faltam informações no conteúdo, na proposta comercial ou no processo de atendimento.",
-      "url": "https://www.agenciatweed.com.br/comentarios-parte-do-produto-experiencia-de-marca/"
+      "url": "https://www.agenciatweed.com.br/comentarios-parte-do-produto-experiencia-de-marca/",
+      "imageFile": "conteudos/11159e4a-b666-46eb-838f-1109f8b0543a/imagens/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+      "imageName": "vitriolicnaivety_Conceptual_editorial_still_life_of_an_elegan_7ad58f5a-e93c-4c27-923b-05b5110a9aef_2.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/comentarios-parte-do-produto-experiencia-de-marca/",
+        "publishedAt": "2026-10-19T01:25:38.933153+00:00",
+        "job": "bab89bc8-2b6d-4823-8d34-f117ff12476c",
+        "files": [
+          "assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+          "comentarios-parte-do-produto-experiencia-de-marca/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "b9b22beb-9381-489d-8314-4ac863fcdbc7",

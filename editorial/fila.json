@@ -1148,6 +1148,122 @@
       "createdAt": "2026-10-18T14:37:05.975Z",
       "startedAt": "2026-10-18T15:27:11.127Z",
       "completedAt": "2026-10-18T15:27:11.208Z"
+    },
+    {
+      "id": "07e0b0e0-31f5-4e14-91a6-539eaf05f8d0",
+      "itemId": "c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "94101a91d3c71f3609463d93f2347479b25695c08b13b442ab020955ebe63da2",
+      "snapshot": "94101a91d3c71f3609463d93f2347479b25695c08b13b442ab020955ebe63da2",
+      "input": {
+        "id": "c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d",
+        "title": "O plano de mídia de 2027 não cabe mais dentro de uma plataforma",
+        "edition": 4,
+        "status": "Pronto",
+        "angle": "O investimento publicitário global deve chegar a US$ 1,46 trilhão em 2027 segundo a projeção mais recente da WARC, mas o crescimento está fortemente concentrado nas plataformas tecnológicas. Social media é hoje o segmento que mais cresce e social video já deve absorver mais da metade de todo o investimento global em vídeo em 2026. WARC\nAo mesmo tempo, a fotografia do mercado está ficando muito mais fragmentada: creator marketing, TikTok, YouTube, streaming/CTV, retail media, busca e agora assistentes de IA disputam partes diferentes da jornada. Retail media, por exemplo, deve representar 15,2% do investimento publicitário mundial em 2027. \nA pauta compararia dois modelos.\nUma empresa coloca praticamente tudo na Meta porque “é onde nosso público está”. Outra entende que descoberta, prova, confiança e conversão podem acontecer em ambientes diferentes e constrói um pequeno ecossistema de pontos de contato.\nA grande tese seria: diversificação de mídia não significa estar em todo lugar. Significa parar de exigir que uma única plataforma desempenhe todos os papéis do marketing.\nE existe uma bela evidência para sustentar isso: a Kantar calcula que 43% do impacto das campanhas analisadas hoje vem da atuação combinada dos canais, contra 18% antes de 2014.",
+        "expert": "Dupla",
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "submitted": true,
+        "audience": "Empresários e gestores que tomam decisões de mídia pelo canal da moda, pelo CPM mais barato ou por hábitos históricos da empresa.",
+        "goal": "De “qual é a melhor rede social para 2027?” para “qual combinação de ambientes resolve descoberta, confiança, consideração e compra para a minha marca?”",
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "80613417-cc3d-4f2a-bbd8-3d9bba9fac9f",
+          "completedAt": "2026-10-18T15:27:10.483Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "6b701514e223230e9f0f1b4f9e370d84fabf1f34583636fbbe7313529ddd8d4d"
+        },
+        "workflowVersion": 2,
+        "body": "Qual é a melhor plataforma para investir em 2027? A pergunta parece prática, mas pode esconder várias decisões diferentes. Onde a pessoa descobre uma necessidade? Onde compara alternativas? O que consulta antes de confiar? Como chega à compra?\n\nUm plano de mídia precisa considerar essas funções, mesmo quando a verba só permite começar com poucos canais. Diversificação não significa estar em todo lugar. Significa avaliar se a empresa está exigindo que um único ambiente faça trabalhos que poderiam ser melhor distribuídos.\n\nTambém não significa que concentrar investimento seja sempre um erro. Uma operação pequena pode precisar de foco. A escolha deve ter uma razão e condições de acompanhamento.\n\n## O crescimento dos ambientes não define sua estratégia\n\nA [WARC projeta que retail media represente 15,2% do investimento publicitário mundial em 2027](https://www.warc.com/en/article/the-future-of-commerce-media-2026-43b83675d2d24533986925f42720f687). Retail media envolve oportunidades de mídia associadas a varejistas e seus ambientes de compra. O dado descreve uma projeção do mercado global, não uma recomendação de verba para uma PME.\n\nA [Kantar também aponta maior participação da atuação combinada dos canais no desempenho das campanhas analisadas](https://www.kantar.com/press-center/net-75-percent-of-marketers-plan-to-increase-investment-in-ai-visibility). Isso reforça a importância de olhar para as relações entre meios, sem permitir concluir que simplesmente adicionar plataformas melhora qualquer campanha.\n\nPara a empresa, a tarefa é traduzir o cenário em perguntas sobre público, oferta e capacidade. Uma tendência pode justificar uma investigação. Não substitui essa investigação.\n\n## Comece pelos papéis que precisam ser cumpridos\n\nConsidere uma empresa de serviços empresariais. É um exemplo hipotético. Ela concentra toda a divulgação em uma rede social, mas percebe que os compradores pedem explicações técnicas e exemplos antes de marcar uma reunião.\n\nA resposta pode incluir conteúdo de descoberta nesse mesmo canal e uma página clara para aprofundamento. Uma apresentação comercial pode organizar a avaliação. Uma participação em contexto profissional relevante pode oferecer oportunidade de conversa e verificação.\n\nParte desse conjunto não é mídia paga, mas influencia o que a mídia consegue encaminhar. Mandar mais pessoas para uma página que não explica o serviço não resolve essa lacuna.\n\nEm outro negócio, o caminho pode envolver busca, um criador especializado ou um ambiente de varejo. O formato deve responder ao modo de compra e às condições reais da operação.\n\n## A passagem entre ambientes precisa fazer sentido\n\nUma campanha pode ser coerente visualmente e ainda assim encaminhar expectativas incompatíveis. O anúncio destaca facilidade; a página omite esforço; o comercial apresenta exigências que surgem apenas no final.\n\nAo planejar os canais, registre o papel de cada ponto de contato e o que a pessoa precisa encontrar ao passar para o seguinte. Defina quais informações se repetem para garantir clareza e quais precisam ganhar profundidade.\n\nTambém distribua responsabilidades. Se uma nova frente cria pedidos que ninguém consegue atender ou conteúdo que ninguém consegue manter, ela aumenta a complexidade sem uma base suficiente.\n\n## Diversifique com uma hipótese verificável\n\nAntes de abrir outro canal, escreva o problema que pretende resolver. A empresa precisa alcançar um público que ainda não encontra? Explicar melhor a oferta? Reduzir uma dependência operacional? Testar uma oportunidade de demanda?\n\nDefina um período e critérios de observação compatíveis com o ciclo de compra. Não compare apenas o custo de exibição de ambientes que cumprem funções diferentes. Observe a adequação das oportunidades, os caminhos de contato e os limites dos dados disponíveis.\n\nPreserve espaço para aprender. Um teste pode mostrar que o novo ambiente não faz sentido, que a mensagem precisa mudar ou que a empresa ainda não tem estrutura para sustentar a presença. Nenhuma dessas respostas exige continuar investindo apenas para justificar a escolha inicial.\n\nNa Tweed, o plano reúne estratégia, conteúdo, site, criação e performance para que os canais tenham direção comum. O planejamento de 2027 pode começar com uma pergunta mais útil: qual combinação viável ajuda meu público a descobrir, compreender, avaliar e contratar o que a empresa realmente entrega?",
+        "sources": "WARC, The Future of Commerce Media 2026, projeção de retail media para 2027: https://www.warc.com/en/article/the-future-of-commerce-media-2026-43b83675d2d24533986925f42720f687\nKantar, Media Reactions 2026: https://www.kantar.com/press-center/net-75-percent-of-marketers-plan-to-increase-investment-in-ai-visibility",
+        "prompt": "Conceptual editorial photograph of several distinct optical prisms arranged as a coherent small system, a single teal beam passing through them in different purposeful stages before reaching one destination, dark navy background, realistic glass and brushed metal, precise restrained composition, no platform logos, no charts, no writing --ar 3:2",
+        "keyword": "plano de mídia",
+        "slug": "plano-de-midia-2027-alem-de-uma-plataforma",
+        "meta": "Como montar um plano de mídia para 2027 com canais que cumprem papéis diferentes, sem confundir diversificação com estar em todo lugar.",
+        "date": "2026-10-18",
+        "imageAlt": "Vários prismas de diferentes tamanhos",
+        "faq": "Diversificar mídia significa investir em todas as plataformas?\nNão. Significa avaliar quais ambientes cumprem funções relevantes para o público, a oferta e a capacidade da empresa.\n\nPor onde começar um plano de mídia?\nMapeie como o público descobre, compreende, avalia e contrata a oferta. Defina o papel de cada ponto de contato e as responsabilidades pela execução.\n\nComo avaliar um novo canal?\nDefina uma hipótese e critérios compatíveis com o ciclo de compra. Observe adequação das oportunidades, caminhos de contato, esforço e limites dos dados.",
+        "url": "https://www.agenciatweed.com.br/plano-de-midia-2027-alem-de-uma-plataforma/",
+        "imageFile": "conteudos/c8e26c5f-2cb8-4de4-a2a3-e5f4afaeb06d/imagens/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+        "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_several_d_a87f708a-041d-428d-9109-d061d6756b62_1.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/0aed6dd48d0273afc49035151d3d0b9d116c5f07e804b93b743434c0fa1b081f.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-18T21:10:06.972Z"
+        }
+      },
+      "createdAt": "2026-10-18T21:10:06.974Z",
+      "completedAt": "2026-10-19T01:25:10.987490+00:00"
+    },
+    {
+      "id": "bab89bc8-2b6d-4823-8d34-f117ff12476c",
+      "itemId": "11159e4a-b666-46eb-838f-1109f8b0543a",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "6dffef8303dd4b063e1d889c9f403736723942561b1714a112d74716915f4960",
+      "snapshot": "6dffef8303dd4b063e1d889c9f403736723942561b1714a112d74716915f4960",
+      "input": {
+        "id": "11159e4a-b666-46eb-838f-1109f8b0543a",
+        "title": "Os comentários viraram parte do produto",
+        "edition": 3,
+        "status": "Pronto",
+        "angle": "O TikTok chama uma das mudanças comportamentais atuais de “economia da evidência”: antes de comprar, pessoas percorrem comentários, avaliações, relatos e conteúdos de creators para descobrir se aquilo que a publicidade prometeu resiste ao contato com outras pessoas. O TikTok também descreve jornadas de descoberta menos lineares, nas quais pesquisa, recomendação, comentários e conteúdos relacionados se misturam. \nDaí vem a tese: em 2027, a seção de comentários não é mais apenas consequência do conteúdo. Ela é parte da experiência de marca e, muitas vezes, parte do produto percebido.\nUma propaganda diz que o atendimento é excelente. Dez respostas ríspidas da marca dizem o contrário. Uma campanha diz que o produto funciona. Cinquenta clientes explicando espontaneamente como usam o produto valem como evidência social. Uma empresa que responde dúvidas de forma inteligente constrói material que o próximo comprador provavelmente encontrará durante a pesquisa.",
+        "expert": "Mauro",
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "submitted": true,
+        "audience": "Empresas que ainda separam “social media”, atendimento, reputação, SAC e vendas como departamentos sem relação entre si.",
+        "goal": "De “comentários são engajamento” para “comentários, avaliações e respostas são ativos de persuasão e componentes públicos da experiência da marca”.",
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "acab717b-3764-4841-b78a-c78bc79643e8",
+          "completedAt": "2026-10-18T15:27:10.626Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "0fbd5cce965c06ccb7b4df28006c53c8766afb9ad5d3ec1d2ff5e6d9906bddb2"
+        },
+        "workflowVersion": 2,
+        "body": "Uma pessoa vê o anúncio, gosta do produto e abre os comentários. Quer saber se a medida serve, se a entrega funciona e se alguém já teve a mesma dúvida. Antes de chegar ao site, ela já está avaliando uma parte pública da experiência de marca.\n\nDizer que os comentários viraram parte do produto é uma forma de reconhecer esse papel na decisão. Eles não substituem o que será entregue. Acrescentam informações sobre uso, expectativas e relacionamento que a publicidade, sozinha, pode não esclarecer.\n\nPara quem planeja a comunicação de 2027, vale rever a separação entre conteúdo, atendimento e reputação. O comprador pode encontrar essas partes juntas, no mesmo lugar.\n\n## O que a campanha diz encontra outras vozes\n\nO [TikTok Next 2026](https://ads.tiktok.com/business/en-US/next) chama de economia da evidência um comportamento de verificação antes da compra e destaca o uso dos comentários para consultar avaliações da comunidade. Trata-se de uma leitura da plataforma sobre seu ambiente, não de uma regra universal para todo consumidor.\n\nA implicação prática é observar o que acontece ao redor da mensagem. Uma dúvida respondida pode ajudar o próximo interessado. Uma afirmação confusa pode continuar circulando. Um relato negativo pode apontar um problema que merece investigação, sem representar sozinho toda a experiência dos clientes.\n\nNúmero de respostas e tom positivo não bastam para avaliar esse material. É necessário compreender o que as pessoas estão tentando confirmar.\n\n## Uma resposta também demonstra como a empresa trabalha\n\nImagine uma loja de luminárias que divulga uma peça para ambientes de trabalho. É um exemplo hipotético. Nos comentários, alguém pergunta se a intensidade pode ser ajustada. A resposta poderia apenas encaminhar para o site. Poderia também esclarecer a característica, informar uma limitação e indicar onde consultar a especificação completa.\n\nEssa segunda abordagem oferece uma informação útil e verificável. Não exige revelar dados pessoais nem resolver publicamente todas as situações. Uma questão sobre pedido específico deve ser encaminhada a um canal adequado, com orientação clara sobre a continuidade.\n\nO importante é não confundir cordialidade com resposta. Uma frase simpática que ignora a pergunta continua deixando a dúvida aberta. Da mesma forma, prometer uma solução sem ter condições de cumpri-la cria outra expectativa difícil de sustentar.\n\n## Comentários podem revelar lacunas na oferta\n\nSe muitas pessoas perguntam a mesma coisa, vale verificar se a informação está ausente ou pouco visível. A equipe de conteúdo pode transformar uma dúvida recorrente em uma demonstração ou explicação. O comercial pode esclarecer uma condição na proposta. A operação pode precisar rever um processo.\n\nAntes disso, confira a causa. Um comentário isolado não demonstra um padrão. Uma crítica exige contexto e, às vezes, apuração. Registrar temas ajuda a organizar a investigação sem tratar toda manifestação como diagnóstico definitivo.\n\nRelatos positivos também pedem cuidado. Se forem reutilizados em outros materiais, obtenha as autorizações necessárias. Não fabrique avaliações, não disfarce publicidade como experiência espontânea e não faça promessas a partir de resultados que pertencem a uma situação específica.\n\n## Organize a conversa entre as equipes\n\nDefina quem responde, quais informações pode confirmar e para onde encaminha cada tipo de situação. Esclareça quando atendimento, vendas ou operação precisam participar. Uma dúvida simples não deveria ficar abandonada porque caiu na responsabilidade da área errada.\n\nCombine também critérios de moderação que protejam as pessoas. Crítica legítima, spam e exposição de dados pessoais são situações diferentes. A equipe precisa saber tratá-las sem apagar todo desconforto nem deixar informações sensíveis disponíveis.\n\nDepois, observe se as respostas ajudam e se os problemas encaminhados encontram continuidade. A seção de comentários pode ser um ponto de partida para melhorar a experiência, mas não deve virar uma fachada de cuidado enquanto a operação permanece igual.\n\nNa Tweed, conteúdo e atendimento precisam conversar porque ambos tornam a marca visível. O próximo comprador pode conhecer sua empresa pelo modo como ela respondeu a outra pessoa. Vale preparar essa conversa com o mesmo cuidado dedicado ao anúncio.",
+        "sources": "TikTok Next 2026, Evidence economy: https://ads.tiktok.com/business/en-US/next",
+        "prompt": "Conceptual editorial still life of an elegant product vessel surrounded by small translucent glass tiles, each tile revealing a different practical detail of the vessel through reflection, dark navy tabletop, restrained teal highlights, realistic studio photography, thoughtful composition suggesting public questions and shared evidence, no speech text, no lettering, no logos --ar 3:2",
+        "keyword": "experiência de marca",
+        "slug": "comentarios-parte-do-produto-experiencia-de-marca",
+        "meta": "Os comentários integram a experiência de marca: veja como dúvidas, avaliações e respostas públicas ajudam o comprador a investigar uma oferta.",
+        "date": "2026-10-18",
+        "imageAlt": "vidro de perfume cercado por pequenos quadrados de vidro",
+        "faq": "Por que comentários participam da experiência de marca?\nPorque oferecem informações públicas sobre uso, expectativas e relacionamento, ajudando outras pessoas a avaliar a oferta.\n\nToda situação deve ser resolvida nos comentários?\nNão. Questões sobre pedidos e dados pessoais devem seguir para um canal adequado, com orientação clara sobre a continuidade.\n\nComo usar dúvidas recorrentes para melhorar a comunicação?\nRegistre os temas, investigue as causas e confira se faltam informações no conteúdo, na proposta comercial ou no processo de atendimento.",
+        "url": "https://www.agenciatweed.com.br/comentarios-parte-do-produto-experiencia-de-marca/",
+        "imageFile": "conteudos/11159e4a-b666-46eb-838f-1109f8b0543a/imagens/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+        "imageName": "vitriolicnaivety_Conceptual_editorial_still_life_of_an_elegan_7ad58f5a-e93c-4c27-923b-05b5110a9aef_2.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/466cf4a03b605ece7f8be90d8fd7c105e1313134f7055c586e89366224b6c5ae.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-18T21:12:23.278Z"
+        }
+      },
+      "createdAt": "2026-10-18T21:12:23.279Z",
+      "completedAt": "2026-10-19T01:25:38.935009+00:00"
     }
   ]
 }
