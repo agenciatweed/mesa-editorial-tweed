@@ -2,11 +2,16 @@
   "id": "a392ec62-9a33-4bae-832c-1fc667c016a6",
   "title": "Depois do “clean”: 2027 devolve textura, cor e sotaque às marcas",
   "edition": 5,
-  "status": "Revisão",
+  "status": "Pronto",
   "angle": "O artigo partiria de uma provocação: se qualquer marca consegue produzir em segundos uma imagem impecavelmente iluminada, perfeitamente composta e cromaticamente correta, talvez a perfeição deixe de funcionar como prova de qualidade.\nAdobe vem destacando conexão humana, sensorialidade e referências culturais locais; o TikTok identifica uma procura crescente por processos reais, bastidores e pessoas em lugar da estética excessivamente curada; forecasts recentes para 2027 apontam para superfícies táteis, craft visível, tipografia expressiva e cor mais autoral. A própria WGSN define “interconexão” como um dos temas de 2027, aproximando natureza e tecnologia, passado e futuro, racionalidade e emoção. \nA tese não seria “minimalismo morreu”. Isso seria superficial. Seria: num mundo de produção visual praticamente infinita, especificidade se transforma em sinal de autoria. Textura, fotografia menos esterilizada, tipografia particular, referências culturais, imperfeições controladas e códigos próprios ajudam uma marca a parecer originada de algum lugar e de alguém.\nAté o Luminous Blue, escolhido por WGSN/Coloro como cor de 2027, entraria apenas como exemplo de uma tendência maior, não como “pinte sua marca de azul no ano que vem”.",
   "expert": "Dupla",
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "submitted": true,
@@ -27,8 +32,27 @@
   "keyword": "identidade visual",
   "slug": "identidade-visual-2027-textura-cor-autoria",
   "meta": "Identidade visual para 2027: como textura, cor e referências próprias podem expressar autoria sem perder clareza, legibilidade e consistência.",
-  "date": "",
-  "imageAlt": "",
+  "date": "2026-10-19",
+  "imageAlt": "pedaços de cerâmica e um emaranhado de fibras de tecido",
   "faq": "Uma marca precisa abandonar o minimalismo em 2027?\nNão. O artigo propõe investigar particularidade e autoria, sem prever uma estética universal nem invalidar o minimalismo.\n\nComo usar textura e referências culturais com critério?\nParta do contexto real da marca, do produto e das pessoas envolvidas. Preserve legibilidade, contraste, participação e autoria.\n\nComo experimentar uma identidade mais particular?\nEscolha um material, defina a informação que precisa ganhar presença e avalie se a alternativa melhora compreensão, reconhecimento e uso.",
-  "url": "https://www.agenciatweed.com.br/identidade-visual-2027-textura-cor-autoria/"
+  "url": "https://www.agenciatweed.com.br/identidade-visual-2027-textura-cor-autoria/",
+  "imageFile": "conteudos/a392ec62-9a33-4bae-832c-1fc667c016a6/imagens/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+  "imageName": "vitriolicnaivety_Editorial_still_life_of_tactile_ceramic_frag_2d9c46c9-f59b-4526-bb1f-d3744488fb29_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/identidade-visual-2027-textura-cor-autoria/",
+    "publishedAt": "2026-10-19T21:31:36.476672+00:00",
+    "job": "425cb057-764f-4fb2-b102-4350d226b1e6",
+    "files": [
+      "assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+      "identidade-visual-2027-textura-cor-autoria/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

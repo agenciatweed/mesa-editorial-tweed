@@ -478,11 +478,16 @@
       "id": "b9b22beb-9381-489d-8314-4ac863fcdbc7",
       "title": "500 pessoas certas podem valer mais que 500 mil impressões",
       "edition": 2,
-      "status": "Revisão",
+      "status": "Pronto",
       "angle": "Aqui eu atacaria frontalmente uma herança do marketing digital dos últimos quinze anos: tratar alcance como sinônimo automático de oportunidade.\nA Kantar identifica uma migração para microcomunidades, ambientes menores nos quais relevância e pertencimento pesam mais que alcance. Quase 40% dos consumidores no estudo citado pela empresa dizem confiar em recomendações de microcomunidades tanto quanto em recomendações pessoais. Ao mesmo tempo, o investimento dos anunciantes está migrando dentro do creator marketing em direção a creators micro e nano, justamente pelo vínculo com comunidades específicas. \nPara uma PME, isso abre uma pauta deliciosa: em vez de tentar competir pela praça principal da internet, ocupe bem uma rua lateral onde as pessoas certas já conversam.\nO texto poderia mostrar caminhos sem depender de mídia pesada: pequenos creators, comunidades locais, grupos especializados, newsletters, eventos pequenos, associações profissionais, fóruns, parcerias, clientes evangelizadores e participação útil em conversas já existentes.",
       "expert": "Mauro",
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "submitted": true,
@@ -503,20 +508,44 @@
       "keyword": "microcomunidades",
       "slug": "microcomunidades-relevancia-alem-das-impressoes",
       "meta": "Microcomunidades podem criar conversas relevantes para pequenas empresas. Saiba avaliar contexto, contribuição e oportunidades além do alcance.",
-      "date": "",
-      "imageAlt": "",
+      "date": "2026-10-19",
+      "imageAlt": "Várias estatuetas de bonequinhos iluminados convergindo para um centro formado por luzes azuis",
       "faq": "Uma audiência menor garante melhores resultados?\nNão. O resultado depende da adequação das pessoas, do contexto, do esforço e da continuidade. O tamanho sozinho não demonstra valor comercial.\n\nComo uma marca pode participar de microcomunidades?\nConheça as regras e contribua com informações ou iniciativas úteis, respeitando as pessoas e evitando tratar cada interação como uma oportunidade de promoção.\n\nO que avaliar além do alcance?\nConsidere a qualidade das conversas, as dúvidas recebidas, a adequação das oportunidades e a relação entre esforço e objetivo da iniciativa.",
-      "url": "https://www.agenciatweed.com.br/microcomunidades-relevancia-alem-das-impressoes/"
+      "url": "https://www.agenciatweed.com.br/microcomunidades-relevancia-alem-das-impressoes/",
+      "imageFile": "conteudos/b9b22beb-9381-489d-8314-4ac863fcdbc7/imagens/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+      "imageName": "vitriolicnaivety_Editorial_conceptual_still_life_of_a_small_c_c4b100e9-4976-4864-9be1-dcf54a46bc42_1.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/microcomunidades-relevancia-alem-das-impressoes/",
+        "publishedAt": "2026-10-19T21:30:45.997014+00:00",
+        "job": "d26c4571-d889-492b-8305-e3fa0be89f5d",
+        "files": [
+          "assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+          "microcomunidades-relevancia-alem-das-impressoes/index.html",
+          "blog/index.html",
+          "blog-branding-na-marra/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "abdd5daf-4afb-4654-bff5-aa466b1dc27a",
       "title": "A marca que o algoritmo recomenda, mas ninguém confia",
       "edition": 1,
-      "status": "Revisão",
+      "status": "Pronto",
       "angle": "A discussão sobre IA está excessivamente concentrada em “como aparecer nas respostas”. O artigo faria a pergunta anterior: o que acontece quando a máquina encontra sua marca, mas o consumidor não acredita nela?\nA Kantar mostra exatamente essa tensão entre adoção e confiança. Paralelamente, WARC observa erosão do valor de inventário publicitário genérico conforme respostas de IA retiram tráfego e contexto de publishers, enquanto ambientes com conteúdo especializado, relacionamento direto e confiança ganham importância. \nO artigo poderia trabalhar algo especialmente interessante para branding: algoritmos podem acelerar distribuição, mas não fabricam retrospectivamente reputação. Reviews, experiência anterior, reconhecimento, consistência de discurso, presença em fontes confiáveis e diferenciação continuam sendo matéria-prima da decisão.\nIsso transforma branding em infraestrutura para a era da IA, não em decoração anterior à performance.",
       "expert": "Dupla",
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "submitted": true,
@@ -537,20 +566,44 @@
       "keyword": "confiança na marca",
       "slug": "marca-recomendada-por-ia-confianca",
       "meta": "Ser recomendado por IA não encerra a escolha. Entenda como informações claras, evidências pertinentes e experiência sustentam a confiança na marca.",
-      "date": "",
-      "imageAlt": "",
+      "date": "2026-10-19",
+      "imageAlt": "Uma mão segurando um objeto pontiagudo sobre uma taça.",
       "faq": "Ser recomendado por IA garante uma contratação?\nNão. A recomendação cria uma oportunidade, mas a pessoa ainda pode avaliar adequação, preço, escopo e confiança.\n\nO que ajuda a verificar uma marca recomendada?\nInformações coerentes sobre a oferta, responsáveis, processo e limites, além de experiências genuínas e evidências pertinentes à dúvida do comprador.\n\nPor onde começar a revisão da confiança na marca?\nPercorra o caminho da descoberta ao contato comercial e identifique promessas sem explicação, informações contraditórias e dúvidas recorrentes.",
-      "url": "https://www.agenciatweed.com.br/marca-recomendada-por-ia-confianca/"
+      "url": "https://www.agenciatweed.com.br/marca-recomendada-por-ia-confianca/",
+      "imageFile": "conteudos/abdd5daf-4afb-4654-bff5-aa466b1dc27a/imagens/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+      "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_a_precise_74a7456f-916c-4dc5-86b1-193770abcbaf_2.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/marca-recomendada-por-ia-confianca/",
+        "publishedAt": "2026-10-19T21:30:17.862345+00:00",
+        "job": "1c22a722-9622-493a-ba06-5a003fcd113c",
+        "files": [
+          "assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+          "marca-recomendada-por-ia-confianca/index.html",
+          "blog/index.html",
+          "blog-marcas-que-ficam/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "a392ec62-9a33-4bae-832c-1fc667c016a6",
       "title": "Depois do “clean”: 2027 devolve textura, cor e sotaque às marcas",
       "edition": 5,
-      "status": "Revisão",
+      "status": "Pronto",
       "angle": "O artigo partiria de uma provocação: se qualquer marca consegue produzir em segundos uma imagem impecavelmente iluminada, perfeitamente composta e cromaticamente correta, talvez a perfeição deixe de funcionar como prova de qualidade.\nAdobe vem destacando conexão humana, sensorialidade e referências culturais locais; o TikTok identifica uma procura crescente por processos reais, bastidores e pessoas em lugar da estética excessivamente curada; forecasts recentes para 2027 apontam para superfícies táteis, craft visível, tipografia expressiva e cor mais autoral. A própria WGSN define “interconexão” como um dos temas de 2027, aproximando natureza e tecnologia, passado e futuro, racionalidade e emoção. \nA tese não seria “minimalismo morreu”. Isso seria superficial. Seria: num mundo de produção visual praticamente infinita, especificidade se transforma em sinal de autoria. Textura, fotografia menos esterilizada, tipografia particular, referências culturais, imperfeições controladas e códigos próprios ajudam uma marca a parecer originada de algum lugar e de alguém.\nAté o Luminous Blue, escolhido por WGSN/Coloro como cor de 2027, entraria apenas como exemplo de uma tendência maior, não como “pinte sua marca de azul no ano que vem”.",
       "expert": "Dupla",
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "submitted": true,
@@ -571,20 +624,44 @@
       "keyword": "identidade visual",
       "slug": "identidade-visual-2027-textura-cor-autoria",
       "meta": "Identidade visual para 2027: como textura, cor e referências próprias podem expressar autoria sem perder clareza, legibilidade e consistência.",
-      "date": "",
-      "imageAlt": "",
+      "date": "2026-10-19",
+      "imageAlt": "pedaços de cerâmica e um emaranhado de fibras de tecido",
       "faq": "Uma marca precisa abandonar o minimalismo em 2027?\nNão. O artigo propõe investigar particularidade e autoria, sem prever uma estética universal nem invalidar o minimalismo.\n\nComo usar textura e referências culturais com critério?\nParta do contexto real da marca, do produto e das pessoas envolvidas. Preserve legibilidade, contraste, participação e autoria.\n\nComo experimentar uma identidade mais particular?\nEscolha um material, defina a informação que precisa ganhar presença e avalie se a alternativa melhora compreensão, reconhecimento e uso.",
-      "url": "https://www.agenciatweed.com.br/identidade-visual-2027-textura-cor-autoria/"
+      "url": "https://www.agenciatweed.com.br/identidade-visual-2027-textura-cor-autoria/",
+      "imageFile": "conteudos/a392ec62-9a33-4bae-832c-1fc667c016a6/imagens/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+      "imageName": "vitriolicnaivety_Editorial_still_life_of_tactile_ceramic_frag_2d9c46c9-f59b-4526-bb1f-d3744488fb29_0.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/identidade-visual-2027-textura-cor-autoria/",
+        "publishedAt": "2026-10-19T21:31:36.476672+00:00",
+        "job": "425cb057-764f-4fb2-b102-4350d226b1e6",
+        "files": [
+          "assets/artigos-editoriais/daf4ee2bd6ba4503923101e4c94ca8f8955f9d0bafcaaa8068902ec982a83f7e.png",
+          "identidade-visual-2027-textura-cor-autoria/index.html",
+          "blog/index.html",
+          "blog-marcas-com-alma/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "8473fdeb-fa34-4020-84df-503960a927ce",
       "title": "Sua marca precisa ser escolhida por pessoas e por máquinas",
       "edition": 0,
-      "status": "Revisão",
+      "status": "Pronto",
       "angle": "Durante anos, uma pequena empresa precisava ser encontrada no Google e convencer uma pessoa. Em 2027, surge uma terceira etapa: ser suficientemente compreensível, confiável e distinta para também entrar nas respostas de assistentes de IA. A pauta não seria um tutorial de “GEO”, mas uma discussão prática sobre como uma PME pode aumentar sua legibilidade digital sem orçamento milionário: conteúdo original, páginas claras sobre produtos e serviços, autoridade temática, avaliações, presença em fontes confiáveis, informações consistentes e uma proposta de valor que não pareça intercambiável.\nO gancho é excelente porque existe uma discrepância curiosa: 32% dos consumidores pesquisados pela Kantar já usam IA para pesquisar marcas e produtos, mas só 23% confiam nas recomendações recebidas. Ao mesmo tempo, um saldo de 75% dos profissionais de marketing pretende aumentar investimentos em visibilidade dentro de assistentes de IA em 2027.",
       "expert": "Lorenzo",
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "submitted": true,
@@ -606,7 +683,28 @@
       "slug": "legibilidade-digital-marca-pessoas-ia",
       "meta": "A legibilidade digital da marca ajuda pessoas e sistemas a compreender sua oferta. Veja como organizar informação específica e evidências verificáveis.",
       "faq": "O que significa legibilidade digital da marca?\nÉ tornar a oferta, os diferenciais e as informações da empresa compreensíveis e verificáveis em seus pontos de contato digitais.\n\nComo começar a organizar as informações da empresa?\nEscolha um serviço e confira se a página responde às dúvidas reais sobre adequação, escopo, processo e próximos passos. Mantenha os dados consistentes.\n\nConteúdo claro garante presença em respostas de IA?\nNão. A empresa não controla quando um assistente a cita. Clareza e evidências ajudam a avaliar a oferta sem garantir recomendação ou contratação.",
-      "url": "https://www.agenciatweed.com.br/legibilidade-digital-marca-pessoas-ia/"
+      "url": "https://www.agenciatweed.com.br/legibilidade-digital-marca-pessoas-ia/",
+      "date": "2026-10-19",
+      "imageAlt": "Dois objetos cristalinos iluminados por uma luminária",
+      "imageFile": "conteudos/8473fdeb-fa34-4020-84df-503960a927ce/imagens/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+      "imageName": "vitriolicnaivety_Conceptual_editorial_still_life_of_one_disti_e6c1f58e-33c5-455f-85d1-c3824d6675f0_0.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/legibilidade-digital-marca-pessoas-ia/",
+        "publishedAt": "2026-10-19T21:31:11.352420+00:00",
+        "job": "e90a0afd-1cc1-400a-8fec-ea76f4c08e29",
+        "files": [
+          "assets/artigos-editoriais/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+          "legibilidade-digital-marca-pessoas-ia/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     }
   ]
 }

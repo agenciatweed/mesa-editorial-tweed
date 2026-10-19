@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "marca-recomendada-por-ia-confianca",
+  "contentSha256": "88f37e4772fe8244c70a8b0abbfaba76f9069d26381236fcda31937a5a171bb6",
+  "modifiedAt": "2026-10-19",
+  "links": [
+    {
+      "from": "marca-recomendada-por-ia-confianca",
+      "to": "divida-de-marca",
+      "anchor": "evidências",
+      "context": "Pergunte quais riscos o comprador tenta avaliar. Ele quer saber se a equipe entende o contexto? Se haverá acompanhamento? Se o produto serve à aplicação pretendida? Procure evidências que possam responder a essas perguntas sem exagerar seu alcance.",
+      "reason": "Aprofunda sinais de confiança, risco percebido e evidências para avaliar uma oferta."
+    }
+  ]
+}

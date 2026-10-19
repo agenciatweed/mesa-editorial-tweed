@@ -2,11 +2,16 @@
   "id": "b9b22beb-9381-489d-8314-4ac863fcdbc7",
   "title": "500 pessoas certas podem valer mais que 500 mil impressões",
   "edition": 2,
-  "status": "Revisão",
+  "status": "Pronto",
   "angle": "Aqui eu atacaria frontalmente uma herança do marketing digital dos últimos quinze anos: tratar alcance como sinônimo automático de oportunidade.\nA Kantar identifica uma migração para microcomunidades, ambientes menores nos quais relevância e pertencimento pesam mais que alcance. Quase 40% dos consumidores no estudo citado pela empresa dizem confiar em recomendações de microcomunidades tanto quanto em recomendações pessoais. Ao mesmo tempo, o investimento dos anunciantes está migrando dentro do creator marketing em direção a creators micro e nano, justamente pelo vínculo com comunidades específicas. \nPara uma PME, isso abre uma pauta deliciosa: em vez de tentar competir pela praça principal da internet, ocupe bem uma rua lateral onde as pessoas certas já conversam.\nO texto poderia mostrar caminhos sem depender de mídia pesada: pequenos creators, comunidades locais, grupos especializados, newsletters, eventos pequenos, associações profissionais, fóruns, parcerias, clientes evangelizadores e participação útil em conversas já existentes.",
   "expert": "Mauro",
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "submitted": true,
@@ -27,8 +32,27 @@
   "keyword": "microcomunidades",
   "slug": "microcomunidades-relevancia-alem-das-impressoes",
   "meta": "Microcomunidades podem criar conversas relevantes para pequenas empresas. Saiba avaliar contexto, contribuição e oportunidades além do alcance.",
-  "date": "",
-  "imageAlt": "",
+  "date": "2026-10-19",
+  "imageAlt": "Várias estatuetas de bonequinhos iluminados convergindo para um centro formado por luzes azuis",
   "faq": "Uma audiência menor garante melhores resultados?\nNão. O resultado depende da adequação das pessoas, do contexto, do esforço e da continuidade. O tamanho sozinho não demonstra valor comercial.\n\nComo uma marca pode participar de microcomunidades?\nConheça as regras e contribua com informações ou iniciativas úteis, respeitando as pessoas e evitando tratar cada interação como uma oportunidade de promoção.\n\nO que avaliar além do alcance?\nConsidere a qualidade das conversas, as dúvidas recebidas, a adequação das oportunidades e a relação entre esforço e objetivo da iniciativa.",
-  "url": "https://www.agenciatweed.com.br/microcomunidades-relevancia-alem-das-impressoes/"
+  "url": "https://www.agenciatweed.com.br/microcomunidades-relevancia-alem-das-impressoes/",
+  "imageFile": "conteudos/b9b22beb-9381-489d-8314-4ac863fcdbc7/imagens/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+  "imageName": "vitriolicnaivety_Editorial_conceptual_still_life_of_a_small_c_c4b100e9-4976-4864-9be1-dcf54a46bc42_1.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/microcomunidades-relevancia-alem-das-impressoes/",
+    "publishedAt": "2026-10-19T21:30:45.997014+00:00",
+    "job": "d26c4571-d889-492b-8305-e3fa0be89f5d",
+    "files": [
+      "assets/artigos-editoriais/2136e7215b18dc9c5bff7cc2d9a8a1a625a05d3d617de6d692dad8ed9c97f216.png",
+      "microcomunidades-relevancia-alem-das-impressoes/index.html",
+      "blog/index.html",
+      "blog-branding-na-marra/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

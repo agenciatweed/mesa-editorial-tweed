@@ -2,11 +2,16 @@
   "id": "abdd5daf-4afb-4654-bff5-aa466b1dc27a",
   "title": "A marca que o algoritmo recomenda, mas ninguém confia",
   "edition": 1,
-  "status": "Revisão",
+  "status": "Pronto",
   "angle": "A discussão sobre IA está excessivamente concentrada em “como aparecer nas respostas”. O artigo faria a pergunta anterior: o que acontece quando a máquina encontra sua marca, mas o consumidor não acredita nela?\nA Kantar mostra exatamente essa tensão entre adoção e confiança. Paralelamente, WARC observa erosão do valor de inventário publicitário genérico conforme respostas de IA retiram tráfego e contexto de publishers, enquanto ambientes com conteúdo especializado, relacionamento direto e confiança ganham importância. \nO artigo poderia trabalhar algo especialmente interessante para branding: algoritmos podem acelerar distribuição, mas não fabricam retrospectivamente reputação. Reviews, experiência anterior, reconhecimento, consistência de discurso, presença em fontes confiáveis e diferenciação continuam sendo matéria-prima da decisão.\nIsso transforma branding em infraestrutura para a era da IA, não em decoração anterior à performance.",
   "expert": "Dupla",
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "submitted": true,
@@ -27,8 +32,27 @@
   "keyword": "confiança na marca",
   "slug": "marca-recomendada-por-ia-confianca",
   "meta": "Ser recomendado por IA não encerra a escolha. Entenda como informações claras, evidências pertinentes e experiência sustentam a confiança na marca.",
-  "date": "",
-  "imageAlt": "",
+  "date": "2026-10-19",
+  "imageAlt": "Uma mão segurando um objeto pontiagudo sobre uma taça.",
   "faq": "Ser recomendado por IA garante uma contratação?\nNão. A recomendação cria uma oportunidade, mas a pessoa ainda pode avaliar adequação, preço, escopo e confiança.\n\nO que ajuda a verificar uma marca recomendada?\nInformações coerentes sobre a oferta, responsáveis, processo e limites, além de experiências genuínas e evidências pertinentes à dúvida do comprador.\n\nPor onde começar a revisão da confiança na marca?\nPercorra o caminho da descoberta ao contato comercial e identifique promessas sem explicação, informações contraditórias e dúvidas recorrentes.",
-  "url": "https://www.agenciatweed.com.br/marca-recomendada-por-ia-confianca/"
+  "url": "https://www.agenciatweed.com.br/marca-recomendada-por-ia-confianca/",
+  "imageFile": "conteudos/abdd5daf-4afb-4654-bff5-aa466b1dc27a/imagens/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_of_a_precise_74a7456f-916c-4dc5-86b1-193770abcbaf_2.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/marca-recomendada-por-ia-confianca/",
+    "publishedAt": "2026-10-19T21:30:17.862345+00:00",
+    "job": "1c22a722-9622-493a-ba06-5a003fcd113c",
+    "files": [
+      "assets/artigos-editoriais/381f03b2f8762f26ed8c497cfec885c94f56566d61d452c2801c48d8978e2059.png",
+      "marca-recomendada-por-ia-confianca/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

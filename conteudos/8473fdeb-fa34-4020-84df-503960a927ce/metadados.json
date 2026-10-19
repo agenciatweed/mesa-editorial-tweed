@@ -2,11 +2,16 @@
   "id": "8473fdeb-fa34-4020-84df-503960a927ce",
   "title": "Sua marca precisa ser escolhida por pessoas e por máquinas",
   "edition": 0,
-  "status": "Revisão",
+  "status": "Pronto",
   "angle": "Durante anos, uma pequena empresa precisava ser encontrada no Google e convencer uma pessoa. Em 2027, surge uma terceira etapa: ser suficientemente compreensível, confiável e distinta para também entrar nas respostas de assistentes de IA. A pauta não seria um tutorial de “GEO”, mas uma discussão prática sobre como uma PME pode aumentar sua legibilidade digital sem orçamento milionário: conteúdo original, páginas claras sobre produtos e serviços, autoridade temática, avaliações, presença em fontes confiáveis, informações consistentes e uma proposta de valor que não pareça intercambiável.\nO gancho é excelente porque existe uma discrepância curiosa: 32% dos consumidores pesquisados pela Kantar já usam IA para pesquisar marcas e produtos, mas só 23% confiam nas recomendações recebidas. Ao mesmo tempo, um saldo de 75% dos profissionais de marketing pretende aumentar investimentos em visibilidade dentro de assistentes de IA em 2027.",
   "expert": "Lorenzo",
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "submitted": true,
@@ -28,5 +33,26 @@
   "slug": "legibilidade-digital-marca-pessoas-ia",
   "meta": "A legibilidade digital da marca ajuda pessoas e sistemas a compreender sua oferta. Veja como organizar informação específica e evidências verificáveis.",
   "faq": "O que significa legibilidade digital da marca?\nÉ tornar a oferta, os diferenciais e as informações da empresa compreensíveis e verificáveis em seus pontos de contato digitais.\n\nComo começar a organizar as informações da empresa?\nEscolha um serviço e confira se a página responde às dúvidas reais sobre adequação, escopo, processo e próximos passos. Mantenha os dados consistentes.\n\nConteúdo claro garante presença em respostas de IA?\nNão. A empresa não controla quando um assistente a cita. Clareza e evidências ajudam a avaliar a oferta sem garantir recomendação ou contratação.",
-  "url": "https://www.agenciatweed.com.br/legibilidade-digital-marca-pessoas-ia/"
+  "url": "https://www.agenciatweed.com.br/legibilidade-digital-marca-pessoas-ia/",
+  "date": "2026-10-19",
+  "imageAlt": "Dois objetos cristalinos iluminados por uma luminária",
+  "imageFile": "conteudos/8473fdeb-fa34-4020-84df-503960a927ce/imagens/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_still_life_of_one_disti_e6c1f58e-33c5-455f-85d1-c3824d6675f0_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/legibilidade-digital-marca-pessoas-ia/",
+    "publishedAt": "2026-10-19T21:31:11.352420+00:00",
+    "job": "e90a0afd-1cc1-400a-8fec-ea76f4c08e29",
+    "files": [
+      "assets/artigos-editoriais/9414b7842f54932c3c627daad66daaf617f977ba3bb3c0260b13e6828e945f09.png",
+      "legibilidade-digital-marca-pessoas-ia/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
