@@ -1496,6 +1496,80 @@
       },
       "createdAt": "2026-10-19T21:23:12.209Z",
       "completedAt": "2026-10-19T21:31:36.478481+00:00"
+    },
+    {
+      "id": "34cc4ab1-8b17-46a0-8c8a-9e05110057da",
+      "itemId": "pauta-diaria-2026-10-20",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "ab056b3c0532b2f2b1c4de18e56d5d74abda4ff9e85d50598517423e9ef15847",
+      "snapshot": "689fa911ebef68ef657e65017eaeef2cbcb1e9498674fb45c2fd6cb20aaf800c",
+      "input": {
+        "id": "pauta-diaria-2026-10-20",
+        "title": "Reaproveitar um vídeo não é publicar a mesma peça em todo lugar",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 01/10/2026, o Google publicou orientações sobre usar peças de redes sociais como ponto de partida para anúncios no YouTube, respeitar especificações e testar mudanças gradualmente. A pauta transforma esse anúncio em uma discussão de criação para PMEs: economizar produção exige distinguir o que pode ser reaproveitado e o que precisa de adaptação à situação de uso. Tese: o ativo valioso é a ideia e o material de origem; abertura, duração, enquadramento, ritmo, demonstração e chamada precisam ser avaliados para cada aplicação. Usar um exemplo hipotético de uma empresa que grava uma demonstração de serviço e deriva versões úteis, sem multiplicar formatos por obrigação. Mostrar como planejar uma captação modular, preservar os códigos de marca, revisar clareza e legibilidade e definir uma hipótese por teste. Não afirmar que um formato sempre supera outro ou que basta automatizar cortes. Diferenciar do artigo sobre plano de mídia: aqui o foco é direção e adaptação criativa do material, não distribuição do orçamento. Usar o anúncio como ponto de partida, sem converter recomendações comerciais da plataforma em garantias de desempenho.",
+        "audience": "Donos de pequenas empresas e gestores de marketing com orçamento de produção limitado, que precisam aproveitar melhor vídeos e fotografias existentes sem transformar cada novo canal em uma nova produção completa.",
+        "goal": "De “economizar é postar exatamente o mesmo arquivo em todos os lugares” para “economizar com qualidade é planejar bons materiais de origem e adaptar sua comunicação ao contexto de cada uso”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-20",
+          "sources": [
+            {
+              "title": "Turn your existing social assets into high-impact YouTube ads.",
+              "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+              "publishedAt": "2026-10-01"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-20T15:32:18.883Z",
+      "startedAt": "2026-10-20T17:37:36.936Z",
+      "completedAt": "2026-10-20T17:37:37.024Z"
+    },
+    {
+      "id": "6202af51-ecef-4f3f-b1e8-86930c593012",
+      "itemId": "pauta-diaria-2026-10-19",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "217f8f6c8b4ee38efd32023fac77742f17dece3d189f642eb6342126f6c8c43e",
+      "snapshot": "1b6f209a0825e541c8ff2431bcfff7c11a846d4d76870d32282e8a91d7ee61cb",
+      "input": {
+        "id": "pauta-diaria-2026-10-19",
+        "title": "Sua campanha está aprendendo com os dados certos?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho: em 13/10/2026, o Google anunciou o Demand Gen Drop de outubro, com uma métrica de Data Strength Uplift, expansão do Data Manager e futuras integrações de conversões otimizadas. A pauta deve discutir um problema de gestão para PMEs, não ensinar a configurar uma ferramenta: quais sinais a empresa envia às plataformas e se esses sinais representam oportunidades úteis ao negócio. Tese: automatizar a distribuição não dispensa definir o que é uma conversão relevante e organizar a passagem de informações entre site, atendimento e vendas. Usar exemplo hipotético de formulário preenchido versus oportunidade adequada ou venda confirmada; mostrar como revisar eventos, critérios de qualificação, responsabilidades e retorno do comercial sem prometer desempenho. Diferenciar melhoria da medição de aumento efetivo de demanda. Não repetir o artigo de métricas de vaidade: aqui o foco é a qualidade dos sinais que alimentam a automação, antes de interpretar o relatório. Dados de desempenho divulgados pelo Google são análises internas e não garantias para qualquer PME; dispensar percentuais se não forem necessários à tese.",
+        "audience": "Donos de PMEs e gestores de marketing e vendas que usam campanhas automatizadas e recebem relatórios de conversão, mas não sabem se a plataforma está sendo alimentada com sinais de interesse real e qualidade comercial.",
+        "goal": "Sair de “a plataforma sabe otimizar sozinha” para “a automação depende dos sinais e critérios de negócio que minha empresa consegue definir, registrar e devolver com consistência”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-19",
+          "sources": [
+            {
+              "title": "Build your data strength with October’s Demand Gen drop.",
+              "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+              "publishedAt": "2026-10-13"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-20T15:32:22.940Z",
+      "startedAt": "2026-10-20T17:37:37.089Z",
+      "completedAt": "2026-10-20T17:37:37.181Z"
     }
   ]
 }
