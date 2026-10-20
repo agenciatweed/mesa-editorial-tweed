@@ -4,6 +4,32 @@
   "exportedAt": "2026-10-17T16:34:11.621Z",
   "items": [
     {
+      "id": "pauta-diaria-2026-10-19",
+      "title": "Sua campanha está aprendendo com os dados certos?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Gancho: em 13/10/2026, o Google anunciou o Demand Gen Drop de outubro, com uma métrica de Data Strength Uplift, expansão do Data Manager e futuras integrações de conversões otimizadas. A pauta deve discutir um problema de gestão para PMEs, não ensinar a configurar uma ferramenta: quais sinais a empresa envia às plataformas e se esses sinais representam oportunidades úteis ao negócio. Tese: automatizar a distribuição não dispensa definir o que é uma conversão relevante e organizar a passagem de informações entre site, atendimento e vendas. Usar exemplo hipotético de formulário preenchido versus oportunidade adequada ou venda confirmada; mostrar como revisar eventos, critérios de qualificação, responsabilidades e retorno do comercial sem prometer desempenho. Diferenciar melhoria da medição de aumento efetivo de demanda. Não repetir o artigo de métricas de vaidade: aqui o foco é a qualidade dos sinais que alimentam a automação, antes de interpretar o relatório. Dados de desempenho divulgados pelo Google são análises internas e não garantias para qualquer PME; dispensar percentuais se não forem necessários à tese.",
+      "audience": "Donos de PMEs e gestores de marketing e vendas que usam campanhas automatizadas e recebem relatórios de conversão, mas não sabem se a plataforma está sendo alimentada com sinais de interesse real e qualidade comercial.",
+      "goal": "Sair de “a plataforma sabe otimizar sozinha” para “a automação depende dos sinais e critérios de negócio que minha empresa consegue definir, registrar e devolver com consistência”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-19",
+        "sources": [
+          {
+            "title": "Build your data strength with October’s Demand Gen drop.",
+            "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+            "publishedAt": "2026-10-13"
+          }
+        ]
+      }
+    },
+    {
       "id": "a1",
       "title": "O custo invisível de coordenar o próprio marketing",
       "edition": 0,
