@@ -1570,6 +1570,139 @@
       "createdAt": "2026-10-20T15:32:22.940Z",
       "startedAt": "2026-10-20T17:37:37.089Z",
       "completedAt": "2026-10-20T17:37:37.181Z"
+    },
+    {
+      "id": "ad0e235a-ed6c-4fe8-b064-08958a71d9c9",
+      "itemId": "pauta-diaria-2026-10-19",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "3d047f20fcae22d0a56a712a165cc31e8ae999096cb2ca622d60921671ad6000",
+      "snapshot": "ee6373f976c790c157cc9172bc9ce01629f1074cce00f279e24ab4bfef879b5f",
+      "input": {
+        "id": "pauta-diaria-2026-10-19",
+        "title": "Sua campanha está aprendendo com os dados certos?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho: em 13/10/2026, o Google anunciou o Demand Gen Drop de outubro, com uma métrica de Data Strength Uplift, expansão do Data Manager e futuras integrações de conversões otimizadas. A pauta deve discutir um problema de gestão para PMEs, não ensinar a configurar uma ferramenta: quais sinais a empresa envia às plataformas e se esses sinais representam oportunidades úteis ao negócio. Tese: automatizar a distribuição não dispensa definir o que é uma conversão relevante e organizar a passagem de informações entre site, atendimento e vendas. Usar exemplo hipotético de formulário preenchido versus oportunidade adequada ou venda confirmada; mostrar como revisar eventos, critérios de qualificação, responsabilidades e retorno do comercial sem prometer desempenho. Diferenciar melhoria da medição de aumento efetivo de demanda. Não repetir o artigo de métricas de vaidade: aqui o foco é a qualidade dos sinais que alimentam a automação, antes de interpretar o relatório. Dados de desempenho divulgados pelo Google são análises internas e não garantias para qualquer PME; dispensar percentuais se não forem necessários à tese.",
+        "audience": "Donos de PMEs e gestores de marketing e vendas que usam campanhas automatizadas e recebem relatórios de conversão, mas não sabem se a plataforma está sendo alimentada com sinais de interesse real e qualidade comercial.",
+        "goal": "Sair de “a plataforma sabe otimizar sozinha” para “a automação depende dos sinais e critérios de negócio que minha empresa consegue definir, registrar e devolver com consistência”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-19",
+          "sources": [
+            {
+              "title": "Build your data strength with October’s Demand Gen drop.",
+              "url": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+              "publishedAt": "2026-10-13"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "6202af51-ecef-4f3f-b1e8-86930c593012",
+          "completedAt": "2026-10-20T17:37:37.158Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O relatório informa que a campanha gerou conversões. O comercial diz que poucos contatos tinham relação com o serviço oferecido. As duas equipes podem estar observando fatos verdadeiros, mas chamando de resultado coisas diferentes.\n\nA qualidade dos dados de campanha começa nessa definição. Antes de discutir o que uma plataforma consegue automatizar, a empresa precisa compreender quais acontecimentos registra e o que eles representam para o negócio.\n\nUm formulário enviado pode ser um sinal de interesse. Não é, por si só, uma oportunidade adequada ou uma venda. Se essa diferença desaparece do processo, fica difícil avaliar tanto o trabalho de mídia quanto o caminho comercial.\n\n## A tecnologia não define sozinha o que importa\n\nNo [Demand Gen Drop de outubro, publicado em 13/10/2026](https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/), o Google apresentou atualizações relacionadas à qualidade dos dados e à medição, incluindo uma métrica de Data Strength Uplift e expansão do Data Manager.\n\nO anúncio destaca uma preocupação pertinente: a informação que chega à plataforma participa do funcionamento da automação. Isso não permite concluir que configurar uma ferramenta resolverá qualquer problema de vendas. A aplicação depende da campanha, da implementação e das condições da empresa.\n\nA pergunta de gestão vem antes da configuração: qual acontecimento queremos medir e por que ele merece ser tratado como sinal de avanço?\n\n## Um exemplo de conversão que ainda precisa de contexto\n\nImagine uma empresa que instala equipamentos para outras empresas. É um exemplo hipotético. Sua campanha encaminha interessados a um formulário. Entre os pedidos, há compradores da região atendida, pessoas buscando emprego, solicitações de assistência e consultas sobre produtos que ela não vende.\n\nO envio do formulário aconteceu em todos esses casos. A utilidade comercial dos contatos é diferente. Um relatório que apresenta o total de envios está descrevendo uma etapa do percurso, não necessariamente o número de oportunidades que a empresa pode atender.\n\nIsso não torna inútil acompanhar formulários. Torna necessário distinguir o registro inicial da avaliação posterior. A equipe pode precisar observar interesse, adequação, reunião, proposta e contratação em momentos diferentes.\n\nNem toda etapa deve virar imediatamente um sinal para a plataforma. É preciso avaliar o que a integração suporta, a consistência do registro e a quantidade e o tempo das ocorrências. Essa decisão exige acompanhamento de quem entende medição e do responsável pelo processo comercial.\n\n## Combine critérios antes de trocar dados\n\nComece por uma oferta e defina, com marketing e vendas, o que caracteriza um contato adequado. Pode ser a necessidade compatível com o serviço, a região atendida ou uma condição indispensável para realizar o trabalho.\n\nEvite critérios que dependem apenas da impressão de quem recebeu a mensagem. Se duas pessoas classificam situações semelhantes de maneiras opostas, o registro exige uma conversa antes de ser utilizado como base para decisões automatizadas.\n\nDefina também quem atualiza a informação e em qual momento. Uma proposta que ficou sem acompanhamento não deveria ser confundida automaticamente com falta de interesse. Um contato recente pode precisar de tempo para avançar.\n\nO objetivo é produzir um retorno consistente e útil, sem coletar informações desnecessárias nem circular detalhes que não sejam pertinentes ao trabalho.\n\n## Medir melhor pode mudar a leitura sem mudar a demanda\n\nAo corrigir um evento ou eliminar um registro duplicado, o número informado pode mudar mesmo que a procura real permaneça semelhante. Da mesma forma, reconhecer etapas antes invisíveis pode alterar o relatório sem representar novas vendas.\n\nPor isso, registre as mudanças na medição e explique o que passa a ser contado. Comparar períodos sem considerar uma alteração de critério pode levar a conclusões apressadas.\n\nEsse cuidado separa dois trabalhos relacionados: melhorar o conhecimento sobre o percurso e melhorar o percurso em si. A informação pode revelar um problema, mas alguém ainda precisa decidir como tratá-lo.\n\n## Faça uma revisão que caiba na operação\n\nEscolha uma campanha e acompanhe alguns contatos do primeiro registro ao desfecho conhecido. Confira se o evento ocorre quando deveria, se há duplicações e se o comercial consegue classificar o contato com os critérios combinados.\n\nListe as lacunas, atribua responsáveis e priorize o que interfere na interpretação. Não é necessário começar com uma integração complexa para reconhecer um problema básico de definição ou registro.\n\nNa Tweed, mídia, site e conversa comercial precisam compartilhar uma leitura do negócio. A automação ganha uma base mais responsável quando a empresa sabe explicar os sinais que envia. Antes de perguntar se a campanha está aprendendo, vale conferir se o que ela recebe corresponde ao que você pretende construir.",
+        "sources": "Google Ads & Commerce, 13/10/2026: https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/",
+        "prompt": "Natural editorial photograph in a modest Brazilian small business office, a female business owner and a male sales colleague seated side by side reviewing customer enquiry notes and a laptop together, quietly discussing which enquiries match their actual services, candid concentrated expressions, ordinary desk with a notebook and coffee, soft morning window light, realistic lived-in environment, documentary framing, no pointing at charts, no staged smiles, no readable text or screens, no visible logos --ar 3:2",
+        "imageAlt": "Dona de empresa e colega de vendas conferem juntos anotações de clientes e informações no computador."
+      },
+      "createdAt": "2026-10-21T09:01:54.170Z",
+      "startedAt": "2026-10-21T13:40:40.017Z",
+      "completedAt": "2026-10-21T13:42:00.904Z"
+    },
+    {
+      "id": "afe985e5-696a-4443-82a7-1e8b2a0dbe9a",
+      "itemId": "pauta-diaria-2026-10-20",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "afbc45f14da52f64e2029ac64a51b54f9905e61952d3c564c9ded915a55a7b33",
+      "snapshot": "9e6b01b38eb5c52f5e42ecff519c0ca17817b7857177ee8450ac423fccb0e21f",
+      "input": {
+        "id": "pauta-diaria-2026-10-20",
+        "title": "Reaproveitar um vídeo não é publicar a mesma peça em todo lugar",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 01/10/2026, o Google publicou orientações sobre usar peças de redes sociais como ponto de partida para anúncios no YouTube, respeitar especificações e testar mudanças gradualmente. A pauta transforma esse anúncio em uma discussão de criação para PMEs: economizar produção exige distinguir o que pode ser reaproveitado e o que precisa de adaptação à situação de uso. Tese: o ativo valioso é a ideia e o material de origem; abertura, duração, enquadramento, ritmo, demonstração e chamada precisam ser avaliados para cada aplicação. Usar um exemplo hipotético de uma empresa que grava uma demonstração de serviço e deriva versões úteis, sem multiplicar formatos por obrigação. Mostrar como planejar uma captação modular, preservar os códigos de marca, revisar clareza e legibilidade e definir uma hipótese por teste. Não afirmar que um formato sempre supera outro ou que basta automatizar cortes. Diferenciar do artigo sobre plano de mídia: aqui o foco é direção e adaptação criativa do material, não distribuição do orçamento. Usar o anúncio como ponto de partida, sem converter recomendações comerciais da plataforma em garantias de desempenho.",
+        "audience": "Donos de pequenas empresas e gestores de marketing com orçamento de produção limitado, que precisam aproveitar melhor vídeos e fotografias existentes sem transformar cada novo canal em uma nova produção completa.",
+        "goal": "De “economizar é postar exatamente o mesmo arquivo em todos os lugares” para “economizar com qualidade é planejar bons materiais de origem e adaptar sua comunicação ao contexto de cada uso”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-20",
+          "sources": [
+            {
+              "title": "Turn your existing social assets into high-impact YouTube ads.",
+              "url": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+              "publishedAt": "2026-10-01"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "34cc4ab1-8b17-46a0-8c8a-9e05110057da",
+          "completedAt": "2026-10-20T17:37:36.999Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Sua empresa tem uma boa demonstração em vídeo. O material explica o serviço, mostra um detalhe importante e poderia continuar útil por bastante tempo. Quando surge outro canal, porém, a dúvida parece ter apenas duas respostas: produzir tudo de novo ou publicar exatamente o mesmo arquivo.\n\nO reaproveitamento de vídeo permite uma terceira escolha: preservar a ideia e os materiais de origem, adaptando o que a pessoa precisa ver, ouvir e compreender em cada situação. Economizar produção pode começar por esse planejamento.\n\n## O arquivo existente é um ponto de partida\n\nEm uma [publicação de 1º de outubro de 2026](https://blog.google/products/ads-commerce/creating-assets-youtube-ads/), o Google recomenda considerar peças existentes de redes sociais como base para anúncios no YouTube, respeitando as especificações, e testar alterações gradualmente. É uma orientação da plataforma, não uma garantia de desempenho.\n\nA discussão útil para uma pequena empresa vai além da possibilidade de reaproveitar arquivos. O material continua explicando a oferta quando muda de contexto? A abertura funciona para alguém que nunca ouviu falar da empresa? O próximo passo faz sentido naquele momento?\n\nUma peça pode atender às dimensões exigidas e continuar inadequada à comunicação. Cortar a imagem resolve o enquadramento; não decide o argumento.\n\n## Preserve a ideia, reveja a forma de apresentá-la\n\nImagine uma empresa de manutenção que grava uma demonstração de inspeção. É um exemplo hipotético. O vídeo completo inclui uma apresentação da equipe, a explicação do problema, detalhes do procedimento e uma orientação sobre como solicitar avaliação.\n\nPara quem já acompanha a empresa, a apresentação pode ajudar a reconhecer as pessoas. Para um público que ainda não conhece o serviço, talvez seja necessário começar pelo problema observado. Uma versão curta poderia mostrar um detalhe da inspeção e esclarecer o que ele permite verificar, sem sugerir um diagnóstico que a imagem não sustenta.\n\nO trabalho não exige inventar uma ideia independente para cada canal. Exige escolher o trecho, a ordem e o nível de explicação que preservam a mensagem. Uma demonstração técnica pode precisar de contexto; um depoimento autorizado não deve ser recortado de modo a mudar seu sentido.\n\n## Planeje a captação para ter escolhas depois\n\nAntes de gravar, defina a mensagem principal e os detalhes necessários para compreendê-la. Registre a ação completa, algumas aproximações relevantes e uma explicação que possa ser entendida sem depender de uma longa apresentação anterior.\n\nObserve também o espaço disponível para reenquadrar, a qualidade do áudio e a legibilidade do que aparece. Não é preciso transformar toda captação em uma produção enorme. É preciso saber quais materiais farão falta na edição.\n\nUma pequena conversa entre direção e produção pode evitar que a única imagem importante fique cortada numa adaptação. Pode esclarecer também quais informações devem ser faladas, quais podem aparecer visualmente e o que merece uma demonstração própria.\n\n## Adapte sem descaracterizar a marca\n\nA duração, o ritmo e a chamada podem variar. O compromisso da empresa com a informação precisa permanecer. Uma abertura mais direta não autoriza exagerar um problema; uma versão mais curta não deve esconder uma condição relevante.\n\nA identidade ajuda a reconhecer os materiais, mas não precisa ocupar toda a tela. Priorize a compreensão do produto ou serviço. Confira se letras, legendas e elementos importantes continuam visíveis na versão que será usada.\n\nEsse cuidado também evita confundir adaptação com fabricação de volume. Se duas versões fazem o mesmo trabalho e não existe uma razão para mantê-las, produzir mais uma pode apenas aumentar o esforço de revisão.\n\n## Teste uma decisão por vez\n\nRegistre o que pretende aprender com a mudança. Você quer avaliar uma abertura que explica primeiro o problema? Uma demonstração mais direta? Um próximo passo mais claro?\n\nObserve os resultados considerando contexto e tempo de compra. Mudar simultaneamente público, oferta, argumento e formato dificulta entender o que aconteceu. Uma versão nova pode merecer continuidade, revisão ou descarte.\n\nNa Tweed, aproveitar melhor uma produção envolve direção criativa e conhecimento da oferta. O objetivo é ter materiais que continuem úteis, com adaptações justificadas. Antes de pedir mais peças, vale perguntar quais decisões fariam o que já existe comunicar melhor.",
+        "sources": "Google Ads & Commerce, 01/10/2026: https://blog.google/products/ads-commerce/creating-assets-youtube-ads/",
+        "prompt": "Candid editorial photograph inside a small Brazilian service business, a woman videographer recording a technician demonstrating a practical maintenance task at a workbench while a colleague checks the framing on a nearby laptop, authentic everyday interaction, focused natural expressions, warm daylight from a window, realistic tools and modest workspace, subtle documentary composition, no posing for the camera, no readable screens, no text, no visible logos --ar 3:2",
+        "imageAlt": "Videomaker grava um técnico trabalhando enquanto uma colega confere o enquadramento no computador."
+      },
+      "createdAt": "2026-10-21T09:01:59.184Z",
+      "startedAt": "2026-10-21T13:40:40.081Z",
+      "completedAt": "2026-10-21T13:42:00.985Z"
+    },
+    {
+      "id": "7431a289-5973-4fc7-8a1a-8fed16246e92",
+      "itemId": "pauta-diaria-2026-10-21",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "2fe89ffed700086a0e81091d9c08c720539a8298497bfe9bf9a646eb84e7c761",
+      "snapshot": "5c2f6255e294ba0707ea8f8dc17c304f5f889a9003171b6d9bb7eb301d0ce04f",
+      "input": {
+        "id": "pauta-diaria-2026-10-21",
+        "title": "Sua IA conhece a marca ou só reconhece as cores?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho: em 20/10/2026, o Google anunciou novos recursos do Gemini para pequenos negócios, incluindo definição e retenção de estilo visual a partir de site, brand kit, fontes e paletas, além de conexões com outros aplicativos. Tese: facilitar a reprodução do estilo torna ainda mais importante distinguir consistência visual de direção de marca. Uma ferramenta pode receber referências de aparência, mas a empresa precisa explicitar público, promessa, limites de linguagem, informações verificadas e critérios de aprovação para avaliar o que gera. Discutir como uma PME organiza um briefing de marca útil à IA: referências aprovadas, exemplos de decisões, usos inadequados, responsáveis e conferência da oferta. Usar um exemplo hipotético de peças visualmente coerentes que apresentam promessas incompatíveis com o serviço. Não fazer tutorial do Gemini nem afirmar disponibilidade universal imediata: a fonte anuncia implantação gradual nos dias seguintes. Diferenciar dos artigos sobre personalidade e IA sem parecer robô: o foco é o que precisa estar documentado e revisado quando ferramentas passam a memorizar e reproduzir ativos visuais. Não tratar a tecnologia como incapaz de trabalhar contexto; mostrar que fornecer e validar esse contexto continua sendo uma responsabilidade da empresa.",
+        "audience": "Donos de PMEs e gestores de marketing que começam a gerar campanhas e peças com IA a partir de logotipo, site ou paleta de cores e esperam consistência de marca sem organizar critérios editoriais e comerciais.",
+        "goal": "De “se a IA usa meu logotipo e minhas cores, o material está alinhado à marca” para “alinhamento exige contexto, critérios de decisão e revisão da promessa, além de consistência visual”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-21",
+          "sources": [
+            {
+              "title": "New Gemini tools for small business owners",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+              "publishedAt": "2026-10-20"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-21T09:02:09.926Z",
+      "startedAt": "2026-10-21T13:40:40.151Z",
+      "completedAt": "2026-10-21T13:42:01.070Z"
     }
   ]
 }
