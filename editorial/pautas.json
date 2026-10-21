@@ -4,6 +4,32 @@
   "exportedAt": "2026-10-17T16:34:11.621Z",
   "items": [
     {
+      "id": "pauta-diaria-2026-10-21",
+      "title": "Sua IA conhece a marca ou só reconhece as cores?",
+      "edition": 1,
+      "expert": "Lorenzo",
+      "angle": "Gancho: em 20/10/2026, o Google anunciou novos recursos do Gemini para pequenos negócios, incluindo definição e retenção de estilo visual a partir de site, brand kit, fontes e paletas, além de conexões com outros aplicativos. Tese: facilitar a reprodução do estilo torna ainda mais importante distinguir consistência visual de direção de marca. Uma ferramenta pode receber referências de aparência, mas a empresa precisa explicitar público, promessa, limites de linguagem, informações verificadas e critérios de aprovação para avaliar o que gera. Discutir como uma PME organiza um briefing de marca útil à IA: referências aprovadas, exemplos de decisões, usos inadequados, responsáveis e conferência da oferta. Usar um exemplo hipotético de peças visualmente coerentes que apresentam promessas incompatíveis com o serviço. Não fazer tutorial do Gemini nem afirmar disponibilidade universal imediata: a fonte anuncia implantação gradual nos dias seguintes. Diferenciar dos artigos sobre personalidade e IA sem parecer robô: o foco é o que precisa estar documentado e revisado quando ferramentas passam a memorizar e reproduzir ativos visuais. Não tratar a tecnologia como incapaz de trabalhar contexto; mostrar que fornecer e validar esse contexto continua sendo uma responsabilidade da empresa.",
+      "audience": "Donos de PMEs e gestores de marketing que começam a gerar campanhas e peças com IA a partir de logotipo, site ou paleta de cores e esperam consistência de marca sem organizar critérios editoriais e comerciais.",
+      "goal": "De “se a IA usa meu logotipo e minhas cores, o material está alinhado à marca” para “alinhamento exige contexto, critérios de decisão e revisão da promessa, além de consistência visual”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-21",
+        "sources": [
+          {
+            "title": "New Gemini tools for small business owners",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+            "publishedAt": "2026-10-20"
+          }
+        ]
+      }
+    },
+    {
       "id": "pauta-diaria-2026-10-20",
       "title": "Reaproveitar um vídeo não é publicar a mesma peça em todo lugar",
       "edition": 2,
