@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "reaproveitamento-video-adaptacao-criativa",
+  "contentSha256": "452e2ca5fecd765568e70e8598168e529683a4ee013d65307bff05c11c916e81",
+  "modifiedAt": "2026-10-21",
+  "links": [
+    {
+      "from": "reaproveitamento-video-adaptacao-criativa",
+      "to": "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
+      "anchor": "fabricação de volume",
+      "context": "Esse cuidado também evita confundir adaptação com fabricação de volume.",
+      "reason": "Relaciona a adaptação criativa à escolha de materiais relevantes em vez de multiplicar peças."
+    }
+  ]
+}

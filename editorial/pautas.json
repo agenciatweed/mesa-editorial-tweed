@@ -1,7 +1,7 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-21T10:45:48.158Z",
+  "exportedAt": "2026-10-21T13:48:12.788Z",
   "items": [
     {
       "id": "pauta-diaria-2026-10-21",
@@ -48,11 +48,16 @@
       "angle": "Gancho verificado: em 01/10/2026, o Google publicou orientações sobre usar peças de redes sociais como ponto de partida para anúncios no YouTube, respeitar especificações e testar mudanças gradualmente. A pauta transforma esse anúncio em uma discussão de criação para PMEs: economizar produção exige distinguir o que pode ser reaproveitado e o que precisa de adaptação à situação de uso. Tese: o ativo valioso é a ideia e o material de origem; abertura, duração, enquadramento, ritmo, demonstração e chamada precisam ser avaliados para cada aplicação. Usar um exemplo hipotético de uma empresa que grava uma demonstração de serviço e deriva versões úteis, sem multiplicar formatos por obrigação. Mostrar como planejar uma captação modular, preservar os códigos de marca, revisar clareza e legibilidade e definir uma hipótese por teste. Não afirmar que um formato sempre supera outro ou que basta automatizar cortes. Diferenciar do artigo sobre plano de mídia: aqui o foco é direção e adaptação criativa do material, não distribuição do orçamento. Usar o anúncio como ponto de partida, sem converter recomendações comerciais da plataforma em garantias de desempenho.",
       "audience": "Donos de pequenas empresas e gestores de marketing com orçamento de produção limitado, que precisam aproveitar melhor vídeos e fotografias existentes sem transformar cada novo canal em uma nova produção completa.",
       "goal": "De “economizar é postar exatamente o mesmo arquivo em todos os lugares” para “economizar com qualidade é planejar bons materiais de origem e adaptar sua comunicação ao contexto de cada uso”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -80,14 +85,28 @@
       "keyword": "reaproveitamento de vídeo",
       "slug": "reaproveitamento-video-adaptacao-criativa",
       "meta": "O reaproveitamento de vídeo exige adaptar abertura, ritmo e contexto. Saiba planejar materiais de origem úteis sem multiplicar peças por obrigação.",
-      "date": "",
+      "date": "2026-10-21",
       "imageFile": "conteudos/pauta-diaria-2026-10-20/imagens/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
       "imageName": "vitriolicnaivety_Candid_editorial_photograph_inside_a_small_B_9fedf2e7-3950-428f-8673-3f701b4e6743_2.png",
       "imageWidth": 1344,
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
       "faq": "Reaproveitar vídeo é publicar o mesmo arquivo em todos os canais?\nNão. É preservar a ideia e os materiais de origem, ajustando sua apresentação para o contexto de cada uso.\n\nO que planejar antes de gravar um vídeo para diferentes usos?\nDefina a mensagem principal, registre detalhes relevantes e considere áudio, legibilidade e espaço para reenquadramento.\n\nComo testar adaptações de vídeo com mais clareza?\nDefina o que deseja aprender e mude uma decisão por vez, considerando também o contexto e o tempo de compra ao observar os resultados.",
-      "url": "https://www.agenciatweed.com.br/reaproveitamento-video-adaptacao-criativa/"
+      "url": "https://www.agenciatweed.com.br/reaproveitamento-video-adaptacao-criativa/",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/reaproveitamento-video-adaptacao-criativa/",
+        "publishedAt": "2026-10-21T18:42:07.139685+00:00",
+        "job": "e8cbd758-645e-440d-a407-7f0dd7a368b9",
+        "files": [
+          "assets/artigos-editoriais/6143e2f47c036cf2cde41f7333424b81eb8e822e57abae345fa55b442b7539f7.png",
+          "reaproveitamento-video-adaptacao-criativa/index.html",
+          "blog/index.html",
+          "blog-branding-na-marra/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-diaria-2026-10-19",
