@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "qualidade-dados-campanha-conversoes",
+  "contentSha256": "7b5cf658d60b05bbb5c3dda68a3d9700977b8ba742af73d4ad529a6ce362b07e",
+  "modifiedAt": "2026-10-22",
+  "links": [
+    {
+      "from": "qualidade-dados-campanha-conversoes",
+      "to": "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+      "anchor": "marketing e vendas",
+      "context": "Comece por uma oferta e defina, com marketing e vendas, o que caracteriza um contato adequado.",
+      "reason": "Aprofunda o alinhamento entre as equipes na definição dos contatos qualificados."
+    }
+  ]
+}

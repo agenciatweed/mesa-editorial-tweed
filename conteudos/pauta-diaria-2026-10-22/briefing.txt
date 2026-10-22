@@ -1,9 +1,7 @@
 TÍTULO: Sua próxima parceria vai além de juntar dois logotipos?
 EDITORIA: 4
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: em 15/10/2026, o Spotify anunciou uma colaboração com FC Barcelona e Tyler, The Creator/GOLF WANG que reúne camiseta, coleção, curta dirigido pelo artista e evento, com direção criativa atribuída ao artista. A pauta deve analisar a arquitetura da colaboração anunciada, sem tratar eventos previstos para 24 e 25/10 como já realizados nem alegar resultados comerciais ainda não demonstrados. Tese: uma parceria de marca precisa definir uma contribuição complementar e uma experiência útil ao público; somar logotipos ou seguidores não substitui a decisão sobre o que será criado em conjunto. Traduzir o raciocínio para PMEs, sem recomendar copiar a escala do case: exemplo hipotético de uma marca de mobiliário e um estúdio de iluminação criando uma demonstração de uso, com papéis e informações claros. Propor critérios para escolher parceiro, definir afinidade de público, oferta conjunta, responsabilidades, aprovação, capacidade de entrega e o que observar depois da ação. Diferenciar do texto sobre microcomunidades: foco no desenho da colaboração entre negócios, não no tamanho da audiência. Distinguir intenção e formato anunciados de evidência de eficácia; não transformar o prestígio das marcas em prova causal de vendas.
 LEITOR: Donos de PMEs e gestores de marketing que avaliam ações conjuntas com outras empresas, criadores ou negócios locais e precisam decidir se a parceria traz uma contribuição concreta à marca e ao público.
 OBJETIVO: De “parceria é trocar divulgação e colocar dois logos na mesma peça” para “uma colaboração precisa de contribuição complementar, experiência coerente e responsabilidades que sustentem o que será prometido”.
 
-FONTES DA PESQUISA:
-2026-10-15 | The Latest FC Barcelona Jersey Takeover Is Here, and Tyler, The Creator Is Taking Full Creative Control | https://newsroom.spotify.com/2026-10-15/fc-barcelona-takeover-tyler-the-creator/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

@@ -6,11 +6,16 @@
   "angle": "Gancho: em 13/10/2026, o Google anunciou o Demand Gen Drop de outubro, com uma métrica de Data Strength Uplift, expansão do Data Manager e futuras integrações de conversões otimizadas. A pauta deve discutir um problema de gestão para PMEs, não ensinar a configurar uma ferramenta: quais sinais a empresa envia às plataformas e se esses sinais representam oportunidades úteis ao negócio. Tese: automatizar a distribuição não dispensa definir o que é uma conversão relevante e organizar a passagem de informações entre site, atendimento e vendas. Usar exemplo hipotético de formulário preenchido versus oportunidade adequada ou venda confirmada; mostrar como revisar eventos, critérios de qualificação, responsabilidades e retorno do comercial sem prometer desempenho. Diferenciar melhoria da medição de aumento efetivo de demanda. Não repetir o artigo de métricas de vaidade: aqui o foco é a qualidade dos sinais que alimentam a automação, antes de interpretar o relatório. Dados de desempenho divulgados pelo Google são análises internas e não garantias para qualquer PME; dispensar percentuais se não forem necessários à tese.",
   "audience": "Donos de PMEs e gestores de marketing e vendas que usam campanhas automatizadas e recebem relatórios de conversão, mas não sabem se a plataforma está sendo alimentada com sinais de interesse real e qualidade comercial.",
   "goal": "Sair de “a plataforma sabe otimizar sozinha” para “a automação depende dos sinais e critérios de negócio que minha empresa consegue definir, registrar e devolver com consistência”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -38,12 +43,26 @@
   "keyword": "qualidade dos dados de campanha",
   "slug": "qualidade-dados-campanha-conversoes",
   "meta": "A qualidade dos dados de campanha começa na definição de conversão. Veja como alinhar marketing e vendas e avaliar os sinais que alimentam a automação.",
-  "date": "",
+  "date": "2026-10-22",
   "imageFile": "conteudos/pauta-diaria-2026-10-19/imagens/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
   "imageName": "vitriolicnaivety_Natural_editorial_photograph_in_a_modest_Bra_406abf31-ac31-4f47-93ec-2b1f03efdce5_0.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
   "faq": "Um formulário enviado já é uma oportunidade comercial?\nNão necessariamente. O envio registra interesse inicial; adequação ao serviço e avanço comercial precisam de critérios próprios.\n\nMelhorar a medição significa aumentar a demanda?\nNão. Corrigir eventos ou duplicações pode mudar os números apresentados sem alterar a procura real ou gerar novas vendas.\n\nPor onde começar a revisão dos dados de campanha?\nEscolha uma campanha, acompanhe contatos até o desfecho conhecido e confira eventos, duplicações, critérios de qualificação e responsáveis pelos registros.",
-  "url": "https://www.agenciatweed.com.br/qualidade-dados-campanha-conversoes/"
+  "url": "https://www.agenciatweed.com.br/qualidade-dados-campanha-conversoes/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/qualidade-dados-campanha-conversoes/",
+    "publishedAt": "2026-10-22T09:44:07.616316+00:00",
+    "job": "10919fe7-5d72-40f2-a038-3f89df4f7a91",
+    "files": [
+      "assets/artigos-editoriais/b8da51e1610000212718598ac63c3127bb42002b70e2c714b191de3b658270e6.png",
+      "qualidade-dados-campanha-conversoes/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
