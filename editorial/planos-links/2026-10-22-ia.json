@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "ia-materiais-marca-alem-das-cores",
+  "contentSha256": "14ba693cf85fb1009f2bd48eda253dbcd95224b4db4224a263ab26a4df7db96a",
+  "modifiedAt": "2026-10-22",
+  "links": [
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "anchor": "próxima e confiante",
+      "context": "Dizer que a marca é próxima e confiante não resolve sozinho uma decisão de texto.",
+      "reason": "Aprofunda a tradução dos atributos de marca em critérios concretos de linguagem e comportamento."
+    }
+  ]
+}

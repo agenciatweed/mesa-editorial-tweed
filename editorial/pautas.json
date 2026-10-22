@@ -1,7 +1,7 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-22T07:26:59.397Z",
+  "exportedAt": "2026-10-22T18:46:40.213Z",
   "items": [
     {
       "id": "pauta-diaria-2026-10-22",
@@ -48,11 +48,16 @@
       "angle": "Gancho: em 20/10/2026, o Google anunciou novos recursos do Gemini para pequenos negócios, incluindo definição e retenção de estilo visual a partir de site, brand kit, fontes e paletas, além de conexões com outros aplicativos. Tese: facilitar a reprodução do estilo torna ainda mais importante distinguir consistência visual de direção de marca. Uma ferramenta pode receber referências de aparência, mas a empresa precisa explicitar público, promessa, limites de linguagem, informações verificadas e critérios de aprovação para avaliar o que gera. Discutir como uma PME organiza um briefing de marca útil à IA: referências aprovadas, exemplos de decisões, usos inadequados, responsáveis e conferência da oferta. Usar um exemplo hipotético de peças visualmente coerentes que apresentam promessas incompatíveis com o serviço. Não fazer tutorial do Gemini nem afirmar disponibilidade universal imediata: a fonte anuncia implantação gradual nos dias seguintes. Diferenciar dos artigos sobre personalidade e IA sem parecer robô: o foco é o que precisa estar documentado e revisado quando ferramentas passam a memorizar e reproduzir ativos visuais. Não tratar a tecnologia como incapaz de trabalhar contexto; mostrar que fornecer e validar esse contexto continua sendo uma responsabilidade da empresa.",
       "audience": "Donos de PMEs e gestores de marketing que começam a gerar campanhas e peças com IA a partir de logotipo, site ou paleta de cores e esperam consistência de marca sem organizar critérios editoriais e comerciais.",
       "goal": "De “se a IA usa meu logotipo e minhas cores, o material está alinhado à marca” para “alinhamento exige contexto, critérios de decisão e revisão da promessa, além de consistência visual”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -80,14 +85,28 @@
       "keyword": "IA para criar materiais de marca",
       "slug": "ia-materiais-marca-alem-das-cores",
       "meta": "Usar IA para criar materiais de marca exige mais que cores e logotipo. Veja como orientar público, promessa, tom de voz e critérios de aprovação.",
-      "date": "",
+      "date": "2026-10-22",
       "imageFile": "conteudos/pauta-diaria-2026-10-21/imagens/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
       "imageName": "vitriolicnaivety_Candid_editorial_photograph_in_a_small_Brazi_a2cdaa61-9fd4-4e62-bf4a-9e725d848cd6_0.png",
       "imageWidth": 1344,
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
       "faq": "Usar as cores e o logotipo garante alinhamento de marca na IA?\nNão. A peça também precisa respeitar público, oferta, condições de atendimento e linguagem da empresa.\n\nO que incluir em um briefing de marca para IA?\nPúblico e situação de compra, promessa e limites, informações verificadas e exemplos atuais com justificativas de aprovação.\n\nQuem deve revisar os materiais de marca criados com IA?\nA empresa precisa definir responsáveis por conferir a oferta, a linguagem e o acabamento visual, mesmo quando uma pessoa acumula essas funções.",
-      "url": "https://www.agenciatweed.com.br/ia-materiais-marca-alem-das-cores/"
+      "url": "https://www.agenciatweed.com.br/ia-materiais-marca-alem-das-cores/",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/ia-materiais-marca-alem-das-cores/",
+        "publishedAt": "2026-10-22T19:45:05.143785+00:00",
+        "job": "2150c50d-8ae2-4f8b-a650-0ce0d8eab477",
+        "files": [
+          "assets/artigos-editoriais/48c6e5f107eff3bc5d719f1071cde5b47ad305139ce2e061d23e20db3104c7b9.png",
+          "ia-materiais-marca-alem-das-cores/index.html",
+          "blog/index.html",
+          "blog-marcas-que-ficam/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-diaria-2026-10-20",
