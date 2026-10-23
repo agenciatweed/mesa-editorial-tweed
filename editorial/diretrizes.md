@@ -13,3 +13,8 @@ Teal Tweed #08ffb1; azul-escuro #0b0c13; branco #ffffff. Tipografia Inter. Logo 
 
 ## Publicação
 Artigo, frase-chave na abertura, metadescrição, fontes, FAQ exclusivamente no JSON-LD, sem seção visível no artigo e prompt em inglês com apenas --ar 3:2. Dados estruturados dependem de metadados reais e revisão editorial. Publicar no blog é uma etapa separada.
+
+
+## Fontes clicáveis — 23/10/2026
+
+Usar uma referência por linha com nome descritivo em Markdown [Nome da fonte, título ou data](https://endereco-da-fonte). Separar notas explicativas por parágrafos. O publicador mantém suporte ao formato legado Nome: URL, exibindo o nome como link; campo vazio não gera seção.

@@ -96,3 +96,10 @@ Reporte novas entregas e URLs publicadas, ou bloqueios que exigem ação. Sem tr
 
 
 Acesso vigente desde 18/10/2026: FTP normal, porta 21, modo passivo, raiz remota `/www/`, configurado por `transport: "ftp"` em `editorial/integracao.json`. A credencial continua no cofre TweedEditorial/Kinghost; o nome histórico do helper credencial_sftp.py foi preservado. Não usar a raiz absoluta do SFTP no FTP. Não espelhar diretórios nem excluir arquivos para substituir: enviar temporário, verificar hash, renomear e confirmar FTP/HTTP antes de arquivar.
+
+
+## Atualização do fluxo — 23/10/2026
+
+Esta regra substitui qualquer limite diário anterior: execute daily-pauta.mjs check INSTANTE_ISO ao final de cada rodada. Normalmente, uma pauta automática por dia e somente com menos de 10 cards em Pauta. Com a coluna vazia, gerar UMA reposição mesmo após a diária, quando shouldResearch:true e reason:empty-column. No máximo uma sugestão por execução; repetir o mesmo INSTANTE_ISO em check/add e retomadas. O helper revalida sob lock e impede reposição se alguém já preencheu a coluna. Sem notícia relevante verificada, não fabricar pauta. Preservar criação manual e manter submitted:false para revisão humana.
+
+Fontes: preferir uma referência por linha em Markdown [Nome da fonte, título ou data](https://endereco), com notas em parágrafos separados. O publicador também converte Nome: URL em link clicável no nome. Fontes vazio continua sem seção.

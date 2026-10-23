@@ -66,3 +66,8 @@ Fontes e notas é opcional: vazio ou só com espaços não cria seção na pági
 
 
 Acesso vigente desde 18/10/2026: FTP normal, porta 21, modo passivo, raiz remota `/www/`, configurado por `transport: "ftp"` em `editorial/integracao.json`. A credencial continua no cofre TweedEditorial/Kinghost; o nome histórico do helper credencial_sftp.py foi preservado. Não usar a raiz absoluta do SFTP no FTP. Não espelhar diretórios nem excluir arquivos para substituir: enviar temporário, verificar hash, renomear e confirmar FTP/HTTP antes de arquivar.
+
+
+## Reposição e fontes — 23/10/2026
+
+Além da sugestão diária com menos de 10 cards em Pautas, a automação cria uma reposição se a coluna estiver vazia, mesmo após a diária. Máximo uma por execução, sem restringir criação manual; exige pesquisa verificável. As fontes publicadas exibem nomes clicáveis e notas separadas.
