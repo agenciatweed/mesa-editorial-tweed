@@ -2261,6 +2261,44 @@
       },
       "createdAt": "2026-10-23T19:13:42.949Z",
       "completedAt": "2026-10-23T19:15:41.809308+00:00"
+    },
+    {
+      "id": "74557df6-057a-4da4-b100-ac8346b7b33b",
+      "itemId": "pauta-reposicao-2026-10-23-833102549c76",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "b89805d4edb1a1e94bbbdaad41eb62fc4d21f7f9c791ce59efb5dc61b3d48e69",
+      "snapshot": "a951ea3a9d0bab9e1304f15828fa3f8d8c1253bca0a59116a0b63ff7a8229c7c",
+      "input": {
+        "id": "pauta-reposicao-2026-10-23-833102549c76",
+        "title": "A venda apareceu no relatório. Ela foi causada pela campanha?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 22/10/2026, Walmart Connect anunciou expansão da parceria com Spotify, conectando campanhas a vendas atribuídas no Walmart e outros indicadores. Tese: conseguir relacionar uma exposição publicitária a uma compra torna a medição mais informativa, mas atribuição e efeito incremental respondem perguntas diferentes. Usar o anúncio como ponto de partida, sem atribuir ao fornecedor uma alegação de causalidade que ele não fez. Diferenciar dos textos sobre métricas de vaidade e qualidade dos sinais: aqui o foco é interpretar o crédito atribuído à campanha, limites de comparação e risco de somar relatórios de plataformas com critérios diferentes. Explicar em linguagem de gestão, sem tutorial técnico, que janela e regra de atribuição influenciam a leitura. Exemplo hipotético de cliente que já conhecia a empresa e aparece em relatórios de mais de um canal; não afirmar prevalência ou quantificar sobreposição. Orientar perguntas ao responsável pela medição e coerência entre relatório e registros comerciais; não prometer que uma PME conseguirá provar causalidade com um teste simples nem extrapolar disponibilidade da integração para o Brasil.",
+        "audience": "Donos de PMEs e gestores que recebem relatórios de vendas atribuídas e ROAS de vários canais e precisam entender o que esses números permitem concluir antes de redistribuir investimento.",
+        "goal": "De “se a plataforma atribuiu a venda, a campanha foi a causa” para “preciso compreender os critérios de atribuição e os limites da evidência para avaliar a contribuição do marketing”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-23",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Walmart Connect brings closed-loop measurement to Spotify advertising",
+              "url": "https://www.walmartconnect.com/resources/articles/2026/walmart-connect-spotify-partnership",
+              "publishedAt": "2026-10-22"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-23T20:36:21.829Z",
+      "startedAt": "2026-10-23T20:55:04.226Z",
+      "completedAt": "2026-10-23T20:56:15.299Z"
     }
   ]
 }

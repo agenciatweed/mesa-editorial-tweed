@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-23T19:13:42.928Z",
+  "exportedAt": "2026-10-23T20:36:21.807Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-10-23-154444d91d6e",
+      "title": "Se a criação acelerou, por que a campanha continua parada?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Gancho verificado: em 15/10/2026, Adobe e NVIDIA anunciaram otimizações em ferramentas de criação e fluxos de vídeo, incluindo Photoshop, Premiere e Frame.io. Usar a notícia para distinguir tempo técnico de produção de tempo total de uma campanha; não repetir percentuais de desempenho nem extrapolar testes dos fornecedores para qualquer PME. Tese: reduzir o tempo de edição ou processamento não elimina espera por informação, decisões contraditórias e aprovações sem responsável. Investigar o percurso do material entre briefing, primeira proposta, retorno consolidado e aprovação; separar correção factual, escolha de direção e preferência pessoal. Exemplo hipotético de campanha de lançamento cujo arquivo fica pronto rapidamente, mas a oferta muda a cada avaliador. Orientar definição de responsável pela decisão, critérios de aceite, informação que precisa estar confirmada e registro das mudanças. Não prometer redução de prazo nem tratar revisão necessária como burocracia inútil. Diferenciar do artigo sobre custo de coordenar fornecedores: foco na qualidade e sequência do feedback e da aprovação, mesmo com uma única equipe. Diferenciar do texto sobre IA e cores: foco no fluxo da decisão, não no conteúdo do manual de marca.",
+      "audience": "Donos de PMEs e gestores que já aceleraram a produção com tecnologia, mas continuam vendo campanhas atrasarem por informações incompletas, retornos dispersos e decisões reabertas na aprovação.",
+      "goal": "De “ferramenta mais rápida resolve o atraso da campanha” para “preciso organizar critérios, responsáveis e retornos para que a velocidade de produção chegue à entrega”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-23",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+            "url": "https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+            "publishedAt": "2026-10-15"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-reposicao-2026-10-23-833102549c76",
       "title": "A venda apareceu no relatório. Ela foi causada pela campanha?",
@@ -11,8 +38,8 @@
       "angle": "Gancho verificado: em 22/10/2026, Walmart Connect anunciou expansão da parceria com Spotify, conectando campanhas a vendas atribuídas no Walmart e outros indicadores. Tese: conseguir relacionar uma exposição publicitária a uma compra torna a medição mais informativa, mas atribuição e efeito incremental respondem perguntas diferentes. Usar o anúncio como ponto de partida, sem atribuir ao fornecedor uma alegação de causalidade que ele não fez. Diferenciar dos textos sobre métricas de vaidade e qualidade dos sinais: aqui o foco é interpretar o crédito atribuído à campanha, limites de comparação e risco de somar relatórios de plataformas com critérios diferentes. Explicar em linguagem de gestão, sem tutorial técnico, que janela e regra de atribuição influenciam a leitura. Exemplo hipotético de cliente que já conhecia a empresa e aparece em relatórios de mais de um canal; não afirmar prevalência ou quantificar sobreposição. Orientar perguntas ao responsável pela medição e coerência entre relatório e registros comerciais; não prometer que uma PME conseguirá provar causalidade com um teste simples nem extrapolar disponibilidade da integração para o Brasil.",
       "audience": "Donos de PMEs e gestores que recebem relatórios de vendas atribuídas e ROAS de vários canais e precisam entender o que esses números permitem concluir antes de redistribuir investimento.",
       "goal": "De “se a plataforma atribuiu a venda, a campanha foi a causa” para “preciso compreender os critérios de atribuição e os limites da evidência para avaliar a contribuição do marketing”.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-22"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "74557df6-057a-4da4-b100-ac8346b7b33b",
+        "completedAt": "2026-10-23T20:56:15.271Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "O relatório de uma plataforma mostra vendas atribuídas à campanha. O de outra também. O dono da empresa compara os números com o comercial e tenta entender quanto cada investimento contribuiu para o resultado. A dificuldade aparece quando crédito atribuído é tratado como prova de que a publicidade causou todas aquelas compras.\n\nAtribuição de vendas e efeito incremental respondem perguntas diferentes. A primeira organiza o crédito segundo critérios de medição. O segundo procura estimar o que aconteceu a mais por causa da ação publicitária. Entender essa diferença ajuda a discutir o relatório com mais precisão, sem descartar a informação que ele oferece.\n\n## Ligar exposição e compra é um avanço de informação\n\nEm [anúncio de 22 de outubro de 2026](https://www.walmartconnect.com/resources/articles/2026/walmart-connect-spotify-partnership), Walmart Connect apresentou a expansão de sua parceria com Spotify para conectar campanhas a indicadores como vendas atribuídas no Walmart, novos compradores da marca e retorno sobre o gasto publicitário.\n\nO comunicado descreve uma integração de medição. Não estabelece, por si só, que cada venda atribuída teria deixado de existir sem a campanha. Também não permite presumir que a solução esteja disponível ou seja adequada a qualquer PME brasileira.\n\nA notícia é um ponto de partida para uma conversa de gestão: quando uma venda aparece no relatório, quais critérios fizeram com que ela recebesse aquele crédito?\n\n## Atribuir é aplicar uma regra de leitura\n\nUma plataforma precisa definir quais acontecimentos conta, quais interações considera e por quanto tempo acompanha sua relação com uma conversão. Esses critérios influenciam o número apresentado.\n\nNa [documentação sobre Conversion Lift](https://support.google.com/google-ads/answer/14102450?hl=en), o Google distingue conversões atribuídas segundo configurações e regras de atribuição de conversões incrementais estimadas por comparação experimental. A documentação é específica do produto, mas ajuda a deixar clara a diferença entre as perguntas.\n\nPara quem dirige uma empresa, não é necessário dominar toda a configuração técnica antes de conversar sobre o assunto. É necessário saber o que o indicador significa e quais conclusões ele não sustenta sozinho.\n\nUma venda atribuída pode oferecer informação útil sobre o percurso registrado. O cuidado é transformar esse registro em uma explicação mais abrangente do que a medição permite.\n\n## Uma compra pode passar por vários pontos de contato\n\nImagine uma pessoa que já conhece uma loja, consulta seus produtos, encontra um anúncio em uma rede social e depois pesquisa o nome da empresa em outro ambiente. Dias mais tarde, conclui uma compra. É um exemplo hipotético.\n\nDependendo das regras e dos registros disponíveis, mais de um relatório pode associar essa compra a uma interação publicitária. Isso não transforma uma compra em duas. Também não revela automaticamente qual contato foi decisivo ou o que teria acontecido se um deles não existisse.\n\nPor isso, somar vendas atribuídas de plataformas diferentes sem conferir os critérios pode produzir uma leitura inadequada do total. O problema não se resolve escolhendo o painel com o número mais animador.\n\nA equipe precisa explicar se os relatórios descrevem universos comparáveis, se há possibilidade de sobreposição e como isso conversa com os registros de pedidos ou contratos da empresa.\n\n## Efeito incremental pede outra pergunta\n\nA pergunta incremental é: quanto resultado adicional ocorreu por causa da publicidade, em comparação com uma situação sem aquela exposição? Ela exige um desenho de avaliação apropriado, em vez de apenas uma leitura da sequência registrada.\n\nO produto descrito pelo Google, por exemplo, compara grupos expostos e não expostos em um estudo. Isso não significa que toda empresa possa obter uma resposta confiável simplesmente desligando anúncios por alguns dias e comparando o caixa.\n\nPreço, disponibilidade, sazonalidade, mudanças no atendimento e outros fatores podem variar ao mesmo tempo. Uma comparação mal planejada pode confundir essas diferenças com o efeito da campanha.\n\nAntes de propor um teste, converse com quem responde pela medição sobre viabilidade, volume, duração e limitações. Há situações em que os dados disponíveis permitem apenas uma leitura parcial. Explicitar esse limite é mais útil do que apresentar precisão inexistente.\n\n## Faça perguntas que mudem a qualidade da reunião\n\nComece pelo acontecimento contado. O relatório apresenta pedidos realizados, pagamentos confirmados, formulários ou outra ação? Essa definição precisa estar clara antes de comparar resultados.\n\nDepois, pergunte qual interação recebe crédito e qual período foi considerado. Confira também se o relatório usa o momento da interação ou o da conversão na apresentação dos dados. Se a regra mudou, registre a mudança antes de interpretar a comparação com o período anterior.\n\nPergunte ainda quais dados são observados, quais dependem de estimativas e quais limitações a equipe reconhece. Não trate toda divergência entre sistemas como erro, mas também não aceite uma explicação genérica quando ela interfere na decisão.\n\nO objetivo é tornar a reunião compreensível para quem precisa decidir. Um painel tecnicamente sofisticado continua precisando de uma interpretação que faça sentido para o negócio.\n\n## Use o relatório sem exigir que ele explique tudo\n\nAtribuição pode ajudar no acompanhamento e na comparação, desde que os critérios sejam compreendidos. Registros comerciais ajudam a conferir o que foi efetivamente vendido. Estudos específicos podem acrescentar evidência sobre contribuição incremental quando houver condições para realizá-los.\n\nEssas leituras precisam ser articuladas com cuidado. Um aumento de vendas atribuídas pode merecer investigação; não é uma ordem automática para ampliar o investimento. Um resultado menor também precisa ser interpretado considerando alterações na medição e no contexto.\n\nNa Tweed, a conversa sobre desempenho precisa aproximar mídia, informação e realidade comercial. Antes de perguntar qual campanha merece todo o crédito, vale esclarecer que tipo de evidência existe para responder. O relatório ajuda mais quando a empresa sabe distinguir o que ele registra, o que estima e o que ainda precisa investigar.",
+      "sources": "[Walmart Connect, anúncio de 22/10/2026](https://www.walmartconnect.com/resources/articles/2026/walmart-connect-spotify-partnership)\n[Google Ads Help, Understanding Incremental conversions and Attributed conversions](https://support.google.com/google-ads/answer/14102450?hl=en)\n\nO exemplo da compra com vários pontos de contato é hipotético. A notícia descreve a integração anunciada; a documentação do Google fundamenta a distinção entre atribuição e incremento, sem promessa de disponibilidade ou adequação universal.",
+      "prompt": "Cinematic editorial photograph in a modest Brazilian small business office, a woman business owner and a male marketing analyst quietly comparing printed campaign reports with a notebook of confirmed customer orders at a real working desk, candid thoughtful expressions and spontaneous gestures, subtle teal ambient accent light from the side creating soft reflections on the desk and a restrained teal rim light in the background, soft neutral key light on their faces, natural skin tones, controlled contrast, conceptual editorial atmosphere grounded in an everyday scene, no posing, no readable text or screens, no visible logos --ar 3:2",
+      "imageAlt": "Dona de empresa e analista comparam relatórios e um caderno de pedidos em uma mesa com luz ambiente teal."
     },
     {
       "id": "pauta-diaria-2026-10-23",
