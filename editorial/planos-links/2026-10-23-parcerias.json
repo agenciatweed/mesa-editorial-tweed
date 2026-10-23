@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "parceria-marca-alem-dos-logotipos",
+  "contentSha256": "0290afde42ba9416cc54e49f65b3ea305a6ff0f82d504b1206101d234f6e45a4",
+  "modifiedAt": "2026-10-23",
+  "links": [
+    {
+      "from": "parceria-marca-alem-dos-logotipos",
+      "to": "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+      "anchor": "posicionamento, criação e operação",
+      "context": "Na Tweed, uma parceria precisa conversar com posicionamento, criação e operação.",
+      "reason": "Aprofunda a coerência operacional necessária para sustentar uma promessa compartilhada entre marcas."
+    }
+  ]
+}

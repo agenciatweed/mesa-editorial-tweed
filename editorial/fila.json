@@ -2077,6 +2077,74 @@
       "createdAt": "2026-10-23T07:40:11.875Z",
       "startedAt": "2026-10-23T10:48:36.745Z",
       "completedAt": "2026-10-23T10:49:35.689Z"
+    },
+    {
+      "id": "49196560-de07-4e53-9ff0-72088d295b77",
+      "itemId": "pauta-diaria-2026-10-22",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "c61aa099732a20594f480a68f0791dd159e86b541c7d01ecdd831ee5f6dc96c3",
+      "snapshot": "c61aa099732a20594f480a68f0791dd159e86b541c7d01ecdd831ee5f6dc96c3",
+      "input": {
+        "id": "pauta-diaria-2026-10-22",
+        "title": "Sua próxima parceria vai além de juntar dois logotipos?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 15/10/2026, o Spotify anunciou uma colaboração com FC Barcelona e Tyler, The Creator/GOLF WANG que reúne camiseta, coleção, curta dirigido pelo artista e evento, com direção criativa atribuída ao artista. A pauta deve analisar a arquitetura da colaboração anunciada, sem tratar eventos previstos para 24 e 25/10 como já realizados nem alegar resultados comerciais ainda não demonstrados. Tese: uma parceria de marca precisa definir uma contribuição complementar e uma experiência útil ao público; somar logotipos ou seguidores não substitui a decisão sobre o que será criado em conjunto. Traduzir o raciocínio para PMEs, sem recomendar copiar a escala do case: exemplo hipotético de uma marca de mobiliário e um estúdio de iluminação criando uma demonstração de uso, com papéis e informações claros. Propor critérios para escolher parceiro, definir afinidade de público, oferta conjunta, responsabilidades, aprovação, capacidade de entrega e o que observar depois da ação. Diferenciar do texto sobre microcomunidades: foco no desenho da colaboração entre negócios, não no tamanho da audiência. Distinguir intenção e formato anunciados de evidência de eficácia; não transformar o prestígio das marcas em prova causal de vendas.",
+        "audience": "Donos de PMEs e gestores de marketing que avaliam ações conjuntas com outras empresas, criadores ou negócios locais e precisam decidir se a parceria traz uma contribuição concreta à marca e ao público.",
+        "goal": "De “parceria é trocar divulgação e colocar dois logos na mesma peça” para “uma colaboração precisa de contribuição complementar, experiência coerente e responsabilidades que sustentem o que será prometido”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-22",
+          "sources": [
+            {
+              "title": "The Latest FC Barcelona Jersey Takeover Is Here, and Tyler, The Creator Is Taking Full Creative Control",
+              "url": "https://newsroom.spotify.com/2026-10-15/fc-barcelona-takeover-tyler-the-creator/",
+              "publishedAt": "2026-10-15"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "bb197790-fa02-4a71-a0c4-0131e4693a6b",
+          "completedAt": "2026-10-23T10:49:35.579Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "982ffe1659745a2d079a6c065e5b597a76411051966ec15d67628a81ba6949c4"
+        },
+        "body": "A proposta parece simples: duas empresas dividem uma ação, trocam divulgação e colocam seus logotipos na mesma peça. Cada uma espera chegar ao público da outra. Mas o que, exatamente, passa a existir para o cliente quando elas trabalham juntas?\n\nUma parceria de marca começa a ganhar direção quando consegue responder a essa pergunta. A combinação precisa oferecer uma contribuição compreensível, além da presença simultânea dos nomes. Pode ser uma demonstração mais útil, um serviço complementar ou uma experiência que cada negócio teria dificuldade de realizar sozinho.\n\n## Uma colaboração pode ter uma ideia que organiza tudo\n\nEm [anúncio de 15 de outubro de 2026](https://newsroom.spotify.com/2026-10-15/fc-barcelona-takeover-tyler-the-creator/), o Spotify apresentou uma colaboração com FC Barcelona e Tyler, The Creator/GOLF WANG. O projeto anunciado reúne camiseta, coleção de roupas, um curta dirigido pelo artista e um evento, com direção criativa atribuída a Tyler.\n\nNo momento desta análise, as ativações previstas para 24 e 25 de outubro ainda não aconteceram. O anúncio permite observar o desenho da colaboração, sem demonstrar seu resultado comercial. Não temos base para transformar a dimensão das marcas envolvidas em prova de eficácia.\n\nA leitura útil para uma PME está na organização: uma proposta criativa atravessa diferentes entregas. Essa é uma interpretação do formato anunciado, não uma recomendação de reproduzir sua escala. Para uma empresa menor, a pergunta pode ser bem mais prática: qual ideia justifica a presença dos dois parceiros?\n\n## Afinidade não se resume a somar seguidores\n\nImagine uma marca de mobiliário e um estúdio de iluminação que atendem pessoas montando um pequeno espaço de trabalho em casa. É um exemplo hipotético. Uma colaboração possível seria mostrar como escolher mesa e iluminação para situações de uso específicas, com demonstrações e explicações dos dois profissionais.\n\nNesse desenho, cada parceiro acrescenta um conhecimento que ajuda a compreender o conjunto. A divulgação é um meio de levar a demonstração ao público, mas não constitui toda a proposta.\n\nAgora imagine as mesmas empresas publicando uma promoção conjunta sem esclarecer como os produtos se relacionam ou quem responde pelo atendimento. Os logotipos estão presentes; a utilidade da combinação continua pouco clara.\n\nTer públicos parecidos pode ajudar a iniciar a conversa. Também é preciso considerar o momento de compra, a necessidade atendida e a capacidade de cada parte de contribuir. Uma audiência grande não compensa automaticamente uma oferta sem relação com o que as pessoas procuram.\n\n## Defina o que cada parceiro acrescenta\n\nAntes de escolher o formato da campanha, escreva a contribuição de cada negócio. Um oferece o produto? Outro entra com conhecimento, espaço, produção ou atendimento? Existe uma entrega concreta ou apenas uma expectativa de divulgação?\n\nNo exemplo do mobiliário, a demonstração pode combinar a organização da mesa com a escolha da iluminação. Para ser útil, precisa esclarecer as condições mostradas e os limites das recomendações. Nenhum parceiro deve assumir uma competência técnica que não possui só para completar a narrativa.\n\nEssa conversa também ajuda a identificar uma colaboração desequilibrada. Se uma empresa financia, produz e atende enquanto a outra apenas autoriza o uso do nome, vale esclarecer por que essa distribuição faz sentido. Contrapartidas diferentes podem ser legítimas, desde que estejam compreendidas e combinadas.\n\n## A promessa conjunta precisa de responsáveis\n\nO cliente não deveria ter que descobrir sozinho como a parceria funciona. Se existe uma condição comercial, quem explica? Se há agendamento, quem confirma? Se algo precisa ser corrigido, a quem ele recorre?\n\nDefina essas respostas antes da divulgação. Uma comunicação integrada com atendimento dividido e sem critérios pode criar uma experiência confusa. A pessoa vê uma oferta conjunta, mas recebe orientações incompatíveis quando tenta avançar.\n\nCombine também o uso das marcas, os materiais necessários, os responsáveis pela aprovação e os prazos. Registre quais informações precisam ser conferidas por cada parte. Se haverá imagem de pessoas, depoimentos ou conteúdo de terceiros, organize as autorizações correspondentes.\n\nA formalização deve ser adequada ao trabalho proposto. O objetivo dessa etapa é tornar o compromisso claro o suficiente para orientar a execução, sem depender de lembranças diferentes sobre a conversa inicial.\n\n## Crie uma experiência possível antes de multiplicar peças\n\nUma parceria pequena não precisa nascer com evento, coleção e campanha em vários canais. Ela pode começar com uma demonstração bem organizada, um encontro ou um material que responda a uma dúvida real do público.\n\nEscolha o formato a partir do que os parceiros conseguem entregar com qualidade. No exemplo hipotético, uma demonstração com poucas situações de uso pode ser mais coerente que uma sequência de publicações prometendo resolver qualquer ambiente.\n\nObserve se a identidade de cada marca continua reconhecível e se a combinação tem uma lógica. Não é necessário misturar tudo numa terceira aparência nem dar o mesmo espaço visual aos nomes em todos os momentos. É necessário explicar a relação sem apagar a contribuição de ninguém.\n\n## Combine o que será observado depois\n\nAntes de começar, defina o que a ação pretende produzir e como isso poderá ser acompanhado. Pode ser interesse qualificado, pedidos de informação sobre a solução conjunta ou compreensão de uma aplicação que antes gerava dúvidas.\n\nRegistre também quem responde aos contatos e como os parceiros vão conversar sobre o que aconteceu. Alcance e participação ajudam a descrever a circulação da ação, mas não explicam sozinhos a qualidade das oportunidades ou a experiência do público.\n\nSe o objetivo envolve vendas, considere os registros disponíveis e o tempo necessário para a decisão. Evite atribuir à colaboração todo movimento comercial que ocorrer no período. Uma primeira ação pode oferecer indícios úteis e revelar ajustes, sem sustentar conclusões definitivas.\n\nNa Tweed, uma parceria precisa conversar com posicionamento, criação e operação. Antes de aprovar a peça com dois logotipos, vale escrever a frase que explica por que eles estão juntos. Se essa frase esclarece uma contribuição real para o público, existe uma base melhor para começar.",
+        "sources": "Spotify Newsroom, 15/10/2026: https://newsroom.spotify.com/2026-10-15/fc-barcelona-takeover-tyler-the-creator/\n\nAnálise do formato anunciado, sem evidência de resultados comerciais. Ativações de 24 e 25/10 eram futuras na redação de 22/10. O exemplo de mobiliário e iluminação é hipotético.",
+        "prompt": "Natural editorial photograph inside a small Brazilian furniture showroom, a female furniture designer and a male lighting specialist collaboratively setting up a compact home office demonstration, one adjusting a desk lamp while the other moves a wooden chair beside the desk, candid focused interaction, realistic modest display space, warm natural daylight mixed with practical lamp light, documentary photography, no posing, no handshake, no readable text, no visible logos --ar 3:2",
+        "imageAlt": "Designer de mobiliário e especialista em iluminação ajustam uma cadeira e uma luminária em uma demonstração de escritório compacto.",
+        "keyword": "parceria de marca",
+        "slug": "parceria-marca-alem-dos-logotipos",
+        "meta": "Uma parceria de marca precisa criar valor além de juntar logotipos. Veja como definir contribuições, experiência, responsabilidades e critérios de avaliação.",
+        "date": "2026-10-23",
+        "imageFile": "conteudos/pauta-diaria-2026-10-22/imagens/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
+        "imageName": "vitriolicnaivety_Natural_editorial_photograph_inside_a_small__fe8b7f4d-1254-486c-bc07-129fa060c560_0.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
+        "faq": "O que torna uma parceria de marca relevante para o público?\nUma contribuição complementar e compreensível, como uma demonstração útil, um serviço combinado ou uma experiência que os parceiros conseguem entregar juntos.\n\nTer públicos parecidos basta para escolher um parceiro?\nNão. É necessário considerar também a situação de compra, a necessidade atendida e a capacidade real de contribuição de cada negócio.\n\nO que combinar antes de divulgar uma parceria?\nDefina contribuições, condições de atendimento, responsáveis por informação e aprovação, prazos e critérios para acompanhar os resultados.",
+        "url": "https://www.agenciatweed.com.br/parceria-marca-alem-dos-logotipos/",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-23T15:36:32.253Z"
+        }
+      },
+      "createdAt": "2026-10-23T15:36:32.255Z",
+      "completedAt": "2026-10-23T15:51:26.907529+00:00"
     }
   ]
 }

@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 15/10/2026, o Spotify anunciou uma colaboração com FC Barcelona e Tyler, The Creator/GOLF WANG que reúne camiseta, coleção, curta dirigido pelo artista e evento, com direção criativa atribuída ao artista. A pauta deve analisar a arquitetura da colaboração anunciada, sem tratar eventos previstos para 24 e 25/10 como já realizados nem alegar resultados comerciais ainda não demonstrados. Tese: uma parceria de marca precisa definir uma contribuição complementar e uma experiência útil ao público; somar logotipos ou seguidores não substitui a decisão sobre o que será criado em conjunto. Traduzir o raciocínio para PMEs, sem recomendar copiar a escala do case: exemplo hipotético de uma marca de mobiliário e um estúdio de iluminação criando uma demonstração de uso, com papéis e informações claros. Propor critérios para escolher parceiro, definir afinidade de público, oferta conjunta, responsabilidades, aprovação, capacidade de entrega e o que observar depois da ação. Diferenciar do texto sobre microcomunidades: foco no desenho da colaboração entre negócios, não no tamanho da audiência. Distinguir intenção e formato anunciados de evidência de eficácia; não transformar o prestígio das marcas em prova causal de vendas.",
   "audience": "Donos de PMEs e gestores de marketing que avaliam ações conjuntas com outras empresas, criadores ou negócios locais e precisam decidir se a parceria traz uma contribuição concreta à marca e ao público.",
   "goal": "De “parceria é trocar divulgação e colocar dois logos na mesma peça” para “uma colaboração precisa de contribuição complementar, experiência coerente e responsabilidades que sustentem o que será prometido”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -38,12 +43,26 @@
   "keyword": "parceria de marca",
   "slug": "parceria-marca-alem-dos-logotipos",
   "meta": "Uma parceria de marca precisa criar valor além de juntar logotipos. Veja como definir contribuições, experiência, responsabilidades e critérios de avaliação.",
-  "date": "",
+  "date": "2026-10-23",
   "imageFile": "conteudos/pauta-diaria-2026-10-22/imagens/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
   "imageName": "vitriolicnaivety_Natural_editorial_photograph_inside_a_small__fe8b7f4d-1254-486c-bc07-129fa060c560_0.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
   "faq": "O que torna uma parceria de marca relevante para o público?\nUma contribuição complementar e compreensível, como uma demonstração útil, um serviço combinado ou uma experiência que os parceiros conseguem entregar juntos.\n\nTer públicos parecidos basta para escolher um parceiro?\nNão. É necessário considerar também a situação de compra, a necessidade atendida e a capacidade real de contribuição de cada negócio.\n\nO que combinar antes de divulgar uma parceria?\nDefina contribuições, condições de atendimento, responsáveis por informação e aprovação, prazos e critérios para acompanhar os resultados.",
-  "url": "https://www.agenciatweed.com.br/parceria-marca-alem-dos-logotipos/"
+  "url": "https://www.agenciatweed.com.br/parceria-marca-alem-dos-logotipos/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/parceria-marca-alem-dos-logotipos/",
+    "publishedAt": "2026-10-23T15:51:26.905665+00:00",
+    "job": "49196560-de07-4e53-9ff0-72088d295b77",
+    "files": [
+      "assets/artigos-editoriais/f19ec057bdd41cd427367b2cf0551c8b7f723bfd900f59d6e3c30058b7835397.png",
+      "parceria-marca-alem-dos-logotipos/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
