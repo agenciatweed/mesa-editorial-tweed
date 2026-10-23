@@ -1,0 +1,26 @@
+{
+  "id": "pauta-diaria-2026-10-23",
+  "title": "Seu cliente começou a comprar antes da sua campanha?",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho verificado: pesquisa de intenção de compras de fim de ano da NRF/Prosper publicada em 20/10/2026, realizada nos Estados Unidos de 1 a 7/10 com 8.094 adultos, descreve início antecipado da busca e comparação, distribuição de orçamento e espera por promoções. Tese: a data de veiculação não define o início da decisão do cliente; uma PME precisa organizar informação e atendimento para momentos distintos de pesquisa, comparação e contratação. Não transportar percentuais ou calendário americano para o Brasil nem tratar intenção declarada como compra realizada. Usar a notícia como pergunta de diagnóstico local, sem previsão de vendas ou conselho financeiro. Mostrar como levantar dúvidas recebidas, prazos reais de avaliação, disponibilidade e condições verificadas para planejar a comunicação antes do pico. Exemplo hipotético de loja de móveis em que o comprador consulta medidas, materiais e entrega antes de escolher, evitando atribuir um prazo universal. Separar conteúdo que ajuda a planejar de oferta com prazo real; não recomendar urgência artificial ou antecipar campanhas sem capacidade operacional. Diferenciar dos artigos de desconto e plano de mídia: foco na sequência temporal da decisão e nas informações que precisam estar disponíveis antes da promoção, não em defender preço ou escolher plataforma.",
+  "audience": "Donos de PMEs e gestores de marketing que concentram a comunicação nas datas promocionais e percebem dúvidas, comparações ou pedidos de orçamento chegando antes de a campanha estar pronta.",
+  "goal": "De “a compra começa quando minha campanha entra no ar” para “preciso descobrir quando meu público começa a avaliar e oferecer informação útil ao longo da decisão, respeitando a capacidade de entrega”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-23",
+    "sources": [
+      {
+        "title": "Affordability Shapes Winter Holiday Shopping, According to NRF Holiday Survey",
+        "url": "https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey",
+        "publishedAt": "2026-10-20"
+      }
+    ]
+  }
+}
