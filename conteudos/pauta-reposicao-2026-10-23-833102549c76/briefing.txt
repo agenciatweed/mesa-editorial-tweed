@@ -1,0 +1,9 @@
+TÍTULO: A venda apareceu no relatório. Ela foi causada pela campanha?
+EDITORIA: 0
+VOZ: Lorenzo
+ÂNGULO: Gancho verificado: em 22/10/2026, Walmart Connect anunciou expansão da parceria com Spotify, conectando campanhas a vendas atribuídas no Walmart e outros indicadores. Tese: conseguir relacionar uma exposição publicitária a uma compra torna a medição mais informativa, mas atribuição e efeito incremental respondem perguntas diferentes. Usar o anúncio como ponto de partida, sem atribuir ao fornecedor uma alegação de causalidade que ele não fez. Diferenciar dos textos sobre métricas de vaidade e qualidade dos sinais: aqui o foco é interpretar o crédito atribuído à campanha, limites de comparação e risco de somar relatórios de plataformas com critérios diferentes. Explicar em linguagem de gestão, sem tutorial técnico, que janela e regra de atribuição influenciam a leitura. Exemplo hipotético de cliente que já conhecia a empresa e aparece em relatórios de mais de um canal; não afirmar prevalência ou quantificar sobreposição. Orientar perguntas ao responsável pela medição e coerência entre relatório e registros comerciais; não prometer que uma PME conseguirá provar causalidade com um teste simples nem extrapolar disponibilidade da integração para o Brasil.
+LEITOR: Donos de PMEs e gestores que recebem relatórios de vendas atribuídas e ROAS de vários canais e precisam entender o que esses números permitem concluir antes de redistribuir investimento.
+OBJETIVO: De “se a plataforma atribuiu a venda, a campanha foi a causa” para “preciso compreender os critérios de atribuição e os limites da evidência para avaliar a contribuição do marketing”.
+
+FONTES DA PESQUISA:
+2026-10-22 | Walmart Connect brings closed-loop measurement to Spotify advertising | https://www.walmartconnect.com/resources/articles/2026/walmart-connect-spotify-partnership
