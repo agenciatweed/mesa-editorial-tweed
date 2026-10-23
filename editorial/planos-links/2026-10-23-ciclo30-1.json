@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "qualidade-dados-campanha-conversoes",
+  "contentSha256": "7b5cf658d60b05bbb5c3dda68a3d9700977b8ba742af73d4ad529a6ce362b07e",
+  "modifiedAt": "2026-10-23",
+  "links": [
+    {
+      "from": "metricas-sem-vaidade",
+      "to": "qualidade-dados-campanha-conversoes",
+      "anchor": "etapas intermediárias",
+      "context": "CPA (Custo por Ação) ou CPL (Custo por Lead)Útil para etapas intermediárias, desde que você ligue ao que vem depois. Lead barato que não vira cliente é só… lead barato.",
+      "reason": "Aprofunda a distinção entre registro inicial, oportunidade qualificada e resultado comercial."
+    }
+  ]
+}

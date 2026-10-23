@@ -2145,6 +2145,122 @@
       },
       "createdAt": "2026-10-23T15:36:32.255Z",
       "completedAt": "2026-10-23T15:51:26.907529+00:00"
+    },
+    {
+      "id": "b198e555-eb81-45e3-be05-f7f91fcdf125",
+      "itemId": "pauta-diaria-2026-10-23",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "2cea4769683667606835f57541a22b8ac307da7c71129eeb0c032a95b8d26d38",
+      "snapshot": "a34efddb1a0b3092e9c8853e5aedb1b3420fd0e3fe5f935c79f826536e33452e",
+      "input": {
+        "id": "pauta-diaria-2026-10-23",
+        "title": "Seu cliente começou a comprar antes da sua campanha?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: pesquisa de intenção de compras de fim de ano da NRF/Prosper publicada em 20/10/2026, realizada nos Estados Unidos de 1 a 7/10 com 8.094 adultos, descreve início antecipado da busca e comparação, distribuição de orçamento e espera por promoções. Tese: a data de veiculação não define o início da decisão do cliente; uma PME precisa organizar informação e atendimento para momentos distintos de pesquisa, comparação e contratação. Não transportar percentuais ou calendário americano para o Brasil nem tratar intenção declarada como compra realizada. Usar a notícia como pergunta de diagnóstico local, sem previsão de vendas ou conselho financeiro. Mostrar como levantar dúvidas recebidas, prazos reais de avaliação, disponibilidade e condições verificadas para planejar a comunicação antes do pico. Exemplo hipotético de loja de móveis em que o comprador consulta medidas, materiais e entrega antes de escolher, evitando atribuir um prazo universal. Separar conteúdo que ajuda a planejar de oferta com prazo real; não recomendar urgência artificial ou antecipar campanhas sem capacidade operacional. Diferenciar dos artigos de desconto e plano de mídia: foco na sequência temporal da decisão e nas informações que precisam estar disponíveis antes da promoção, não em defender preço ou escolher plataforma.",
+        "audience": "Donos de PMEs e gestores de marketing que concentram a comunicação nas datas promocionais e percebem dúvidas, comparações ou pedidos de orçamento chegando antes de a campanha estar pronta.",
+        "goal": "De “a compra começa quando minha campanha entra no ar” para “preciso descobrir quando meu público começa a avaliar e oferecer informação útil ao longo da decisão, respeitando a capacidade de entrega”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-23",
+          "sources": [
+            {
+              "title": "Affordability Shapes Winter Holiday Shopping, According to NRF Holiday Survey",
+              "url": "https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey",
+              "publishedAt": "2026-10-20"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "6ed8490d-6833-47b4-aeaf-cfd901f61c40",
+          "completedAt": "2026-10-23T10:49:35.666Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Sua campanha tem data de lançamento. O cliente, porém, talvez já esteja consultando medidas, comparando condições e tentando descobrir se a compra cabe no que ele precisa. Quando a primeira peça entra no ar, parte das perguntas pode ter sido respondida por outra empresa.\n\nA jornada de compra não começa necessariamente na data que o marketing escolheu para divulgar uma oferta. Para planejar melhor, uma PME precisa observar quando seu público passa a avaliar a solução e quais informações procura antes de decidir.\n\n## O calendário da campanha não é o calendário de todas as pessoas\n\nUma [pesquisa da NRF e da Prosper Insights & Analytics, divulgada em 20 de outubro de 2026](https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey), descreve diferentes momentos de preparação para as compras de fim de ano nos Estados Unidos. Entre as razões apresentadas estão distribuir o orçamento, comparar alternativas e esperar por promoções.\n\nO levantamento foi realizado naquele país, de 1 a 7 de outubro, com 8.094 adultos. Trata de intenções declaradas, não de vendas já realizadas. Não permite aplicar automaticamente seus resultados ao público brasileiro nem escolher o calendário de uma empresa daqui.\n\nEle oferece uma pergunta útil para investigar localmente: o que a pessoa faz antes da data em que nossa campanha espera encontrá-la pronta para comprar?\n\n## Uma dúvida pode chegar antes do pedido\n\nImagine uma loja de móveis que prepara uma ação promocional. É um exemplo hipotético. A equipe concentra os esforços nas peças da semana da oferta, mas já recebe mensagens perguntando sobre medidas, materiais, montagem e condições de entrega.\n\nAlgumas pessoas podem estar tentando entender se o móvel serve ao espaço. Outras comparam modelos ou precisam organizar uma mudança. A pergunta sobre uma medida ainda não é uma compra, mas também não precisa ser tratada como um contato sem importância.\n\nSe essas respostas ficam dispersas, o interessado precisa insistir ou buscar informação em outro lugar. Uma campanha posterior pode apresentar um preço interessante e ainda assim não resolver a dúvida que impediu o avanço.\n\nIsso não significa que todo contato antecipado teria comprado se recebesse uma resposta melhor. Significa que a empresa tem uma lacuna concreta de informação para avaliar.\n\n## Descubra o percurso antes de antecipar a divulgação\n\nComece pelas conversas que o atendimento já recebe. Quais dúvidas aparecem antes do orçamento? O que as pessoas precisam conferir com alguém? Que informação costuma ser solicitada mais de uma vez?\n\nObserve alguns percursos, do primeiro contato ao desfecho conhecido, sem expor dados pessoais desnecessários. Procure diferenças entre situações de compra. Quem substitui um produto com defeito pode ter uma necessidade diferente de quem planeja um ambiente novo.\n\nEsse levantamento ajuda a formular hipóteses. Talvez faltem informações de aplicação. Talvez as condições de entrega só apareçam tarde demais. Talvez o comprador precise comparar características que o catálogo apresenta de maneira inconsistente.\n\nNão existe um prazo universal entre interesse e decisão. Use os registros disponíveis para entender a própria operação e continue conferindo se a leitura faz sentido com o atendimento.\n\n## Organize informação para quem ainda está avaliando\n\nNo exemplo da loja, uma página clara sobre dimensões e materiais pode ajudar antes de qualquer promoção. Fotografias com contexto, orientações de conferência do espaço e informações verificadas sobre montagem também podem reduzir dúvidas.\n\nO conteúdo precisa corresponder ao que a empresa consegue explicar e entregar. Evite respostas absolutas quando a adequação depende de avaliação. Se uma condição varia por região ou modelo, deixe essa diferença compreensível.\n\nPrepare também o atendimento para dar continuidade. A pessoa que consulta uma página não deveria receber uma resposta contraditória ao conversar com a equipe. Informação e acompanhamento precisam fazer parte do mesmo trabalho.\n\nEssa preparação pode aproveitar materiais que já existem. O primeiro passo nem sempre é produzir mais: pode ser tornar encontrável e consistente uma resposta que hoje depende de várias mensagens.\n\n## Separe ajuda para decidir de pressão para fechar\n\nUma orientação para escolher um modelo tem uma função. Uma oferta com preço e prazo definidos tem outra. As duas podem conversar, desde que a comunicação deixe claro o que está sendo apresentado.\n\nNão é necessário colocar uma contagem regressiva em toda interação para reconhecer que o comprador começou a pesquisar. Urgência só deve corresponder a uma condição real e verificável, sem esconder informações importantes.\n\nDa mesma forma, um interesse inicial não autoriza uma sequência insistente de abordagens. Combine o próximo passo com a pessoa e respeite o contexto da conversa. A utilidade da informação depende também da maneira como ela chega.\n\n## Prepare a operação para a expectativa criada\n\nAntes de ampliar a divulgação, confira disponibilidade, capacidade de atendimento e condições de entrega. Se uma informação ainda não está confirmada, não a transforme em promessa para preencher a peça.\n\nDefina quem atualiza os materiais quando uma condição muda e quem orienta a equipe. Uma campanha pode estar visualmente pronta e ainda depender de decisões básicas para funcionar com coerência.\n\nDepois, observe o que acontece. As dúvidas se tornam mais específicas? O comprador encontra a informação antes de pedir ajuda? O atendimento consegue acompanhar o contato? Esses sinais ajudam a revisar o percurso, mas não demonstram, isoladamente, que o conteúdo causou uma venda.\n\nNa Tweed, planejar uma campanha inclui entender o caminho que a pessoa percorre antes dela. A data promocional continua importante. O trabalho ganha direção quando a empresa também consegue estar presente nos momentos em que o cliente ainda está aprendendo a escolher.",
+        "sources": "NRF/Prosper Insights & Analytics, comunicado de 20/10/2026: https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey\n\nPesquisa de intenção com 8.094 adultos nos Estados Unidos, de 1 a 7/10/2026. Sem extrapolação de percentuais ou calendário para o Brasil. O exemplo da loja de móveis é hipotético.",
+        "prompt": "Candid editorial photograph in a modest Brazilian furniture store, a woman customer checking the width of a wooden desk with a tape measure while a shop assistant calmly helps her compare a room sketch in a notebook, an ordinary thoughtful pre-purchase conversation rather than a sales pitch, natural expressions, realistic showroom with everyday furniture, soft window light, documentary photography, no posing, no staged smiles, no readable text or prices, no visible logos --ar 3:2",
+        "imageAlt": "Cliente confere a largura de uma mesa com uma fita métrica enquanto uma atendente consulta um desenho do ambiente em um caderno."
+      },
+      "createdAt": "2026-10-23T19:09:12.842Z",
+      "startedAt": "2026-10-23T19:12:34.582Z",
+      "completedAt": "2026-10-23T19:12:34.752Z"
+    },
+    {
+      "id": "8fe73062-c9b9-470a-a531-a536fb9f262b",
+      "itemId": "pauta-diaria-2026-10-23",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "b2e3494b4d37c4866a97dc1be938ae44545e84f676749830006e705d16e93f53",
+      "snapshot": "b2e3494b4d37c4866a97dc1be938ae44545e84f676749830006e705d16e93f53",
+      "input": {
+        "id": "pauta-diaria-2026-10-23",
+        "title": "Seu cliente começou a comprar antes da sua campanha?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: pesquisa de intenção de compras de fim de ano da NRF/Prosper publicada em 20/10/2026, realizada nos Estados Unidos de 1 a 7/10 com 8.094 adultos, descreve início antecipado da busca e comparação, distribuição de orçamento e espera por promoções. Tese: a data de veiculação não define o início da decisão do cliente; uma PME precisa organizar informação e atendimento para momentos distintos de pesquisa, comparação e contratação. Não transportar percentuais ou calendário americano para o Brasil nem tratar intenção declarada como compra realizada. Usar a notícia como pergunta de diagnóstico local, sem previsão de vendas ou conselho financeiro. Mostrar como levantar dúvidas recebidas, prazos reais de avaliação, disponibilidade e condições verificadas para planejar a comunicação antes do pico. Exemplo hipotético de loja de móveis em que o comprador consulta medidas, materiais e entrega antes de escolher, evitando atribuir um prazo universal. Separar conteúdo que ajuda a planejar de oferta com prazo real; não recomendar urgência artificial ou antecipar campanhas sem capacidade operacional. Diferenciar dos artigos de desconto e plano de mídia: foco na sequência temporal da decisão e nas informações que precisam estar disponíveis antes da promoção, não em defender preço ou escolher plataforma.",
+        "audience": "Donos de PMEs e gestores de marketing que concentram a comunicação nas datas promocionais e percebem dúvidas, comparações ou pedidos de orçamento chegando antes de a campanha estar pronta.",
+        "goal": "De “a compra começa quando minha campanha entra no ar” para “preciso descobrir quando meu público começa a avaliar e oferecer informação útil ao longo da decisão, respeitando a capacidade de entrega”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-23",
+          "sources": [
+            {
+              "title": "Affordability Shapes Winter Holiday Shopping, According to NRF Holiday Survey",
+              "url": "https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey",
+              "publishedAt": "2026-10-20"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "b198e555-eb81-45e3-be05-f7f91fcdf125",
+          "completedAt": "2026-10-23T19:12:34.726Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "2cea4769683667606835f57541a22b8ac307da7c71129eeb0c032a95b8d26d38"
+        },
+        "body": "Sua campanha tem data de lançamento. O cliente, porém, talvez já esteja consultando medidas, comparando condições e tentando descobrir se a compra cabe no que ele precisa. Quando a primeira peça entra no ar, parte das perguntas pode ter sido respondida por outra empresa.\n\nA jornada de compra não começa necessariamente na data que o marketing escolheu para divulgar uma oferta. Para planejar melhor, uma PME precisa observar quando seu público passa a avaliar a solução e quais informações procura antes de decidir.\n\n## O calendário da campanha não é o calendário de todas as pessoas\n\nUma [pesquisa da NRF e da Prosper Insights & Analytics, divulgada em 20 de outubro de 2026](https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey), descreve diferentes momentos de preparação para as compras de fim de ano nos Estados Unidos. Entre as razões apresentadas estão distribuir o orçamento, comparar alternativas e esperar por promoções.\n\nO levantamento foi realizado naquele país, de 1 a 7 de outubro, com 8.094 adultos. Trata de intenções declaradas, não de vendas já realizadas. Não permite aplicar automaticamente seus resultados ao público brasileiro nem escolher o calendário de uma empresa daqui.\n\nEle oferece uma pergunta útil para investigar localmente: o que a pessoa faz antes da data em que nossa campanha espera encontrá-la pronta para comprar?\n\n## Uma dúvida pode chegar antes do pedido\n\nImagine uma loja de móveis que prepara uma ação promocional. É um exemplo hipotético. A equipe concentra os esforços nas peças da semana da oferta, mas já recebe mensagens perguntando sobre medidas, materiais, montagem e condições de entrega.\n\nAlgumas pessoas podem estar tentando entender se o móvel serve ao espaço. Outras comparam modelos ou precisam organizar uma mudança. A pergunta sobre uma medida ainda não é uma compra, mas também não precisa ser tratada como um contato sem importância.\n\nSe essas respostas ficam dispersas, o interessado precisa insistir ou buscar informação em outro lugar. Uma campanha posterior pode apresentar um preço interessante e ainda assim não resolver a dúvida que impediu o avanço.\n\nIsso não significa que todo contato antecipado teria comprado se recebesse uma resposta melhor. Significa que a empresa tem uma lacuna concreta de informação para avaliar.\n\n## Descubra o percurso antes de antecipar a divulgação\n\nComece pelas conversas que o atendimento já recebe. Quais dúvidas aparecem antes do orçamento? O que as pessoas precisam conferir com alguém? Que informação costuma ser solicitada mais de uma vez?\n\nObserve alguns percursos, do primeiro contato ao desfecho conhecido, sem expor dados pessoais desnecessários. Procure diferenças entre situações de compra. Quem substitui um produto com defeito pode ter uma necessidade diferente de quem planeja um ambiente novo.\n\nEsse levantamento ajuda a formular hipóteses. Talvez faltem informações de aplicação. Talvez as condições de entrega só apareçam tarde demais. Talvez o comprador precise comparar características que o catálogo apresenta de maneira inconsistente.\n\nNão existe um prazo universal entre interesse e decisão. Use os registros disponíveis para entender a própria operação e continue conferindo se a leitura faz sentido com o atendimento.\n\n## Organize informação para quem ainda está avaliando\n\nNo exemplo da loja, uma página clara sobre dimensões e materiais pode ajudar antes de qualquer promoção. Fotografias com contexto, orientações de conferência do espaço e informações verificadas sobre montagem também podem reduzir dúvidas.\n\nO conteúdo precisa corresponder ao que a empresa consegue explicar e entregar. Evite respostas absolutas quando a adequação depende de avaliação. Se uma condição varia por região ou modelo, deixe essa diferença compreensível.\n\nPrepare também o atendimento para dar continuidade. A pessoa que consulta uma página não deveria receber uma resposta contraditória ao conversar com a equipe. Informação e acompanhamento precisam fazer parte do mesmo trabalho.\n\nEssa preparação pode aproveitar materiais que já existem. O primeiro passo nem sempre é produzir mais: pode ser tornar encontrável e consistente uma resposta que hoje depende de várias mensagens.\n\n## Separe ajuda para decidir de pressão para fechar\n\nUma orientação para escolher um modelo tem uma função. Uma oferta com preço e prazo definidos tem outra. As duas podem conversar, desde que a comunicação deixe claro o que está sendo apresentado.\n\nNão é necessário colocar uma contagem regressiva em toda interação para reconhecer que o comprador começou a pesquisar. Urgência só deve corresponder a uma condição real e verificável, sem esconder informações importantes.\n\nDa mesma forma, um interesse inicial não autoriza uma sequência insistente de abordagens. Combine o próximo passo com a pessoa e respeite o contexto da conversa. A utilidade da informação depende também da maneira como ela chega.\n\n## Prepare a operação para a expectativa criada\n\nAntes de ampliar a divulgação, confira disponibilidade, capacidade de atendimento e condições de entrega. Se uma informação ainda não está confirmada, não a transforme em promessa para preencher a peça.\n\nDefina quem atualiza os materiais quando uma condição muda e quem orienta a equipe. Uma campanha pode estar visualmente pronta e ainda depender de decisões básicas para funcionar com coerência.\n\nDepois, observe o que acontece. As dúvidas se tornam mais específicas? O comprador encontra a informação antes de pedir ajuda? O atendimento consegue acompanhar o contato? Esses sinais ajudam a revisar o percurso, mas não demonstram, isoladamente, que o conteúdo causou uma venda.\n\nNa Tweed, planejar uma campanha inclui entender o caminho que a pessoa percorre antes dela. A data promocional continua importante. O trabalho ganha direção quando a empresa também consegue estar presente nos momentos em que o cliente ainda está aprendendo a escolher.",
+        "sources": "NRF/Prosper Insights & Analytics, comunicado de 20/10/2026: https://cdn.nrf.com/media-center/press-releases/affordability-shapes-winter-holiday-shopping-according-to-nrf-holiday-survey\n\nPesquisa de intenção com 8.094 adultos nos Estados Unidos, de 1 a 7/10/2026. Sem extrapolação de percentuais ou calendário para o Brasil. O exemplo da loja de móveis é hipotético.",
+        "prompt": "Candid editorial photograph in a modest Brazilian furniture store, a woman customer checking the width of a wooden desk with a tape measure while a shop assistant calmly helps her compare a room sketch in a notebook, an ordinary thoughtful pre-purchase conversation rather than a sales pitch, natural expressions, realistic showroom with everyday furniture, soft window light, documentary photography, no posing, no staged smiles, no readable text or prices, no visible logos --ar 3:2",
+        "imageAlt": "Cliente confere a largura de uma mesa com uma fita métrica enquanto uma atendente consulta um desenho do ambiente em um caderno.",
+        "keyword": "jornada de compra",
+        "slug": "jornada-compra-antes-da-campanha",
+        "meta": "A jornada de compra pode começar antes da campanha. Veja como identificar dúvidas, preparar informações e alinhar atendimento e condições de entrega.",
+        "date": "2026-10-23",
+        "imageFile": "conteudos/pauta-diaria-2026-10-23/imagens/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
+        "imageName": "vitriolicnaivety_Candid_editorial_photograph_in_a_modest_Braz_2c8cb925-7921-4828-b4a0-bc4aa659e228_0.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b1e401ba5c34625bb17d919882d62a2a5d87c9de72dcaa6ecfb92c8c7aa523b6.png",
+        "faq": "A jornada de compra começa quando a campanha entra no ar?\nNão necessariamente. O cliente pode pesquisar, comparar condições e esclarecer dúvidas antes da data de divulgação escolhida pela empresa.\n\nComo descobrir o que o cliente precisa antes de comprar?\nObserve dúvidas recorrentes no atendimento e acompanhe alguns percursos do primeiro contato ao desfecho, considerando diferenças entre situações de compra.\n\nAntecipar informações exige criar urgência para fechar?\nNão. Conteúdo de orientação e oferta com prazo têm funções distintas. A urgência deve corresponder a condições reais e verificáveis.",
+        "url": "https://www.agenciatweed.com.br/jornada-compra-antes-da-campanha/",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-23T19:13:42.946Z"
+        }
+      },
+      "createdAt": "2026-10-23T19:13:42.949Z",
+      "completedAt": "2026-10-23T19:15:41.809308+00:00"
     }
   ]
 }

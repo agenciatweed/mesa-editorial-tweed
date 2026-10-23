@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "jornada-compra-antes-da-campanha",
+  "contentSha256": "2dbe8b56247352dc539bf2dac8205fb57759ce77687c191be6dec89eaeb43fc0",
+  "modifiedAt": "2026-10-23",
+  "links": [
+    {
+      "from": "jornada-compra-antes-da-campanha",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "resposta contraditória",
+      "context": "A pessoa que consulta uma página não deveria receber uma resposta contraditória ao conversar com a equipe.",
+      "reason": "Aprofunda a coerência entre informação pública e atendimento na experiência de decisão."
+    }
+  ]
+}

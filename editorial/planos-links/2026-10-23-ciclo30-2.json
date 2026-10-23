@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "ia-materiais-marca-alem-das-cores",
+  "contentSha256": "14ba693cf85fb1009f2bd48eda253dbcd95224b4db4224a263ab26a4df7db96a",
+  "modifiedAt": "2026-10-23",
+  "links": [
+    {
+      "from": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+      "to": "ia-materiais-marca-alem-das-cores",
+      "anchor": "curadoria humana",
+      "context": "O caminho está no equilíbrio. Usar a IA para otimizar processos, mas manter a curadoria humana para garantir que a comunicação continue sendo autêntica. Deixar que a máquina sugira, mas que o humano refine. Permitir que a tecnologia acelere, sem perder a sensibilidade.",
+      "reason": "Detalha os critérios de briefing e revisão para materiais de marca gerados por IA."
+    }
+  ]
+}
