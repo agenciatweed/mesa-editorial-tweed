@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "atribuicao-vendas-efeito-campanha",
+  "contentSha256": "41d87727f843712f803c5c8e63fe4951f2d3e3c0c89892adedfe1b813a3c9b95",
+  "modifiedAt": "2026-10-24",
+  "links": [
+    {
+      "from": "atribuicao-vendas-efeito-campanha",
+      "to": "qualidade-dados-campanha-conversoes",
+      "anchor": "registros de pedidos ou contratos",
+      "context": "A equipe precisa explicar se os relatórios descrevem universos comparáveis, se há possibilidade de sobreposição e como isso conversa com os registros de pedidos ou contratos da empresa.",
+      "reason": "Aprofunda a definição dos eventos e a consistência dos registros que sustentam a medição."
+    }
+  ]
+}
