@@ -1,9 +1,7 @@
 TÍTULO: O negócio mudou. A informação que o cliente encontra também?
 EDITORIA: 3
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: em 21/10/2026, o Google anunciou novas ferramentas do Gemini para pequenos negócios, incluindo conexões com Google Business Profile e outros aplicativos; o comunicado informa implantação global gradual nos dias seguintes. Usar apenas como contexto para a integração de informações, sem presumir acesso já disponível a toda PME nem prometer sincronização automática de todos os canais. Tese: conectar ferramentas não corrige uma informação comercial desatualizada; a empresa precisa definir qual registro vale e quem atualiza o site, o perfil local e o atendimento quando um serviço, horário ou condição muda. Exemplo hipotético de um negócio que altera o horário ou deixa de oferecer um serviço, mas mantém respostas divergentes nos pontos de contato. Propor uma rotina simples de inventário dos canais, responsável por cada informação, confirmação da mudança e checagem do que o cliente efetivamente encontra. Distinguir de legibilidade para máquinas: foco na atualização operacional após mudanças, não em marcação técnica. Distinguir do artigo sobre atendimento: foco na origem e propagação da informação, não no tom de voz. Não utilizar dados internos ou casos identificáveis de clientes.
 LEITOR: Donos e gestores de PMEs que mantêm site, perfil no Google e atendimento por mensagens e precisam evitar informações contraditórias quando a operação muda.
 OBJETIVO: De “a informação está correta no nosso sistema, então o cliente já sabe” para “preciso conferir e manter coerente o que ele encontra em cada ponto de contato”.
 
-FONTES DA PESQUISA:
-2026-10-21 | Google, New Gemini tools for small business owners | https://blog.google/intl/en-in/products/new-gemini-tools-for-small-business-owners/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

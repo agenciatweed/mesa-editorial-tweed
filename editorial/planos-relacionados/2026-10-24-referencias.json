@@ -1,0 +1,599 @@
+{
+  "version": 1,
+  "catalogSha256": "ffd20b054659a4d17605b49c904dd85a8e33591225dd653cbfeb418098d2ddf9",
+  "reviewedAt": "2026-10-23",
+  "articles": {
+    "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
+      "targets": [
+        "o-custo-invisivel-de-coordenar-o-proprio-marketing",
+        "qualidade-dados-campanha-conversoes"
+      ],
+      "reason": "Coordenação integrada permanece relevante; dados de campanha aprofunda diretamente critérios de qualificação e retorno do comercial.",
+      "modifiedAt": "2026-10-23"
+    },
+    "efeito-isca": {
+      "targets": [
+        "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto",
+        "o-paradoxo-da-escolha"
+      ],
+      "reason": "Aprofunda comparação de preços por ancoragem e o limite de opções na decisão.",
+      "modifiedAt": "2026-10-17"
+    },
+    "divida-de-marca": {
+      "targets": [
+        "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+      ],
+      "reason": "O novo artigo aprofunda diretamente a negociação, os sinais de confiança e a pressão por desconto descritos no texto; UX permanece como aplicação digital.",
+      "modifiedAt": "2026-10-17"
+    },
+    "narrativas-miticas": {
+      "targets": [
+        "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias",
+        "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica"
+      ],
+      "reason": "Relaciona narrativa de origem a storytelling e personalidade arquetípica.",
+      "modifiedAt": "2026-10-17"
+    },
+    "crescer-sem-perder-a-alma": {
+      "targets": [
+        "a-cultura-interna-e-o-branding-que-o-cliente-ainda-vai-sentir",
+        "sua-marca-precisa-de-consistencia-nao-de-perfeicao"
+      ],
+      "reason": "Aprofunda a preservação da cultura e da consistência durante a expansão.",
+      "modifiedAt": "2026-10-17"
+    },
+    "da-embalagem-ao-pos-venda": {
+      "targets": [
+        "branding-como-experiencia-do-cliente",
+        "da-satisfacao-ao-encantamento"
+      ],
+      "reason": "Explora a experiência que confirma a promessa e cria encantamento após a entrega.",
+      "modifiedAt": "2026-10-17"
+    },
+    "nao-venda-ajude": {
+      "targets": [
+        "o-melhor-cliente-e-aquele-que-voce-ja-tem",
+        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina"
+      ],
+      "reason": "Conecta a ajuda inicial à fidelização e à recomendação espontânea.",
+      "modifiedAt": "2026-10-17"
+    },
+    "da-satisfacao-ao-encantamento": {
+      "targets": [
+        "da-embalagem-ao-pos-venda",
+        "o-melhor-cliente-e-aquele-que-voce-ja-tem"
+      ],
+      "reason": "Mostra encantamento na entrega e seus efeitos na fidelização.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-melhor-cliente-e-aquele-que-voce-ja-tem": {
+      "targets": [
+        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina",
+        "da-satisfacao-ao-encantamento"
+      ],
+      "reason": "Aprofunda indicação e experiências que fazem o cliente permanecer.",
+      "modifiedAt": "2026-10-17"
+    },
+    "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica": {
+      "targets": [
+        "arquetipos-de-marca-para-pequenas-empresas",
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
+      ],
+      "reason": "Combina o repertório arquetípico com tradução prática da personalidade em escolhas de linguagem e experiência.",
+      "modifiedAt": "2026-10-19"
+    },
+    "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia": {
+      "targets": [
+        "posicionamento-de-marca-para-pequenas-empresas",
+        "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso"
+      ],
+      "reason": "Conecta nicho ao posicionamento e aos espaços de diferenciação frente à concorrência.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding": {
+      "targets": [
+        "divida-de-marca",
+        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido"
+      ],
+      "reason": "Preserva a percepção de confiança e aprofunda o alinhamento de promessa, página e conversa comercial.",
+      "modifiedAt": "2026-10-19"
+    },
+    "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding": {
+      "targets": [
+        "ninguem-compra-sozinho",
+        "comentarios-parte-do-produto-experiencia-de-marca"
+      ],
+      "reason": "Preserva a influência social e aprofunda os comentários e respostas como evidência pública de uso e atendimento.",
+      "modifiedAt": "2026-10-19"
+    },
+    "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina": {
+      "targets": [
+        "o-melhor-cliente-e-aquele-que-voce-ja-tem",
+        "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding"
+      ],
+      "reason": "Desenvolve retenção e conteúdo espontâneo como mecanismos de recomendação.",
+      "modifiedAt": "2026-10-17"
+    },
+    "metricas-sem-vaidade": {
+      "targets": [
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "qualidade-dados-campanha-conversoes"
+      ],
+      "reason": "Preserva integração comercial e aprofunda a definição e qualidade dos sinais de conversão antes de interpretar métricas.",
+      "modifiedAt": "2026-10-23"
+    },
+    "orcamento-de-marketing-2026-para-pmes": {
+      "targets": [
+        "metricas-sem-vaidade",
+        "plano-de-midia-2027-alem-de-uma-plataforma"
+      ],
+      "reason": "Combina critérios de acompanhamento com distribuição de investimento entre canais segundo seus papéis.",
+      "modifiedAt": "2026-10-19"
+    },
+    "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias": {
+      "targets": [
+        "grandes-ideias-pequenas-verbas-marcas-que-marcam",
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
+      ],
+      "reason": "Mantém campanhas criativas enxutas e acrescenta critérios para usar restrições sem comprometer qualidade.",
+      "modifiedAt": "2026-10-19"
+    },
+    "sua-marca-precisa-de-consistencia-nao-de-perfeicao": {
+      "targets": [
+        "branding-na-pratica-para-pmes",
+        "marcas-memoraveis-nao-gritam-elas-fazem-sentido"
+      ],
+      "reason": "Conecta consistência ao comportamento cotidiano e à clareza da mensagem.",
+      "modifiedAt": "2026-10-17"
+    },
+    "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada": {
+      "targets": [
+        "arquetipos-de-marca-para-pequenas-empresas",
+        "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica"
+      ],
+      "reason": "Aprofunda personalidade arquetípica e combinação coerente de arquétipos.",
+      "modifiedAt": "2026-10-17"
+    },
+    "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto": {
+      "targets": [
+        "divida-de-marca",
+        "branding-para-pequenos-negocios"
+      ],
+      "reason": "Desenvolve dívida de percepção e branding com recursos limitados.",
+      "modifiedAt": "2026-10-17"
+    },
+    "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos": {
+      "targets": [
+        "ia-materiais-marca-alem-das-cores",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "O novo artigo detalha briefing e critérios humanos para a IA representar a marca; atendimento preserva a aplicação na experiência.",
+      "modifiedAt": "2026-10-23"
+    },
+    "qual-e-o-arquetipo-da-sua-concorrencia-e-por-que-voce-deveria-saber-disso": {
+      "targets": [
+        "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
+        "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia"
+      ],
+      "reason": "Aprofunda a combinação arquetípica e a escolha de um espaço de mercado.",
+      "modifiedAt": "2026-10-17"
+    },
+    "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade": {
+      "targets": [
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+        "legibilidade-digital-marca-pessoas-ia"
+      ],
+      "reason": "Clareza visual permanece pertinente e legibilidade digital amplia as perguntas sobre o que a empresa faz para os pontos de consulta de pessoas e sistemas de IA.",
+      "modifiedAt": "2026-10-21"
+    },
+    "a-cultura-interna-e-o-branding-que-o-cliente-ainda-vai-sentir": {
+      "targets": [
+        "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+        "branding-na-pratica-para-pmes"
+      ],
+      "reason": "Relaciona cultura a decisões operacionais e comportamento de marca.",
+      "modifiedAt": "2026-10-17"
+    },
+    "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto": {
+      "targets": [
+        "efeito-isca",
+        "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar"
+      ],
+      "reason": "Preserva a comparação entre ofertas e acrescenta a análise de objeções de preço sem atribuir toda negociação a vieses.",
+      "modifiedAt": "2026-10-17"
+    },
+    "marcas-memoraveis-nao-gritam-elas-fazem-sentido": {
+      "targets": [
+        "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade",
+        "posicionamento-de-marca-para-pequenas-empresas"
+      ],
+      "reason": "Desenvolve a capacidade de explicar a marca e seu posicionamento.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-que-voce-ve-e-tudo-o-que-existe": {
+      "targets": [
+        "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa",
+        "metricas-sem-vaidade"
+      ],
+      "reason": "Relaciona decisões intuitivas a diagnósticos apoiados em métricas.",
+      "modifiedAt": "2026-10-17"
+    },
+    "marca-nao-se-faz-no-canva-se-faz-no-cotidiano": {
+      "targets": [
+        "branding-na-pratica-para-pmes",
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+      ],
+      "reason": "Aprofunda a diferença entre design de superfície e comportamento coerente.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-que-pequenas-empresas-podem-aprender-com-os-erros-das-grandes": {
+      "targets": [
+        "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar",
+        "crescer-sem-perder-a-alma"
+      ],
+      "reason": "Complementa erros de grandes marcas com decisões concretas de crescimento e preservação do propósito.",
+      "modifiedAt": "2026-10-17"
+    },
+    "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca": {
+      "targets": [
+        "arquetipos-de-marca-para-pequenas-empresas",
+        "o-que-empresas-como-harley-davidson-dove-e-natura-tem-em-comum-com-a-sua-pme"
+      ],
+      "reason": "Desenvolve personalidade arquetípica e expressão emocional com exemplos de marcas.",
+      "modifiedAt": "2026-10-17"
+    },
+    "por-que-a-escassez-vende-mas-nem-sempre": {
+      "targets": [
+        "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto",
+        "marketing-nao-e-persuasao-e-arquitetura-de-escolha"
+      ],
+      "reason": "Complementa escassez com percepção de valor e contexto de decisão.",
+      "modifiedAt": "2026-10-17"
+    },
+    "3-decisoes-de-branding-que-levaram-pequenas-marcas-a-outro-patamar": {
+      "targets": [
+        "o-que-pequenas-empresas-podem-aprender-com-os-erros-das-grandes",
+        "posicionamento-de-marca-para-pequenas-empresas"
+      ],
+      "reason": "Relaciona decisões de crescimento a aprendizados de outras marcas e posicionamento.",
+      "modifiedAt": "2026-10-17"
+    },
+    "framing-a-arte-invisivel-que-decide-o-sucesso-da-sua-comunicacao": {
+      "targets": [
+        "ancoragem-o-truque-psicologico-que-molda-quanto-o-cliente-acha-que-vale-seu-produto",
+        "marketing-nao-e-persuasao-e-arquitetura-de-escolha"
+      ],
+      "reason": "Aprofunda contexto comparativo de preço e desenho de ambientes de decisão.",
+      "modifiedAt": "2026-10-17"
+    },
+    "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao": {
+      "targets": [
+        "branding-na-pratica-para-pmes",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "Preserva a tradução geral do manual em prática e acrescenta o aprofundamento específico em atendimento, autonomia e processos.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-paradoxo-da-escolha": {
+      "targets": [
+        "efeito-isca",
+        "marketing-nao-e-persuasao-e-arquitetura-de-escolha"
+      ],
+      "reason": "Conecta excesso de alternativas à comparação entre planos e arquitetura de escolha.",
+      "modifiedAt": "2026-10-17"
+    },
+    "seu-logotipo-e-bonito-mas-sua-marca-e-clara": {
+      "targets": [
+        "se-o-seu-cliente-nao-consegue-explicar-sua-marca-talvez-ela-ainda-nao-exista-de-verdade",
+        "identidade-visual-2027-textura-cor-autoria"
+      ],
+      "reason": "Preserva clareza da proposta e acrescenta a análise de particularidade visual com origem e critérios, além da beleza do logotipo.",
+      "modifiedAt": "2026-10-21"
+    },
+    "a-biblioteca-estrategica-da-tweed-os-livros-que-moldam-nossa-abordagem-de-branding-e-marketing": {
+      "targets": [
+        "o-arcabouco-invisivel-da-tweed-os-livros-que-moldam-nossas-estrategias",
+        "marketing-estrategico-para-pequenas-empresas"
+      ],
+      "reason": "Complementa repertório de branding com comportamento e aplicação estratégica a PMEs.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-arcabouco-invisivel-da-tweed-os-livros-que-moldam-nossas-estrategias": {
+      "targets": [
+        "a-biblioteca-estrategica-da-tweed-os-livros-que-moldam-nossa-abordagem-de-branding-e-marketing",
+        "marketing-nao-e-persuasao-e-arquitetura-de-escolha"
+      ],
+      "reason": "Relaciona repertório comportamental à biblioteca de marketing e à arquitetura de escolha.",
+      "modifiedAt": "2026-10-17"
+    },
+    "sua-marca-esta-viva-ou-so-parece-uma-vitrine-bonita": {
+      "targets": [
+        "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega",
+        "marca-nao-se-faz-no-canva-se-faz-no-cotidiano"
+      ],
+      "reason": "Aprofunda coerência entre discurso e prática além das ferramentas visuais.",
+      "modifiedAt": "2026-10-17"
+    },
+    "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias": {
+      "targets": [
+        "narrativas-miticas",
+        "marcas-memoraveis-nao-gritam-elas-fazem-sentido"
+      ],
+      "reason": "Desenvolve narrativas de marca e clareza de significado.",
+      "modifiedAt": "2026-10-17"
+    },
+    "ninguem-compra-sozinho": {
+      "targets": [
+        "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding",
+        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina"
+      ],
+      "reason": "Mostra influência social em conteúdo de clientes e recomendação espontânea.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-que-empresas-como-harley-davidson-dove-e-natura-tem-em-comum-com-a-sua-pme": {
+      "targets": [
+        "clientes-nao-compram-produtos-compram-a-energia-da-sua-marca",
+        "arquetipos-de-marca-para-pequenas-empresas"
+      ],
+      "reason": "Aprofunda a energia emocional da marca e a definição de sua personalidade.",
+      "modifiedAt": "2026-10-17"
+    },
+    "marketing-nao-e-persuasao-e-arquitetura-de-escolha": {
+      "targets": [
+        "o-paradoxo-da-escolha",
+        "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa"
+      ],
+      "reason": "Desenvolve sobrecarga de escolha e decisões intuitivas no consumo.",
+      "modifiedAt": "2026-10-17"
+    },
+    "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais": {
+      "targets": [
+        "microcomunidades-relevancia-alem-das-impressoes",
+        "alem-do-anuncio-como-o-boca-a-boca-mantem-sua-marca-viva-quando-a-propaganda-termina"
+      ],
+      "reason": "Microcomunidades aprofunda a relevância da proximidade em públicos específicos; boca a boca preserva a continuidade da recomendação local.",
+      "modifiedAt": "2026-10-21"
+    },
+    "voce-nao-decide-seu-cerebro-decide-por-voce-e-depois-inventa-uma-desculpa": {
+      "targets": [
+        "marketing-nao-e-persuasao-e-arquitetura-de-escolha",
+        "o-que-voce-ve-e-tudo-o-que-existe"
+      ],
+      "reason": "Aprofunda contextos de escolha e limites da percepção na decisão.",
+      "modifiedAt": "2026-10-17"
+    },
+    "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega": {
+      "targets": [
+        "branding-como-experiencia-do-cliente",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "O novo artigo oferece um caminho operacional para as incoerências de atendimento descritas no checklist; permanece a perspectiva geral da experiência.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-que-sua-marca-comunica-quando-voce-nao-esta-por-perto": {
+      "targets": [
+        "a-cultura-interna-e-o-branding-que-o-cliente-ainda-vai-sentir",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "Combina a cultura interna com decisões de atendimento e autonomia quando o fundador não participa de cada contato.",
+      "modifiedAt": "2026-10-17"
+    },
+    "grandes-ideias-pequenas-verbas-marcas-que-marcam": {
+      "targets": [
+        "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
+      ],
+      "reason": "Relaciona criatividade com verba limitada a campanhas enxutas e à definição de restrições produtivas.",
+      "modifiedAt": "2026-10-19"
+    },
+    "arquetipos-de-marca-para-pequenas-empresas": {
+      "targets": [
+        "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
+        "quando-tudo-parece-igual-os-arquetipos-ajudam-sua-marca-a-ser-lembrada"
+      ],
+      "reason": "Aprofunda combinação e diferenciação arquetípica para definir personalidade.",
+      "modifiedAt": "2026-10-17"
+    },
+    "posicionamento-de-marca-para-pequenas-empresas": {
+      "targets": [
+        "do-oceano-vermelho-ao-azul-estrategias-de-nicho-para-pmes-fugirem-da-concorrencia",
+        "marcas-memoraveis-nao-gritam-elas-fazem-sentido"
+      ],
+      "reason": "Complementa posicionamento com escolha de nicho e clareza de significado.",
+      "modifiedAt": "2026-10-17"
+    },
+    "branding-na-pratica-para-pmes": {
+      "targets": [
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento"
+      ],
+      "reason": "Dois aprofundamentos práticos de como o manual ganha comportamento: personalidade cotidiana e atendimento.",
+      "modifiedAt": "2026-10-19"
+    },
+    "branding-como-experiencia-do-cliente": {
+      "targets": [
+        "da-embalagem-ao-pos-venda",
+        "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega"
+      ],
+      "reason": "Mostra a experiência na entrega e a coerência entre comunicação e atendimento.",
+      "modifiedAt": "2026-10-17"
+    },
+    "branding-para-pequenos-negocios": {
+      "targets": [
+        "como-parecer-grande-sem-ser-grande-os-segredos-do-branding-enxuto",
+        "grandes-ideias-pequenas-verbas-marcas-que-marcam"
+      ],
+      "reason": "Desenvolve percepção profissional e criatividade em estruturas enxutas.",
+      "modifiedAt": "2026-10-17"
+    },
+    "marketing-estrategico-para-pequenas-empresas": {
+      "targets": [
+        "o-custo-invisivel-de-coordenar-o-proprio-marketing",
+        "posicionamento-de-marca-para-pequenas-empresas"
+      ],
+      "reason": "Aprofunda a coordenação estratégica do marketing e a diferenciação de marca.",
+      "modifiedAt": "2026-10-17"
+    },
+    "branding-o-superpoder-escondido-para-pequenas-empresas": {
+      "targets": [
+        "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
+        "arquetipos-de-marca-para-pequenas-empresas"
+      ],
+      "reason": "Relaciona vínculos locais à personalidade que torna a pequena marca memorável.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-custo-invisivel-de-coordenar-o-proprio-marketing": {
+      "targets": [
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "marketing-estrategico-para-pequenas-empresas"
+      ],
+      "reason": "Aprofunda a integração com vendas e a direção estratégica do marketing da PME.",
+      "modifiedAt": "2026-10-17"
+    },
+    "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar": {
+      "targets": [
+        "divida-de-marca",
+        "posicionamento-de-marca-para-pequenas-empresas"
+      ],
+      "reason": "Complementa a defesa da proposta com o diagnóstico de sinais de desconfiança e a definição de uma posição distinta no mercado.",
+      "modifiedAt": "2026-10-17"
+    },
+    "o-atendimento-esta-desmentindo-o-seu-posicionamento": {
+      "targets": [
+        "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao",
+        "comentarios-parte-do-produto-experiencia-de-marca"
+      ],
+      "reason": "Mantém as condições operacionais e acrescenta aplicação direta em dúvidas e respostas públicas.",
+      "modifiedAt": "2026-10-19"
+    },
+    "uma-boa-restricao-pode-melhorar-uma-ideia": {
+      "targets": [
+        "menos-e-mais-o-poder-de-campanhas-pequenas-com-grandes-ideias",
+        "reaproveitamento-video-adaptacao-criativa"
+      ],
+      "reason": "Preserva o foco em campanhas concentradas e oferece uma aplicação concreta de planejamento criativo com recursos de produção limitados.",
+      "modifiedAt": "2026-10-21"
+    },
+    "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido": {
+      "targets": [
+        "plano-de-midia-2027-alem-de-uma-plataforma",
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+      ],
+      "reason": "Conecta coerência da oferta à distribuição entre ambientes e à experiência na página de destino.",
+      "modifiedAt": "2026-10-19"
+    },
+    "personalidade-de-marca-aparece-nas-escolhas-pequenas": {
+      "targets": [
+        "multiplas-faces-da-marca-combinando-arquetipos-para-uma-identidade-rica",
+        "branding-na-pratica-para-pmes"
+      ],
+      "reason": "Relaciona a interpretação de arquétipos à expressão cotidiana da personalidade e à passagem do manual à prática.",
+      "modifiedAt": "2026-10-18"
+    },
+    "plano-de-midia-2027-alem-de-uma-plataforma": {
+      "targets": [
+        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade"
+      ],
+      "reason": "Liga a distribuição de canais à coerência da oferta e à integração entre marketing e vendas.",
+      "modifiedAt": "2026-10-18"
+    },
+    "comentarios-parte-do-produto-experiencia-de-marca": {
+      "targets": [
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+        "marca-nas-maos-do-cliente-como-o-conteudo-gerado-pelo-usuario-impulsiona-seu-branding"
+      ],
+      "reason": "Aprofunda a resposta como experiência de marca e a participação pública de clientes como evidência.",
+      "modifiedAt": "2026-10-18"
+    },
+    "marca-recomendada-por-ia-confianca": {
+      "targets": [
+        "legibilidade-digital-marca-pessoas-ia",
+        "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar"
+      ],
+      "reason": "Legibilidade aprofunda as informações públicas necessárias para verificar uma recomendação por IA; confiança na proposta continua pertinente.",
+      "modifiedAt": "2026-10-21"
+    },
+    "microcomunidades-relevancia-alem-das-impressoes": {
+      "targets": [
+        "como-marcas-locais-constroem-comunidades-mais-fortes-do-que-muitas-multinacionais",
+        "parceria-marca-alem-dos-logotipos"
+      ],
+      "reason": "Preserva pertencimento local e aprofunda a escolha e organização de parcerias com criadores ou negócios além da quantidade de seguidores.",
+      "modifiedAt": "2026-10-23"
+    },
+    "legibilidade-digital-marca-pessoas-ia": {
+      "targets": [
+        "marca-recomendada-por-ia-confianca",
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding"
+      ],
+      "reason": "Conecta a compreensão digital da oferta à confiança depois da recomendação e à experiência concreta no site.",
+      "modifiedAt": "2026-10-19"
+    },
+    "identidade-visual-2027-textura-cor-autoria": {
+      "targets": [
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara"
+      ],
+      "reason": "Aprofunda autoria visual com decisões de personalidade e clareza estratégica além do acabamento.",
+      "modifiedAt": "2026-10-19"
+    },
+    "reaproveitamento-video-adaptacao-criativa": {
+      "targets": [
+        "sua-marca-precisa-de-consistencia-nao-de-perfeicao",
+        "uma-boa-restricao-pode-melhorar-uma-ideia"
+      ],
+      "reason": "A consistência explica o que preservar entre adaptações; a restrição criativa aprofunda o planejamento de materiais úteis com recursos limitados.",
+      "modifiedAt": "2026-10-21"
+    },
+    "qualidade-dados-campanha-conversoes": {
+      "targets": [
+        "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade",
+        "metricas-sem-vaidade"
+      ],
+      "reason": "A integração entre marketing e vendas aprofunda os critérios de qualificação e retorno comercial; métricas sem vaidade amplia a interpretação dos resultados de negócio.",
+      "modifiedAt": "2026-10-22"
+    },
+    "ia-materiais-marca-alem-das-cores": {
+      "targets": [
+        "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
+      ],
+      "reason": "O uso de IA com linguagem própria complementa a orientação de materiais; personalidade nas escolhas pequenas aprofunda os critérios que tornam atributos de marca aplicáveis.",
+      "modifiedAt": "2026-10-22"
+    },
+    "parceria-marca-alem-dos-logotipos": {
+      "targets": [
+        "microcomunidades-relevancia-alem-das-impressoes",
+        "branding-nao-acontece-so-no-marketing-ele-vive-na-operacao"
+      ],
+      "reason": "Microcomunidades aprofunda a relevância do público além da audiência somada; a marca na operação explica a necessidade de cumprir a promessa conjunta no atendimento e na execução.",
+      "modifiedAt": "2026-10-23"
+    },
+    "jornada-compra-antes-da-campanha": {
+      "targets": [
+        "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+        "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido"
+      ],
+      "reason": "UX aprofunda o acesso à informação durante a avaliação; clareza da oferta antes da mídia complementa a preparação da comunicação e das condições de contratação.",
+      "modifiedAt": "2026-10-23"
+    },
+    "atribuicao-vendas-efeito-campanha": {
+      "targets": [
+        "qualidade-dados-campanha-conversoes",
+        "metricas-sem-vaidade"
+      ],
+      "reason": "Qualidade dos dados aprofunda o que a conversão registra e sua relação com o comercial; métricas sem vaidade amplia a leitura de resultados relevantes ao negócio.",
+      "modifiedAt": "2026-10-24"
+    },
+    "interpretar-referencias-visuais-cliente": {
+      "targets": [
+        "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+        "personalidade-de-marca-aparece-nas-escolhas-pequenas"
+      ],
+      "reason": "Os dois textos aprofundam a passagem da promessa de marca para a conversa real: escuta e contexto no atendimento, seguidos de escolhas concretas que expressam cuidado e personalidade.",
+      "modifiedAt": "2026-10-24"
+    }
+  }
+}

@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-24T07:55:48.127Z",
+  "exportedAt": "2026-10-24T21:23:58.315Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-10-24-e7a5b6e2cce5",
+      "title": "Sua mensagem combina com o momento em que o cliente a encontra?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Gancho verificado: em 21/10/2026, Spotify Brand publicou na LBB o relato da campanha Podcasts on Spotify, com mídia em aeroportos e transporte de Nova York e Los Angeles que relaciona tempos de espera e deslocamento a sugestões de podcasts. Tratar como relato primário da própria marca hospedado em plataforma especializada, não avaliação independente de eficácia. Não repetir percentuais promocionais, não presumir resultados e não recomendar a escala da campanha para uma PME. Tese: uma mensagem ganha pertinência quando sua proposta considera o que a pessoa pode fazer naquele contexto, com o tempo e a atenção disponíveis. Exemplo hipotético de uma pequena loja que compara o conteúdo útil na vitrine durante a passagem, na área de espera e no contato posterior solicitado pelo cliente. Orientar a escolha de uma ação possível para cada momento, legibilidade, utilidade e respeito à atenção, sem transformar toda espera em obrigação de consumir publicidade. Diferenciar de reaproveitamento de vídeo: foco na situação de uso e no próximo passo viável, não na edição por plataforma. Diferenciar de jornada de compra: foco no contexto imediato de contato, não na antecedência do calendário.",
+      "audience": "Donos de PMEs e responsáveis por marketing que repetem a mesma mensagem em todos os pontos de contato sem considerar a situação, o tempo e a possibilidade de ação do cliente.",
+      "goal": "De “a mesma mensagem precisa aparecer em todo lugar” para “a ideia pode ser consistente e a entrega precisa caber no momento em que a pessoa a encontra”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-24",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Spotify Brand na LBB, Spotify Turns Everyday Waiting Time Into Podcast Discovery",
+            "url": "https://lbbonline.com/news/spotify-turns-everyday-waiting-time-into-podcast-discovery",
+            "publishedAt": "2026-10-21"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-reposicao-2026-10-24-4a0fdbb1c406",
       "title": "O negócio mudou. A informação que o cliente encontra também?",
@@ -11,8 +38,8 @@
       "angle": "Gancho verificado: em 21/10/2026, o Google anunciou novas ferramentas do Gemini para pequenos negócios, incluindo conexões com Google Business Profile e outros aplicativos; o comunicado informa implantação global gradual nos dias seguintes. Usar apenas como contexto para a integração de informações, sem presumir acesso já disponível a toda PME nem prometer sincronização automática de todos os canais. Tese: conectar ferramentas não corrige uma informação comercial desatualizada; a empresa precisa definir qual registro vale e quem atualiza o site, o perfil local e o atendimento quando um serviço, horário ou condição muda. Exemplo hipotético de um negócio que altera o horário ou deixa de oferecer um serviço, mas mantém respostas divergentes nos pontos de contato. Propor uma rotina simples de inventário dos canais, responsável por cada informação, confirmação da mudança e checagem do que o cliente efetivamente encontra. Distinguir de legibilidade para máquinas: foco na atualização operacional após mudanças, não em marcação técnica. Distinguir do artigo sobre atendimento: foco na origem e propagação da informação, não no tom de voz. Não utilizar dados internos ou casos identificáveis de clientes.",
       "audience": "Donos e gestores de PMEs que mantêm site, perfil no Google e atendimento por mensagens e precisam evitar informações contraditórias quando a operação muda.",
       "goal": "De “a informação está correta no nosso sistema, então o cliente já sabe” para “preciso conferir e manter coerente o que ele encontra em cada ponto de contato”.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-21"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "6e651da3-3276-434e-8dca-c6c4904e6b65",
+        "completedAt": "2026-10-24T22:06:23.052Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A empresa mudou o horário de atendimento. A equipe sabe, a agenda foi ajustada e a informação está correta no sistema interno. Mas o cliente consulta o perfil no Google, encontra o horário antigo e chega quando a porta já está fechada. Para ele, a mudança só aparece na forma de um desencontro.\n\nManter as informações da empresa atualizadas exige acompanhar o caminho entre a decisão interna e aquilo que as pessoas encontram antes de entrar em contato. Essa passagem envolve site, perfis, mensagens e materiais que nem sempre são atualizados pela mesma pessoa.\n\nEm anúncio de 21 de outubro de 2026, o Google apresentou novas ferramentas do Gemini para pequenos negócios, incluindo conexões com Google Business Profile e outros aplicativos. O comunicado informou uma implantação global gradual nos dias seguintes. A integração abre possibilidades, mas não permite concluir que uma informação incorreta será identificada e corrigida automaticamente em todos os canais.\n\nAntes de conectar mais ferramentas, vale perguntar: qual informação deve orientar o atendimento hoje e quem garante que ela chegou aos lugares certos?\n\n## A mudança interna precisa chegar ao cliente\n\nUm negócio pode alterar seus serviços, a área atendida, os horários ou a forma de agendar. Cada decisão modifica uma expectativa que talvez já esteja registrada em algum material público.\n\nConsidere um exemplo hipotético: uma empresa de manutenção deixa de atender determinado equipamento. A lista interna é corrigida, mas uma página do site continua oferecendo o serviço e uma resposta salva no atendimento confirma a disponibilidade. O cliente recebe sinais contraditórios antes mesmo de explicar o problema.\n\nA pessoa que atende pode estar consultando o texto que sempre utilizou. Quem mantém o site talvez nem tenha recebido a informação. A origem da contradição está na ausência de um encaminhamento completo para a mudança.\n\nQuando algo muda na operação, a decisão precisa incluir seus efeitos na comunicação. O que deve ser retirado, explicado ou substituído? Quem fará isso? Como será confirmado que a versão correta está acessível?\n\n## Faça um inventário das informações que orientam escolhas\n\nUma empresa não precisa começar por uma auditoria de cada frase que já publicou. Pode priorizar informações capazes de levar alguém a uma decisão equivocada: endereço, horário, serviços disponíveis, condições comerciais vigentes, área de atendimento e modo de solicitar um orçamento.\n\nPara cada uma, localize os pontos de contato relevantes. O horário aparece no site e no perfil local? Existe uma mensagem automática? Um anúncio ainda divulga uma condição encerrada? A apresentação enviada pelo comercial contém uma oferta que deixou de existir?\n\nO objetivo é tornar visível onde a informação circula. Sem esse mapa, atualizar um lugar pode criar uma falsa sensação de que o assunto foi resolvido.\n\nVale distinguir o que a empresa controla diretamente do que depende de terceiros. Um material antigo em um canal externo pode exigir uma solicitação de correção. Nesse caso, registre o pedido e acompanhe a resposta, sem apresentar o ajuste como concluído antes de verificá-lo.\n\n## Defina qual registro vale e quem confirma a mudança\n\nSe duas pessoas consultam arquivos diferentes, a dúvida não deveria ser resolvida pela escolha da versão que parece mais recente. É preciso saber qual registro contém a decisão confirmada.\n\nEsse registro pode ser simples. Uma página compartilhada com as informações vigentes, a data de atualização e o responsável pela confirmação já oferece uma referência para o trabalho. A ferramenta adequada depende da operação; o essencial é que a equipe saiba onde consultar e como comunicar uma divergência.\n\nTambém é útil separar responsabilidades. Uma pessoa pode confirmar a condição comercial e outra fazer os ajustes no site. Quem executa a atualização precisa receber a orientação aprovada, não uma hipótese que ainda está em discussão.\n\nNo exemplo da manutenção, o registro informa quais equipamentos continuam atendidos, desde quando a alteração vale e o que dizer a quem procura o serviço retirado. Isso evita que cada canal precise inventar uma resposta própria.\n\n## Confira o resultado como alguém de fora\n\nSalvar uma alteração é uma parte do trabalho. Depois, confira o que está efetivamente disponível no canal utilizado pelo cliente.\n\nAbra a página pública, consulte o perfil e revise a resposta salva. Se houver um formulário de solicitação, verifique se as opções ainda fazem sentido. Uma descrição pode estar correta e o formulário continuar oferecendo um serviço removido.\n\nA checagem precisa olhar também para o conjunto. Endereço, orientações de chegada e contato estão coerentes? A página de serviços e o texto enviado pelo atendimento descrevem a mesma condição? Uma indicação antiga de prazo continua aparecendo em um arquivo que a equipe envia com frequência?\n\nQuando a atualização depender de processamento ou aprovação de uma plataforma, acompanhe a publicação efetiva. Não confunda uma solicitação enviada com uma informação já corrigida para quem consulta.\n\n## Mensagens salvas também envelhecem\n\nRespostas prontas podem ajudar a equipe, mas precisam entrar na rotina de revisão. Um texto cordial e bem escrito ainda pode orientar o cliente de forma errada se mencionar um horário, um procedimento ou uma condição que mudou.\n\nAo atualizar uma informação recorrente, procure as mensagens que dependem dela. Explique também à equipe o que muda na conversa. Se o atendimento deixa de ser por ordem de chegada e passa a exigir agendamento, a alteração afeta tanto a resposta inicial quanto a confirmação enviada depois.\n\nEsse cuidado permite preservar a autonomia de quem atende. Em vez de precisar perguntar tudo novamente a cada contato, a pessoa encontra uma orientação vigente e sabe quando deve encaminhar uma exceção.\n\n## Integração precisa de uma informação confiável na origem\n\nConectar sistemas pode ajudar a reutilizar dados, mas a conexão não substitui a definição de responsabilidades. Se o registro de origem estiver errado, utilizá-lo em mais lugares pode espalhar a inconsistência.\n\nAntes de automatizar uma atualização, esclareça quais campos serão utilizados, qual evento deve disparar a mudança e como será conferido o resultado. Comece por um caso que a equipe consiga acompanhar. Se houver uma falha, deve existir um caminho para corrigi-la sem depender de uma pessoa descobrir o erro por acaso.\n\nNa próxima mudança da empresa, inclua uma pergunta na decisão: onde o cliente ainda pode encontrar a informação anterior? Defina os ajustes, seus responsáveis e a confirmação final. A coerência da marca também se sustenta nesse trabalho discreto, quando o que a empresa sabe sobre si mesma corresponde ao que permite que o público espere dela.",
+      "sources": "[Google, novas ferramentas Gemini para pequenos negócios, 21/10/2026](https://blog.google/intl/en-in/products/new-gemini-tools-for-small-business-owners/)\n\nO comunicado informa implantação global gradual. Não estabelece correção ou sincronização automática de todas as informações comerciais. O caso da empresa de manutenção é hipotético; a rotina de atualização é uma recomendação editorial.",
+      "prompt": "Cinematic editorial photograph inside a small Brazilian repair service reception, a staff member and business owner attentively comparing an updated appointment schedule on a laptop with an older printed service leaflet, the owner noticing a discrepancy and marking the leaflet for correction, candid everyday gestures, medium wide composition showing a plausible modest reception desk and workshop doorway, quiet thoughtful editorial atmosphere, subtle teal ambient accent light inspired by #08ffb1 reflecting along the desk and a restrained teal background rim light, soft neutral key light on faces, natural skin tones, controlled contrast, realistic paper and materials, no readable text or screens, no posing, no visible logos --ar 3:2",
+      "imageAlt": "Atendente e gestor conferem uma agenda no computador e um folheto de serviços em uma recepção, com luz teal suave ao fundo."
     },
     {
       "id": "pauta-diaria-2026-10-24",
@@ -38,11 +76,16 @@
       "angle": "Gancho verificado: em 06/10/2026, Pinterest anunciou Beauty Guides, que transforma referências visuais de cabelo e unhas em orientações, incluindo o que perguntar no atendimento. O anúncio informa disponibilidade inicial em iOS nos Estados Unidos; não apresentar o recurso como disponível no Brasil nem repetir estatísticas comerciais sem necessidade. Tese: uma imagem enviada pelo cliente é o começo da interpretação de uma expectativa, não um briefing completo nem autorização para copiar. Investigar a diferença entre gostar de uma aparência e conseguir explicar a experiência ou sensação desejada. Aplicar a PMEs que vendem serviços ou projetos com componente visual: perguntar qual detalhe chamou atenção, o que o cliente deseja preservar, o que não quer e quais condições reais precisam ser consideradas. Usar exemplo hipotético de cliente de um estúdio de interiores que envia uma foto, sem inferir personalidade, poder aquisitivo ou intenção a partir da imagem. Mostrar como confirmar o entendimento com opções explicadas, limites de entrega e linguagem acessível, preservando autoria e adequação. Diferenciar do texto sobre jornada de compra: foco na interpretação da referência durante o diálogo e na percepção de ser compreendido, não no calendário da campanha. Diferenciar de IA e cores: foco no encontro entre cliente e profissional, não na documentação usada por uma ferramenta.",
       "audience": "Donos de PMEs e profissionais de atendimento, criação e projetos que recebem imagens de referência dos clientes e precisam traduzir expectativas em escolhas possíveis sem assumir que entenderam tudo pela foto.",
       "goal": "De “o cliente mandou uma imagem, então já sabemos o que entregar” para “precisamos conversar sobre o significado da referência e confirmar o entendimento para construir confiança e adequação”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -71,14 +114,28 @@
       "keyword": "interpretar referências visuais",
       "slug": "interpretar-referencias-visuais-cliente",
       "meta": "Interpretar referências visuais exige escuta e confirmação. Veja como transformar imagens do cliente em decisões claras, sem presumir expectativas nem copiar.",
-      "date": "",
+      "date": "2026-10-24",
       "imageFile": "conteudos/pauta-diaria-2026-10-24/imagens/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
       "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_inside_a_mode_547266a0-0af0-40d8-846c-dd8102b3d58b_3.png",
       "imageWidth": 1344,
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
       "faq": "Uma imagem de referência substitui o briefing?\nNão. Ela inicia a conversa, mas é preciso esclarecer o que chamou atenção, quais necessidades devem ser atendidas e quais condições limitam o projeto.\n\nComo confirmar se a referência foi compreendida?\nRetome a necessidade em linguagem simples, peça confirmação e explique o que cada alternativa resolve e quais compromissos exige.\n\nO que registrar depois de conversar sobre referências?\nRegistre as escolhas, seus motivos, os aspectos descartados e as condições ainda pendentes, em vez de guardar somente as imagens.",
-      "url": "https://www.agenciatweed.com.br/interpretar-referencias-visuais-cliente/"
+      "url": "https://www.agenciatweed.com.br/interpretar-referencias-visuais-cliente/",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/interpretar-referencias-visuais-cliente/",
+        "publishedAt": "2026-10-24T22:07:16.332559+00:00",
+        "job": "56714b7d-d871-4e27-a1ef-d70b8dcb032c",
+        "files": [
+          "assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
+          "interpretar-referencias-visuais-cliente/index.html",
+          "blog/index.html",
+          "blog-marcas-com-alma/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-23-154444d91d6e",
@@ -88,7 +145,7 @@
       "angle": "Gancho verificado: em 15/10/2026, Adobe e NVIDIA anunciaram otimizações em ferramentas de criação e fluxos de vídeo, incluindo Photoshop, Premiere e Frame.io. Usar a notícia para distinguir tempo técnico de produção de tempo total de uma campanha; não repetir percentuais de desempenho nem extrapolar testes dos fornecedores para qualquer PME. Tese: reduzir o tempo de edição ou processamento não elimina espera por informação, decisões contraditórias e aprovações sem responsável. Investigar o percurso do material entre briefing, primeira proposta, retorno consolidado e aprovação; separar correção factual, escolha de direção e preferência pessoal. Exemplo hipotético de campanha de lançamento cujo arquivo fica pronto rapidamente, mas a oferta muda a cada avaliador. Orientar definição de responsável pela decisão, critérios de aceite, informação que precisa estar confirmada e registro das mudanças. Não prometer redução de prazo nem tratar revisão necessária como burocracia inútil. Diferenciar do artigo sobre custo de coordenar fornecedores: foco na qualidade e sequência do feedback e da aprovação, mesmo com uma única equipe. Diferenciar do texto sobre IA e cores: foco no fluxo da decisão, não no conteúdo do manual de marca.",
       "audience": "Donos de PMEs e gestores que já aceleraram a produção com tecnologia, mas continuam vendo campanhas atrasarem por informações incompletas, retornos dispersos e decisões reabertas na aprovação.",
       "goal": "De “ferramenta mais rápida resolve o atraso da campanha” para “preciso organizar critérios, responsáveis e retornos para que a velocidade de produção chegue à entrega”.",
-      "status": "Redação",
+      "status": "Revisão",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
@@ -107,16 +164,23 @@
         ]
       },
       "automation": {
-        "stage": "Redação",
+        "stage": "Revisão",
         "state": "done",
-        "lastJob": "74351735-1040-4ac2-8d87-b95fa2953653",
-        "completedAt": "2026-10-24T11:56:08.236Z",
-        "message": "Redação e prompt prontos para edição."
+        "lastJob": "c769da54-ad77-4ab4-afcb-944f0809ba20",
+        "completedAt": "2026-10-24T22:00:46.062Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "9beaf32dcd6086d9e305aa9203ca64e176e504d1cb9bcc14243ed1f742280a8a"
       },
       "body": "O arquivo está pronto. A campanha, ainda não. A equipe já ajustou a imagem, exportou o vídeo e preparou as versões para os canais combinados. Mesmo assim, a publicação continua esperando uma resposta sobre a oferta, uma divergência entre gestores ou a confirmação de uma informação que deveria orientar a criação desde o começo.\n\nAprovar uma campanha envolve decisões que nenhuma velocidade de processamento resolve sozinha. Quando produzir fica mais rápido, essas esperas podem se tornar ainda mais visíveis.\n\nEm 15 de outubro de 2026, Adobe e NVIDIA anunciaram uma ampliação de sua colaboração para acelerar ferramentas e fluxos de criação, incluindo Photoshop, Premiere e Frame.io. O comunicado trata de otimizações técnicas específicas. Ele oferece um gancho para uma pergunta de gestão: o que acontece com o material depois que a ferramenta termina sua parte?\n\n## O tempo de produção é apenas uma parte do percurso\n\nUma campanha atravessa momentos diferentes. Há o tempo de reunir informações, desenvolver a proposta, produzir os arquivos, receber comentários, decidir entre alternativas e conferir a versão que será publicada.\n\nUma ferramenta pode ajudar em algumas dessas atividades. Ainda assim, o arquivo pode passar mais tempo aguardando uma decisão do que sendo editado. Isso não torna a tecnologia dispensável. Mostra que o prazo completo depende também da organização das escolhas.\n\nAntes de comprar outra solução para acelerar o trabalho, observe onde o material ficou parado na última campanha. Faltava uma capacidade de edição ou faltava alguém confirmar o que deveria ser comunicado? São problemas diferentes, com respostas diferentes.\n\n## A oferta muda enquanto a equipe ajusta a arte\n\nImagine uma empresa preparando o lançamento de um serviço. É um exemplo hipotético. O briefing informa uma condição comercial e a equipe cria a campanha a partir dela. Na primeira avaliação, o responsável pelo marketing pede mais destaque para o benefício principal. Em seguida, o comercial altera a condição. Por último, a direção questiona se aquele é o público que a empresa pretende atingir.\n\nCada retorno parece um ajuste no material. Parte deles, porém, muda o problema que a criação estava tentando resolver. A equipe pode executar todas as solicitações rapidamente e continuar sem uma versão que possa ser aprovada.\n\nNesse cenário, insistir para que o designer trabalhe mais depressa não resolve a indefinição da oferta. É preciso reconhecer que a decisão voltou a uma etapa anterior, confirmar a direção e avaliar o efeito sobre o que já foi produzido.\n\n## Separe correção, direção e preferência\n\nUm retorno fica mais útil quando explica o tipo de problema encontrado. Um telefone incorreto exige correção factual. Uma mensagem que não evidencia o benefício combinado exige discutir a direção da comunicação. Já a preferência por outra cor pode pedir uma conversa sobre o critério da escolha.\n\nEssas categorias não precisam virar um formulário extenso. Servem para que a equipe saiba o que está sendo solicitado e por quê.\n\n“Não gostei” informa uma reação, mas ainda deixa o problema em aberto. “O benefício principal ficou menos evidente que a condição de pagamento” oferece uma questão que pode ser examinada no material. A resposta pode ser uma mudança de hierarquia, de texto ou até uma explicação sobre uma escolha que precisa ser revista em conjunto.\n\nTambém vale distinguir dúvida de decisão. “Será que este título funciona?” pode iniciar uma discussão. “Vamos adotar este título porque expressa melhor a oferta aprovada” encerra uma escolha. Quando uma pergunta chega à equipe como ordem, o retrabalho pode começar antes de haver entendimento.\n\n## Defina quem reúne os retornos e quem decide\n\nOuvir mais pessoas pode trazer informações importantes. O problema aparece quando comentários chegam separadamente e cada interlocutor parece ter a palavra final.\n\nUma pessoa pode reunir as contribuições e apontar as divergências que precisam de decisão. Isso não significa decidir sozinha sobre tudo. Uma condição comercial, por exemplo, pode depender de outra área. A responsabilidade é encaminhar a questão a quem pode resolvê-la e devolver à criação um retorno coerente.\n\nNo exemplo do lançamento, o comercial confirma a oferta, a direção valida a prioridade de público e a pessoa responsável pela campanha consolida as orientações. A equipe de criação recebe uma decisão compreensível, em vez de precisar adivinhar qual comentário prevalece.\n\nEsse cuidado é útil mesmo quando há um único fornecedor ou uma equipe interna pequena. A quantidade de pessoas envolvidas não elimina a necessidade de clareza sobre a autoridade de cada decisão.\n\n## Combine o que será avaliado antes de avaliar\n\nCritérios de aprovação ajudam a manter a conversa ligada ao objetivo. O material explica a oferta corretamente? Está adequado ao público definido? Preserva o posicionamento da marca? Contém as informações necessárias para a ação desejada? Funciona no formato em que será usado?\n\nA lista deve acompanhar a campanha real. Um anúncio de evento precisa de verificações diferentes das de uma apresentação comercial. O importante é que as pessoas conheçam os critérios antes de receber a primeira proposta.\n\nIsso não obriga ninguém a aprovar uma solução fraca porque ela cumpre uma lista. Criação também envolve julgamento. Mas, quando a proposta não funciona, fica mais fácil discutir em que ponto ela falha e qual problema a próxima versão precisa resolver.\n\n## Mudanças são possíveis, mas precisam deixar rastro\n\nDurante o trabalho, uma informação pode mudar de verdade. Um serviço pode deixar de estar disponível ou uma condição pode precisar de revisão. O processo deve comportar essas situações sem fingir que nada aconteceu.\n\nRegistre o que mudou, quem confirmou a mudança e quais materiais são afetados. Combine também se a alteração exige apenas uma correção localizada ou a revisão da proposta inteira. Antes de prometer a data original, confira o trabalho necessário.\n\nPreservar esse registro ajuda a evitar que uma decisão antiga volte por engano na próxima versão. Uma anotação curta e acessível pode ser suficiente; o valor está em permitir que todos encontrem a orientação vigente.\n\nNa próxima campanha, acompanhe um material do briefing à publicação. Identifique as esperas, as informações que chegaram tarde e as escolhas reabertas. Esse percurso pode revelar onde uma conversa mais clara faria diferença. A tecnologia entrega possibilidades de produção; a empresa ainda precisa dar direção para que elas se tornem comunicação pronta para ir ao ar.",
       "sources": "[Adobe e NVIDIA, ampliação da colaboração para acelerar a criação, 15/10/2026](https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation)\n\nO comunicado descreve otimizações técnicas específicas dos fornecedores. O exemplo do lançamento é hipotético; os critérios de feedback e aprovação são recomendações editoriais, sem promessa de redução de prazo.",
       "prompt": "Cinematic editorial photograph of a small Brazilian marketing team reviewing a campaign in a modest working studio, a designer sitting beside a finished layout on a laptop while a business owner and a marketing coordinator compare two conflicting handwritten review sheets, the coordinator calmly gathering the comments into one clear decision, candid concentrated expressions and spontaneous gestures, side angle at desk height, realistic paper and screen surfaces without readable content, restrained teal ambient side light inspired by #08ffb1 reflecting on the desk and a subtle teal rim light in the background, soft neutral key light, natural skin tones, controlled contrast, thoughtful conceptual editorial atmosphere in a plausible everyday workplace, no posing, no stock photo smiles, no readable text or visible logos --ar 3:2",
-      "imageAlt": "Designer, gestor e coordenadora discutem comentários de uma campanha em uma mesa de trabalho, com luz teal lateral suave."
+      "imageAlt": "Designer, gestor e coordenadora discutem comentários de uma campanha em uma mesa de trabalho, com luz teal lateral suave.",
+      "keyword": "aprovar uma campanha",
+      "slug": "aprovacao-campanha-feedback-decisoes",
+      "meta": "Aprovar uma campanha exige critérios e decisões claras. Organize os retornos para que ferramentas rápidas não esbarrem em informações e escolhas pendentes.",
+      "date": "",
+      "faq": "Por que uma campanha pode atrasar mesmo com ferramentas rápidas?\nPorque o prazo completo inclui coleta de informações, decisões, retornos e aprovação, além do tempo técnico de produzir os arquivos.\n\nComo tornar o feedback de uma campanha mais útil?\nExplique o problema encontrado, diferencie correção factual de mudança de direção ou preferência e reúna os retornos antes de encaminhar à criação.\n\nComo lidar com mudanças depois do briefing?\nRegistre o que mudou, quem confirmou e quais materiais são afetados; avalie o trabalho necessário antes de manter o prazo original.",
+      "url": "https://www.agenciatweed.com.br/aprovacao-campanha-feedback-decisoes/"
     },
     {
       "id": "pauta-reposicao-2026-10-23-833102549c76",

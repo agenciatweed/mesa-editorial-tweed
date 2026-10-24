@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "interpretar-referencias-visuais-cliente",
+  "contentSha256": "06e379545db0f10097babdc27ac0ff5dfba3088a998c8d640a971f911aa6dd73",
+  "modifiedAt": "2026-10-24",
+  "links": [
+    {
+      "from": "interpretar-referencias-visuais-cliente",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "percepção de ser compreendido",
+      "context": "A percepção de ser compreendido se constrói também nesses pequenos cuidados: retomar o que foi dito, explicar uma escolha e permitir que a pessoa ajuste o entendimento.",
+      "reason": "Aprofunda como escuta, contexto e encaminhamento tornam a promessa de proximidade concreta no atendimento."
+    }
+  ]
+}

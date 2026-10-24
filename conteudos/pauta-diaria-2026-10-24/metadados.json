@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 06/10/2026, Pinterest anunciou Beauty Guides, que transforma referências visuais de cabelo e unhas em orientações, incluindo o que perguntar no atendimento. O anúncio informa disponibilidade inicial em iOS nos Estados Unidos; não apresentar o recurso como disponível no Brasil nem repetir estatísticas comerciais sem necessidade. Tese: uma imagem enviada pelo cliente é o começo da interpretação de uma expectativa, não um briefing completo nem autorização para copiar. Investigar a diferença entre gostar de uma aparência e conseguir explicar a experiência ou sensação desejada. Aplicar a PMEs que vendem serviços ou projetos com componente visual: perguntar qual detalhe chamou atenção, o que o cliente deseja preservar, o que não quer e quais condições reais precisam ser consideradas. Usar exemplo hipotético de cliente de um estúdio de interiores que envia uma foto, sem inferir personalidade, poder aquisitivo ou intenção a partir da imagem. Mostrar como confirmar o entendimento com opções explicadas, limites de entrega e linguagem acessível, preservando autoria e adequação. Diferenciar do texto sobre jornada de compra: foco na interpretação da referência durante o diálogo e na percepção de ser compreendido, não no calendário da campanha. Diferenciar de IA e cores: foco no encontro entre cliente e profissional, não na documentação usada por uma ferramenta.",
   "audience": "Donos de PMEs e profissionais de atendimento, criação e projetos que recebem imagens de referência dos clientes e precisam traduzir expectativas em escolhas possíveis sem assumir que entenderam tudo pela foto.",
   "goal": "De “o cliente mandou uma imagem, então já sabemos o que entregar” para “precisamos conversar sobre o significado da referência e confirmar o entendimento para construir confiança e adequação”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "interpretar referências visuais",
   "slug": "interpretar-referencias-visuais-cliente",
   "meta": "Interpretar referências visuais exige escuta e confirmação. Veja como transformar imagens do cliente em decisões claras, sem presumir expectativas nem copiar.",
-  "date": "",
+  "date": "2026-10-24",
   "imageFile": "conteudos/pauta-diaria-2026-10-24/imagens/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
   "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_inside_a_mode_547266a0-0af0-40d8-846c-dd8102b3d58b_3.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
   "faq": "Uma imagem de referência substitui o briefing?\nNão. Ela inicia a conversa, mas é preciso esclarecer o que chamou atenção, quais necessidades devem ser atendidas e quais condições limitam o projeto.\n\nComo confirmar se a referência foi compreendida?\nRetome a necessidade em linguagem simples, peça confirmação e explique o que cada alternativa resolve e quais compromissos exige.\n\nO que registrar depois de conversar sobre referências?\nRegistre as escolhas, seus motivos, os aspectos descartados e as condições ainda pendentes, em vez de guardar somente as imagens.",
-  "url": "https://www.agenciatweed.com.br/interpretar-referencias-visuais-cliente/"
+  "url": "https://www.agenciatweed.com.br/interpretar-referencias-visuais-cliente/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/interpretar-referencias-visuais-cliente/",
+    "publishedAt": "2026-10-24T22:07:16.332559+00:00",
+    "job": "56714b7d-d871-4e27-a1ef-d70b8dcb032c",
+    "files": [
+      "assets/artigos-editoriais/b0d7f8ad643cdd848b0f866c696d645e1bb8c03188b0d54d7fec8169d84ddbf6.png",
+      "interpretar-referencias-visuais-cliente/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
