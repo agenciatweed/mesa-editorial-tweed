@@ -1,9 +1,7 @@
 TÍTULO: Se a criação acelerou, por que a campanha continua parada?
 EDITORIA: 3
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: em 15/10/2026, Adobe e NVIDIA anunciaram otimizações em ferramentas de criação e fluxos de vídeo, incluindo Photoshop, Premiere e Frame.io. Usar a notícia para distinguir tempo técnico de produção de tempo total de uma campanha; não repetir percentuais de desempenho nem extrapolar testes dos fornecedores para qualquer PME. Tese: reduzir o tempo de edição ou processamento não elimina espera por informação, decisões contraditórias e aprovações sem responsável. Investigar o percurso do material entre briefing, primeira proposta, retorno consolidado e aprovação; separar correção factual, escolha de direção e preferência pessoal. Exemplo hipotético de campanha de lançamento cujo arquivo fica pronto rapidamente, mas a oferta muda a cada avaliador. Orientar definição de responsável pela decisão, critérios de aceite, informação que precisa estar confirmada e registro das mudanças. Não prometer redução de prazo nem tratar revisão necessária como burocracia inútil. Diferenciar do artigo sobre custo de coordenar fornecedores: foco na qualidade e sequência do feedback e da aprovação, mesmo com uma única equipe. Diferenciar do texto sobre IA e cores: foco no fluxo da decisão, não no conteúdo do manual de marca.
 LEITOR: Donos de PMEs e gestores que já aceleraram a produção com tecnologia, mas continuam vendo campanhas atrasarem por informações incompletas, retornos dispersos e decisões reabertas na aprovação.
 OBJETIVO: De “ferramenta mais rápida resolve o atraso da campanha” para “preciso organizar critérios, responsáveis e retornos para que a velocidade de produção chegue à entrega”.
 
-FONTES DA PESQUISA:
-2026-10-15 | Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation | https://news.adobe.com/news/2026/10/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
