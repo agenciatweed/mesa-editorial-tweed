@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "personalizacao-atendimento-corrigir-preferencias",
+  "contentSha256": "93a9dbe2acc0126ec80dceb50f277f5bb4add209edad4e8fb2cdc6ed163976c2",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "personalizacao-atendimento-corrigir-preferencias",
+      "to": "interpretar-referencias-visuais-cliente",
+      "anchor": "significado que não foi confirmado",
+      "context": "O problema não é manter um registro da compra. É atribuir a ele um significado que não foi confirmado e não oferecer uma maneira simples de rever esse entendimento.",
+      "reason": "Aprofunda a escuta e a confirmação das expectativas que não podem ser deduzidas apenas de sinais isolados."
+    }
+  ]
+}

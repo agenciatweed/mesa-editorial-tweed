@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-25T15:29:29.822Z",
+  "exportedAt": "2026-10-25T20:33:32.971Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-10-25-66eb8135136e",
+      "title": "Suas propostas ajudam o cliente a comparar o que realmente importa?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Gancho verificado: na atualização de 30/09/2026, Airbnb anunciou comparação lado a lado de acomodações salvas, com resumos por IA, dentro de novidades de planejamento inicialmente nos Estados Unidos. A pauta amplia a janela de pesquisa para até 30 dias para explorar um ângulo ainda não tratado no acervo. Não apresentar como lançamento desta semana ou brasileiro nem afirmar efeito comprovado sobre conversão. Tese: uma proposta comercial ajuda a decidir quando torna comparáveis critérios relevantes, como escopo, condições, responsabilidades e limites, sem reduzir a escolha ao preço ou esconder diferenças. Exemplo hipotético de PME avaliando dois serviços com nomes parecidos e entregas distintas; mostrar como organizar uma comparação honesta e explicar quando uma opção não atende à necessidade. Não criar uma tabela enviesada para fazer a própria proposta vencer; distinguir requisito, preferência e condição indispensável. Diferenciar de efeito isca e paradoxo da escolha: foco na qualidade e comparabilidade da informação, não em manipular o conjunto de opções ou reduzir sua quantidade. Diferenciar do post sobre desconto: foco na estrutura do documento de comparação antes da negociação.",
+      "audience": "Donos de PMEs e equipes comerciais que apresentam propostas de serviços complexos e percebem que clientes comparam apenas o total, sem compreender diferenças de escopo e responsabilidade.",
+      "goal": "De “o cliente deveria entender por que nossa proposta é diferente” para “preciso tornar visíveis e comparáveis os critérios que sustentam a escolha, incluindo limites e adequação”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-25",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Airbnb 2026 fall update, seção Better AI-powered trip planning",
+            "url": "https://news.airbnb.com/airbnb-2026-fall-update",
+            "publishedAt": "2026-09-30"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
       "title": "O cliente sabe usar o valor que você já entrega?",
@@ -11,8 +38,8 @@
       "angle": "Gancho verificado: em 21/10/2026, Mastercard anunciou Mastercard Max, assistente para ajudar a descobrir, compreender e utilizar benefícios de cartões, com C6 Bank entre os primeiros emissores envolvidos no Brasil. Tratar como proposta anunciada pela empresa, sem prova independente de fidelização nem pressupor acesso para todo cliente de todo cartão. Não repetir percentuais de pesquisas comerciais. Tese: parte do valor de um serviço pode ficar invisível quando o cliente não entende o que está incluído, quando utilizar e como solicitar. Aplicar a PMEs de serviços recorrentes e pós-venda: transformar itens do contrato em orientações simples no momento adequado, esclarecer limites e indicar o próximo passo. Exemplo hipotético de serviço de manutenção que inclui uma verificação preventiva, mas só a descreve no orçamento; mostrar como explicar a finalidade e combinar o agendamento, sem inventar condições ou prometer ganho comercial. Diferenciar de fidelização genérica: foco na compreensão e ativação do valor já contratado, sem criar recompensas ou descontos. Diferenciar de informações desatualizadas: informação pode estar correta e ainda ser pouco compreensível ou difícil de usar. Diferenciar de contexto da mensagem: investigar a passagem de benefício descrito para uso efetivo, não a adaptação de uma campanha entre pontos de contato.",
       "audience": "Donos de PMEs de serviços e responsáveis por relacionamento e pós-venda que entregam benefícios incluídos no contrato, mas recebem dúvidas recorrentes sobre o que o cliente pode utilizar.",
       "goal": "De “o benefício está no contrato, então o cliente conhece o valor” para “preciso explicar quando ele é útil, o que inclui e como utilizá-lo para que o valor possa ser percebido”.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-21"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "1e8db503-ef68-432c-89c7-d77e11c1063a",
+        "completedAt": "2026-10-25T23:14:01.573Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "O contrato inclui uma verificação preventiva, mas o cliente só descobre isso quando pergunta se pode solicitar outra visita. A empresa considera que o benefício estava explicado no orçamento. Para quem contratou, porém, aquele item nunca chegou a se transformar em uma possibilidade concreta de uso.\n\nComunicar o valor de um serviço envolve mais do que apresentar tudo o que está incluído. A pessoa precisa entender para que cada entrega serve, quando pode utilizá-la e como dar o próximo passo.\n\nEm 21 de outubro de 2026, a Mastercard anunciou Mastercard Max, um assistente para ajudar usuários a descobrir, compreender e utilizar benefícios de cartões. O comunicado apresenta o C6 Bank entre os primeiros emissores envolvidos no Brasil. É uma proposta anunciada pela empresa, sem demonstrar por si só resultados de fidelização ou acesso para todo portador de cartão.\n\nA pergunta que essa proposta ajuda a abrir também cabe em uma PME: quanto do valor já contratado permanece apenas como um item descrito, sem orientação suficiente para ser aproveitado?\n\n## Estar incluído não significa ser compreendido\n\nQuem conhece profundamente um serviço pode achar que seus componentes são evidentes. O cliente talvez não compartilhe esse repertório. Uma expressão técnica pode ser precisa e, ao mesmo tempo, pouco útil para decidir quando entrar em contato.\n\nImagine uma empresa de manutenção com um contrato recorrente que inclui uma verificação preventiva em condições definidas. É um exemplo hipotético. O orçamento menciona a entrega, mas não esclarece ao cliente qual situação ela ajuda a avaliar nem como combinar o agendamento.\n\nO serviço pode estar disponível. Ainda assim, a pessoa precisa localizar o documento, interpretar o termo e descobrir o procedimento antes de conseguir solicitá-lo. Nesse percurso, parte do cuidado que a empresa pretende oferecer fica difícil de perceber.\n\nNão se trata de presumir que o cliente não leu. Trata-se de conferir se a informação apresentada permite agir.\n\n## Traduza o benefício em uma situação reconhecível\n\nUma orientação útil aproxima a entrega de uma necessidade que o cliente consegue identificar. O que essa verificação permite examinar? Em qual momento vale conversar com a equipe? O que acontece depois do pedido?\n\nA resposta deve respeitar o serviço real. Se a verificação não inclui uma intervenção corretiva, isso precisa ficar claro. Se depende de agendamento e de acesso a determinados equipamentos, essas condições fazem parte da explicação.\n\nNo exemplo, a comunicação poderia informar que a equipe pode avaliar os itens previstos no contrato e orientar o agendamento pelo canal combinado. Uma dúvida sobre um problema fora do escopo precisa receber outro encaminhamento, sem que a explicação do benefício crie uma promessa mais ampla.\n\nO valor ganha contorno quando a pessoa entende tanto a utilidade quanto os limites. O objetivo não é fazer uma entrega parecer maior, mas torná-la compreensível.\n\n## Mostre como usar, sem obrigar o cliente a procurar sozinho\n\nDepois de explicar a finalidade, confira o caminho de solicitação. Há um contato definido? A equipe sabe reconhecer o pedido? A pessoa recebe uma orientação sobre o que será necessário?\n\nUm benefício pode estar bem descrito e continuar difícil de utilizar porque o processo termina em um encaminhamento vago. “Fale com o suporte” ajuda pouco se existem vários contatos e ninguém identifica qual deles responde por aquela situação.\n\nO próximo passo deve ser compatível com a operação. Pode ser responder a uma mensagem, consultar um responsável ou solicitar uma data. Não é preciso criar uma área digital para resolver algo que uma orientação clara e um atendimento organizado já conseguem sustentar.\n\nSe houver uma etapa de confirmação, explique-a. Um pedido recebido não deve ser apresentado como um agendamento concluído quando ainda depende de disponibilidade.\n\n## Retome a orientação quando ela puder ajudar\n\nEntregar todas as informações no início da relação pode ser necessário, mas não garante que cada item será lembrado no momento de uso. Uma retomada pertinente pode ajudar o cliente a reconhecer uma possibilidade que havia passado despercebida.\n\nEssa retomada precisa ter uma função. No exemplo hipotético, ao conversar sobre o acompanhamento previsto no contrato, a equipe pode lembrar a verificação e esclarecer como solicitá-la. Não precisa transformar cada contato em uma lista completa de benefícios.\n\nTambém é importante permitir que a pessoa diga que não precisa daquele encaminhamento agora. O serviço estar disponível não significa que o cliente deva utilizá-lo para justificar a contratação.\n\nO critério é oferecer entendimento e acesso. Uma insistência sem relação com a necessidade pode acrescentar esforço em vez de demonstrar cuidado.\n\n## Prepare quem atende para explicar a entrega\n\nSe cada pessoa descreve o benefício de um jeito, a dúvida reaparece. A equipe precisa conhecer finalidade, escopo, condições e encaminhamento, com uma referência vigente que possa consultar.\n\nOrganize exemplos de perguntas frequentes e respostas fiéis ao serviço. Quando algo depender de avaliação técnica, deixe claro quem pode responder. O atendimento não deve improvisar uma garantia para encerrar a conversa rapidamente.\n\nAs dúvidas recebidas também ajudam a revisar a apresentação. Se várias pessoas perguntam se determinada entrega está incluída, talvez o contrato seja correto, mas a explicação inicial não esteja funcionando tão bem quanto a empresa imagina.\n\nUma alteração de linguagem pode ajudar. Em outros casos, o problema está no acesso ao serviço ou em uma condição que precisa ser discutida internamente. A comunicação deve refletir o funcionamento possível.\n\n## Observe a compreensão antes de acrescentar mais benefícios\n\nQuando o valor parece pouco percebido, a primeira resposta pode ser oferecer algo novo. Antes disso, vale investigar o que o cliente entende sobre aquilo que já recebe.\n\nEscolha uma entrega incluída e acompanhe algumas situações de atendimento, preservando informações pessoais. A pessoa reconhece a finalidade? Consegue explicar como solicitar? Sabe o que está fora do escopo? A equipe encaminha a demanda de maneira consistente?\n\nEsse exercício não demonstra sozinho satisfação ou fidelização. Ele ajuda a localizar obstáculos concretos de compreensão e acesso, que podem ser tratados sem inventar uma promessa adicional.\n\nNa próxima revisão de um serviço, olhe além da lista do contrato. Identifique uma entrega cujo uso ainda exige explicações difíceis e organize uma orientação simples sobre quando ela ajuda, o que inclui e como solicitar. A percepção de valor pode começar nesse cuidado: tornar acessível aquilo que a empresa já se comprometeu a fazer.",
+      "sources": "[Mastercard, Mastercard Max e utilização dos benefícios, 21/10/2026](https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html)\n\nAnúncio da própria empresa, sem comprovação independente de fidelização ou disponibilidade para todo cartão. A empresa de manutenção é hipotética; as orientações de serviço são recomendações editoriais, sem promessa de ganho comercial.",
+      "prompt": "Cinematic editorial photograph in a modest Brazilian small business office, a maintenance service coordinator calmly explaining an included preventive check to a client over a simple service folder, the client attentive and pointing to a practical calendar while the coordinator indicates the next step, candid everyday gestures and thoughtful expressions, medium composition showing realistic tools discreetly on a shelf, subtle teal ambient side reflection inspired by #08ffb1 on the desk and restrained teal light in the background, soft neutral key light, natural skin tones, controlled contrast, warm human interaction with a quiet conceptual editorial atmosphere, no readable text or logos, no posing --ar 3:2",
+      "imageAlt": "Coordenador de manutenção e cliente conversam sobre uma pasta de serviço e um calendário, com luz teal suave na mesa e ao fundo."
     },
     {
       "id": "pauta-diaria-2026-10-25",
@@ -38,11 +76,16 @@
       "angle": "Gancho verificado: no balanço de novidades publicado em 22/10/2026, Spotify destacou Taste Profile (Beta), que permite visualizar a interpretação das preferências e influenciar recomendações. O texto informa disponibilidade para assinantes Premium de 18 anos ou mais nos Estados Unidos; não apresentar como lançamento brasileiro nem como recurso lançado naquele dia. Tese: personalização útil precisa admitir correção, porque uma compra anterior ou interação isolada não define uma preferência permanente. Aplicar a PMEs que recomendam produtos, retomam contatos comerciais ou usam preferências declaradas no atendimento. Exemplo hipotético de loja que insiste em sugerir presentes porque a última compra foi para outra pessoa. Mostrar como perguntar se a preferência continua válida, diferenciar compra para si de presente quando pertinente, registrar somente o necessário e oferecer um caminho simples para ajustar a orientação. Evitar aconselhamento jurídico e promessas de conversão; não inferir traços pessoais ou condições sensíveis. Diferenciar do artigo sobre referência visual: foco na revisão de suposições ao longo do relacionamento, não em interpretar uma imagem no briefing. Diferenciar de dados de campanha: foco no controle e na escuta do cliente, não em atribuição ou eventos de medição.",
       "audience": "Donos de PMEs e responsáveis por atendimento, relacionamento e marketing que usam histórico de compras ou preferências para sugerir produtos e serviços.",
       "goal": "De “o histórico já mostra o que o cliente quer” para “o histórico é uma hipótese que precisa de contexto e de um caminho simples de correção pelo próprio cliente”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -71,9 +114,28 @@
       "keyword": "personalizar o atendimento",
       "slug": "personalizacao-atendimento-corrigir-preferencias",
       "meta": "Personalizar o atendimento exige rever suposições. Veja como permitir que o cliente corrija preferências e orientar recomendações com mais contexto.",
-      "date": "",
+      "date": "2026-10-25",
       "faq": "Uma compra anterior revela uma preferência permanente?\nNão. A compra pode ter sido um presente ou atender a uma situação específica; o histórico oferece uma pista que precisa de contexto e confirmação.\n\nComo permitir que o cliente corrija uma recomendação?\nOfereça um caminho simples no próprio atendimento para explicar a necessidade atual, ajuste as sugestões e registre somente o contexto necessário à continuidade.\n\nO que conferir ao registrar uma preferência?\nDiferencie uma escolha pontual de uma orientação para contatos futuros, evite inferências pessoais desnecessárias e permita que a equipe revise informações ambíguas.",
-      "url": "https://www.agenciatweed.com.br/personalizacao-atendimento-corrigir-preferencias/"
+      "url": "https://www.agenciatweed.com.br/personalizacao-atendimento-corrigir-preferencias/",
+      "imageFile": "conteudos/pauta-diaria-2026-10-25/imagens/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+      "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_inside_a_smal_aabaed2c-18cb-4a95-bf37-2b10d1f810b2_2.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/personalizacao-atendimento-corrigir-preferencias/",
+        "publishedAt": "2026-10-25T23:16:53.934451+00:00",
+        "job": "eeea1e0c-4f55-4eba-963d-9b4217e7cc09",
+        "files": [
+          "assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+          "personalizacao-atendimento-corrigir-preferencias/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-24-e7a5b6e2cce5",
@@ -83,11 +145,16 @@
       "angle": "Gancho verificado: em 21/10/2026, Spotify Brand publicou na LBB o relato da campanha Podcasts on Spotify, com mídia em aeroportos e transporte de Nova York e Los Angeles que relaciona tempos de espera e deslocamento a sugestões de podcasts. Tratar como relato primário da própria marca hospedado em plataforma especializada, não avaliação independente de eficácia. Não repetir percentuais promocionais, não presumir resultados e não recomendar a escala da campanha para uma PME. Tese: uma mensagem ganha pertinência quando sua proposta considera o que a pessoa pode fazer naquele contexto, com o tempo e a atenção disponíveis. Exemplo hipotético de uma pequena loja que compara o conteúdo útil na vitrine durante a passagem, na área de espera e no contato posterior solicitado pelo cliente. Orientar a escolha de uma ação possível para cada momento, legibilidade, utilidade e respeito à atenção, sem transformar toda espera em obrigação de consumir publicidade. Diferenciar de reaproveitamento de vídeo: foco na situação de uso e no próximo passo viável, não na edição por plataforma. Diferenciar de jornada de compra: foco no contexto imediato de contato, não na antecedência do calendário.",
       "audience": "Donos de PMEs e responsáveis por marketing que repetem a mesma mensagem em todos os pontos de contato sem considerar a situação, o tempo e a possibilidade de ação do cliente.",
       "goal": "De “a mesma mensagem precisa aparecer em todo lugar” para “a ideia pode ser consistente e a entrega precisa caber no momento em que a pessoa a encontra”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -116,9 +183,28 @@
       "keyword": "adequar a mensagem ao contexto",
       "slug": "mensagem-contexto-momento-cliente",
       "meta": "Adequar a mensagem ao contexto ajuda a definir o que comunicar e qual próximo passo propor, respeitando o tempo e a atenção disponíveis do cliente.",
-      "date": "",
+      "date": "2026-10-25",
       "faq": "Por que adaptar a mensagem a cada ponto de contato?\nPorque a situação, o tempo e a possibilidade de agir mudam entre passar por uma vitrine, conversar no atendimento e receber uma informação solicitada.\n\nAdaptar a comunicação compromete a consistência da marca?\nNão necessariamente. A ideia e os critérios podem permanecer coerentes enquanto variam a quantidade de informação, o ritmo e o próximo passo oferecido.\n\nComo conferir se uma peça funciona no contexto real?\nObserve as condições de leitura e uso, a clareza do assunto, a viabilidade da ação proposta e se o destino ou atendimento corresponde ao convite.",
-      "url": "https://www.agenciatweed.com.br/mensagem-contexto-momento-cliente/"
+      "url": "https://www.agenciatweed.com.br/mensagem-contexto-momento-cliente/",
+      "imageFile": "conteudos/pauta-reposicao-2026-10-24-e7a5b6e2cce5/imagens/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+      "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_of_a_small_Br_409cdc08-0d03-416e-8bb5-08ac393ad01a_1.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/mensagem-contexto-momento-cliente/",
+        "publishedAt": "2026-10-25T23:15:10.180941+00:00",
+        "job": "afe20a6c-fb51-4dc3-8fc5-6d11a51e6fcd",
+        "files": [
+          "assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+          "mensagem-contexto-momento-cliente/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-24-4a0fdbb1c406",
@@ -128,11 +214,16 @@
       "angle": "Gancho verificado: em 21/10/2026, o Google anunciou novas ferramentas do Gemini para pequenos negócios, incluindo conexões com Google Business Profile e outros aplicativos; o comunicado informa implantação global gradual nos dias seguintes. Usar apenas como contexto para a integração de informações, sem presumir acesso já disponível a toda PME nem prometer sincronização automática de todos os canais. Tese: conectar ferramentas não corrige uma informação comercial desatualizada; a empresa precisa definir qual registro vale e quem atualiza o site, o perfil local e o atendimento quando um serviço, horário ou condição muda. Exemplo hipotético de um negócio que altera o horário ou deixa de oferecer um serviço, mas mantém respostas divergentes nos pontos de contato. Propor uma rotina simples de inventário dos canais, responsável por cada informação, confirmação da mudança e checagem do que o cliente efetivamente encontra. Distinguir de legibilidade para máquinas: foco na atualização operacional após mudanças, não em marcação técnica. Distinguir do artigo sobre atendimento: foco na origem e propagação da informação, não no tom de voz. Não utilizar dados internos ou casos identificáveis de clientes.",
       "audience": "Donos e gestores de PMEs que mantêm site, perfil no Google e atendimento por mensagens e precisam evitar informações contraditórias quando a operação muda.",
       "goal": "De “a informação está correta no nosso sistema, então o cliente já sabe” para “preciso conferir e manter coerente o que ele encontra em cada ponto de contato”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -161,14 +252,28 @@
       "keyword": "informações da empresa atualizadas",
       "slug": "informacoes-empresa-atualizadas-canais",
       "meta": "Manter informações da empresa atualizadas exige conferir site, perfil local e atendimento. Veja como organizar mudanças e evitar orientações contraditórias.",
-      "date": "",
+      "date": "2026-10-25",
       "imageFile": "conteudos/pauta-reposicao-2026-10-24-4a0fdbb1c406/imagens/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
       "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_inside_a_smal_2126d819-e404-45e3-923d-0de8990ef092_0.png",
       "imageWidth": 1344,
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
       "faq": "Onde conferir as informações depois de uma mudança na empresa?\nConfira os canais relevantes ao cliente, como site, perfil local, formulários, apresentações comerciais e mensagens de atendimento que mencionam a informação alterada.\n\nQuem deve confirmar uma atualização comercial?\nA pessoa responsável pela decisão deve confirmar o conteúdo vigente; quem mantém cada canal executa a alteração e confere sua disponibilidade pública.\n\nConectar ferramentas garante informações corretas?\nNão. Uma integração depende da qualidade do registro de origem, de responsabilidades definidas e da conferência do resultado.",
-      "url": "https://www.agenciatweed.com.br/informacoes-empresa-atualizadas-canais/"
+      "url": "https://www.agenciatweed.com.br/informacoes-empresa-atualizadas-canais/",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/informacoes-empresa-atualizadas-canais/",
+        "publishedAt": "2026-10-25T23:15:51.460152+00:00",
+        "job": "a99c92ab-2799-4739-b55d-04b90c217373",
+        "files": [
+          "assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
+          "informacoes-empresa-atualizadas-canais/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-diaria-2026-10-24",

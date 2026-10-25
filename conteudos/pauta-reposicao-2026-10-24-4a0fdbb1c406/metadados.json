@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 21/10/2026, o Google anunciou novas ferramentas do Gemini para pequenos negócios, incluindo conexões com Google Business Profile e outros aplicativos; o comunicado informa implantação global gradual nos dias seguintes. Usar apenas como contexto para a integração de informações, sem presumir acesso já disponível a toda PME nem prometer sincronização automática de todos os canais. Tese: conectar ferramentas não corrige uma informação comercial desatualizada; a empresa precisa definir qual registro vale e quem atualiza o site, o perfil local e o atendimento quando um serviço, horário ou condição muda. Exemplo hipotético de um negócio que altera o horário ou deixa de oferecer um serviço, mas mantém respostas divergentes nos pontos de contato. Propor uma rotina simples de inventário dos canais, responsável por cada informação, confirmação da mudança e checagem do que o cliente efetivamente encontra. Distinguir de legibilidade para máquinas: foco na atualização operacional após mudanças, não em marcação técnica. Distinguir do artigo sobre atendimento: foco na origem e propagação da informação, não no tom de voz. Não utilizar dados internos ou casos identificáveis de clientes.",
   "audience": "Donos e gestores de PMEs que mantêm site, perfil no Google e atendimento por mensagens e precisam evitar informações contraditórias quando a operação muda.",
   "goal": "De “a informação está correta no nosso sistema, então o cliente já sabe” para “preciso conferir e manter coerente o que ele encontra em cada ponto de contato”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "informações da empresa atualizadas",
   "slug": "informacoes-empresa-atualizadas-canais",
   "meta": "Manter informações da empresa atualizadas exige conferir site, perfil local e atendimento. Veja como organizar mudanças e evitar orientações contraditórias.",
-  "date": "",
+  "date": "2026-10-25",
   "imageFile": "conteudos/pauta-reposicao-2026-10-24-4a0fdbb1c406/imagens/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
   "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_inside_a_smal_2126d819-e404-45e3-923d-0de8990ef092_0.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
   "faq": "Onde conferir as informações depois de uma mudança na empresa?\nConfira os canais relevantes ao cliente, como site, perfil local, formulários, apresentações comerciais e mensagens de atendimento que mencionam a informação alterada.\n\nQuem deve confirmar uma atualização comercial?\nA pessoa responsável pela decisão deve confirmar o conteúdo vigente; quem mantém cada canal executa a alteração e confere sua disponibilidade pública.\n\nConectar ferramentas garante informações corretas?\nNão. Uma integração depende da qualidade do registro de origem, de responsabilidades definidas e da conferência do resultado.",
-  "url": "https://www.agenciatweed.com.br/informacoes-empresa-atualizadas-canais/"
+  "url": "https://www.agenciatweed.com.br/informacoes-empresa-atualizadas-canais/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/informacoes-empresa-atualizadas-canais/",
+    "publishedAt": "2026-10-25T23:15:51.460152+00:00",
+    "job": "a99c92ab-2799-4739-b55d-04b90c217373",
+    "files": [
+      "assets/artigos-editoriais/ae9f3bd17cf015ecd2daf788c993b50e6b0171e45c63620286f7238a99e0afb9.png",
+      "informacoes-empresa-atualizadas-canais/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

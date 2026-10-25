@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "informacoes-empresa-atualizadas-canais",
+  "contentSha256": "65fec09a07e17255d62dce65e55993732e066855ae4deeaf816395338f323b53",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "informacoes-empresa-atualizadas-canais",
+      "to": "legibilidade-digital-marca-pessoas-ia",
+      "anchor": "aquilo que as pessoas encontram",
+      "context": "Manter as informações da empresa atualizadas exige acompanhar o caminho entre a decisão interna e aquilo que as pessoas encontram antes de entrar em contato.",
+      "reason": "Aprofunda a clareza e consistência das informações públicas utilizadas por pessoas e mecanismos de busca."
+    }
+  ]
+}

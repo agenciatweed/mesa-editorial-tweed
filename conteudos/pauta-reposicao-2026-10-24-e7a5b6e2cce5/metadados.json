@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 21/10/2026, Spotify Brand publicou na LBB o relato da campanha Podcasts on Spotify, com mídia em aeroportos e transporte de Nova York e Los Angeles que relaciona tempos de espera e deslocamento a sugestões de podcasts. Tratar como relato primário da própria marca hospedado em plataforma especializada, não avaliação independente de eficácia. Não repetir percentuais promocionais, não presumir resultados e não recomendar a escala da campanha para uma PME. Tese: uma mensagem ganha pertinência quando sua proposta considera o que a pessoa pode fazer naquele contexto, com o tempo e a atenção disponíveis. Exemplo hipotético de uma pequena loja que compara o conteúdo útil na vitrine durante a passagem, na área de espera e no contato posterior solicitado pelo cliente. Orientar a escolha de uma ação possível para cada momento, legibilidade, utilidade e respeito à atenção, sem transformar toda espera em obrigação de consumir publicidade. Diferenciar de reaproveitamento de vídeo: foco na situação de uso e no próximo passo viável, não na edição por plataforma. Diferenciar de jornada de compra: foco no contexto imediato de contato, não na antecedência do calendário.",
   "audience": "Donos de PMEs e responsáveis por marketing que repetem a mesma mensagem em todos os pontos de contato sem considerar a situação, o tempo e a possibilidade de ação do cliente.",
   "goal": "De “a mesma mensagem precisa aparecer em todo lugar” para “a ideia pode ser consistente e a entrega precisa caber no momento em que a pessoa a encontra”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "adequar a mensagem ao contexto",
   "slug": "mensagem-contexto-momento-cliente",
   "meta": "Adequar a mensagem ao contexto ajuda a definir o que comunicar e qual próximo passo propor, respeitando o tempo e a atenção disponíveis do cliente.",
-  "date": "",
+  "date": "2026-10-25",
   "faq": "Por que adaptar a mensagem a cada ponto de contato?\nPorque a situação, o tempo e a possibilidade de agir mudam entre passar por uma vitrine, conversar no atendimento e receber uma informação solicitada.\n\nAdaptar a comunicação compromete a consistência da marca?\nNão necessariamente. A ideia e os critérios podem permanecer coerentes enquanto variam a quantidade de informação, o ritmo e o próximo passo oferecido.\n\nComo conferir se uma peça funciona no contexto real?\nObserve as condições de leitura e uso, a clareza do assunto, a viabilidade da ação proposta e se o destino ou atendimento corresponde ao convite.",
-  "url": "https://www.agenciatweed.com.br/mensagem-contexto-momento-cliente/"
+  "url": "https://www.agenciatweed.com.br/mensagem-contexto-momento-cliente/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-24-e7a5b6e2cce5/imagens/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+  "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_of_a_small_Br_409cdc08-0d03-416e-8bb5-08ac393ad01a_1.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/mensagem-contexto-momento-cliente/",
+    "publishedAt": "2026-10-25T23:15:10.180941+00:00",
+    "job": "afe20a6c-fb51-4dc3-8fc5-6d11a51e6fcd",
+    "files": [
+      "assets/artigos-editoriais/2b9455b274d98889f4611588d12d705bacea7ead56aef9d83273ae1c326c9841.png",
+      "mensagem-contexto-momento-cliente/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

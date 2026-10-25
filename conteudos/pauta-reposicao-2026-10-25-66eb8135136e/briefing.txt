@@ -1,0 +1,9 @@
+TÍTULO: Suas propostas ajudam o cliente a comparar o que realmente importa?
+EDITORIA: 0
+VOZ: Lorenzo
+ÂNGULO: Gancho verificado: na atualização de 30/09/2026, Airbnb anunciou comparação lado a lado de acomodações salvas, com resumos por IA, dentro de novidades de planejamento inicialmente nos Estados Unidos. A pauta amplia a janela de pesquisa para até 30 dias para explorar um ângulo ainda não tratado no acervo. Não apresentar como lançamento desta semana ou brasileiro nem afirmar efeito comprovado sobre conversão. Tese: uma proposta comercial ajuda a decidir quando torna comparáveis critérios relevantes, como escopo, condições, responsabilidades e limites, sem reduzir a escolha ao preço ou esconder diferenças. Exemplo hipotético de PME avaliando dois serviços com nomes parecidos e entregas distintas; mostrar como organizar uma comparação honesta e explicar quando uma opção não atende à necessidade. Não criar uma tabela enviesada para fazer a própria proposta vencer; distinguir requisito, preferência e condição indispensável. Diferenciar de efeito isca e paradoxo da escolha: foco na qualidade e comparabilidade da informação, não em manipular o conjunto de opções ou reduzir sua quantidade. Diferenciar do post sobre desconto: foco na estrutura do documento de comparação antes da negociação.
+LEITOR: Donos de PMEs e equipes comerciais que apresentam propostas de serviços complexos e percebem que clientes comparam apenas o total, sem compreender diferenças de escopo e responsabilidade.
+OBJETIVO: De “o cliente deveria entender por que nossa proposta é diferente” para “preciso tornar visíveis e comparáveis os critérios que sustentam a escolha, incluindo limites e adequação”.
+
+FONTES DA PESQUISA:
+2026-09-30 | Airbnb 2026 fall update, seção Better AI-powered trip planning | https://news.airbnb.com/airbnb-2026-fall-update

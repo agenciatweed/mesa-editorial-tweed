@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: no balanço de novidades publicado em 22/10/2026, Spotify destacou Taste Profile (Beta), que permite visualizar a interpretação das preferências e influenciar recomendações. O texto informa disponibilidade para assinantes Premium de 18 anos ou mais nos Estados Unidos; não apresentar como lançamento brasileiro nem como recurso lançado naquele dia. Tese: personalização útil precisa admitir correção, porque uma compra anterior ou interação isolada não define uma preferência permanente. Aplicar a PMEs que recomendam produtos, retomam contatos comerciais ou usam preferências declaradas no atendimento. Exemplo hipotético de loja que insiste em sugerir presentes porque a última compra foi para outra pessoa. Mostrar como perguntar se a preferência continua válida, diferenciar compra para si de presente quando pertinente, registrar somente o necessário e oferecer um caminho simples para ajustar a orientação. Evitar aconselhamento jurídico e promessas de conversão; não inferir traços pessoais ou condições sensíveis. Diferenciar do artigo sobre referência visual: foco na revisão de suposições ao longo do relacionamento, não em interpretar uma imagem no briefing. Diferenciar de dados de campanha: foco no controle e na escuta do cliente, não em atribuição ou eventos de medição.",
   "audience": "Donos de PMEs e responsáveis por atendimento, relacionamento e marketing que usam histórico de compras ou preferências para sugerir produtos e serviços.",
   "goal": "De “o histórico já mostra o que o cliente quer” para “o histórico é uma hipótese que precisa de contexto e de um caminho simples de correção pelo próprio cliente”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "personalizar o atendimento",
   "slug": "personalizacao-atendimento-corrigir-preferencias",
   "meta": "Personalizar o atendimento exige rever suposições. Veja como permitir que o cliente corrija preferências e orientar recomendações com mais contexto.",
-  "date": "",
+  "date": "2026-10-25",
   "faq": "Uma compra anterior revela uma preferência permanente?\nNão. A compra pode ter sido um presente ou atender a uma situação específica; o histórico oferece uma pista que precisa de contexto e confirmação.\n\nComo permitir que o cliente corrija uma recomendação?\nOfereça um caminho simples no próprio atendimento para explicar a necessidade atual, ajuste as sugestões e registre somente o contexto necessário à continuidade.\n\nO que conferir ao registrar uma preferência?\nDiferencie uma escolha pontual de uma orientação para contatos futuros, evite inferências pessoais desnecessárias e permita que a equipe revise informações ambíguas.",
-  "url": "https://www.agenciatweed.com.br/personalizacao-atendimento-corrigir-preferencias/"
+  "url": "https://www.agenciatweed.com.br/personalizacao-atendimento-corrigir-preferencias/",
+  "imageFile": "conteudos/pauta-diaria-2026-10-25/imagens/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+  "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_inside_a_smal_aabaed2c-18cb-4a95-bf37-2b10d1f810b2_2.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/personalizacao-atendimento-corrigir-preferencias/",
+    "publishedAt": "2026-10-25T23:16:53.934451+00:00",
+    "job": "eeea1e0c-4f55-4eba-963d-9b4217e7cc09",
+    "files": [
+      "assets/artigos-editoriais/eac4f37a0d1d3e302ec884321d8bb704182d9163fe148a9dbb6614f103c7afa9.png",
+      "personalizacao-atendimento-corrigir-preferencias/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

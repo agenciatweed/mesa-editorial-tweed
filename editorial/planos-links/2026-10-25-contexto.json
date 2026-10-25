@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "mensagem-contexto-momento-cliente",
+  "contentSha256": "8a553eeea6c975c9d53e987a9a051a7f07faf60047b70e86aaa2284c203e62c0",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "mensagem-contexto-momento-cliente",
+      "to": "reaproveitamento-video-adaptacao-criativa",
+      "anchor": "não precisa ser apresentada sempre da mesma forma",
+      "context": "Essa ideia pode atravessar diferentes pontos de contato, mas não precisa ser apresentada sempre da mesma forma.",
+      "reason": "Aprofunda como preservar a ideia enquanto se adapta uma entrega às condições de cada canal."
+    }
+  ]
+}
