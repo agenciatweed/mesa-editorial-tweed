@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "jornada-compra-antes-da-campanha",
+  "contentSha256": "4b6afbe9aa376f0a4a33e56131ae1ac352ae8d0188c37f97c187ca5511f60764",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "to": "jornada-compra-antes-da-campanha",
+      "anchor": "ciclo de compra",
+      "context": "Defina um período e critérios de observação compatíveis com o ciclo de compra. Não compare apenas o custo de exibição de ambientes que cumprem funções diferentes. Observe a adequação das oportunidades, os caminhos de contato e os limites dos dados disponíveis.",
+      "reason": "Aprofunda o momento em que o cliente começa a avaliar alternativas e como isso orienta o calendário da campanha."
+    }
+  ]
+}

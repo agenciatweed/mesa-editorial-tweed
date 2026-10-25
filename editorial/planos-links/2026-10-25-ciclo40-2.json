@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "atribuicao-vendas-efeito-campanha",
+  "contentSha256": "41d87727f843712f803c5c8e63fe4951f2d3e3c0c89892adedfe1b813a3c9b95",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "metricas-sem-vaidade",
+      "to": "atribuicao-vendas-efeito-campanha",
+      "anchor": "receita atribuída",
+      "context": "ROAS: retorno sobre gasto em anúncios (receita atribuída / gasto em ads)",
+      "reason": "Esclarece a diferença entre crédito atribuído e efeito incremental no cálculo apresentado."
+    }
+  ]
+}

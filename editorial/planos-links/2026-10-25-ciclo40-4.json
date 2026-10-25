@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "aprovacao-campanha-feedback-decisoes",
+  "contentSha256": "1509933b9041f1c4c749f7f0537509a6a212fe7f2cbc1620dade31a2e85ba438",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "aprovação",
+      "context": "Quando o material exigir correção, registre o motivo e atualize a referência. Se a mesma ambiguidade reaparece, vale revisar o briefing antes de pedir novas versões. Produzir mais alternativas sem esclarecer o critério apenas transfere o problema para a aprovação.",
+      "reason": "Aprofunda a consolidação de retornos e a definição de critérios e responsáveis na aprovação."
+    }
+  ]
+}

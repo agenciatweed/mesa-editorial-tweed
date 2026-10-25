@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "interpretar-referencias-visuais-cliente",
+  "contentSha256": "06e379545db0f10097babdc27ac0ff5dfba3088a998c8d640a971f911aa6dd73",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "to": "interpretar-referencias-visuais-cliente",
+      "anchor": "compreender a demanda",
+      "context": "O mesmo raciocínio vale para outras escolhas. Agilidade precisa de prioridades e prazos possíveis. Atendimento consultivo exige acesso a contexto e tempo para compreender a demanda. Uma experiência premium precisa deixar claro em que consiste o cuidado adicional.",
+      "reason": "Aplica a escuta consultiva à interpretação das referências apresentadas pelo cliente."
+    }
+  ]
+}
