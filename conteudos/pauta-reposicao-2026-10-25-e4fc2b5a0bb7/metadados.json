@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
+  "title": "O cliente sabe usar o valor que você já entrega?",
+  "edition": 1,
+  "expert": "Lorenzo",
+  "angle": "Gancho verificado: em 21/10/2026, Mastercard anunciou Mastercard Max, assistente para ajudar a descobrir, compreender e utilizar benefícios de cartões, com C6 Bank entre os primeiros emissores envolvidos no Brasil. Tratar como proposta anunciada pela empresa, sem prova independente de fidelização nem pressupor acesso para todo cliente de todo cartão. Não repetir percentuais de pesquisas comerciais. Tese: parte do valor de um serviço pode ficar invisível quando o cliente não entende o que está incluído, quando utilizar e como solicitar. Aplicar a PMEs de serviços recorrentes e pós-venda: transformar itens do contrato em orientações simples no momento adequado, esclarecer limites e indicar o próximo passo. Exemplo hipotético de serviço de manutenção que inclui uma verificação preventiva, mas só a descreve no orçamento; mostrar como explicar a finalidade e combinar o agendamento, sem inventar condições ou prometer ganho comercial. Diferenciar de fidelização genérica: foco na compreensão e ativação do valor já contratado, sem criar recompensas ou descontos. Diferenciar de informações desatualizadas: informação pode estar correta e ainda ser pouco compreensível ou difícil de usar. Diferenciar de contexto da mensagem: investigar a passagem de benefício descrito para uso efetivo, não a adaptação de uma campanha entre pontos de contato.",
+  "audience": "Donos de PMEs de serviços e responsáveis por relacionamento e pós-venda que entregam benefícios incluídos no contrato, mas recebem dúvidas recorrentes sobre o que o cliente pode utilizar.",
+  "goal": "De “o benefício está no contrato, então o cliente conhece o valor” para “preciso explicar quando ele é útil, o que inclui e como utilizá-lo para que o valor possa ser percebido”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-25",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Mastercard Max makes benefits easy to discover, understand and use",
+        "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html",
+        "publishedAt": "2026-10-21"
+      }
+    ]
+  }
+}

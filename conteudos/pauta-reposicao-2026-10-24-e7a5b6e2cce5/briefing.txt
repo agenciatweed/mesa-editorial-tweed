@@ -1,9 +1,7 @@
 TÍTULO: Sua mensagem combina com o momento em que o cliente a encontra?
 EDITORIA: 0
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: em 21/10/2026, Spotify Brand publicou na LBB o relato da campanha Podcasts on Spotify, com mídia em aeroportos e transporte de Nova York e Los Angeles que relaciona tempos de espera e deslocamento a sugestões de podcasts. Tratar como relato primário da própria marca hospedado em plataforma especializada, não avaliação independente de eficácia. Não repetir percentuais promocionais, não presumir resultados e não recomendar a escala da campanha para uma PME. Tese: uma mensagem ganha pertinência quando sua proposta considera o que a pessoa pode fazer naquele contexto, com o tempo e a atenção disponíveis. Exemplo hipotético de uma pequena loja que compara o conteúdo útil na vitrine durante a passagem, na área de espera e no contato posterior solicitado pelo cliente. Orientar a escolha de uma ação possível para cada momento, legibilidade, utilidade e respeito à atenção, sem transformar toda espera em obrigação de consumir publicidade. Diferenciar de reaproveitamento de vídeo: foco na situação de uso e no próximo passo viável, não na edição por plataforma. Diferenciar de jornada de compra: foco no contexto imediato de contato, não na antecedência do calendário.
 LEITOR: Donos de PMEs e responsáveis por marketing que repetem a mesma mensagem em todos os pontos de contato sem considerar a situação, o tempo e a possibilidade de ação do cliente.
 OBJETIVO: De “a mesma mensagem precisa aparecer em todo lugar” para “a ideia pode ser consistente e a entrega precisa caber no momento em que a pessoa a encontra”.
 
-FONTES DA PESQUISA:
-2026-10-21 | Spotify Brand na LBB, Spotify Turns Everyday Waiting Time Into Podcast Discovery | https://lbbonline.com/news/spotify-turns-everyday-waiting-time-into-podcast-discovery
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

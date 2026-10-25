@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "aprovacao-campanha-feedback-decisoes",
+  "contentSha256": "1509933b9041f1c4c749f7f0537509a6a212fe7f2cbc1620dade31a2e85ba438",
+  "modifiedAt": "2026-10-25",
+  "links": [
+    {
+      "from": "aprovacao-campanha-feedback-decisoes",
+      "to": "uma-boa-restricao-pode-melhorar-uma-ideia",
+      "anchor": "Critérios de aprovação",
+      "context": "Critérios de aprovação ajudam a manter a conversa ligada ao objetivo.",
+      "reason": "Aprofunda como explicitar limites e critérios que permitem avaliar caminhos criativos."
+    }
+  ]
+}

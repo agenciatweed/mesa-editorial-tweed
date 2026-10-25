@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 15/10/2026, Adobe e NVIDIA anunciaram otimizações em ferramentas de criação e fluxos de vídeo, incluindo Photoshop, Premiere e Frame.io. Usar a notícia para distinguir tempo técnico de produção de tempo total de uma campanha; não repetir percentuais de desempenho nem extrapolar testes dos fornecedores para qualquer PME. Tese: reduzir o tempo de edição ou processamento não elimina espera por informação, decisões contraditórias e aprovações sem responsável. Investigar o percurso do material entre briefing, primeira proposta, retorno consolidado e aprovação; separar correção factual, escolha de direção e preferência pessoal. Exemplo hipotético de campanha de lançamento cujo arquivo fica pronto rapidamente, mas a oferta muda a cada avaliador. Orientar definição de responsável pela decisão, critérios de aceite, informação que precisa estar confirmada e registro das mudanças. Não prometer redução de prazo nem tratar revisão necessária como burocracia inútil. Diferenciar do artigo sobre custo de coordenar fornecedores: foco na qualidade e sequência do feedback e da aprovação, mesmo com uma única equipe. Diferenciar do texto sobre IA e cores: foco no fluxo da decisão, não no conteúdo do manual de marca.",
   "audience": "Donos de PMEs e gestores que já aceleraram a produção com tecnologia, mas continuam vendo campanhas atrasarem por informações incompletas, retornos dispersos e decisões reabertas na aprovação.",
   "goal": "De “ferramenta mais rápida resolve o atraso da campanha” para “preciso organizar critérios, responsáveis e retornos para que a velocidade de produção chegue à entrega”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "aprovar uma campanha",
   "slug": "aprovacao-campanha-feedback-decisoes",
   "meta": "Aprovar uma campanha exige critérios e decisões claras. Organize os retornos para que ferramentas rápidas não esbarrem em informações e escolhas pendentes.",
-  "date": "",
+  "date": "2026-10-25",
   "faq": "Por que uma campanha pode atrasar mesmo com ferramentas rápidas?\nPorque o prazo completo inclui coleta de informações, decisões, retornos e aprovação, além do tempo técnico de produzir os arquivos.\n\nComo tornar o feedback de uma campanha mais útil?\nExplique o problema encontrado, diferencie correção factual de mudança de direção ou preferência e reúna os retornos antes de encaminhar à criação.\n\nComo lidar com mudanças depois do briefing?\nRegistre o que mudou, quem confirmou e quais materiais são afetados; avalie o trabalho necessário antes de manter o prazo original.",
-  "url": "https://www.agenciatweed.com.br/aprovacao-campanha-feedback-decisoes/"
+  "url": "https://www.agenciatweed.com.br/aprovacao-campanha-feedback-decisoes/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-23-154444d91d6e/imagens/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
+  "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_of_a_small_Br_19897e10-8c9f-4976-97e8-aceb455f1175_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/aprovacao-campanha-feedback-decisoes/",
+    "publishedAt": "2026-10-25T08:10:07.755080+00:00",
+    "job": "d8e5dd6b-a7ea-4b6b-b06b-3026fe948694",
+    "files": [
+      "assets/artigos-editoriais/f126c80fbcc70e5642b3021f25057f51cd7b80d0f82ed7e817da705ab9eb9549.png",
+      "aprovacao-campanha-feedback-decisoes/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

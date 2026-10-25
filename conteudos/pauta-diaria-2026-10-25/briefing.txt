@@ -1,9 +1,7 @@
 TÍTULO: Seu cliente consegue corrigir o que sua empresa acha que sabe sobre ele?
 EDITORIA: 0
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: no balanço de novidades publicado em 22/10/2026, Spotify destacou Taste Profile (Beta), que permite visualizar a interpretação das preferências e influenciar recomendações. O texto informa disponibilidade para assinantes Premium de 18 anos ou mais nos Estados Unidos; não apresentar como lançamento brasileiro nem como recurso lançado naquele dia. Tese: personalização útil precisa admitir correção, porque uma compra anterior ou interação isolada não define uma preferência permanente. Aplicar a PMEs que recomendam produtos, retomam contatos comerciais ou usam preferências declaradas no atendimento. Exemplo hipotético de loja que insiste em sugerir presentes porque a última compra foi para outra pessoa. Mostrar como perguntar se a preferência continua válida, diferenciar compra para si de presente quando pertinente, registrar somente o necessário e oferecer um caminho simples para ajustar a orientação. Evitar aconselhamento jurídico e promessas de conversão; não inferir traços pessoais ou condições sensíveis. Diferenciar do artigo sobre referência visual: foco na revisão de suposições ao longo do relacionamento, não em interpretar uma imagem no briefing. Diferenciar de dados de campanha: foco no controle e na escuta do cliente, não em atribuição ou eventos de medição.
 LEITOR: Donos de PMEs e responsáveis por atendimento, relacionamento e marketing que usam histórico de compras ou preferências para sugerir produtos e serviços.
 OBJETIVO: De “o histórico já mostra o que o cliente quer” para “o histórico é uma hipótese que precisa de contexto e de um caminho simples de correção pelo próprio cliente”.
 
-FONTES DA PESQUISA:
-2026-10-22 | Spotify, Spotify Reports Third Quarter 2026 Earnings, seção A More Personalized Listening Experience | https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
