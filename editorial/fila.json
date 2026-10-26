@@ -3235,6 +3235,293 @@
       },
       "createdAt": "2026-10-25T20:33:32.995Z",
       "completedAt": "2026-10-25T23:16:53.937436+00:00"
+    },
+    {
+      "id": "194e0ba3-4b48-4f86-8ae9-543aa7b7fbac",
+      "itemId": "pauta-diaria-2026-10-26",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "54b50905032d9b7bd59146190ad4d69e686f9d7f33792e4acf815e4cc4b1d63e",
+      "snapshot": "a346c6597af4540620b3096ab9f166987aa878d5a012a2257d10705083b239d4",
+      "input": {
+        "id": "pauta-diaria-2026-10-26",
+        "title": "Sua marca precisa de mais estímulos ou de uma experiência com sentido?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho verificado: em 22/10/2026, a coluna In Tech da Mastercard discutiu tecnologia e percepção, incluindo Berl-Berl, de Jakob Kudsk Steensen. A descrição da obra foi conferida na fonte institucional do MoMA: https://www.moma.org/calendar/exhibitions/5936. A instalação combina pesquisa de campo, imagem e som para reimaginar áreas alagadas de Berlim; não tratá-la como um lançamento daquele dia nem como experimento de marketing. Usar o caso artístico como inspiração, sem atribuir resultados comerciais ou efeitos neurológicos. Tese: uma experiência sensorial de marca precisa organizar uma intenção reconhecível; acrescentar música, perfume, telas e efeitos não substitui coerência e pode criar esforço desnecessário. Aplicar a PMEs com ponto físico ou demonstração de produtos, com exemplo hipotético de loja que avalia se o som permite conversar e se a iluminação ajuda a observar materiais. Distinguir atmosfera de interferência, respeitar diferenças de sensibilidade e prever alternativas menos estimulantes sem fazer recomendações médicas. Propor observar o uso real, ouvir a equipe e clientes e ajustar um elemento por vez, sem prometer memória, permanência ou venda. Diferenciar do texto sobre energia da marca e branding como experiência: foco na escolha e dosagem de elementos sensoriais e na finalidade de cada um. Diferenciar de contexto da mensagem: foco no ambiente físico e na compatibilidade entre estímulos, não no próximo passo de uma peça publicitária.",
+        "audience": "Donos de PMEs de varejo e serviços e profissionais de marca que querem melhorar ambientes, demonstrações e atendimento sem confundir experiência com excesso de estímulos.",
+        "goal": "De “uma marca memorável precisa estimular todos os sentidos” para “cada elemento sensorial precisa ter uma função coerente, permitir conforto e ajudar a experiência que queremos entregar”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-26",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Mastercard In Tech, How technology is changing human perception",
+              "url": "https://www.mastercard.com/global/en/news-and-trends/stories/2026/in-tech-engineering-the-senses.html",
+              "publishedAt": "2026-10-22"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-26T13:58:22.875Z",
+      "startedAt": "2026-10-26T14:12:57.901Z",
+      "completedAt": "2026-10-26T14:15:27.833Z"
+    },
+    {
+      "id": "3aa4930e-bc23-452d-8a42-0693a212cbaa",
+      "itemId": "pauta-reposicao-2026-10-25-66eb8135136e",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "511f49953f4ac7a79589b8481293f1eb27d2ed7622e68725a6b2a482e4253eac",
+      "snapshot": "cf3310f0b1d7e94d09253e84ae075dca6978c8218879ee24a4a82c33ff7081f9",
+      "input": {
+        "id": "pauta-reposicao-2026-10-25-66eb8135136e",
+        "title": "Suas propostas ajudam o cliente a comparar o que realmente importa?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: na atualização de 30/09/2026, Airbnb anunciou comparação lado a lado de acomodações salvas, com resumos por IA, dentro de novidades de planejamento inicialmente nos Estados Unidos. A pauta amplia a janela de pesquisa para até 30 dias para explorar um ângulo ainda não tratado no acervo. Não apresentar como lançamento desta semana ou brasileiro nem afirmar efeito comprovado sobre conversão. Tese: uma proposta comercial ajuda a decidir quando torna comparáveis critérios relevantes, como escopo, condições, responsabilidades e limites, sem reduzir a escolha ao preço ou esconder diferenças. Exemplo hipotético de PME avaliando dois serviços com nomes parecidos e entregas distintas; mostrar como organizar uma comparação honesta e explicar quando uma opção não atende à necessidade. Não criar uma tabela enviesada para fazer a própria proposta vencer; distinguir requisito, preferência e condição indispensável. Diferenciar de efeito isca e paradoxo da escolha: foco na qualidade e comparabilidade da informação, não em manipular o conjunto de opções ou reduzir sua quantidade. Diferenciar do post sobre desconto: foco na estrutura do documento de comparação antes da negociação.",
+        "audience": "Donos de PMEs e equipes comerciais que apresentam propostas de serviços complexos e percebem que clientes comparam apenas o total, sem compreender diferenças de escopo e responsabilidade.",
+        "goal": "De “o cliente deveria entender por que nossa proposta é diferente” para “preciso tornar visíveis e comparáveis os critérios que sustentam a escolha, incluindo limites e adequação”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-25",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Airbnb 2026 fall update, seção Better AI-powered trip planning",
+              "url": "https://news.airbnb.com/airbnb-2026-fall-update",
+              "publishedAt": "2026-09-30"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-26T13:58:25.700Z",
+      "startedAt": "2026-10-26T14:12:57.979Z",
+      "completedAt": "2026-10-26T14:15:27.949Z"
+    },
+    {
+      "id": "bf97830c-910d-4589-8b4f-cc6a71b5fa4d",
+      "itemId": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "f07229777c954442320915381780834adfaab75b38aa20016415fbc2ab9989cd",
+      "snapshot": "8e55396f3756a7d5cf2ffdd46afd65f8f8f9c592314d77c7b50fd984db0436ed",
+      "input": {
+        "id": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
+        "title": "O cliente sabe usar o valor que você já entrega?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 21/10/2026, Mastercard anunciou Mastercard Max, assistente para ajudar a descobrir, compreender e utilizar benefícios de cartões, com C6 Bank entre os primeiros emissores envolvidos no Brasil. Tratar como proposta anunciada pela empresa, sem prova independente de fidelização nem pressupor acesso para todo cliente de todo cartão. Não repetir percentuais de pesquisas comerciais. Tese: parte do valor de um serviço pode ficar invisível quando o cliente não entende o que está incluído, quando utilizar e como solicitar. Aplicar a PMEs de serviços recorrentes e pós-venda: transformar itens do contrato em orientações simples no momento adequado, esclarecer limites e indicar o próximo passo. Exemplo hipotético de serviço de manutenção que inclui uma verificação preventiva, mas só a descreve no orçamento; mostrar como explicar a finalidade e combinar o agendamento, sem inventar condições ou prometer ganho comercial. Diferenciar de fidelização genérica: foco na compreensão e ativação do valor já contratado, sem criar recompensas ou descontos. Diferenciar de informações desatualizadas: informação pode estar correta e ainda ser pouco compreensível ou difícil de usar. Diferenciar de contexto da mensagem: investigar a passagem de benefício descrito para uso efetivo, não a adaptação de uma campanha entre pontos de contato.",
+        "audience": "Donos de PMEs de serviços e responsáveis por relacionamento e pós-venda que entregam benefícios incluídos no contrato, mas recebem dúvidas recorrentes sobre o que o cliente pode utilizar.",
+        "goal": "De “o benefício está no contrato, então o cliente conhece o valor” para “preciso explicar quando ele é útil, o que inclui e como utilizá-lo para que o valor possa ser percebido”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-25",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Mastercard Max makes benefits easy to discover, understand and use",
+              "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html",
+              "publishedAt": "2026-10-21"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "1e8db503-ef68-432c-89c7-d77e11c1063a",
+          "completedAt": "2026-10-25T23:14:01.573Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O contrato inclui uma verificação preventiva, mas o cliente só descobre isso quando pergunta se pode solicitar outra visita. A empresa considera que o benefício estava explicado no orçamento. Para quem contratou, porém, aquele item nunca chegou a se transformar em uma possibilidade concreta de uso.\n\nComunicar o valor de um serviço envolve mais do que apresentar tudo o que está incluído. A pessoa precisa entender para que cada entrega serve, quando pode utilizá-la e como dar o próximo passo.\n\nEm 21 de outubro de 2026, a Mastercard anunciou Mastercard Max, um assistente para ajudar usuários a descobrir, compreender e utilizar benefícios de cartões. O comunicado apresenta o C6 Bank entre os primeiros emissores envolvidos no Brasil. É uma proposta anunciada pela empresa, sem demonstrar por si só resultados de fidelização ou acesso para todo portador de cartão.\n\nA pergunta que essa proposta ajuda a abrir também cabe em uma PME: quanto do valor já contratado permanece apenas como um item descrito, sem orientação suficiente para ser aproveitado?\n\n## Estar incluído não significa ser compreendido\n\nQuem conhece profundamente um serviço pode achar que seus componentes são evidentes. O cliente talvez não compartilhe esse repertório. Uma expressão técnica pode ser precisa e, ao mesmo tempo, pouco útil para decidir quando entrar em contato.\n\nImagine uma empresa de manutenção com um contrato recorrente que inclui uma verificação preventiva em condições definidas. É um exemplo hipotético. O orçamento menciona a entrega, mas não esclarece ao cliente qual situação ela ajuda a avaliar nem como combinar o agendamento.\n\nO serviço pode estar disponível. Ainda assim, a pessoa precisa localizar o documento, interpretar o termo e descobrir o procedimento antes de conseguir solicitá-lo. Nesse percurso, parte do cuidado que a empresa pretende oferecer fica difícil de perceber.\n\nNão se trata de presumir que o cliente não leu. Trata-se de conferir se a informação apresentada permite agir.\n\n## Traduza o benefício em uma situação reconhecível\n\nUma orientação útil aproxima a entrega de uma necessidade que o cliente consegue identificar. O que essa verificação permite examinar? Em qual momento vale conversar com a equipe? O que acontece depois do pedido?\n\nA resposta deve respeitar o serviço real. Se a verificação não inclui uma intervenção corretiva, isso precisa ficar claro. Se depende de agendamento e de acesso a determinados equipamentos, essas condições fazem parte da explicação.\n\nNo exemplo, a comunicação poderia informar que a equipe pode avaliar os itens previstos no contrato e orientar o agendamento pelo canal combinado. Uma dúvida sobre um problema fora do escopo precisa receber outro encaminhamento, sem que a explicação do benefício crie uma promessa mais ampla.\n\nO valor ganha contorno quando a pessoa entende tanto a utilidade quanto os limites. O objetivo não é fazer uma entrega parecer maior, mas torná-la compreensível.\n\n## Mostre como usar, sem obrigar o cliente a procurar sozinho\n\nDepois de explicar a finalidade, confira o caminho de solicitação. Há um contato definido? A equipe sabe reconhecer o pedido? A pessoa recebe uma orientação sobre o que será necessário?\n\nUm benefício pode estar bem descrito e continuar difícil de utilizar porque o processo termina em um encaminhamento vago. “Fale com o suporte” ajuda pouco se existem vários contatos e ninguém identifica qual deles responde por aquela situação.\n\nO próximo passo deve ser compatível com a operação. Pode ser responder a uma mensagem, consultar um responsável ou solicitar uma data. Não é preciso criar uma área digital para resolver algo que uma orientação clara e um atendimento organizado já conseguem sustentar.\n\nSe houver uma etapa de confirmação, explique-a. Um pedido recebido não deve ser apresentado como um agendamento concluído quando ainda depende de disponibilidade.\n\n## Retome a orientação quando ela puder ajudar\n\nEntregar todas as informações no início da relação pode ser necessário, mas não garante que cada item será lembrado no momento de uso. Uma retomada pertinente pode ajudar o cliente a reconhecer uma possibilidade que havia passado despercebida.\n\nEssa retomada precisa ter uma função. No exemplo hipotético, ao conversar sobre o acompanhamento previsto no contrato, a equipe pode lembrar a verificação e esclarecer como solicitá-la. Não precisa transformar cada contato em uma lista completa de benefícios.\n\nTambém é importante permitir que a pessoa diga que não precisa daquele encaminhamento agora. O serviço estar disponível não significa que o cliente deva utilizá-lo para justificar a contratação.\n\nO critério é oferecer entendimento e acesso. Uma insistência sem relação com a necessidade pode acrescentar esforço em vez de demonstrar cuidado.\n\n## Prepare quem atende para explicar a entrega\n\nSe cada pessoa descreve o benefício de um jeito, a dúvida reaparece. A equipe precisa conhecer finalidade, escopo, condições e encaminhamento, com uma referência vigente que possa consultar.\n\nOrganize exemplos de perguntas frequentes e respostas fiéis ao serviço. Quando algo depender de avaliação técnica, deixe claro quem pode responder. O atendimento não deve improvisar uma garantia para encerrar a conversa rapidamente.\n\nAs dúvidas recebidas também ajudam a revisar a apresentação. Se várias pessoas perguntam se determinada entrega está incluída, talvez o contrato seja correto, mas a explicação inicial não esteja funcionando tão bem quanto a empresa imagina.\n\nUma alteração de linguagem pode ajudar. Em outros casos, o problema está no acesso ao serviço ou em uma condição que precisa ser discutida internamente. A comunicação deve refletir o funcionamento possível.\n\n## Observe a compreensão antes de acrescentar mais benefícios\n\nQuando o valor parece pouco percebido, a primeira resposta pode ser oferecer algo novo. Antes disso, vale investigar o que o cliente entende sobre aquilo que já recebe.\n\nEscolha uma entrega incluída e acompanhe algumas situações de atendimento, preservando informações pessoais. A pessoa reconhece a finalidade? Consegue explicar como solicitar? Sabe o que está fora do escopo? A equipe encaminha a demanda de maneira consistente?\n\nEsse exercício não demonstra sozinho satisfação ou fidelização. Ele ajuda a localizar obstáculos concretos de compreensão e acesso, que podem ser tratados sem inventar uma promessa adicional.\n\nNa próxima revisão de um serviço, olhe além da lista do contrato. Identifique uma entrega cujo uso ainda exige explicações difíceis e organize uma orientação simples sobre quando ela ajuda, o que inclui e como solicitar. A percepção de valor pode começar nesse cuidado: tornar acessível aquilo que a empresa já se comprometeu a fazer.",
+        "sources": "[Mastercard, Mastercard Max e utilização dos benefícios, 21/10/2026](https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html)\n\nAnúncio da própria empresa, sem comprovação independente de fidelização ou disponibilidade para todo cartão. A empresa de manutenção é hipotética; as orientações de serviço são recomendações editoriais, sem promessa de ganho comercial.",
+        "prompt": "Cinematic editorial photograph in a modest Brazilian small business office, a maintenance service coordinator calmly explaining an included preventive check to a client over a simple service folder, the client attentive and pointing to a practical calendar while the coordinator indicates the next step, candid everyday gestures and thoughtful expressions, medium composition showing realistic tools discreetly on a shelf, subtle teal ambient side reflection inspired by #08ffb1 on the desk and restrained teal light in the background, soft neutral key light, natural skin tones, controlled contrast, warm human interaction with a quiet conceptual editorial atmosphere, no readable text or logos, no posing --ar 3:2",
+        "imageAlt": "Coordenador de manutenção e cliente conversam sobre uma pasta de serviço e um calendário, com luz teal suave na mesa e ao fundo."
+      },
+      "createdAt": "2026-10-26T13:58:39.334Z",
+      "startedAt": "2026-10-26T14:12:58.054Z",
+      "completedAt": "2026-10-26T14:15:28.064Z"
+    },
+    {
+      "id": "02146c25-6ef9-4af4-b063-57dfdd6d7f30",
+      "itemId": "pauta-diaria-2026-10-26",
+      "action": "revisar",
+      "state": "pending",
+      "workKey": "da23a77556ba8a1e6b4547ffef45d47308e84fa2a36a0d230f12c2de9492b2c1",
+      "snapshot": "6a56b855fffef1d23769c9eb971aa95b2718016700abcf96d5ac6ea53c50da21",
+      "input": {
+        "id": "pauta-diaria-2026-10-26",
+        "title": "Sua marca precisa de mais estímulos ou de uma experiência com sentido?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho verificado: em 22/10/2026, a coluna In Tech da Mastercard discutiu tecnologia e percepção, incluindo Berl-Berl, de Jakob Kudsk Steensen. A descrição da obra foi conferida na fonte institucional do MoMA: https://www.moma.org/calendar/exhibitions/5936. A instalação combina pesquisa de campo, imagem e som para reimaginar áreas alagadas de Berlim; não tratá-la como um lançamento daquele dia nem como experimento de marketing. Usar o caso artístico como inspiração, sem atribuir resultados comerciais ou efeitos neurológicos. Tese: uma experiência sensorial de marca precisa organizar uma intenção reconhecível; acrescentar música, perfume, telas e efeitos não substitui coerência e pode criar esforço desnecessário. Aplicar a PMEs com ponto físico ou demonstração de produtos, com exemplo hipotético de loja que avalia se o som permite conversar e se a iluminação ajuda a observar materiais. Distinguir atmosfera de interferência, respeitar diferenças de sensibilidade e prever alternativas menos estimulantes sem fazer recomendações médicas. Propor observar o uso real, ouvir a equipe e clientes e ajustar um elemento por vez, sem prometer memória, permanência ou venda. Diferenciar do texto sobre energia da marca e branding como experiência: foco na escolha e dosagem de elementos sensoriais e na finalidade de cada um. Diferenciar de contexto da mensagem: foco no ambiente físico e na compatibilidade entre estímulos, não no próximo passo de uma peça publicitária.",
+        "audience": "Donos de PMEs de varejo e serviços e profissionais de marca que querem melhorar ambientes, demonstrações e atendimento sem confundir experiência com excesso de estímulos.",
+        "goal": "De “uma marca memorável precisa estimular todos os sentidos” para “cada elemento sensorial precisa ter uma função coerente, permitir conforto e ajudar a experiência que queremos entregar”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-26",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Mastercard In Tech, How technology is changing human perception",
+              "url": "https://www.mastercard.com/global/en/news-and-trends/stories/2026/in-tech-engineering-the-senses.html",
+              "publishedAt": "2026-10-22"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "194e0ba3-4b48-4f86-8ae9-543aa7b7fbac",
+          "completedAt": "2026-10-26T14:15:27.797Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A música foi escolhida para dar personalidade à loja. A iluminação deveria destacar os produtos. O perfume entrou para tornar o ambiente reconhecível. Durante o atendimento, porém, o cliente precisa se aproximar para ouvir a explicação e levar uma amostra até a porta para enxergar sua cor.\n\nUma experiência sensorial de marca precisa considerar o que seus elementos permitem fazer juntos. Som, luz e materiais podem contribuir para uma atmosfera coerente. Também podem disputar atenção e dificultar justamente a interação que a empresa deseja oferecer.\n\nEm publicação de 22 de outubro de 2026, a coluna In Tech da Mastercard discutiu tecnologia e percepção, citando a obra Berl-Berl, de Jakob Kudsk Steensen. Segundo o MoMA, a instalação reimagina áreas alagadas de Berlim por meio de pesquisa, imagem e som, em um trabalho que aproxima paisagem, memória e imaginação.\n\nÉ uma referência artística, não um experimento sobre vendas. O interesse para uma marca está em outra pergunta: os elementos da experiência ajudam a expressar uma intenção ou foram acrescentados apenas porque estavam disponíveis?\n\n## Comece pelo que o ambiente precisa permitir\n\nAntes de escolher um recurso, descreva a experiência desejada de forma concreta. A pessoa precisa observar um acabamento, conversar com calma, comparar alternativas ou experimentar um produto? O ambiente deve dar condições para isso.\n\nImagine uma pequena loja de revestimentos. É um exemplo hipotético. A marca quer ser percebida como cuidadosa e próxima, e o atendimento envolve discutir cores, texturas e condições de uso. Nesse contexto, uma boa experiência depende de conseguir ouvir, examinar as amostras e esclarecer dúvidas.\n\nUma luz cenográfica pode criar uma atmosfera interessante, mas não deveria ser o único modo de ver os materiais. Uma trilha musical pode fazer parte do espaço, desde que não impeça a conversa. A intenção da marca precisa chegar a essas escolhas práticas.\n\nIsso muda a pergunta de “o que podemos adicionar?” para “o que precisa funcionar para a pessoa perceber o cuidado que prometemos?”.\n\n## Atmosfera e demonstração podem pedir condições diferentes\n\nNem todo canto da loja precisa cumprir a mesma função. Um espaço de passagem pode apresentar a identidade de maneira sintética. Uma mesa de comparação pode exigir mais clareza sobre detalhes e diferenças.\n\nNa loja hipotética, a iluminação do ambiente pode ter uma direção própria, enquanto a área de amostras oferece condições adequadas de observação. Se a cor varia conforme a luz, essa diferença precisa ser explicada no atendimento, sem prometer que o resultado será idêntico em qualquer espaço.\n\nO cuidado também vale para a fotografia. Uma imagem pode comunicar atmosfera, mas não deveria ser usada como garantia de aparência exata quando há condições de luz e uso distintas.\n\nA experiência ganha consistência quando a estética ajuda a compreender a escolha. Se a pessoa precisa contornar o cenário para avaliar o produto, vale rever o papel daquele efeito.\n\n## O som deve caber na conversa\n\nUma trilha pode ser adequada ao repertório da marca e ainda estar em um volume incompatível com o atendimento. A questão não é julgar o gosto musical da equipe, mas observar a atividade que acontece no lugar.\n\nAs pessoas conseguem conversar sem elevar a voz? Quem atende precisa repetir informações? Uma demonstração sonora atrapalha outro atendimento próximo? O som continua fazendo sentido quando o espaço fica cheio?\n\nEssas observações ajudam a discutir ajustes sem tratar uma preferência pessoal como regra universal. Em alguns momentos, reduzir ou interromper a trilha pode ser a decisão mais coerente com a promessa de atenção.\n\nUma marca não perde personalidade por deixar a conversa acontecer. O jeito como organiza o encontro também faz parte do que comunica.\n\n## Reconheça que as pessoas percebem o espaço de maneiras diferentes\n\nA mesma combinação de música, aroma, luz e movimento não será igualmente confortável para todos. Convém evitar a ideia de que intensificar estímulos torna automaticamente a experiência melhor.\n\nOfereça, quando possível, alternativas com menos interferência. Pode ser uma área mais tranquila para conversar, uma demonstração sem som ou a possibilidade de examinar o produto sob outra condição de luz. A solução deve acompanhar o espaço e o serviço reais.\n\nNão é necessário classificar clientes ou pedir explicações pessoais para acolher uma solicitação simples de ajuste. O atendimento pode ouvir o pedido e verificar o que consegue oferecer.\n\nEssa orientação é de projeto e relacionamento, sem pretender avaliar condições de saúde. O critério é permitir que diferenças de percepção sejam consideradas na experiência, em vez de exigir que todos se adaptem ao mesmo cenário.\n\n## Avalie o conjunto durante o uso real\n\nUm ambiente vazio e recém-organizado não revela todas as condições de atendimento. Observe também circulação, conversas simultâneas, equipamentos funcionando e pessoas examinando os materiais.\n\nOuça a equipe sobre dificuldades recorrentes. Que explicação precisa ser repetida? Onde o cliente procura uma luz melhor? Qual recurso exige uma interrupção para que o atendimento continue? Recolha comentários com cuidado, sem transformar uma reação isolada em conclusão sobre todo o público.\n\nEscolha um elemento para ajustar e compare situações semelhantes. Registre o que mudou e qual problema se pretendia resolver. Se tudo for alterado ao mesmo tempo, fica mais difícil compreender o efeito de cada decisão.\n\nEssas observações não comprovam aumento de vendas ou permanência. Ajudam a conferir se o ambiente oferece as condições necessárias para a experiência planejada.\n\n## Dê uma função ao que permanece\n\nDepois da revisão, cada escolha deveria ter uma justificativa compreensível. A luz ajuda a observar e cria a atmosfera desejada. O som acompanha o espaço sem impedir a conversa. Os materiais permitem reconhecer a proposta e entender o produto.\n\nRetirar um efeito pode ser tão intencional quanto acrescentá-lo. A coerência não depende de ocupar todos os sentidos, mas de organizar o encontro entre a marca, seu serviço e as pessoas.\n\nNa próxima mudança do ponto físico, descreva primeiro o que o cliente precisa conseguir fazer ali. Depois avalie quais elementos ajudam, quais interferem e quais apenas repetem uma preferência interna. Uma experiência com sentido começa quando a intenção da marca se torna uma condição concreta de uso.",
+        "sources": "[Mastercard In Tech, tecnologia e percepção, 22/10/2026](https://www.mastercard.com/global/en/news-and-trends/stories/2026/in-tech-engineering-the-senses.html)\n[MoMA, Jakob Kudsk Steensen: Wetland e a obra Berl-Berl](https://www.moma.org/calendar/exhibitions/5936)\n\nA obra é uma referência artística, não evidência de eficácia comercial. A loja de revestimentos é hipotética. As orientações são recomendações editoriais de projeto e atendimento, sem afirmações clínicas ou neurológicas.",
+        "prompt": "Cinematic editorial photograph in a small Brazilian materials showroom, a shop consultant and a customer comparing tactile tile samples at a clear softly lit worktable, one person gently turning a sample toward the neutral task light while the other listens, candid natural interaction, medium wide view showing a calm retail interior, intentional contrast between a restrained teal ambient accent inspired by #08ffb1 along the background shelving and soft neutral key light on the samples and faces, natural skin tones, controlled contrast, realistic textures, thoughtful conceptual editorial atmosphere, no artificial neon wash, no readable text or logos --ar 3:2",
+        "imageAlt": "Cliente e consultora observam amostras de revestimentos sob luz neutra, em uma loja com iluminação teal suave nas prateleiras."
+      },
+      "createdAt": "2026-10-26T14:37:30.743Z"
+    },
+    {
+      "id": "1f0c1c31-3eaf-4e7e-8d6c-2891a39e77f6",
+      "itemId": "pauta-reposicao-2026-10-25-66eb8135136e",
+      "action": "revisar",
+      "state": "pending",
+      "workKey": "de4e03ad31dafed5f5b018bc86efa6027b9400bb86b11c40726e7d93588da0a9",
+      "snapshot": "08eb1ae327faef8a21fbf0d2993919071ace810db9ff1539cfe7a0c7e91c773c",
+      "input": {
+        "id": "pauta-reposicao-2026-10-25-66eb8135136e",
+        "title": "Suas propostas ajudam o cliente a comparar o que realmente importa?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: na atualização de 30/09/2026, Airbnb anunciou comparação lado a lado de acomodações salvas, com resumos por IA, dentro de novidades de planejamento inicialmente nos Estados Unidos. A pauta amplia a janela de pesquisa para até 30 dias para explorar um ângulo ainda não tratado no acervo. Não apresentar como lançamento desta semana ou brasileiro nem afirmar efeito comprovado sobre conversão. Tese: uma proposta comercial ajuda a decidir quando torna comparáveis critérios relevantes, como escopo, condições, responsabilidades e limites, sem reduzir a escolha ao preço ou esconder diferenças. Exemplo hipotético de PME avaliando dois serviços com nomes parecidos e entregas distintas; mostrar como organizar uma comparação honesta e explicar quando uma opção não atende à necessidade. Não criar uma tabela enviesada para fazer a própria proposta vencer; distinguir requisito, preferência e condição indispensável. Diferenciar de efeito isca e paradoxo da escolha: foco na qualidade e comparabilidade da informação, não em manipular o conjunto de opções ou reduzir sua quantidade. Diferenciar do post sobre desconto: foco na estrutura do documento de comparação antes da negociação.",
+        "audience": "Donos de PMEs e equipes comerciais que apresentam propostas de serviços complexos e percebem que clientes comparam apenas o total, sem compreender diferenças de escopo e responsabilidade.",
+        "goal": "De “o cliente deveria entender por que nossa proposta é diferente” para “preciso tornar visíveis e comparáveis os critérios que sustentam a escolha, incluindo limites e adequação”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-25",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Airbnb 2026 fall update, seção Better AI-powered trip planning",
+              "url": "https://news.airbnb.com/airbnb-2026-fall-update",
+              "publishedAt": "2026-09-30"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "3aa4930e-bc23-452d-8a42-0693a212cbaa",
+          "completedAt": "2026-10-26T14:15:27.910Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Duas propostas chegaram. Ambas prometem acompanhamento, qualidade e uma solução completa. Uma custa menos. A outra traz mais páginas, mas não deixa claro o que muda na prática. Para o cliente, comparar pode acabar significando escolher entre números que representam entregas diferentes.\n\nUma proposta comercial comparável torna visíveis os critérios da decisão. Explica o escopo, as condições, as responsabilidades e os limites, para que a pessoa consiga avaliar a adequação sem precisar reconstruir o serviço por conta própria.\n\nNa atualização anunciada em 30 de setembro de 2026, o Airbnb apresentou uma comparação lado a lado de acomodações salvas, com resumos por IA, entre novidades de planejamento inicialmente nos Estados Unidos. O anúncio descreve um recurso, sem comprovar por si só melhora de conversão.\n\nA pergunta que ele ajuda a abrir vai além da interface: quando alguém considera alternativas, quais diferenças precisam aparecer para que a escolha seja informada?\n\n## O nome do serviço pode esconder diferenças importantes\n\nImagine uma PME comparando dois contratos de suporte técnico. É um exemplo hipotético. Ambos mencionam “atendimento mensal”, mas um contempla apenas orientação remota e o outro prevê visitas em condições específicas. Os prazos de resposta e a responsabilidade por equipamentos também são diferentes.\n\nSe o documento destaca somente o nome do pacote e o total, a comparação fica incompleta. O cliente pode interpretar “suporte” de uma maneira que nenhum fornecedor pretendia oferecer.\n\nA proposta precisa aproximar a expressão comercial do funcionamento real. Que tipo de solicitação pode ser encaminhado? Como o atendimento começa? O que depende de análise? Em quais condições uma visita está incluída?\n\nEssas respostas não precisam ocupar um texto extenso. Precisam ser encontradas e entendidas antes de a pessoa assumir o compromisso.\n\n## Escolha critérios ligados ao problema do comprador\n\nUma comparação útil começa pela necessidade que motivou a contratação. Se a empresa precisa atender unidades em locais diferentes, cobertura e deslocamento podem ser relevantes. Se depende de determinado equipamento, a compatibilidade do serviço merece aparecer.\n\nEvite organizar a proposta apenas pelo que sua empresa tem facilidade de oferecer. Um critério pode destacar uma competência do fornecedor e não fazer diferença para aquele cliente. Outro, menos vistoso, pode ser indispensável para que o serviço funcione.\n\nConverse sobre o que é requisito, preferência e condição de execução. Um requisito pode impedir a contratação quando não é atendido. Uma preferência admite negociação. Uma condição esclarece o que cada parte precisará disponibilizar para a entrega acontecer.\n\nEssa distinção ajuda a explicar por que a opção adequada não é necessariamente a que reúne mais itens.\n\n## Torne as diferenças verificáveis\n\n“Mais completo”, “premium” e “personalizado” podem expressar uma intenção, mas ainda deixam trabalho para quem está comparando. O que, exatamente, será diferente no acompanhamento, na execução ou no acesso à equipe?\n\nNo exemplo do suporte, a proposta pode informar os canais disponíveis, o tipo de demanda atendida, a necessidade de agendamento e as condições de deslocamento. Onde houver uma dependência, ela deve ser apresentada com a entrega correspondente.\n\nNão prometa um prazo que a operação não consegue sustentar. Se o tempo depende da classificação de um chamado, explique como essa classificação será feita e quem encaminha a resposta.\n\nUma comparação responsável permite verificar o que cada palavra comercial representa. Também admite dizer quando uma condição ainda precisa ser confirmada.\n\n## Separe o que está incluído do que poderá ser contratado\n\nUma apresentação pode misturar entregas garantidas, opções adicionais e possibilidades futuras. Quando tudo aparece com o mesmo destaque, o cliente pode supor que está comprando um conjunto maior do que o previsto.\n\nIndique claramente o que integra o valor proposto, o que exige outra avaliação e o que não está disponível naquele escopo. Se houver custos condicionais, explique a condição em linguagem compreensível.\n\nNo exemplo hipotético, uma visita pode estar incluída apenas em determinada área e depender de agendamento. Fora dela, talvez seja necessário outro orçamento. Esconder esse detalhe em uma observação distante prejudica a comparação justamente no momento em que a pessoa precisa entender o serviço.\n\nClareza não significa eliminar todas as condições. Significa apresentá-las de modo que participem da escolha.\n\n## Compare com honestidade, sem construir uma vitória artificial\n\nUma tabela sobre alternativas pode ser útil, mas não deveria selecionar critérios apenas para fazer a própria proposta vencer. Também não cabe atribuir características a concorrentes sem informação confiável e atual.\n\nSe o cliente traz outro orçamento, é possível ajudá-lo a identificar perguntas sobre escopo e responsabilidades, sem presumir o que o outro fornecedor entrega. Quando uma informação estiver ausente, marque a necessidade de confirmação em vez de transformar ausência em defeito comprovado.\n\nO mesmo vale para versões do seu próprio serviço. Explique para qual situação cada opção foi pensada e quais compromissos exige. Uma alternativa mais enxuta pode ser suficiente. Outra pode não atender a uma necessidade indispensável, mesmo tendo um preço atraente.\n\nO papel da comparação é tornar a escolha compreensível, sem substituí-la por um arranjo feito para conduzir a uma resposta predeterminada.\n\n## Confira se alguém consegue explicar o que está escolhendo\n\nAntes de enviar a proposta, peça a uma pessoa com contexto do projeto para localizar as diferenças principais. Ela entende o que está incluído, o que depende do cliente e o que acontece depois do aceite?\n\nNo contato comercial, observe as perguntas que se repetem. Se várias pessoas confundem uma condição ou acreditam que um item opcional está incluído, revise a apresentação. Não trate toda dúvida como falta de atenção do comprador.\n\nEssa conferência ajuda a melhorar o documento, mas não garante fechamento. O cliente ainda pode decidir por outra solução, adiar a contratação ou reconhecer que não dispõe das condições necessárias.\n\nUma boa proposta permite que essas decisões aconteçam com mais clareza. Na próxima revisão, escolha os critérios que realmente diferenciam suas entregas e apresente-os junto de seus limites. O valor do trabalho fica mais concreto quando a pessoa consegue explicar o que está escolhendo e por que aquilo faz sentido para sua realidade.",
+        "sources": "[Airbnb, atualização de produto de 30/09/2026](https://news.airbnb.com/airbnb-2026-fall-update)\n\nO anúncio descreve recursos de planejamento inicialmente nos Estados Unidos, incluindo comparação lado a lado com resumos por IA. Não demonstra resultado comercial. O exemplo de suporte técnico é hipotético; as orientações sobre propostas são recomendações editoriais.",
+        "prompt": "Cinematic editorial photograph in a modest Brazilian business meeting room, a small business owner and a service consultant sitting side by side comparing two printed service proposals on a table, the consultant using a pen to clarify a practical scope difference while the owner carefully considers it, candid thoughtful gestures, no sales pitch posing, medium composition with realistic paper and a closed laptop, restrained teal ambient side light inspired by #08ffb1 reflected along the table edge and subtle background accent, soft neutral key light on faces and documents, natural skin tones, controlled contrast, thoughtful conceptual editorial atmosphere, no readable text or logos --ar 3:2",
+        "imageAlt": "Gestora e consultor comparam duas propostas impressas em uma mesa, com um reflexo teal discreto e luz neutra sobre os documentos."
+      },
+      "createdAt": "2026-10-26T14:37:34.569Z"
+    },
+    {
+      "id": "b6a6d1c4-ce85-45ab-9b99-178410ddfe00",
+      "itemId": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "d979453ebfe84e69ee469e3ee183bd6e30672cdabe105cbe2a46a462a6751a65",
+      "snapshot": "d979453ebfe84e69ee469e3ee183bd6e30672cdabe105cbe2a46a462a6751a65",
+      "input": {
+        "id": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
+        "title": "O cliente sabe usar o valor que você já entrega?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 21/10/2026, Mastercard anunciou Mastercard Max, assistente para ajudar a descobrir, compreender e utilizar benefícios de cartões, com C6 Bank entre os primeiros emissores envolvidos no Brasil. Tratar como proposta anunciada pela empresa, sem prova independente de fidelização nem pressupor acesso para todo cliente de todo cartão. Não repetir percentuais de pesquisas comerciais. Tese: parte do valor de um serviço pode ficar invisível quando o cliente não entende o que está incluído, quando utilizar e como solicitar. Aplicar a PMEs de serviços recorrentes e pós-venda: transformar itens do contrato em orientações simples no momento adequado, esclarecer limites e indicar o próximo passo. Exemplo hipotético de serviço de manutenção que inclui uma verificação preventiva, mas só a descreve no orçamento; mostrar como explicar a finalidade e combinar o agendamento, sem inventar condições ou prometer ganho comercial. Diferenciar de fidelização genérica: foco na compreensão e ativação do valor já contratado, sem criar recompensas ou descontos. Diferenciar de informações desatualizadas: informação pode estar correta e ainda ser pouco compreensível ou difícil de usar. Diferenciar de contexto da mensagem: investigar a passagem de benefício descrito para uso efetivo, não a adaptação de uma campanha entre pontos de contato.",
+        "audience": "Donos de PMEs de serviços e responsáveis por relacionamento e pós-venda que entregam benefícios incluídos no contrato, mas recebem dúvidas recorrentes sobre o que o cliente pode utilizar.",
+        "goal": "De “o benefício está no contrato, então o cliente conhece o valor” para “preciso explicar quando ele é útil, o que inclui e como utilizá-lo para que o valor possa ser percebido”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-25",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Mastercard Max makes benefits easy to discover, understand and use",
+              "url": "https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html",
+              "publishedAt": "2026-10-21"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "bf97830c-910d-4589-8b4f-cc6a71b5fa4d",
+          "completedAt": "2026-10-26T14:15:28.026Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "f07229777c954442320915381780834adfaab75b38aa20016415fbc2ab9989cd"
+        },
+        "body": "O contrato inclui uma verificação preventiva, mas o cliente só descobre isso quando pergunta se pode solicitar outra visita. A empresa considera que o benefício estava explicado no orçamento. Para quem contratou, porém, aquele item nunca chegou a se transformar em uma possibilidade concreta de uso.\n\nComunicar o valor de um serviço envolve mais do que apresentar tudo o que está incluído. A pessoa precisa entender para que cada entrega serve, quando pode utilizá-la e como dar o próximo passo.\n\nEm 21 de outubro de 2026, a Mastercard anunciou Mastercard Max, um assistente para ajudar usuários a descobrir, compreender e utilizar benefícios de cartões. O comunicado apresenta o C6 Bank entre os primeiros emissores envolvidos no Brasil. É uma proposta anunciada pela empresa, sem demonstrar por si só resultados de fidelização ou acesso para todo portador de cartão.\n\nA pergunta que essa proposta ajuda a abrir também cabe em uma PME: quanto do valor já contratado permanece apenas como um item descrito, sem orientação suficiente para ser aproveitado?\n\n## Estar incluído não significa ser compreendido\n\nQuem conhece profundamente um serviço pode achar que seus componentes são evidentes. O cliente talvez não compartilhe esse repertório. Uma expressão técnica pode ser precisa e, ao mesmo tempo, pouco útil para decidir quando entrar em contato.\n\nImagine uma empresa de manutenção com um contrato recorrente que inclui uma verificação preventiva em condições definidas. É um exemplo hipotético. O orçamento menciona a entrega, mas não esclarece ao cliente qual situação ela ajuda a avaliar nem como combinar o agendamento.\n\nO serviço pode estar disponível. Ainda assim, a pessoa precisa localizar o documento, interpretar o termo e descobrir o procedimento antes de conseguir solicitá-lo. Nesse percurso, parte do cuidado que a empresa pretende oferecer fica difícil de perceber.\n\nNão se trata de presumir que o cliente não leu. Trata-se de conferir se a informação apresentada permite agir.\n\n## Traduza o benefício em uma situação reconhecível\n\nUma orientação útil aproxima a entrega de uma necessidade que o cliente consegue identificar. O que essa verificação permite examinar? Em qual momento vale conversar com a equipe? O que acontece depois do pedido?\n\nA resposta deve respeitar o serviço real. Se a verificação não inclui uma intervenção corretiva, isso precisa ficar claro. Se depende de agendamento e de acesso a determinados equipamentos, essas condições fazem parte da explicação.\n\nNo exemplo, a comunicação poderia informar que a equipe pode avaliar os itens previstos no contrato e orientar o agendamento pelo canal combinado. Uma dúvida sobre um problema fora do escopo precisa receber outro encaminhamento, sem que a explicação do benefício crie uma promessa mais ampla.\n\nO valor ganha contorno quando a pessoa entende tanto a utilidade quanto os limites. O objetivo não é fazer uma entrega parecer maior, mas torná-la compreensível.\n\n## Mostre como usar, sem obrigar o cliente a procurar sozinho\n\nDepois de explicar a finalidade, confira o caminho de solicitação. Há um contato definido? A equipe sabe reconhecer o pedido? A pessoa recebe uma orientação sobre o que será necessário?\n\nUm benefício pode estar bem descrito e continuar difícil de utilizar porque o processo termina em um encaminhamento vago. “Fale com o suporte” ajuda pouco se existem vários contatos e ninguém identifica qual deles responde por aquela situação.\n\nO próximo passo deve ser compatível com a operação. Pode ser responder a uma mensagem, consultar um responsável ou solicitar uma data. Não é preciso criar uma área digital para resolver algo que uma orientação clara e um atendimento organizado já conseguem sustentar.\n\nSe houver uma etapa de confirmação, explique-a. Um pedido recebido não deve ser apresentado como um agendamento concluído quando ainda depende de disponibilidade.\n\n## Retome a orientação quando ela puder ajudar\n\nEntregar todas as informações no início da relação pode ser necessário, mas não garante que cada item será lembrado no momento de uso. Uma retomada pertinente pode ajudar o cliente a reconhecer uma possibilidade que havia passado despercebida.\n\nEssa retomada precisa ter uma função. No exemplo hipotético, ao conversar sobre o acompanhamento previsto no contrato, a equipe pode lembrar a verificação e esclarecer como solicitá-la. Não precisa transformar cada contato em uma lista completa de benefícios.\n\nTambém é importante permitir que a pessoa diga que não precisa daquele encaminhamento agora. O serviço estar disponível não significa que o cliente deva utilizá-lo para justificar a contratação.\n\nO critério é oferecer entendimento e acesso. Uma insistência sem relação com a necessidade pode acrescentar esforço em vez de demonstrar cuidado.\n\n## Prepare quem atende para explicar a entrega\n\nSe cada pessoa descreve o benefício de um jeito, a dúvida reaparece. A equipe precisa conhecer finalidade, escopo, condições e encaminhamento, com uma referência vigente que possa consultar.\n\nOrganize exemplos de perguntas frequentes e respostas fiéis ao serviço. Quando algo depender de avaliação técnica, deixe claro quem pode responder. O atendimento não deve improvisar uma garantia para encerrar a conversa rapidamente.\n\nAs dúvidas recebidas também ajudam a revisar a apresentação. Se várias pessoas perguntam se determinada entrega está incluída, talvez o contrato seja correto, mas a explicação inicial não esteja funcionando tão bem quanto a empresa imagina.\n\nUma alteração de linguagem pode ajudar. Em outros casos, o problema está no acesso ao serviço ou em uma condição que precisa ser discutida internamente. A comunicação deve refletir o funcionamento possível.\n\n## Observe a compreensão antes de acrescentar mais benefícios\n\nQuando o valor parece pouco percebido, a primeira resposta pode ser oferecer algo novo. Antes disso, vale investigar o que o cliente entende sobre aquilo que já recebe.\n\nEscolha uma entrega incluída e acompanhe algumas situações de atendimento, preservando informações pessoais. A pessoa reconhece a finalidade? Consegue explicar como solicitar? Sabe o que está fora do escopo? A equipe encaminha a demanda de maneira consistente?\n\nEsse exercício não demonstra sozinho satisfação ou fidelização. Ele ajuda a localizar obstáculos concretos de compreensão e acesso, que podem ser tratados sem inventar uma promessa adicional.\n\nNa próxima revisão de um serviço, olhe além da lista do contrato. Identifique uma entrega cujo uso ainda exige explicações difíceis e organize uma orientação simples sobre quando ela ajuda, o que inclui e como solicitar. A percepção de valor pode começar nesse cuidado: tornar acessível aquilo que a empresa já se comprometeu a fazer.",
+        "sources": "[Mastercard, Mastercard Max e utilização dos benefícios, 21/10/2026](https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html)\n\nAnúncio da própria empresa, sem comprovação independente de fidelização ou disponibilidade para todo cartão. A empresa de manutenção é hipotética; as orientações de serviço são recomendações editoriais, sem promessa de ganho comercial.",
+        "prompt": "Cinematic editorial photograph in a modest Brazilian small business office, a maintenance service coordinator calmly explaining an included preventive check to a client over a simple service folder, the client attentive and pointing to a practical calendar while the coordinator indicates the next step, candid everyday gestures and thoughtful expressions, medium composition showing realistic tools discreetly on a shelf, subtle teal ambient side reflection inspired by #08ffb1 on the desk and restrained teal light in the background, soft neutral key light, natural skin tones, controlled contrast, warm human interaction with a quiet conceptual editorial atmosphere, no readable text or logos, no posing --ar 3:2",
+        "imageAlt": "Coordenador de manutenção e cliente conversam sobre uma pasta de serviço e um calendário, com luz teal suave na mesa e ao fundo.",
+        "keyword": "comunicar o valor de um serviço",
+        "slug": "valor-servico-beneficios-compreender-utilizar",
+        "meta": "Comunicar o valor de um serviço exige explicar o que está incluído, quando ajuda e como utilizar. Torne benefícios contratados mais claros e acessíveis.",
+        "date": "2026-10-26",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-25-e4fc2b5a0bb7/imagens/e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e.png",
+        "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_in_a_modest_B_c354362e-bf4c-4611-8a81-2a6ecbdc0dd0_1.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e.png",
+        "faq": "Descrever um benefício no contrato garante que o cliente saiba utilizá-lo?\nNão. A pessoa também precisa compreender a finalidade, as condições e o caminho para solicitar a entrega.\n\nComo explicar o valor de uma entrega já contratada?\nRelacione a entrega a uma situação reconhecível, esclareça escopo e limites e indique um próximo passo compatível com a operação.\n\nO que observar antes de acrescentar novos benefícios?\nConfira se o cliente entende as entregas existentes, consegue solicitá-las e recebe encaminhamentos consistentes da equipe.",
+        "url": "https://www.agenciatweed.com.br/valor-servico-beneficios-compreender-utilizar/",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-26T14:41:47.805Z"
+        }
+      },
+      "createdAt": "2026-10-26T14:41:47.807Z"
     }
   ]
 }
