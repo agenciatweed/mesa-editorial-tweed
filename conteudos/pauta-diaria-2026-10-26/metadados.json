@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 22/10/2026, a coluna In Tech da Mastercard discutiu tecnologia e percepção, incluindo Berl-Berl, de Jakob Kudsk Steensen. A descrição da obra foi conferida na fonte institucional do MoMA: https://www.moma.org/calendar/exhibitions/5936. A instalação combina pesquisa de campo, imagem e som para reimaginar áreas alagadas de Berlim; não tratá-la como um lançamento daquele dia nem como experimento de marketing. Usar o caso artístico como inspiração, sem atribuir resultados comerciais ou efeitos neurológicos. Tese: uma experiência sensorial de marca precisa organizar uma intenção reconhecível; acrescentar música, perfume, telas e efeitos não substitui coerência e pode criar esforço desnecessário. Aplicar a PMEs com ponto físico ou demonstração de produtos, com exemplo hipotético de loja que avalia se o som permite conversar e se a iluminação ajuda a observar materiais. Distinguir atmosfera de interferência, respeitar diferenças de sensibilidade e prever alternativas menos estimulantes sem fazer recomendações médicas. Propor observar o uso real, ouvir a equipe e clientes e ajustar um elemento por vez, sem prometer memória, permanência ou venda. Diferenciar do texto sobre energia da marca e branding como experiência: foco na escolha e dosagem de elementos sensoriais e na finalidade de cada um. Diferenciar de contexto da mensagem: foco no ambiente físico e na compatibilidade entre estímulos, não no próximo passo de uma peça publicitária.",
   "audience": "Donos de PMEs de varejo e serviços e profissionais de marca que querem melhorar ambientes, demonstrações e atendimento sem confundir experiência com excesso de estímulos.",
   "goal": "De “uma marca memorável precisa estimular todos os sentidos” para “cada elemento sensorial precisa ter uma função coerente, permitir conforto e ajudar a experiência que queremos entregar”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "experiência sensorial de marca",
   "slug": "experiencia-sensorial-marca-sentido",
   "meta": "Uma experiência sensorial de marca precisa de intenção. Veja como som, luz e materiais podem ajudar o atendimento sem disputar a atenção do cliente.",
-  "date": "",
+  "date": "2026-10-26",
   "imageFile": "conteudos/pauta-diaria-2026-10-26/imagens/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
   "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_in_a_small_Br_d37a4c37-fc56-4d94-a447-ffbf6f57fdd6_2.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
   "faq": "Uma experiência sensorial precisa estimular todos os sentidos?\nNão. Cada elemento deve ter uma função coerente com o serviço e com as atividades que o ambiente precisa permitir.\n\nComo avaliar som e iluminação no ponto físico?\nObserve se as pessoas conseguem conversar, examinar materiais e esclarecer dúvidas nas condições reais de atendimento, incluindo momentos de maior movimento.\n\nComo considerar diferentes sensibilidades no ambiente?\nOuça pedidos de ajuste e ofereça, quando possível, alternativas com menos interferência, sem exigir explicações pessoais desnecessárias.",
-  "url": "https://www.agenciatweed.com.br/experiencia-sensorial-marca-sentido/"
+  "url": "https://www.agenciatweed.com.br/experiencia-sensorial-marca-sentido/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/experiencia-sensorial-marca-sentido/",
+    "publishedAt": "2026-10-26T19:16:17.075780+00:00",
+    "job": "ea599a2f-b2e7-4a85-83a0-24baae6e0294",
+    "files": [
+      "assets/artigos-editoriais/222e996763efe861bda6c4078abac3def6f678f182b2ece4e94bb26f0dccf220.png",
+      "experiencia-sensorial-marca-sentido/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

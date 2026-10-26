@@ -1,9 +1,7 @@
 TÍTULO: Sua demonstração mostra o produto ou ajuda o cliente a decidir?
 EDITORIA: 3
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: em comunicado de 14/10/2026 sobre a temporada de compras nos Estados Unidos, TikTok destacou LIVE Shopping como espaço para demonstrações e perguntas em tempo real. A pesquisa ampliou a janela para até 30 dias para buscar um ângulo distinto das pautas recentes. Não transferir calendário, números, condições comerciais ou disponibilidade do mercado americano para o Brasil; não repetir percentuais promocionais nem prometer resultado. Tese: uma demonstração útil organiza uma pergunta real do comprador e mostra uso, condições e limites; exibir o produto em movimento não basta para permitir avaliar adequação. Aplicar a uma PME de produtos ou serviços demonstráveis, com exemplo hipotético de loja de equipamentos mostrando o que uma máquina faz, quais condições exige e em que situação outra solução seria indicada. Propor selecionar dúvidas recorrentes, preparar uma demonstração fiel ao uso possível e acolher perguntas sem fabricar urgência. Distinguir de comparação de propostas: foco no que pode ser observado durante o uso, não na estrutura do documento. Distinguir de reaproveitamento de vídeo: foco na qualidade da demonstração e das respostas, não na adaptação entre plataformas. Distinguir de valor contratado: foco em avaliação antes da compra, não na ativação de benefícios existentes.
 LEITOR: Donos de PMEs, equipes comerciais e criadores de conteúdo que fazem demonstrações presenciais ou em vídeo e querem ajudar compradores a avaliar se uma solução atende à necessidade.
 OBJETIVO: De “mostrar o produto funcionando já prova seu valor” para “preciso demonstrar o uso pertinente, explicar as condições e responder às dúvidas que sustentam uma decisão informada”.
 
-FONTES DA PESQUISA:
-2026-10-14 | TikTok, What’s shaping the holiday season on TikTok Shop | https://newsroom.tiktok.com/whats-shaping-the-holiday-season-on-tiktok-shop?lang=en
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

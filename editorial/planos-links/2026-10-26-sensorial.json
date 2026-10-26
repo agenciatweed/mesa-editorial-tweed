@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "experiencia-sensorial-marca-sentido",
+  "contentSha256": "fc2746b76ded4d3c644ca57d926d7e202496e1c0517225413be8aa2c4c0a7621",
+  "modifiedAt": "2026-10-26",
+  "links": [
+    {
+      "from": "experiencia-sensorial-marca-sentido",
+      "to": "branding-como-experiencia-do-cliente",
+      "anchor": "condição concreta de uso",
+      "context": "Na próxima mudança do ponto físico, descreva primeiro o que o cliente precisa conseguir fazer ali. Depois avalie quais elementos ajudam, quais interferem e quais apenas repetem uma preferência interna. Uma experiência com sentido começa quando a intenção da marca se torna uma condição concreta de uso.",
+      "reason": "Aprofunda a passagem da intenção de marca para a experiência concreta vivida pelo cliente."
+    }
+  ]
+}

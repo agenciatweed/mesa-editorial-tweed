@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "proposta-comercial-comparavel-criterios",
+  "contentSha256": "1b81f766c1aea64110c270e5b5f8442d16c230a69c05968a476b2a8f78338816",
+  "modifiedAt": "2026-10-26",
+  "links": [
+    {
+      "from": "proposta-comercial-comparavel-criterios",
+      "to": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "anchor": "somente o nome do pacote e o total",
+      "context": "Se o documento destaca somente o nome do pacote e o total, a comparação fica incompleta. O cliente pode interpretar “suporte” de uma maneira que nenhum fornecedor pretendia oferecer.",
+      "reason": "Aprofunda as dúvidas sobre valor e adequação que podem ficar escondidas quando a comparação se limita ao preço."
+    }
+  ]
+}

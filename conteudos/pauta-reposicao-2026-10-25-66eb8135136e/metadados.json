@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: na atualização de 30/09/2026, Airbnb anunciou comparação lado a lado de acomodações salvas, com resumos por IA, dentro de novidades de planejamento inicialmente nos Estados Unidos. A pauta amplia a janela de pesquisa para até 30 dias para explorar um ângulo ainda não tratado no acervo. Não apresentar como lançamento desta semana ou brasileiro nem afirmar efeito comprovado sobre conversão. Tese: uma proposta comercial ajuda a decidir quando torna comparáveis critérios relevantes, como escopo, condições, responsabilidades e limites, sem reduzir a escolha ao preço ou esconder diferenças. Exemplo hipotético de PME avaliando dois serviços com nomes parecidos e entregas distintas; mostrar como organizar uma comparação honesta e explicar quando uma opção não atende à necessidade. Não criar uma tabela enviesada para fazer a própria proposta vencer; distinguir requisito, preferência e condição indispensável. Diferenciar de efeito isca e paradoxo da escolha: foco na qualidade e comparabilidade da informação, não em manipular o conjunto de opções ou reduzir sua quantidade. Diferenciar do post sobre desconto: foco na estrutura do documento de comparação antes da negociação.",
   "audience": "Donos de PMEs e equipes comerciais que apresentam propostas de serviços complexos e percebem que clientes comparam apenas o total, sem compreender diferenças de escopo e responsabilidade.",
   "goal": "De “o cliente deveria entender por que nossa proposta é diferente” para “preciso tornar visíveis e comparáveis os critérios que sustentam a escolha, incluindo limites e adequação”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "proposta comercial comparável",
   "slug": "proposta-comercial-comparavel-criterios",
   "meta": "Uma proposta comercial comparável explica escopo, condições e responsabilidades. Ajude o cliente a avaliar diferenças reais além do preço.",
-  "date": "",
+  "date": "2026-10-26",
   "imageFile": "conteudos/pauta-reposicao-2026-10-25-66eb8135136e/imagens/d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f.png",
   "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_in_a_modest_B_d57689e3-f6d2-4e8c-b599-680cb61a69d9_1.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f.png",
   "faq": "O que torna uma proposta comercial comparável?\nCritérios claros sobre escopo, condições, responsabilidades, limites e adequação à necessidade do comprador.\n\nComo apresentar itens opcionais e custos condicionais?\nSepare o que está incluído, o que exige outra avaliação e as condições que podem gerar custos, junto das entregas correspondentes.\n\nComo comparar propostas de fornecedores com honestidade?\nIdentifique perguntas relevantes e confirme informações ausentes, sem atribuir características não verificadas aos concorrentes ou escolher critérios só para favorecer uma opção.",
-  "url": "https://www.agenciatweed.com.br/proposta-comercial-comparavel-criterios/"
+  "url": "https://www.agenciatweed.com.br/proposta-comercial-comparavel-criterios/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/proposta-comercial-comparavel-criterios/",
+    "publishedAt": "2026-10-26T19:15:28.774586+00:00",
+    "job": "d7eb574a-ca14-45c0-a3a3-c277c0e0ca23",
+    "files": [
+      "assets/artigos-editoriais/d8286089c1606928250ee47b93526adb1a9d2040d37529ec33978714414a695f.png",
+      "proposta-comercial-comparavel-criterios/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
