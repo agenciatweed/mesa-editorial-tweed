@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "valor-servico-beneficios-compreender-utilizar",
+  "contentSha256": "75805d5ab2434a48b2195d59c43fd78ac4d505d5944aab27bebb5a56bf26922d",
+  "modifiedAt": "2026-10-26",
+  "links": [
+    {
+      "from": "valor-servico-beneficios-compreender-utilizar",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "um encaminhamento vago",
+      "context": "Um benefício pode estar bem descrito e continuar difícil de utilizar porque o processo termina em um encaminhamento vago. “Fale com o suporte” ajuda pouco se existem vários contatos e ninguém identifica qual deles responde por aquela situação.",
+      "reason": "Aprofunda a definição de responsáveis e próximos passos que tornam a promessa de cuidado utilizável no atendimento."
+    }
+  ]
+}

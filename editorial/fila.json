@@ -3365,7 +3365,7 @@
       "id": "02146c25-6ef9-4af4-b063-57dfdd6d7f30",
       "itemId": "pauta-diaria-2026-10-26",
       "action": "revisar",
-      "state": "pending",
+      "state": "done",
       "workKey": "da23a77556ba8a1e6b4547ffef45d47308e84fa2a36a0d230f12c2de9492b2c1",
       "snapshot": "6a56b855fffef1d23769c9eb971aa95b2718016700abcf96d5ac6ea53c50da21",
       "input": {
@@ -3406,13 +3406,15 @@
         "prompt": "Cinematic editorial photograph in a small Brazilian materials showroom, a shop consultant and a customer comparing tactile tile samples at a clear softly lit worktable, one person gently turning a sample toward the neutral task light while the other listens, candid natural interaction, medium wide view showing a calm retail interior, intentional contrast between a restrained teal ambient accent inspired by #08ffb1 along the background shelving and soft neutral key light on the samples and faces, natural skin tones, controlled contrast, realistic textures, thoughtful conceptual editorial atmosphere, no artificial neon wash, no readable text or logos --ar 3:2",
         "imageAlt": "Cliente e consultora observam amostras de revestimentos sob luz neutra, em uma loja com iluminação teal suave nas prateleiras."
       },
-      "createdAt": "2026-10-26T14:37:30.743Z"
+      "createdAt": "2026-10-26T14:37:30.743Z",
+      "startedAt": "2026-10-26T14:45:55.879Z",
+      "completedAt": "2026-10-26T14:45:56.125Z"
     },
     {
       "id": "1f0c1c31-3eaf-4e7e-8d6c-2891a39e77f6",
       "itemId": "pauta-reposicao-2026-10-25-66eb8135136e",
       "action": "revisar",
-      "state": "pending",
+      "state": "done",
       "workKey": "de4e03ad31dafed5f5b018bc86efa6027b9400bb86b11c40726e7d93588da0a9",
       "snapshot": "08eb1ae327faef8a21fbf0d2993919071ace810db9ff1539cfe7a0c7e91c773c",
       "input": {
@@ -3453,13 +3455,15 @@
         "prompt": "Cinematic editorial photograph in a modest Brazilian business meeting room, a small business owner and a service consultant sitting side by side comparing two printed service proposals on a table, the consultant using a pen to clarify a practical scope difference while the owner carefully considers it, candid thoughtful gestures, no sales pitch posing, medium composition with realistic paper and a closed laptop, restrained teal ambient side light inspired by #08ffb1 reflected along the table edge and subtle background accent, soft neutral key light on faces and documents, natural skin tones, controlled contrast, thoughtful conceptual editorial atmosphere, no readable text or logos --ar 3:2",
         "imageAlt": "Gestora e consultor comparam duas propostas impressas em uma mesa, com um reflexo teal discreto e luz neutra sobre os documentos."
       },
-      "createdAt": "2026-10-26T14:37:34.569Z"
+      "createdAt": "2026-10-26T14:37:34.569Z",
+      "startedAt": "2026-10-26T14:45:55.946Z",
+      "completedAt": "2026-10-26T14:45:56.240Z"
     },
     {
       "id": "b6a6d1c4-ce85-45ab-9b99-178410ddfe00",
       "itemId": "pauta-reposicao-2026-10-25-e4fc2b5a0bb7",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "d979453ebfe84e69ee469e3ee183bd6e30672cdabe105cbe2a46a462a6751a65",
       "snapshot": "d979453ebfe84e69ee469e3ee183bd6e30672cdabe105cbe2a46a462a6751a65",
       "input": {
@@ -3521,7 +3525,8 @@
           "approvedAt": "2026-10-26T14:41:47.805Z"
         }
       },
-      "createdAt": "2026-10-26T14:41:47.807Z"
+      "createdAt": "2026-10-26T14:41:47.807Z",
+      "completedAt": "2026-10-26T14:46:49.588477+00:00"
     }
   ]
 }

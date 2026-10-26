@@ -71,3 +71,8 @@ Acesso vigente desde 18/10/2026: FTP normal, porta 21, modo passivo, raiz remota
 ## Reposição e fontes — 23/10/2026
 
 Além da sugestão diária com menos de 10 cards em Pautas, a automação cria uma reposição se a coluna estiver vazia, mesmo após a diária. Máximo uma por execução, sem restringir criação manual; exige pesquisa verificável. As fontes publicadas exibem nomes clicáveis e notas separadas.
+
+
+## Variedade das capas — 26/10/2026
+
+Próximos prompts alternam cenas humanas e composições conceituais sem pessoas. Consultar os cinco prompts recentes e variar ações, ambiente e enquadramento, evitando reuniões com papéis e notebooks como padrão. Manter acento teal variado. Preservar prompts e capas existentes. Direção completa em editorial/diretrizes.md.

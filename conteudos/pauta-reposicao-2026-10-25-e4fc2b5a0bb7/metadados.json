@@ -53,7 +53,17 @@
   "faq": "Descrever um benefício no contrato garante que o cliente saiba utilizá-lo?\nNão. A pessoa também precisa compreender a finalidade, as condições e o caminho para solicitar a entrega.\n\nComo explicar o valor de uma entrega já contratada?\nRelacione a entrega a uma situação reconhecível, esclareça escopo e limites e indique um próximo passo compatível com a operação.\n\nO que observar antes de acrescentar novos benefícios?\nConfira se o cliente entende as entregas existentes, consegue solicitá-las e recebe encaminhamentos consistentes da equipe.",
   "url": "https://www.agenciatweed.com.br/valor-servico-beneficios-compreender-utilizar/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-10-26T14:41:47.805Z"
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/valor-servico-beneficios-compreender-utilizar/",
+    "publishedAt": "2026-10-26T14:46:49.584641+00:00",
+    "job": "b6a6d1c4-ce85-45ab-9b99-178410ddfe00",
+    "files": [
+      "assets/artigos-editoriais/e1fccdd2982c38b81659019780c4f3a3db7b9207503a0c06a09760bce927b20e.png",
+      "valor-servico-beneficios-compreender-utilizar/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }
