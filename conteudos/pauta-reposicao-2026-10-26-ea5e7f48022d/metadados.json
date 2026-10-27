@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: publicação da equipe do Photoshop na comunidade oficial da Adobe, datada de 15/10/2026, apresenta uma atualização de interface em beta baseada em Spectrum, com diretriz explícita de refinar sem romper fluxos familiares. O corpo também menciona uma build de 06/10; usar a data da publicação e não afirmar que o lançamento ocorreu em 15/10. Janela ampliada a até 30 dias para buscar pauta distinta das atuais. Tratar objetivos de usabilidade e acessibilidade como intenção declarada, não eficácia comprovada; não usar comentários isolados como avaliação representativa. Tese: modernizar um site ou interface exige distinguir o que atrapalha do que já permite ao cliente se orientar; mudar toda a organização para parecer novo pode retirar referências úteis. Aplicar a PMEs redesenhando site, área de cliente ou processo de agendamento, com exemplo hipotético de alteração na localização de uma ação recorrente. Propor mapear tarefas frequentes, preservar sinais reconhecíveis quando úteis, testar o caminho de uso e explicar mudanças relevantes. Diferenciar de UX como extensão da marca: foco na transição entre versões e na continuidade das tarefas, não na construção inicial de presença digital. Diferenciar de informação atualizada: conteúdo pode estar correto e a mudança de organização ainda impedir encontrá-lo. Não fazer promessas de conversão, reduzir todo redesign a mudança cosmética ou assumir que usuários resistem por teimosia.",
   "audience": "Donos de PMEs e responsáveis por marca e produto que planejam renovar site, portal de clientes ou interface de agendamento e precisam preservar a clareza para quem já utiliza o serviço.",
   "goal": "De “para mostrar evolução, tudo precisa parecer diferente” para “preciso melhorar o que dificulta o uso e preservar ou explicar as referências que permitem ao cliente continuar”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "redesign de site",
   "slug": "redesign-site-transicao-usabilidade",
   "meta": "Um redesign de site deve melhorar tarefas sem apagar referências úteis. Veja como preservar caminhos, testar mudanças e orientar clientes na transição.",
-  "date": "",
+  "date": "2026-10-27",
   "imageFile": "conteudos/pauta-reposicao-2026-10-26-ea5e7f48022d/imagens/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
   "imageName": "vitriolicnaivety_Cinematic_editorial_photograph_of_one_adult__41a3c2a6-1ecd-447c-9dc6-4749e81f86d9_2.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
   "faq": "O que preservar em um redesign de site?\nPreserve referências que ajudam a realizar tarefas, como nomes claros e caminhos reconhecíveis, quando continuarem adequados ao uso.\n\nComo avaliar a nova organização do site?\nObserve tarefas relevantes com pessoas que conhecem a versão anterior e com quem chega pela primeira vez, registrando dúvidas sem conduzir cada passo.\n\nComo orientar clientes durante a transição?\nExplique mudanças importantes perto da ação afetada, prepare o atendimento e atualize materiais que ainda indicam caminhos antigos.",
-  "url": "https://www.agenciatweed.com.br/redesign-site-transicao-usabilidade/"
+  "url": "https://www.agenciatweed.com.br/redesign-site-transicao-usabilidade/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/redesign-site-transicao-usabilidade/",
+    "publishedAt": "2026-10-27T15:13:37.591266+00:00",
+    "job": "af4e1c34-3945-4c3f-a6bc-c1fd5fa41ef1",
+    "files": [
+      "assets/artigos-editoriais/877f125f5267a268d702d1194663210f9971391275d8e71a94ebca7edf8e9785.png",
+      "redesign-site-transicao-usabilidade/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

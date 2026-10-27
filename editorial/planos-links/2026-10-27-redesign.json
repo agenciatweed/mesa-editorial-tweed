@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "redesign-site-transicao-usabilidade",
+  "contentSha256": "74330e259e5fc14686f6aef9a093c4d668b885f013c9b6b8d86fa7edb63b1e29",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "redesign-site-transicao-usabilidade",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "Atualizar a interface",
+      "context": "Também confira os materiais que levam ao site. Uma orientação enviada por mensagem pode descrever um caminho que deixou de existir. Atualizar a interface sem rever esses encaminhamentos mantém referências incompatíveis em circulação.",
+      "reason": "Aprofunda a atualização dos materiais e canais que ainda orientam o cliente por caminhos antigos."
+    }
+  ]
+}

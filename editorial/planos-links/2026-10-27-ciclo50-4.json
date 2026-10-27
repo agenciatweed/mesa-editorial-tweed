@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "valor-servico-beneficios-compreender-utilizar",
+  "contentSha256": "75805d5ab2434a48b2195d59c43fd78ac4d505d5944aab27bebb5a56bf26922d",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "o-melhor-cliente-e-aquele-que-voce-ja-tem",
+      "to": "valor-servico-beneficios-compreender-utilizar",
+      "anchor": "Benefícios exclusivos",
+      "context": "Clubes de fidelidade: Crie uma sensação de pertencimento. Benefícios exclusivos, acesso antecipado, surpresas.",
+      "reason": "Detalha como tornar benefícios compreensíveis e acessíveis ao cliente."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "informacoes-empresa-atualizadas-canais",
+  "contentSha256": "65fec09a07e17255d62dce65e55993732e066855ae4deeaf816395338f323b53",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "legibilidade-digital-marca-pessoas-ia",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "Manter os dados corretos",
+      "context": "Informações consistentes também importam. Se o horário, a descrição do serviço ou o endereço divergem entre os canais, existe uma dúvida prática a resolver. Manter os dados corretos beneficia diretamente quem está tentando contratar, independentemente de qualquer sistema de IA.",
+      "reason": "Detalha a manutenção de informações coerentes nos canais públicos."
+    }
+  ]
+}

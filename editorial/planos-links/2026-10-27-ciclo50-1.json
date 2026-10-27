@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "mensagem-contexto-momento-cliente",
+  "contentSha256": "8a553eeea6c975c9d53e987a9a051a7f07faf60047b70e86aaa2284c203e62c0",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "reaproveitamento-video-adaptacao-criativa",
+      "to": "mensagem-contexto-momento-cliente",
+      "anchor": "quando muda de contexto",
+      "context": "A discussão útil para uma pequena empresa vai além da possibilidade de reaproveitar arquivos. O material continua explicando a oferta quando muda de contexto? A abertura funciona para alguém que nunca ouviu falar da empresa? O próximo passo faz sentido naquele momento?",
+      "reason": "Aprofunda a escolha da mensagem conforme a situação de quem encontra a peça."
+    }
+  ]
+}

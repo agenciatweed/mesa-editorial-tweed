@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "personalizacao-atendimento-corrigir-preferencias",
+  "contentSha256": "93a9dbe2acc0126ec80dceb50f277f5bb4add209edad4e8fb2cdc6ed163976c2",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "como-as-pmes-podem-usar-a-inteligencia-artificial-sem-parecerem-robos",
+      "to": "personalizacao-atendimento-corrigir-preferencias",
+      "anchor": "e-mails personalizados",
+      "context": "A inteligência artificial chegou ao marketing para ficar. De e-mails personalizados a análise de dados, passando por conteúdo gerado automaticamente e assistentes virtuais, nunca foi tão fácil (e tentador) automatizar interações com clientes. Mas no embalo dessa eficiência, mora um risco silencioso: soar como uma máquina.",
+      "reason": "Aprofunda a possibilidade de corrigir preferências nas interações personalizadas."
+    }
+  ]
+}

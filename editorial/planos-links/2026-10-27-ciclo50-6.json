@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "experiencia-sensorial-marca-sentido",
+  "contentSha256": "fc2746b76ded4d3c644ca57d926d7e202496e1c0517225413be8aa2c4c0a7621",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "branding-como-experiencia-do-cliente",
+      "to": "experiencia-sensorial-marca-sentido",
+      "anchor": "Um ponto de venda",
+      "context": "Quando você entende que branding é percepção, começa a tratar cada ponto de contato como algo estratégico. Um ponto de venda, um stories, uma embalagem, uma resposta no WhatsApp. Tudo comunica. E tudo deixa rastro.",
+      "reason": "Explora escolhas sensoriais coerentes com a experiência naquele ponto de contato."
+    }
+  ]
+}

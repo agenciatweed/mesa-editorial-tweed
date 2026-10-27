@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "redesign-site-transicao-usabilidade",
+  "contentSha256": "74330e259e5fc14686f6aef9a093c4d668b885f013c9b6b8d86fa7edb63b1e29",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "Uma navegação boa",
+      "context": "Uma navegação boa não é só “bonita”. Ela transmite organização, intenção e respeito pelo tempo do cliente.",
+      "reason": "Aprofunda como preservar referências úteis ao renovar a navegação."
+    }
+  ]
+}

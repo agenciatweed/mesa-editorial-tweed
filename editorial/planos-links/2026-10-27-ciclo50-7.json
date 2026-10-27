@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "demonstracao-produto-ajudar-cliente-decidir",
+  "contentSha256": "060401c33a55caba4959b13a8a6568d622549333d298fd6118622f32534ea8fc",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "antes-de-investir-em-midia-sua-oferta-precisa-fazer-sentido",
+      "to": "demonstracao-produto-ajudar-cliente-decidir",
+      "anchor": "Uma demonstração deve representar o uso possível",
+      "context": "Também vale observar as evidências. Uma afirmação sobre suporte precisa corresponder ao atendimento disponível. Um caso apresentado precisa ser real, autorizado e pertinente. Uma demonstração deve representar o uso possível, sem esconder dependências importantes.",
+      "reason": "Detalha como mostrar condições e limites na demonstração antes da compra."
+    }
+  ]
+}

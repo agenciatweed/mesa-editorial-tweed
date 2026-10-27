@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "proposta-comercial-comparavel-criterios",
+  "contentSha256": "1b81f766c1aea64110c270e5b5f8442d16c230a69c05968a476b2a8f78338816",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "from": "seu-cliente-pede-desconto-ou-pede-uma-razao-para-confiar",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "compara as propostas",
+      "context": "A primeira pergunta útil é simples: “Quando você compara as propostas, quais diferenças considera relevantes?”. A resposta ajuda a perceber se existe uma limitação de verba, uma comparação de escopos ou uma dificuldade para reconhecer valor.",
+      "reason": "Aprofunda critérios concretos de comparação e escopo na negociação."
+    }
+  ]
+}
