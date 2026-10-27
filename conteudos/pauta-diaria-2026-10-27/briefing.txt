@@ -1,9 +1,7 @@
 TÍTULO: Imagem de campanha e prova de entrega não são a mesma coisa
 EDITORIA: 1
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: em 20/10/2026, Spotify publicou balanço de ações de transparência e proteção da identidade artística, incluindo AI Credits e identificação de personas geradas por IA. Tratar como medidas e avaliação declaradas pela plataforma, sem repetir números promocionais ou afirmar que detecção de IA é infalível; o próprio comunicado reconhece limites. Tese: a criação visual pode ilustrar uma ideia, mas não deve ser confundida com evidência de que a empresa realizou determinado trabalho ou obteve certo resultado. Aplicar a PMEs que usam imagens sintéticas, simulações e montagens em campanhas, propostas ou portfólios. Exemplo hipotético de uma empresa de interiores que apresenta uma visualização de projeto: distinguir estudo, simulação e registro de obra realizada, deixando essa natureza clara perto da imagem. Não inventar cases, depoimentos, equipe, instalações ou resultados; preservar a autoria e confirmar autorização antes de utilizar registros identificáveis de clientes. Não converter o artigo em parecer jurídico ou impor rotulagem legal universal. Diferenciar de IA e manual de marca: foco na função probatória da imagem e no contexto que evita interpretações indevidas, não em paleta ou briefing. Diferenciar de demonstração: foco em distinguir representação criada e registro real, não em explicar as condições de um equipamento em uso.
 LEITOR: Donos de PMEs e responsáveis por criação, conteúdo e comercial que usam imagens geradas por IA ou simulações para comunicar serviços e apresentar portfólio.
 OBJETIVO: De “se a imagem parece real e comunica bem, ela pode mostrar nossa entrega” para “preciso distinguir ilustração, proposta e registro real para sustentar a confiança no que a empresa apresenta”.
 
-FONTES DA PESQUISA:
-2026-10-20 | Spotify, One Year In: Putting Human Artistry First on Spotify | https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

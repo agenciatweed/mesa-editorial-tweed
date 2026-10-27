@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em comunicado de 14/10/2026 sobre a temporada de compras nos Estados Unidos, TikTok destacou LIVE Shopping como espaço para demonstrações e perguntas em tempo real. A pesquisa ampliou a janela para até 30 dias para buscar um ângulo distinto das pautas recentes. Não transferir calendário, números, condições comerciais ou disponibilidade do mercado americano para o Brasil; não repetir percentuais promocionais nem prometer resultado. Tese: uma demonstração útil organiza uma pergunta real do comprador e mostra uso, condições e limites; exibir o produto em movimento não basta para permitir avaliar adequação. Aplicar a uma PME de produtos ou serviços demonstráveis, com exemplo hipotético de loja de equipamentos mostrando o que uma máquina faz, quais condições exige e em que situação outra solução seria indicada. Propor selecionar dúvidas recorrentes, preparar uma demonstração fiel ao uso possível e acolher perguntas sem fabricar urgência. Distinguir de comparação de propostas: foco no que pode ser observado durante o uso, não na estrutura do documento. Distinguir de reaproveitamento de vídeo: foco na qualidade da demonstração e das respostas, não na adaptação entre plataformas. Distinguir de valor contratado: foco em avaliação antes da compra, não na ativação de benefícios existentes.",
   "audience": "Donos de PMEs, equipes comerciais e criadores de conteúdo que fazem demonstrações presenciais ou em vídeo e querem ajudar compradores a avaliar se uma solução atende à necessidade.",
   "goal": "De “mostrar o produto funcionando já prova seu valor” para “preciso demonstrar o uso pertinente, explicar as condições e responder às dúvidas que sustentam uma decisão informada”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "demonstração de produto",
   "slug": "demonstracao-produto-ajudar-cliente-decidir",
   "meta": "Uma demonstração de produto ajuda a decidir quando mostra uso, condições e limites. Organize perguntas e explicações além de exibir o equipamento funcionando.",
-  "date": "",
+  "date": "2026-10-27",
   "imageFile": "conteudos/pauta-reposicao-2026-10-26-49b4ac75c232/imagens/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
   "imageName": "vitriolicnaivety_Conceptual_editorial_still_life_photograph_w_3b08a48c-f231-4d57-90c6-3f34bd6512d4_3.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
   "faq": "O que uma demonstração deve esclarecer além do funcionamento?\nEla deve explicar a necessidade atendida, as condições de uso, os preparativos e os limites que permitem avaliar a adequação à situação do comprador.\n\nComo preparar uma demonstração útil?\nComece por uma dúvida real, escolha o que precisa ficar visível e organize a explicação e o próximo passo de acordo com essa pergunta.\n\nComo responder a perguntas que exigem confirmação técnica?\nReconheça o que ainda precisa ser verificado e explique como será feito o retorno, sem transformar uma hipótese em garantia.",
-  "url": "https://www.agenciatweed.com.br/demonstracao-produto-ajudar-cliente-decidir/"
+  "url": "https://www.agenciatweed.com.br/demonstracao-produto-ajudar-cliente-decidir/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/demonstracao-produto-ajudar-cliente-decidir/",
+    "publishedAt": "2026-10-27T10:14:37.703671+00:00",
+    "job": "f684ee53-fa29-45b9-a279-640badccd5e0",
+    "files": [
+      "assets/artigos-editoriais/c9918a7556d6caf3bcd561c24cdbb33e21c161acd32ee228366bd1223212dffb.png",
+      "demonstracao-produto-ajudar-cliente-decidir/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

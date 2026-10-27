@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "demonstracao-produto-ajudar-cliente-decidir",
+  "contentSha256": "060401c33a55caba4959b13a8a6568d622549333d298fd6118622f32534ea8fc",
+  "modifiedAt": "2026-10-27",
+  "links": [
+    {
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "avaliar a adequação",
+      "context": "Uma demonstração pode tentar apresentar tantas funções que termina sem esclarecer a principal. Antes de gravar ou receber um interessado, identifique o que ele precisa observar para avaliar a adequação.",
+      "reason": "A comparação de propostas aprofunda os critérios para avaliar a adequação antes da compra.",
+      "from": "demonstracao-produto-ajudar-cliente-decidir"
+    }
+  ]
+}
