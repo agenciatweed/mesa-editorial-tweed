@@ -4151,6 +4151,44 @@
       "createdAt": "2026-10-27T11:19:34.213Z",
       "startedAt": "2026-10-27T15:12:48.432Z",
       "completedAt": "2026-10-27T15:12:48.743Z"
+    },
+    {
+      "id": "9451f6bd-7b7e-4989-9c6f-f407903ac94b",
+      "itemId": "pauta-reposicao-2026-10-27-721f33d03844",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "7187a0186085a6997329fcad87157057cb2ef16662d9be096a90430a67c26d81",
+      "snapshot": "fab8fee71f7f0dff2e4a725a13ab76d9256af15f6c9e13b12f5a1e09b4578078",
+      "input": {
+        "id": "pauta-reposicao-2026-10-27-721f33d03844",
+        "title": "O humor da sua marca aproxima o cliente ou faz dele a piada?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho verificado: entrevista de Lilly Singh publicada no blog oficial do YouTube em 15/10/2026. Ao explicar a evolução de sua comédia, ela destaca humor observacional e situações em que o público se reconhece, sem fazer de pessoas vulneráveis o alvo. Tratar como perspectiva declarada de uma criadora, sem extrapolar sucesso, métricas ou efeitos psicológicos; não reproduzir relatos pessoais de saúde presentes na entrevista. Janela ampliada a até 30 dias para encontrar assunto distinto das pautas recentes. Tese: uma marca pode usar humor para reconhecer uma situação compartilhada, mas precisa avaliar quem fica no papel de alvo e se a graça contradiz a relação que deseja construir. Aplicar a PMEs com exemplo hipotético de conteúdo sobre dúvidas recorrentes de compradores: deslocar a piada da suposta incapacidade do cliente para uma situação reconhecível, sem expor conversas reais. Conferir entendimento sem contexto, relação de poder, coerência com atendimento e pertinência ao público antes de publicar. Não proibir humor, prometer engajamento ou apresentar uma fórmula universal. Diferenciar de personalidade de marca nas escolhas pequenas: foco específico no alvo e no enquadramento do humor, não em tom de voz genérico. Diferenciar de comentários e produto: foco na decisão criativa anterior à postagem.",
+        "audience": "Donos de PMEs e equipes de conteúdo que usam memes, situações de atendimento e humor nas redes sociais e querem preservar proximidade e respeito.",
+        "goal": "De “se a equipe achou engraçado, a marca pode postar” para “preciso entender quem vira o alvo, o que o público reconhece e como a piada se relaciona com o cuidado que prometemos”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-27",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "YouTube Official Blog, Why Lilly Singh is returning to sketch comedy on YouTube",
+              "url": "https://blog.youtube/creator-and-artist-stories/lilly-singh-superwoman-youtube-return/",
+              "publishedAt": "2026-10-15"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-27T19:53:40.660Z",
+      "startedAt": "2026-10-27T20:11:58.593Z",
+      "completedAt": "2026-10-27T20:13:06.669Z"
     }
   ]
 }

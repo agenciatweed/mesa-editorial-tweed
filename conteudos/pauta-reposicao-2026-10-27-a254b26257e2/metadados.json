@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-10-27-a254b26257e2",
+  "title": "Sua empresa adotou IA. A equipe sabe usar sem depender de uma pessoa?",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho verificado: em 14/10/2026, Meta publicou resultados de pesquisa YouGov encomendada pela empresa com pequenos negócios em nove mercados da Ásia-Pacífico, destacando demanda por orientação e treinamento apesar da adoção de IA. Não tratar relatos de produtividade como efeito causal comprovado nem extrapolar percentuais para PMEs brasileiras; a nota metodológica diz que a amostra não é nacionalmente representativa. Preferir apenas a constatação contextual, sem repetir números promocionais, cases ou recomendar ferramentas da patrocinadora. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo recente. Tese: contratar uma ferramenta e ter alguém que a domina não significa que a empresa desenvolveu uma prática compartilhada; a continuidade depende de orientação por tarefa, exemplos verificáveis, limites e espaço para aprender. Exemplo hipotético de PME cuja preparação de materiais depende de um único colaborador: organizar um exercício com informações fictícias, mostrar como conferir o resultado, registrar um procedimento breve e garantir que outra pessoa consiga repetir a tarefa com revisão apropriada. Não inserir dados privados em ferramentas nem prometer autonomia total, retorno ou substituição de profissionais. Distinguir de IA e manual de marca: foco na transferência de conhecimento entre pessoas, não no briefing visual. Distinguir de aprovação de campanha: foco na aprendizagem e continuidade do trabalho, não no gargalo de decisões. Distinguir de humanização de IA: foco em capacitação, não na aparência do texto.",
+  "audience": "Donos de PMEs e responsáveis por equipes de marketing que adotaram ferramentas de IA, mas concentram o conhecimento de uso em uma pessoa e precisam preparar uma rotina compartilhada.",
+  "goal": "De “a assinatura está contratada e alguém sabe usar, então a adoção está feita” para “preciso tornar o conhecimento praticável por outras pessoas, com critérios de conferência e responsabilidades claras”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-27",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Meta, More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+        "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+        "publishedAt": "2026-10-14"
+      }
+    ]
+  }
+}
