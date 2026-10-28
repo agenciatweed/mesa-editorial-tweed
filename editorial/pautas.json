@@ -4,6 +4,33 @@
   "exportedAt": "2026-10-27T19:53:40.629Z",
   "items": [
     {
+      "id": "pauta-diaria-2026-10-28",
+      "title": "Sua embalagem acompanha o jeito como o produto é usado?",
+      "edition": 2,
+      "expert": "Lorenzo",
+      "angle": "Gancho verificado: em publicação de 20/10/2026, o Pentawards apresentou os vencedores de 2026, anunciados em cerimônia de 16/10. Entre eles, Heinz Dipper integra um compartimento para molho à embalagem de batatas, segundo a descrição do organizador. Usar somente essa solução estrutural como exemplo descrito, sem repetir alegações de aumento comercial, superioridade universal, validação técnica independente ou disponibilidade no Brasil. Pesquisa ampliada a até 30 dias, pois a fonte pertinente foi publicada há oito dias. Tese: o design da embalagem deve considerar a sequência real de uso, não apenas a aparência na prateleira ou na foto; abrir, apoiar, segurar e acessar o produto fazem parte da experiência. Aplicar a PMEs de alimentação ou produtos físicos com exemplo hipotético de consumidor que precisa equilibrar embalagem, produto e acessório enquanto usa: observar o gesto, identificar um esforço evitável e testar uma alternativa com protótipo seguro e condições plausíveis. Não recomendar materiais, aquecimento ou contato alimentar sem validação técnica apropriada; não fazer alegações ambientais nem dar parecer regulatório. Distinguir de embalagem e pós-venda: foco específico na ergonomia e na estrutura durante o consumo, não no encantamento da entrega. Distinguir de experiência sensorial: foco no gesto e na função, não em acrescentar estímulos. Distinguir de redesign digital: interação física com a embalagem, sem repetir navegação ou mudança de versões.",
+      "audience": "Donos de PMEs de alimentação e produtos físicos, responsáveis por marca e desenvolvimento de embalagem que precisam conciliar apresentação, operação e facilidade de uso.",
+      "goal": "De “a embalagem está bonita e protege o produto, então o projeto está resolvido” para “preciso observar o que a pessoa faz com ela durante o uso e verificar onde a estrutura ajuda ou atrapalha”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-28",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Pentawards, Meet the 2026 Pentawards winners, seção Heinz Dipper",
+            "url": "https://pentawards.com/live/en/node/newsarticle-meet-the-2026-pentawards-winners?type=NewsArticle",
+            "publishedAt": "2026-10-20"
+          }
+        ]
+      }
+    },
+    {
       "id": "pauta-reposicao-2026-10-27-a254b26257e2",
       "title": "Sua empresa adotou IA. A equipe sabe usar sem depender de uma pessoa?",
       "edition": 0,
