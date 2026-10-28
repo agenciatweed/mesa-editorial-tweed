@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em comunicado de 14/10/2026 sobre compras nos Estados Unidos, TikTok Shop destacou a possibilidade de devolver compras elegíveis em pontos Happy Returns, sem caixa ou etiqueta. Usar como exemplo anunciado de organização do encaminhamento, sem transferir condições americanas para o Brasil, recomendar a ferramenta ou prometer fidelização. Janela ampliada a até 30 dias para encontrar tema distinto do acervo. Tese: a experiência de marca continua quando o cliente precisa corrigir uma compra; caminhos confusos, repetição de informações e responsabilidade indefinida podem contradizer a promessa de cuidado, mesmo quando a empresa pretende resolver. Aplicar a PMEs com exemplo hipotético de cliente buscando orientação para uma troca: identificar canal de entrada, informações necessárias, responsável pelo retorno e atualização sobre o andamento. Não estabelecer prazos ou direitos legais nem redigir política jurídica; condições reais da empresa devem ser confirmadas e regras aplicáveis precisam de revisão apropriada. Distinguir de pós-venda genérico: foco na clareza do percurso de um problema, não em encantamento ou recompra. Distinguir de informações atualizadas: foco no encaminhamento e na continuidade da solicitação. Distinguir de valor contratado: situação de correção de uma compra, não ativação de benefício.",
   "audience": "Donos de PMEs de varejo e responsáveis por atendimento e pós-venda que recebem pedidos de troca, devolução ou correção e precisam organizar orientações compreensíveis.",
   "goal": "De “temos uma política, então o cliente consegue resolver” para “preciso tornar claro como começar, quem acompanha e o que será informado durante o encaminhamento”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "atendimento para troca",
   "slug": "atendimento-troca-clareza-encaminhamento",
   "meta": "O atendimento para troca precisa mostrar onde começar, quem acompanha e como receber atualizações. Organize um percurso claro sem perder o histórico do pedido.",
-  "date": "",
+  "date": "2026-10-28",
   "faq": "Como tornar o início de um pedido de troca compreensível?\nIndique um canal de entrada reconhecível e explique quais informações são necessárias para compreender e encaminhar a solicitação.\n\nComo evitar que o cliente repita toda a conversa?\nPreserve o histórico e defina quem acompanha a continuidade, inclusive quando outra área precisa analisar o caso.\n\nO que informar durante o encaminhamento?\nExplique o estágio real da solicitação e o próximo movimento possível, sem apresentar recebimento como aprovação nem prometer um resultado antes da análise.",
-  "url": "https://www.agenciatweed.com.br/atendimento-troca-clareza-encaminhamento/"
+  "url": "https://www.agenciatweed.com.br/atendimento-troca-clareza-encaminhamento/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-26-55d903da4bfa/imagens/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_0f585286-b611-4013-aefc-38e784428192_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/atendimento-troca-clareza-encaminhamento/",
+    "publishedAt": "2026-10-28T11:12:49.101840+00:00",
+    "job": "cb13e3f6-9ebf-42ca-943c-ce18e4eb56de",
+    "files": [
+      "assets/artigos-editoriais/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+      "atendimento-troca-clareza-encaminhamento/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

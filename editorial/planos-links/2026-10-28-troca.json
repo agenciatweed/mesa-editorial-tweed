@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "atendimento-troca-clareza-encaminhamento",
+  "contentSha256": "1205c95ae8979105baa74f07fa2d49fb11a23ff418d5d5aa8d2fcb259b15f419",
+  "modifiedAt": "2026-10-28",
+  "links": [
+    {
+      "from": "atendimento-troca-clareza-encaminhamento",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "definir responsabilidades",
+      "context": "Uma ferramenta compartilhada pode ajudar, mas não substitui definir responsabilidades. Um registro acessível a várias pessoas ainda pode ficar sem acompanhamento quando todas presumem que outra pessoa dará retorno.",
+      "reason": "Aprofunda responsabilidades operacionais que sustentam o cuidado prometido no atendimento."
+    }
+  ]
+}

@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 20/10/2026, Spotify publicou balanço de ações de transparência e proteção da identidade artística, incluindo AI Credits e identificação de personas geradas por IA. Tratar como medidas e avaliação declaradas pela plataforma, sem repetir números promocionais ou afirmar que detecção de IA é infalível; o próprio comunicado reconhece limites. Tese: a criação visual pode ilustrar uma ideia, mas não deve ser confundida com evidência de que a empresa realizou determinado trabalho ou obteve certo resultado. Aplicar a PMEs que usam imagens sintéticas, simulações e montagens em campanhas, propostas ou portfólios. Exemplo hipotético de uma empresa de interiores que apresenta uma visualização de projeto: distinguir estudo, simulação e registro de obra realizada, deixando essa natureza clara perto da imagem. Não inventar cases, depoimentos, equipe, instalações ou resultados; preservar a autoria e confirmar autorização antes de utilizar registros identificáveis de clientes. Não converter o artigo em parecer jurídico ou impor rotulagem legal universal. Diferenciar de IA e manual de marca: foco na função probatória da imagem e no contexto que evita interpretações indevidas, não em paleta ou briefing. Diferenciar de demonstração: foco em distinguir representação criada e registro real, não em explicar as condições de um equipamento em uso.",
   "audience": "Donos de PMEs e responsáveis por criação, conteúdo e comercial que usam imagens geradas por IA ou simulações para comunicar serviços e apresentar portfólio.",
   "goal": "De “se a imagem parece real e comunica bem, ela pode mostrar nossa entrega” para “preciso distinguir ilustração, proposta e registro real para sustentar a confiança no que a empresa apresenta”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "imagens geradas por IA",
   "slug": "imagem-campanha-prova-entrega",
   "meta": "Imagens geradas por IA podem ilustrar ideias sem comprovar entregas. Diferencie visualizações, propostas e registros reais para dar contexto ao portfólio.",
-  "date": "",
+  "date": "2026-10-28",
   "faq": "Uma imagem realista comprova que um projeto foi realizado?\nNão. O realismo visual não demonstra a existência do projeto nem a participação da empresa na execução.\n\nComo apresentar uma visualização de proposta?\nExplique sua natureza perto da imagem e preserve esse contexto quando ela for reutilizada em outro material.\n\nO que conferir antes de divulgar registros de clientes?\nConfirme autoria, permissões e o escopo real da participação da empresa, sem inventar localização, resultado ou entrega.",
-  "url": "https://www.agenciatweed.com.br/imagem-campanha-prova-entrega/"
+  "url": "https://www.agenciatweed.com.br/imagem-campanha-prova-entrega/",
+  "imageFile": "conteudos/pauta-diaria-2026-10-27/imagens/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+  "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_a__c040c68d-2ea1-41e0-a024-f004b95dd885_2.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/imagem-campanha-prova-entrega/",
+    "publishedAt": "2026-10-28T11:15:31.790097+00:00",
+    "job": "2a5b3447-3948-4824-9fc5-67688782acf0",
+    "files": [
+      "assets/artigos-editoriais/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+      "imagem-campanha-prova-entrega/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

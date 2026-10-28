@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "imagem-campanha-prova-entrega",
+  "contentSha256": "c241485a1ef5b8c85957ed2670b3949a838ba0e5a739df42c9e5a35004845575",
+  "modifiedAt": "2026-10-28",
+  "links": [
+    {
+      "from": "imagem-campanha-prova-entrega",
+      "to": "ia-materiais-marca-alem-das-cores",
+      "anchor": "alinhada à identidade",
+      "context": "Na aprovação, vá além de perguntar se a imagem está bonita ou alinhada à identidade. Pergunte o que alguém de fora poderia concluir ao ver o conjunto, sem ouvir a explicação da equipe.",
+      "reason": "Aprofunda os critérios de marca que complementam a verificação da natureza da imagem."
+    }
+  ]
+}

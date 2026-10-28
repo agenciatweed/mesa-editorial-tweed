@@ -4189,6 +4189,269 @@
       "createdAt": "2026-10-27T19:53:40.660Z",
       "startedAt": "2026-10-27T20:11:58.593Z",
       "completedAt": "2026-10-27T20:13:06.669Z"
+    },
+    {
+      "id": "946314e7-b948-46be-a38d-16cfc0b044fa",
+      "itemId": "pauta-reposicao-2026-10-27-721f33d03844",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "3205d3c2c4b596ed22b3e6c9bd8a64b1d72d87666e399ad70e897537eb4341fa",
+      "snapshot": "bd13a57aba76894454dfd0cecac8d12e4bb6acf421dfed22c430dea1ad3171ec",
+      "input": {
+        "id": "pauta-reposicao-2026-10-27-721f33d03844",
+        "title": "O humor da sua marca aproxima o cliente ou faz dele a piada?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho verificado: entrevista de Lilly Singh publicada no blog oficial do YouTube em 15/10/2026. Ao explicar a evolução de sua comédia, ela destaca humor observacional e situações em que o público se reconhece, sem fazer de pessoas vulneráveis o alvo. Tratar como perspectiva declarada de uma criadora, sem extrapolar sucesso, métricas ou efeitos psicológicos; não reproduzir relatos pessoais de saúde presentes na entrevista. Janela ampliada a até 30 dias para encontrar assunto distinto das pautas recentes. Tese: uma marca pode usar humor para reconhecer uma situação compartilhada, mas precisa avaliar quem fica no papel de alvo e se a graça contradiz a relação que deseja construir. Aplicar a PMEs com exemplo hipotético de conteúdo sobre dúvidas recorrentes de compradores: deslocar a piada da suposta incapacidade do cliente para uma situação reconhecível, sem expor conversas reais. Conferir entendimento sem contexto, relação de poder, coerência com atendimento e pertinência ao público antes de publicar. Não proibir humor, prometer engajamento ou apresentar uma fórmula universal. Diferenciar de personalidade de marca nas escolhas pequenas: foco específico no alvo e no enquadramento do humor, não em tom de voz genérico. Diferenciar de comentários e produto: foco na decisão criativa anterior à postagem.",
+        "audience": "Donos de PMEs e equipes de conteúdo que usam memes, situações de atendimento e humor nas redes sociais e querem preservar proximidade e respeito.",
+        "goal": "De “se a equipe achou engraçado, a marca pode postar” para “preciso entender quem vira o alvo, o que o público reconhece e como a piada se relaciona com o cuidado que prometemos”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-27",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "YouTube Official Blog, Why Lilly Singh is returning to sketch comedy on YouTube",
+              "url": "https://blog.youtube/creator-and-artist-stories/lilly-singh-superwoman-youtube-return/",
+              "publishedAt": "2026-10-15"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "9451f6bd-7b7e-4989-9c6f-f407903ac94b",
+          "completedAt": "2026-10-27T20:13:06.624Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A equipe recebe mais uma pergunta cuja resposta está no site. Alguém sugere transformar a situação em um vídeo engraçado. O roteiro faz graça com um comprador que não entende nada, insiste em perguntar e atrapalha a rotina. Internamente, todo mundo reconhece o incômodo. Quem compra talvez reconheça outra coisa: a dúvida que tem vergonha de fazer.\n\nO humor de marca começa a ser avaliado antes da primeira risada. Quem está no papel de alvo? O que torna aquela situação engraçada? Que lugar a publicação reserva ao cliente?\n\nEm entrevista publicada no blog oficial do YouTube em 15 de outubro de 2026, Lilly Singh descreveu sua comédia como observacional, ligada a situações em que as pessoas se reconhecem. Ela também explicou que não busca fazer graça à custa de quem está em posição vulnerável. É a perspectiva de uma criadora sobre seu próprio trabalho, não uma fórmula comprovada para marcas.\n\nPara uma pequena empresa, essa distinção abre uma pergunta prática: a piada convida o público a reconhecer uma situação ou exige rir de alguém que precisa da empresa?\n\n## Uma situação compartilhada oferece outro ponto de partida\n\nImagine uma loja de móveis que recebe dúvidas sobre medidas. É um exemplo hipotético. A equipe sabe como conferir o espaço, mas parte dos compradores não está acostumada a interpretar dimensões ou prever a passagem de um móvel pela porta.\n\nUm roteiro poderia representar esse cliente como incapaz de entender uma informação óbvia. Outro poderia mostrar a situação reconhecível de imaginar que um sofá cabe porque o canto da sala parece grande, até pegar a fita métrica.\n\nO segundo caminho não elimina o humor. Muda o enquadramento. A graça pode estar na diferença entre nossa expectativa e uma condição concreta, sem transformar pedir ajuda em motivo de vergonha.\n\nA marca ainda consegue explicar uma necessidade real de compra. E não precisa reproduzir uma conversa recebida para encontrar a cena. Uma situação inventada, bem observada, pode preservar o reconhecimento sem expor ninguém.\n\n## Pergunte quem pode rir com tranquilidade\n\nUma piada pode parecer inofensiva para quem domina o assunto e constrangedora para quem está aprendendo. A equipe conhece nomes de materiais, procedimentos e condições de contratação. O público não necessariamente compartilha esse repertório.\n\nNo exemplo da loja, o comprador pode não saber qual medida precisa conferir. Se a comunicação trata essa dúvida como prova de desatenção ou falta de inteligência, cria uma distância justamente onde o atendimento deveria orientar.\n\nAntes de aprovar, imagine alguém fazendo a pergunta pela primeira vez. Essa pessoa conseguiria participar da graça ou precisaria aceitar o papel de quem está sendo ridicularizado?\n\nNão é possível prever a interpretação de todas as pessoas. Ainda assim, é possível identificar o mecanismo central do roteiro. Se ele só funciona porque o cliente aparece como inferior, vale procurar outra construção.\n\n## O perfil da empresa muda o peso da brincadeira\n\nUma reclamação entre colegas e uma publicação no perfil comercial não ocupam o mesmo lugar. Quando a marca fala, a peça passa a representar uma postura da empresa diante de quem compra, pergunta ou depende de orientação.\n\nA pessoa que aparece como personagem pode ser fictícia, mas o comportamento retratado continua reconhecível. Trocar um nome ou retirar uma foto não resolve uma cena baseada em uma conversa identificável por quem participou.\n\nEvite usar o atendimento como fonte de exposição. A equipe pode observar dúvidas recorrentes para melhorar a informação, sem transformar registros de clientes em entretenimento.\n\nA mesma atenção vale para funcionários e fornecedores. Uma participação em vídeo precisa ser combinada, não presumida porque a pessoa trabalha ali. O desconforto de alguém não deve virar matéria-prima apenas porque produz uma reação espontânea diante da câmera.\n\n## Confira se o humor depende de uma explicação que ficará de fora\n\nNa reunião, alguém explica que o personagem é exagerado e que a equipe atende todo mundo com cuidado. Na publicação, talvez reste apenas uma cena curta e uma legenda.\n\nRevise o material como ele será encontrado. O início situa a brincadeira? O corte conserva a intenção? A legenda acrescenta contexto ou tenta corrigir uma interpretação que o próprio vídeo incentiva?\n\nTambém considere a circulação separada. Uma imagem pode ser compartilhada sem o texto original. Um trecho pode aparecer para quem nunca viu o perfil da empresa. Não é necessário transformar toda peça em uma longa explicação, mas a construção precisa se sustentar com o contexto disponível.\n\nSe a defesa principal do roteiro for “quem conhece a gente sabe”, confira se a publicação realmente foi pensada apenas para esse grupo. Um perfil comercial também recebe quem está formando uma primeira impressão.\n\n## A graça precisa conviver com o atendimento real\n\nUma marca pode brincar com os próprios processos, com expectativas do setor ou com pequenos desencontros cotidianos. Isso não autoriza usar a autocrítica para normalizar um problema que deveria corrigir.\n\nUm vídeo sobre dificuldade de contato, por exemplo, pode ser espirituoso. Se a empresa deixa pedidos sem resposta, a piada pode lembrar ao público uma experiência ainda não resolvida.\n\nAntes de publicar, pergunte se o assunto exige uma ação da operação. No exemplo da loja, dúvidas frequentes sobre medidas talvez indiquem que a página precisa de uma explicação melhor. O conteúdo bem-humorado pode acompanhar essa melhoria, sem substituir a orientação necessária.\n\nO cuidado não impede uma voz leve. Ele evita que a comunicação peça ao público para rir de uma falha pela qual a empresa continua responsável.\n\n## Faça uma revisão além de “ficou engraçado?”\n\nPeça a alguém que não participou do roteiro para descrever o que entendeu. Quem parece ser o alvo? Qual situação reconheceu? O que a peça sugere sobre a forma como a empresa trata pessoas com aquela dúvida?\n\nEscute a resposta antes de explicar a intenção. Se for preciso defender cada detalhe para chegar à leitura desejada, existe algo a revisar. Uma interpretação isolada não representa todo o público, mas pode revelar um problema concreto de enquadramento.\n\nDecida se vale mudar o personagem, deslocar a graça para a situação, acrescentar contexto ou abandonar aquela ideia. Nem toda tendência precisa virar conteúdo da marca. Nem toda peça precisa ensinar alguma coisa, mas ela precisa ser compatível com a relação que a empresa deseja sustentar.\n\nNo próximo roteiro, procure o ponto em que uma situação familiar pode gerar reconhecimento sem humilhar quem a vive. O humor pode fazer parte da proximidade. Para isso, a pessoa precisa encontrar espaço para rir junto, inclusive quando ainda não sabe a resposta que a equipe considera óbvia.",
+        "sources": "[YouTube Official Blog, entrevista com Lilly Singh, 15/10/2026](https://blog.youtube/creator-and-artist-stories/lilly-singh-superwoman-youtube-return/)\n\nA entrevista apresenta a perspectiva da criadora sobre seu humor. A loja e as situações descritas são hipotéticas; as recomendações editoriais não representam uma fórmula comprovada de engajamento.",
+        "prompt": "Conceptual editorial photograph with no people, two simple unpainted theatrical comedy masks made of matte ivory ceramic resting at equal height on a softly draped warm sand fabric, both gently angled toward the same small curved mirror so their smiling profiles appear together in its reflection, a calm visual relationship rather than one mask towering over another, tactile handmade imperfections and delicate folds, close asymmetrical composition with generous negative space, soft neutral side key light and a restrained teal ambient accent inspired by #08ffb1 grazing the mirror edge from behind, realistic studio photography and controlled contrast, no sinister expression, no cubes, prisms, maze, beams, readable text or logos --ar 3:2",
+        "imageAlt": "Duas máscaras teatrais de cerâmica clara sobre tecido bege aparecem juntas no reflexo de um pequeno espelho com acento teal discreto."
+      },
+      "createdAt": "2026-10-28T07:06:45.982Z",
+      "startedAt": "2026-10-28T11:11:57.249Z",
+      "completedAt": "2026-10-28T11:11:57.669Z"
+    },
+    {
+      "id": "340a1c7d-4b84-448b-8ebd-43c35be48957",
+      "itemId": "pauta-diaria-2026-10-28",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "605022214b9a883cf7e216bf066e1dcb6a7708052377bafef1aea75ae5fa8f3e",
+      "snapshot": "2604936e2d34b63810ebaaaee46a3dc587a6f33ef6bec51d12982cc1b79c1cc7",
+      "input": {
+        "id": "pauta-diaria-2026-10-28",
+        "title": "Sua embalagem acompanha o jeito como o produto é usado?",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em publicação de 20/10/2026, o Pentawards apresentou os vencedores de 2026, anunciados em cerimônia de 16/10. Entre eles, Heinz Dipper integra um compartimento para molho à embalagem de batatas, segundo a descrição do organizador. Usar somente essa solução estrutural como exemplo descrito, sem repetir alegações de aumento comercial, superioridade universal, validação técnica independente ou disponibilidade no Brasil. Pesquisa ampliada a até 30 dias, pois a fonte pertinente foi publicada há oito dias. Tese: o design da embalagem deve considerar a sequência real de uso, não apenas a aparência na prateleira ou na foto; abrir, apoiar, segurar e acessar o produto fazem parte da experiência. Aplicar a PMEs de alimentação ou produtos físicos com exemplo hipotético de consumidor que precisa equilibrar embalagem, produto e acessório enquanto usa: observar o gesto, identificar um esforço evitável e testar uma alternativa com protótipo seguro e condições plausíveis. Não recomendar materiais, aquecimento ou contato alimentar sem validação técnica apropriada; não fazer alegações ambientais nem dar parecer regulatório. Distinguir de embalagem e pós-venda: foco específico na ergonomia e na estrutura durante o consumo, não no encantamento da entrega. Distinguir de experiência sensorial: foco no gesto e na função, não em acrescentar estímulos. Distinguir de redesign digital: interação física com a embalagem, sem repetir navegação ou mudança de versões.",
+        "audience": "Donos de PMEs de alimentação e produtos físicos, responsáveis por marca e desenvolvimento de embalagem que precisam conciliar apresentação, operação e facilidade de uso.",
+        "goal": "De “a embalagem está bonita e protege o produto, então o projeto está resolvido” para “preciso observar o que a pessoa faz com ela durante o uso e verificar onde a estrutura ajuda ou atrapalha”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Pentawards, Meet the 2026 Pentawards winners, seção Heinz Dipper",
+              "url": "https://pentawards.com/live/en/node/newsarticle-meet-the-2026-pentawards-winners?type=NewsArticle",
+              "publishedAt": "2026-10-20"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-28T07:06:50.073Z",
+      "startedAt": "2026-10-28T11:11:57.337Z",
+      "completedAt": "2026-10-28T11:14:38.628Z"
+    },
+    {
+      "id": "62e9ede9-468e-48fb-9b91-155d20af6310",
+      "itemId": "pauta-reposicao-2026-10-27-a254b26257e2",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "3bf423bed11d3625daefbbc898a42f9aee2d577609879069a003fd694d27e89a",
+      "snapshot": "4f261b64b38f839b2801562fb2585d2df7c36548767feaf00a97a9b2287f033a",
+      "input": {
+        "id": "pauta-reposicao-2026-10-27-a254b26257e2",
+        "title": "Sua empresa adotou IA. A equipe sabe usar sem depender de uma pessoa?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 14/10/2026, Meta publicou resultados de pesquisa YouGov encomendada pela empresa com pequenos negócios em nove mercados da Ásia-Pacífico, destacando demanda por orientação e treinamento apesar da adoção de IA. Não tratar relatos de produtividade como efeito causal comprovado nem extrapolar percentuais para PMEs brasileiras; a nota metodológica diz que a amostra não é nacionalmente representativa. Preferir apenas a constatação contextual, sem repetir números promocionais, cases ou recomendar ferramentas da patrocinadora. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo recente. Tese: contratar uma ferramenta e ter alguém que a domina não significa que a empresa desenvolveu uma prática compartilhada; a continuidade depende de orientação por tarefa, exemplos verificáveis, limites e espaço para aprender. Exemplo hipotético de PME cuja preparação de materiais depende de um único colaborador: organizar um exercício com informações fictícias, mostrar como conferir o resultado, registrar um procedimento breve e garantir que outra pessoa consiga repetir a tarefa com revisão apropriada. Não inserir dados privados em ferramentas nem prometer autonomia total, retorno ou substituição de profissionais. Distinguir de IA e manual de marca: foco na transferência de conhecimento entre pessoas, não no briefing visual. Distinguir de aprovação de campanha: foco na aprendizagem e continuidade do trabalho, não no gargalo de decisões. Distinguir de humanização de IA: foco em capacitação, não na aparência do texto.",
+        "audience": "Donos de PMEs e responsáveis por equipes de marketing que adotaram ferramentas de IA, mas concentram o conhecimento de uso em uma pessoa e precisam preparar uma rotina compartilhada.",
+        "goal": "De “a assinatura está contratada e alguém sabe usar, então a adoção está feita” para “preciso tornar o conhecimento praticável por outras pessoas, com critérios de conferência e responsabilidades claras”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-27",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+              "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+              "publishedAt": "2026-10-14"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-28T07:06:53.628Z",
+      "startedAt": "2026-10-28T11:11:57.425Z",
+      "completedAt": "2026-10-28T11:14:38.766Z"
+    },
+    {
+      "id": "cb13e3f6-9ebf-42ca-943c-ce18e4eb56de",
+      "itemId": "pauta-reposicao-2026-10-26-55d903da4bfa",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "45662ad44f10c99ec0ff69d95e2b2279d66e4b3b30075416923d67725d829208",
+      "snapshot": "45662ad44f10c99ec0ff69d95e2b2279d66e4b3b30075416923d67725d829208",
+      "input": {
+        "id": "pauta-reposicao-2026-10-26-55d903da4bfa",
+        "title": "Quando a compra não dá certo, o cliente sabe por onde começar?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em comunicado de 14/10/2026 sobre compras nos Estados Unidos, TikTok Shop destacou a possibilidade de devolver compras elegíveis em pontos Happy Returns, sem caixa ou etiqueta. Usar como exemplo anunciado de organização do encaminhamento, sem transferir condições americanas para o Brasil, recomendar a ferramenta ou prometer fidelização. Janela ampliada a até 30 dias para encontrar tema distinto do acervo. Tese: a experiência de marca continua quando o cliente precisa corrigir uma compra; caminhos confusos, repetição de informações e responsabilidade indefinida podem contradizer a promessa de cuidado, mesmo quando a empresa pretende resolver. Aplicar a PMEs com exemplo hipotético de cliente buscando orientação para uma troca: identificar canal de entrada, informações necessárias, responsável pelo retorno e atualização sobre o andamento. Não estabelecer prazos ou direitos legais nem redigir política jurídica; condições reais da empresa devem ser confirmadas e regras aplicáveis precisam de revisão apropriada. Distinguir de pós-venda genérico: foco na clareza do percurso de um problema, não em encantamento ou recompra. Distinguir de informações atualizadas: foco no encaminhamento e na continuidade da solicitação. Distinguir de valor contratado: situação de correção de uma compra, não ativação de benefício.",
+        "audience": "Donos de PMEs de varejo e responsáveis por atendimento e pós-venda que recebem pedidos de troca, devolução ou correção e precisam organizar orientações compreensíveis.",
+        "goal": "De “temos uma política, então o cliente consegue resolver” para “preciso tornar claro como começar, quem acompanha e o que será informado durante o encaminhamento”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-26",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "TikTok, What’s shaping the holiday season on TikTok Shop, seção What Shoppers Can Expect",
+              "url": "https://newsroom.tiktok.com/whats-shaping-the-holiday-season-on-tiktok-shop?lang=en",
+              "publishedAt": "2026-10-14"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "61a0817c-cfb5-4972-bdc0-0672824b484c",
+          "completedAt": "2026-10-27T15:12:48.572Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "61fc58975ba55d143e5a1cc4aaf6f22047919f8447233829294977ba5d9074ae"
+        },
+        "body": "O pedido chegou, mas a compra não deu certo. O cliente procura como pedir uma troca, encontra uma orientação genérica e envia uma mensagem. Recebe outro número. No segundo canal, precisa contar tudo novamente. A empresa talvez esteja disposta a resolver; o caminho transmite outra impressão.\n\nOrganizar o atendimento para troca começa antes de decidir o desfecho de cada solicitação. A pessoa precisa saber onde iniciar, quais informações apresentar e como acompanhar o encaminhamento. Ter uma política escrita não garante que esse percurso esteja compreensível.\n\nEm comunicado de 14 de outubro de 2026 sobre compras nos Estados Unidos, o TikTok Shop destacou devoluções de compras elegíveis em pontos Happy Returns, sem caixa ou etiqueta. São condições anunciadas para aquele contexto, que não devem ser transferidas para o Brasil. O exemplo chama atenção para uma questão operacional: tornar reconhecível como começar.\n\nPara uma PME, essa organização pode exigir menos novidade e mais continuidade entre os canais que já existem.\n\n## Encontre a entrada pelo olhar de quem tem um problema\n\nImagine uma pequena loja de artigos para casa. É um exemplo hipotético. Uma cliente recebeu um produto e quer consultar a possibilidade de troca. Ela não conhece a divisão interna da empresa, nem sabe se deve procurar quem vendeu, quem entregou ou outra equipe.\n\nSe cada área indica um contato diferente, a primeira tarefa da cliente passa a ser descobrir como a loja funciona. Essa investigação não deveria ser condição para receber uma orientação inicial.\n\nRevise onde as pessoas procuram ajuda: página do pedido, site, mensagem de confirmação ou perfil da empresa. O ponto de entrada precisa indicar sua finalidade com palavras reconhecíveis. Um nome criativo de departamento pode fazer sentido internamente e continuar obscuro para quem precisa resolver uma compra.\n\nNão é necessário abrir novos canais para cada assunto. É necessário explicar por onde começar e assegurar que alguém receba o pedido naquele lugar.\n\n## Peça informações que permitam dar continuidade\n\nNo exemplo, a cliente informa o pedido e descreve a situação. A equipe precisa conferir o que será necessário para analisar aquela solicitação, usando um canal apropriado e evitando exposição pública de dados.\n\nUma lista extensa de exigências, apresentada antes de entender o problema, pode dificultar até identificar o encaminhamento correto. Por outro lado, uma orientação vaga pode gerar várias mensagens para obter informações básicas.\n\nOrganize a coleta em função da necessidade real. O que permite localizar a compra? O que ajuda a compreender o ocorrido? Que informação só será necessária em uma etapa posterior? A equipe deve saber justificar o que pede e evitar repetir uma solicitação já atendida.\n\nSe uma imagem for necessária à análise, explique o que precisa aparecer. Pedir apenas “mande uma foto” pode produzir registros que não esclarecem a situação. Confirme também onde esse material será recebido e quem poderá consultá-lo.\n\n## Encaminhar não pode significar perder o histórico\n\nAlguns casos dependem de outra área. Transferir a análise pode ser necessário; transferir para o cliente a responsabilidade de reconstruir toda a conversa é uma escolha de processo.\n\nNa loja hipotética, quem recebe a solicitação pode registrar o resumo do problema, as informações já conferidas e o que falta verificar. O próximo responsável deve conseguir retomar desse ponto, dentro dos acessos apropriados.\n\nA cliente não precisa conhecer todas as trocas internas. Precisa entender quem acompanha a solicitação e por qual canal receberá continuidade. Se o contato mudar, a passagem deve ser explicada e confirmada.\n\nUma ferramenta compartilhada pode ajudar, mas não substitui definir responsabilidades. Um registro acessível a várias pessoas ainda pode ficar sem acompanhamento quando todas presumem que outra pessoa dará retorno.\n\nEscolha quem cuida da continuidade, inclusive quando a decisão depende de alguém diferente. Esse papel não exige prometer a solução antes da análise; exige impedir que o pedido desapareça entre etapas.\n\n## Diga o que está sendo verificado\n\nUma resposta como “estamos vendo” informa pouco. Pode significar que o pedido foi localizado, que falta consultar uma condição ou que a análise ainda não começou. Para o cliente, tudo continua indistinto.\n\nUma atualização útil explica o estágio de maneira compreensível e indica o próximo movimento possível. No exemplo, a equipe pode informar que recebeu os dados e precisa confirmar determinada condição antes de orientar a cliente.\n\nEssa comunicação deve corresponder ao trabalho real. Não anuncie uma análise que ninguém iniciou nem combine um retorno que a operação não consegue sustentar. Se a previsão precisar mudar, atualize o contato em vez de esperar que a pessoa volte a perguntar.\n\nTambém diferencie receber uma solicitação de aprová-la. A confirmação de entrada pode acolher e explicar a continuidade sem antecipar um resultado que ainda depende de avaliação.\n\n## Confira se a orientação cabe na operação\n\nO texto publicado e o procedimento utilizado precisam conversar. Uma página pode indicar atendimento por um canal que a equipe deixou de acompanhar. Uma mensagem automática pode pedir algo que já não é necessário.\n\nPercorra uma solicitação de exemplo, do primeiro contato ao encaminhamento final. Confira se os responsáveis sabem o que recebem, o que registram e a quem recorrem quando precisam verificar uma informação.\n\nRevise as condições reais da empresa antes de divulgá-las. As orientações de comunicação não substituem a avaliação apropriada das regras aplicáveis, nem autorizam inventar restrições, direitos ou prazos. O objetivo aqui é tornar o percurso inteligível, respeitando as condições que efetivamente devem reger cada situação.\n\nQuando houver dúvida sobre uma regra, confirme antes de responder. Segurança na linguagem não transforma uma interpretação improvisada em informação correta.\n\n## Observe onde o percurso se interrompe\n\nDepois de organizar o caminho, acompanhe os pontos em que as pessoas precisam insistir. Elas perguntam repetidamente qual canal utilizar? Reenviam o mesmo material? Procuram o vendedor porque não sabem quem acompanha o caso?\n\nEsses contatos ajudam a localizar falhas específicas. Em vez de concluir que todo cliente não lê, confira se a orientação aparece no lugar necessário e se descreve o próximo passo com clareza.\n\nComece por uma correção concreta: tornar a entrada visível, reduzir uma repetição ou definir o responsável por uma passagem. Depois confira se a equipe consegue manter o combinado.\n\nA experiência de marca continua quando uma compra precisa de correção. Nesse momento, uma promessa de cuidado ganha forma em ações pequenas: reconhecer o pedido, preservar seu histórico e explicar a continuidade. Antes de criar outra mensagem simpática, percorra o caminho que o cliente precisa fazer para conseguir ajuda.",
+        "sources": "[TikTok Shop, comunicado sobre compras nos Estados Unidos, 14/10/2026](https://newsroom.tiktok.com/whats-shaping-the-holiday-season-on-tiktok-shop?lang=en)\n\nAs condições citadas pertencem ao contexto americano anunciado pela plataforma. A loja e a cliente são hipotéticas. O artigo trata de organização e comunicação, sem estabelecer regras ou prazos jurídicos.",
+        "prompt": "Conceptual editorial photograph without people, a single open corrugated shipping carton on a gently curving continuous strip of kraft paper that folds back toward a clearly accessible opening in a warm plaster wall, the paper path remains visibly connected from carton to opening, tactile folded edges and realistic cardboard fibers, sculptural spatial composition photographed low and close with substantial negative space, soft neutral daylight and a restrained teal ambient accent inspired by #08ffb1 reflected inside the opening, controlled shadows, no maze, cubes, prisms, glowing beams, screens, readable text or logos --ar 3:2",
+        "imageAlt": "Caixa de papelão aberta sobre uma faixa contínua de papel kraft que se curva até uma abertura na parede com luz teal discreta.",
+        "keyword": "atendimento para troca",
+        "slug": "atendimento-troca-clareza-encaminhamento",
+        "meta": "O atendimento para troca precisa mostrar onde começar, quem acompanha e como receber atualizações. Organize um percurso claro sem perder o histórico do pedido.",
+        "date": "2026-10-28",
+        "faq": "Como tornar o início de um pedido de troca compreensível?\nIndique um canal de entrada reconhecível e explique quais informações são necessárias para compreender e encaminhar a solicitação.\n\nComo evitar que o cliente repita toda a conversa?\nPreserve o histórico e defina quem acompanha a continuidade, inclusive quando outra área precisa analisar o caso.\n\nO que informar durante o encaminhamento?\nExplique o estágio real da solicitação e o próximo movimento possível, sem apresentar recebimento como aprovação nem prometer um resultado antes da análise.",
+        "url": "https://www.agenciatweed.com.br/atendimento-troca-clareza-encaminhamento/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-26-55d903da4bfa/imagens/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+        "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_0f585286-b611-4013-aefc-38e784428192_0.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8c500e1ec5144437a7c6b768140b7d2853288e113aff38f240589738a6039918.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-28T07:09:17.118Z"
+        }
+      },
+      "createdAt": "2026-10-28T07:09:17.120Z",
+      "completedAt": "2026-10-28T11:12:49.106195+00:00"
+    },
+    {
+      "id": "2a5b3447-3948-4824-9fc5-67688782acf0",
+      "itemId": "pauta-diaria-2026-10-27",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "263f3923dcd9d99c48e6a796478630252112762e08570b662b9d60317dce9306",
+      "snapshot": "263f3923dcd9d99c48e6a796478630252112762e08570b662b9d60317dce9306",
+      "input": {
+        "id": "pauta-diaria-2026-10-27",
+        "title": "Imagem de campanha e prova de entrega não são a mesma coisa",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 20/10/2026, Spotify publicou balanço de ações de transparência e proteção da identidade artística, incluindo AI Credits e identificação de personas geradas por IA. Tratar como medidas e avaliação declaradas pela plataforma, sem repetir números promocionais ou afirmar que detecção de IA é infalível; o próprio comunicado reconhece limites. Tese: a criação visual pode ilustrar uma ideia, mas não deve ser confundida com evidência de que a empresa realizou determinado trabalho ou obteve certo resultado. Aplicar a PMEs que usam imagens sintéticas, simulações e montagens em campanhas, propostas ou portfólios. Exemplo hipotético de uma empresa de interiores que apresenta uma visualização de projeto: distinguir estudo, simulação e registro de obra realizada, deixando essa natureza clara perto da imagem. Não inventar cases, depoimentos, equipe, instalações ou resultados; preservar a autoria e confirmar autorização antes de utilizar registros identificáveis de clientes. Não converter o artigo em parecer jurídico ou impor rotulagem legal universal. Diferenciar de IA e manual de marca: foco na função probatória da imagem e no contexto que evita interpretações indevidas, não em paleta ou briefing. Diferenciar de demonstração: foco em distinguir representação criada e registro real, não em explicar as condições de um equipamento em uso.",
+        "audience": "Donos de PMEs e responsáveis por criação, conteúdo e comercial que usam imagens geradas por IA ou simulações para comunicar serviços e apresentar portfólio.",
+        "goal": "De “se a imagem parece real e comunica bem, ela pode mostrar nossa entrega” para “preciso distinguir ilustração, proposta e registro real para sustentar a confiança no que a empresa apresenta”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-27",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Spotify, One Year In: Putting Human Artistry First on Spotify",
+              "url": "https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/",
+              "publishedAt": "2026-10-20"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "1ad4e617-ddec-46dd-bc73-f78b7d82af42",
+          "completedAt": "2026-10-27T15:12:48.695Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "313688c2ff24de1cc53a90afc2d22273c2cd20d8fbce4ec25d4055677c2c3791"
+        },
+        "body": "Uma imagem mostra um ambiente impecável, com iluminação atraente e acabamento que parece pronto para fotografar. Na página de uma empresa de interiores, ela aparece entre outros projetos. Quem visita pode concluir que aquele espaço foi executado pela equipe. Mas a imagem talvez seja uma visualização de uma ideia ainda não realizada.\n\nImagens geradas por IA e simulações podem ajudar a apresentar possibilidades. O cuidado começa quando a apresentação permite confundir essa representação com um registro de entrega. A aparência realista não comprova que a empresa realizou o trabalho mostrado.\n\nEm publicação de 20 de outubro de 2026, o Spotify apresentou medidas de transparência e proteção da identidade artística, incluindo créditos sobre uso de IA e identificação de personas geradas por essa tecnologia. O próprio comunicado reconhece limitações da detecção. São medidas declaradas pela plataforma no contexto musical.\n\nPara a comunicação de uma PME, a reflexão pertinente é sobre contexto: o que o público consegue compreender a respeito daquilo que está vendo?\n\n## Defina o papel da imagem antes de escolher a mais bonita\n\nUma imagem pode ilustrar um conceito, apresentar uma proposta ou registrar algo realizado. Essas funções admitem linguagens diferentes e sustentam afirmações diferentes.\n\nUma campanha pode usar uma composição inventada para expressar uma ideia. Uma proposta pode mostrar uma visualização do que se pretende desenvolver. Um portfólio de trabalhos executados precisa permitir reconhecer o que foi efetivamente entregue.\n\nA confusão surge quando a mesma imagem circula entre esses lugares sem manter a explicação. Uma visualização corretamente apresentada na proposta pode ser recortada para uma rede social e perder o contexto. Depois, alguém a reutiliza no site como se fosse registro de um projeto concluído.\n\nAntes de selecionar a peça, escreva qual função ela terá naquele material. Essa decisão orienta a legenda, o título da seção e as afirmações que podem acompanhá-la.\n\n## Uma visualização precisa continuar reconhecível como visualização\n\nImagine uma empresa de interiores preparando uma proposta para renovar uma sala comercial. É um exemplo hipotético. A equipe cria uma imagem para estudar disposição, materiais e atmosfera.\n\nEssa imagem ajuda a conversar sobre a intenção do projeto. Ela não demonstra que os materiais foram instalados, que o ambiente funciona daquela maneira ou que a empresa já executou uma solução equivalente.\n\nApresente a natureza do material perto da imagem, com uma descrição adequada ao caso, como “visualização de proposta” ou “estudo de ambiente”. Se houver elementos ainda sujeitos a definição, explique os relevantes para a conversa.\n\nO cuidado não se resolve com uma frase escondida em outra página. A pessoa precisa encontrar a informação no contexto em que interpreta a imagem. Se o material for compartilhado separadamente, revise se a explicação acompanha a nova apresentação.\n\n## O título da seção também faz uma afirmação\n\nUma legenda pode chamar a imagem de estudo enquanto o título acima promete “obras realizadas”. Os dois sinais entram em conflito, e o mais destacado pode conduzir a interpretação.\n\nConfira o conjunto: nome da seção, texto de apoio, sequência de imagens, depoimentos e chamada comercial. Uma visualização isolada talvez pareça claramente conceitual. Ao lado de fotos de clientes e descrições de entregas, pode adquirir outro sentido.\n\nNa empresa hipotética, estudos podem ter um espaço próprio, explicado como parte do desenvolvimento criativo. Os registros de trabalhos concluídos podem apresentar o que foi feito, respeitando as autorizações necessárias e o escopo real da participação da equipe.\n\nDistinguir essas funções ajuda a mostrar tanto a capacidade de propor quanto a experiência de executar. Não é preciso fazer uma assumir o papel da outra.\n\n## Realismo não substitui evidência\n\nTexturas detalhadas, luz plausível e pessoas convincentes tornam uma composição visualmente persuasiva. Nenhum desses atributos comprova que a situação existiu.\n\nO mesmo cuidado vale para montagens e fotografias de banco de imagens. Um escritório bonito não prova que aquela é a sede da empresa. Uma pessoa representando atendimento não comprova que integra a equipe. Um gráfico ilustrativo não demonstra um resultado obtido.\n\nQuando a comunicação pretende sustentar uma afirmação sobre uma entrega, confira qual registro permite apoiá-la. O que está documentado? Qual foi a participação da empresa? O material mostra uma etapa ou o resultado concluído?\n\nSe ainda não existe comprovação, reveja a afirmação. Uma boa criação pode apresentar uma possibilidade sem inventar um caso para parecer mais experiente. A ausência de um registro não precisa ser preenchida por uma aparência de prova.\n\n## Cuide da passagem entre criação e comercial\n\nA peça pode nascer com contexto suficiente e perder precisão quando chega a outra área. Quem prepara uma apresentação comercial talvez não saiba que a imagem escolhida era apenas um estudo.\n\nOrganize os arquivos para que essa natureza continue identificável. Diferencie registros, simulações e ilustrações nos materiais de trabalho, além de revisar a apresentação pública. Registre também o que pode ser informado sobre cada projeto.\n\nA equipe comercial precisa conseguir explicar a imagem sem improvisar. Se uma pessoa perguntar onde o trabalho foi realizado, a resposta deve corresponder ao que realmente existe. Uma representação criada não deve ganhar localização, cliente ou resultado fictício para sustentar a conversa.\n\nConfirme autoria e permissões antes de utilizar registros identificáveis de clientes. A disponibilidade de uma fotografia em uma pasta não significa que todo uso público esteja autorizado. Essa verificação faz parte da preparação do material, não deve ficar para depois da publicação.\n\n## Revise a interpretação que a peça permite\n\nNa aprovação, vá além de perguntar se a imagem está bonita ou alinhada à identidade. Pergunte o que alguém de fora poderia concluir ao ver o conjunto, sem ouvir a explicação da equipe.\n\nPoderia parecer que a empresa realizou aquele projeto? Que aquelas pessoas trabalham ali? Que o cenário existe? Que o resultado descrito já foi alcançado? Se a resposta não corresponder à realidade, ajuste o enquadramento da comunicação.\n\nEsse cuidado é uma recomendação editorial de clareza, não uma regra jurídica universal de rotulagem. Obrigações específicas precisam ser avaliadas no contexto apropriado. Ainda assim, a empresa pode decidir desde já apresentar com precisão o que suas imagens representam.\n\nEscolha um material em circulação e confira a relação entre imagem, legenda e promessa. Preserve o que comunica bem, acrescente o contexto necessário e retire afirmações que não pode sustentar. A criação visual ganha liberdade quando seu papel está claro. A confiança depende de não pedir que ela prove uma entrega que não aconteceu.",
+        "sources": "[Spotify, transparência e proteção da identidade artística, 20/10/2026](https://newsroom.spotify.com/2026-10-20/prioritizing-human-artistry/)\n\nAs medidas são apresentadas pela plataforma no contexto musical e não equivalem a uma regra jurídica geral para publicidade. A empresa de interiores e a situação descrita são hipotéticas.",
+        "prompt": "Natural cinematic editorial photograph of a single female photographer crouching to document a completed handcrafted curved timber installation in a spacious quiet interior, camera held at eye level and spontaneous working posture, wide side view revealing both the real physical installation and her act of recording it, rich wood grain and subtle construction details, no meeting, desk, papers or laptop, soft neutral window key light preserving natural skin tones with a narrow teal ambient reflection inspired by #08ffb1 along the far wall, restrained contrast and generous architectural negative space, believable scale, no readable text or logos --ar 3:2",
+        "imageAlt": "Fotógrafa agachada registra uma instalação curva de madeira em um ambiente amplo com reflexo teal discreto na parede.",
+        "keyword": "imagens geradas por IA",
+        "slug": "imagem-campanha-prova-entrega",
+        "meta": "Imagens geradas por IA podem ilustrar ideias sem comprovar entregas. Diferencie visualizações, propostas e registros reais para dar contexto ao portfólio.",
+        "date": "2026-10-28",
+        "faq": "Uma imagem realista comprova que um projeto foi realizado?\nNão. O realismo visual não demonstra a existência do projeto nem a participação da empresa na execução.\n\nComo apresentar uma visualização de proposta?\nExplique sua natureza perto da imagem e preserve esse contexto quando ela for reutilizada em outro material.\n\nO que conferir antes de divulgar registros de clientes?\nConfirme autoria, permissões e o escopo real da participação da empresa, sem inventar localização, resultado ou entrega.",
+        "url": "https://www.agenciatweed.com.br/imagem-campanha-prova-entrega/",
+        "imageFile": "conteudos/pauta-diaria-2026-10-27/imagens/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+        "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_a__c040c68d-2ea1-41e0-a024-f004b95dd885_2.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/1bd653fa8052b8b1c36564321826e3f01eb8cf98a0f7ca6edeeeb8055c263027.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-28T07:09:47.064Z"
+        }
+      },
+      "createdAt": "2026-10-28T07:09:47.066Z",
+      "completedAt": "2026-10-28T11:15:31.794264+00:00"
     }
   ]
 }
