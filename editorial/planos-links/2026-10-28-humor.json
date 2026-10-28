@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "humor-marca-cliente-alvo-piada",
+  "contentSha256": "3a640a65135d4f33913c69417e4c2f6e71755ad9dc8a2529128e611c43725b45",
+  "modifiedAt": "2026-10-28",
+  "links": [
+    {
+      "from": "humor-marca-cliente-alvo-piada",
+      "to": "o-atendimento-esta-desmentindo-o-seu-posicionamento",
+      "anchor": "um problema que deveria corrigir",
+      "context": "Uma marca pode brincar com os próprios processos, com expectativas do setor ou com pequenos desencontros cotidianos. Isso não autoriza usar a autocrítica para normalizar um problema que deveria corrigir.",
+      "reason": "Relaciona a brincadeira sobre falhas à responsabilidade operacional de sustentar o cuidado prometido."
+    }
+  ]
+}

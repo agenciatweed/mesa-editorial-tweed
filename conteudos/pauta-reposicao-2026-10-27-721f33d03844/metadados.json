@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: entrevista de Lilly Singh publicada no blog oficial do YouTube em 15/10/2026. Ao explicar a evolução de sua comédia, ela destaca humor observacional e situações em que o público se reconhece, sem fazer de pessoas vulneráveis o alvo. Tratar como perspectiva declarada de uma criadora, sem extrapolar sucesso, métricas ou efeitos psicológicos; não reproduzir relatos pessoais de saúde presentes na entrevista. Janela ampliada a até 30 dias para encontrar assunto distinto das pautas recentes. Tese: uma marca pode usar humor para reconhecer uma situação compartilhada, mas precisa avaliar quem fica no papel de alvo e se a graça contradiz a relação que deseja construir. Aplicar a PMEs com exemplo hipotético de conteúdo sobre dúvidas recorrentes de compradores: deslocar a piada da suposta incapacidade do cliente para uma situação reconhecível, sem expor conversas reais. Conferir entendimento sem contexto, relação de poder, coerência com atendimento e pertinência ao público antes de publicar. Não proibir humor, prometer engajamento ou apresentar uma fórmula universal. Diferenciar de personalidade de marca nas escolhas pequenas: foco específico no alvo e no enquadramento do humor, não em tom de voz genérico. Diferenciar de comentários e produto: foco na decisão criativa anterior à postagem.",
   "audience": "Donos de PMEs e equipes de conteúdo que usam memes, situações de atendimento e humor nas redes sociais e querem preservar proximidade e respeito.",
   "goal": "De “se a equipe achou engraçado, a marca pode postar” para “preciso entender quem vira o alvo, o que o público reconhece e como a piada se relaciona com o cuidado que prometemos”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,12 +44,26 @@
   "keyword": "humor de marca",
   "slug": "humor-marca-cliente-alvo-piada",
   "meta": "O humor de marca pode aproximar ou constranger. Avalie quem vira o alvo da piada, o contexto da publicação e a relação com o atendimento real.",
-  "date": "",
+  "date": "2026-10-28",
   "imageFile": "conteudos/pauta-reposicao-2026-10-27-721f33d03844/imagens/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
   "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_with_no_peop_c00761c8-9628-427e-8565-4c7fa945ce76_3.png",
   "imageWidth": 1344,
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
   "faq": "O que avaliar antes de publicar uma piada no perfil da empresa?\nConfira quem aparece como alvo, o contexto disponível e se a brincadeira é compatível com a forma como a empresa trata o público.\n\nComo usar dúvidas de clientes sem expor pessoas?\nCrie situações hipotéticas reconhecíveis, sem reproduzir conversas identificáveis nem ridicularizar quem precisa de orientação.\n\nComo revisar o enquadramento do humor?\nPeça a alguém que não participou do roteiro para explicar o que entendeu antes de ouvir a intenção da equipe.",
-  "url": "https://www.agenciatweed.com.br/humor-marca-cliente-alvo-piada/"
+  "url": "https://www.agenciatweed.com.br/humor-marca-cliente-alvo-piada/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/humor-marca-cliente-alvo-piada/",
+    "publishedAt": "2026-10-28T16:18:07.800957+00:00",
+    "job": "99ff3297-ab1b-446f-8ae8-eab88eb24565",
+    "files": [
+      "assets/artigos-editoriais/a6dd2bf7169dcac49d3ff6bcf81b321ed7225a9c7ad58d8edd84068f4edd6361.png",
+      "humor-marca-cliente-alvo-piada/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
