@@ -4657,6 +4657,93 @@
       "createdAt": "2026-10-28T15:01:53.582Z",
       "startedAt": "2026-10-28T16:17:13.956Z",
       "completedAt": "2026-10-28T16:17:14.297Z"
+    },
+    {
+      "id": "7ebd21c9-06e7-4850-aa63-b4746b3a9838",
+      "itemId": "pauta-reposicao-2026-10-28-5213addb8c7f",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "aba044ab93dc5bece9587fa5eb58633cdff8e802a1bf1e86c30054481d5565d6",
+      "snapshot": "3c11c6f0960f66a2bed1f64e6d42ffb594a3380932443c0dbfa441c952629255",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-5213addb8c7f",
+        "title": "Sua marca precisa entrar em toda conversa que está em alta?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: episódio do Marketing Vanguard publicado pelo Adweek em 27/10/2026, com Cheryl Guerin, é apresentado na página oficial do programa como conversa sobre diferenciação e agilidade de marca, incluindo a importância de dizer não e identificar oportunidades culturais. Usar apenas a apresentação editorial acessível do episódio; não alegar audição ou transcrição integral, não inventar falas nem casos. A perspectiva da executiva não comprova resultados universais. Tese: agilidade também envolve decidir quais conversas não merecem uma ação da marca; oportunidade cultural precisa de pertinência ao público, papel legítimo, tempo e capacidade de execução. Exemplo hipotético de PME pressionada a entrar em um meme ou assunto viral sem relação com sua oferta: conferir o que tem a acrescentar, quem precisa aprovar e se ainda existe contexto quando a peça estiver pronta; decidir participar, adaptar ou deixar passar, sem transformar silêncio em regra universal. Evitar comentários sobre crises reais, exploração de sofrimento ou promessas de alcance. Diferenciar de humor de marca: foco em escolher a oportunidade e o papel da empresa, não no alvo de uma piada. Diferenciar de restrição criativa: foco em triagem de demandas externas e oportunidade cultural, não em criação a partir de limites. Diferenciar de aprovação: foco no critério anterior de participação, não em acelerar feedback.",
+        "audience": "Donos de PMEs e responsáveis por conteúdo que recebem pedidos para reagir a tendências, memes e conversas culturais e precisam selecionar ações pertinentes à marca.",
+        "goal": "De “se está em alta, precisamos publicar antes que passe” para “preciso decidir se temos algo pertinente a acrescentar e condições de participar no tempo e no contexto certos”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adweek, Marketing Vanguard, Brandweek 2026 com Cheryl Guerin: Democratized Marketing Won’t Differentiate Your Brand",
+              "url": "https://shows.acast.com/cmo-moves/episodes/brandweek-2026-cheryl-guerin",
+              "publishedAt": "2026-10-27"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-28T16:49:25.537Z",
+      "startedAt": "2026-10-28T21:20:04.680Z",
+      "completedAt": "2026-10-28T21:21:08.679Z"
+    },
+    {
+      "id": "f0e7dacc-52bb-47fe-ade9-b76e983ae25c",
+      "itemId": "pauta-reposicao-2026-10-28-d6abd0c36534",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "da458bb5e6acc8fae98f957156b787896da5df3c3472e9e056cba16dea4137f5",
+      "snapshot": "0ea62344d2ea5671dbdea6158e632b30d8fa946af803fe5ccdba0cdfd2900cab",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-d6abd0c36534",
+        "title": "O nome do seu produto ajuda o cliente a entender o que ele faz?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: reportagem de 26/10/2026 no Branding in Asia apresenta o trabalho da Bulletproof para Selleys Undo Glue, com nome e expressão visual que destacam a possibilidade de desfazer a fixação. A página oficial da Selleys confirma o nome e a proposta de adesivo removível, com condições de superfície e uso; não possui data editorial verificável, por isso não atribuir a ela a data da reportagem. Usar o relato sobre o projeto e declarações atribuídas aos responsáveis, sem tratar facilidade de compreensão como efeito comprovado, sem repetir estatística promocional sobre abandono de corredor, sem alegar pioneirismo, resultados comerciais ou disponibilidade brasileira. Tese: nomear um produto novo envolve oferecer uma primeira pista da proposta e distingui-lo no portfólio; originalidade verbal não deveria depender de uma longa explicação para permitir entender a categoria e a utilidade. Exemplo hipotético de PME que lança uma nova versão de serviço com nome criativo, mas não esclarece a diferença em relação ao plano existente: testar nome acompanhado de descritor e apresentação conjunta, ouvir o que pessoas de fora entendem e corrigir ambiguidades. Não fornecer parecer sobre registro de marca ou prometer exclusividade; validação jurídica e pesquisa de disponibilidade são etapas próprias. Diferenciar de clareza de logotipo: foco em nome de produto e descritor dentro do portfólio, não em identidade institucional. Diferenciar de proposta comercial: foco na primeira identificação da novidade, não em tabela de escopo. Diferenciar de embalagem funcional: foco verbal e hierarquia da oferta, não em ergonomia.",
+        "audience": "Donos de PMEs e responsáveis por marca que vão lançar produtos, planos ou versões e precisam torná-los distinguíveis sem depender da explicação do vendedor.",
+        "goal": "De “um nome diferente já mostra que é uma novidade” para “preciso conferir que pista o nome e seu descritor oferecem sobre categoria, utilidade e diferença no portfólio”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Branding in Asia, Bulletproof Gives Selleys a Twist With New Undo Glue Launch",
+              "url": "https://www.brandinginasia.com/bulletproof-gives-selleys-a-twist-with-new-undo-glue-launch/",
+              "publishedAt": "2026-10-26"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "6640d5cf-1b99-4c57-ad02-08ec81024fb6",
+          "completedAt": "2026-10-28T16:19:01.883Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O produto novo está pronto. A equipe escolheu um nome original, criou a apresentação e começou a divulgação. Quando o cliente pergunta o que muda em relação à versão que já conhece, a resposta exige uma longa explicação. O nome diferencia internamente, mas ainda não oferece uma pista útil para quem precisa escolher.\n\nO nome de produto participa desse primeiro entendimento. Ele pode indicar uma função, sugerir uma situação de uso ou criar uma associação distintiva. Não precisa explicar tudo sozinho. Precisa funcionar junto do descritor e da organização da oferta, sem acrescentar uma confusão que o vendedor terá de desfazer depois.\n\nEm reportagem de 26 de outubro de 2026, o Branding in Asia apresentou o trabalho da Bulletproof para Selleys Undo Glue. O relato destaca nome e linguagem visual ligados à possibilidade de desfazer a fixação. A página oficial da Selleys apresenta o produto como adesivo removível, com condições de uso próprias. Essa relação entre nome e proposta oferece uma referência de projeto, sem comprovar um resultado comercial.\n\nA pergunta para uma PME é qual pista sua novidade oferece antes da explicação completa.\n\n## Diferencie o nome que a equipe entende do nome que o público encontra\n\nImagine uma pequena empresa de serviços que oferece acompanhamento mensal e vai lançar uma versão voltada a uma necessidade específica. É um exemplo hipotético. Internamente, todos conhecem a diferença entre os dois formatos. O nome escolhido para o novo plano faz referência a uma etapa do processo que só a equipe costuma mencionar.\n\nA expressão pode parecer precisa para quem participou do desenvolvimento. O cliente vê duas opções com nomes diferentes e não sabe se mudou o público, a duração ou o tipo de entrega.\n\nAntes de decidir, descreva a novidade em linguagem direta. O que ela é? Para quem faz sentido? Qual diferença precisa ser reconhecida no primeiro contato? Essa descrição não é necessariamente o nome final. É a referência que ajuda a avaliar se o nome está colaborando com o entendimento.\n\nSe a explicação depende de uma história interna, confira se essa história tem relevância para quem vai contratar.\n\n## Um descritor pode dar o contexto que o nome não carrega\n\nUm nome evocativo pode ter força expressiva sem indicar a categoria. Nesse caso, uma descrição breve pode ajudar a situar a oferta. O problema aparece quando o descritor é tratado como detalhe dispensável e desaparece justamente nos materiais mais vistos.\n\nNo exemplo hipotético, o nome criativo poderia vir acompanhado da descrição do tipo de acompanhamento. Isso permite preservar a linguagem da marca e oferecer uma entrada compreensível para quem ainda não conhece o serviço.\n\nConfira a combinação no site, na proposta, na apresentação comercial e na peça de divulgação. O mesmo nome pode aparecer com explicações incompatíveis se cada área o interpreta de uma maneira.\n\nO descritor também não deve prometer mais do que existe. Termos como completo, ilimitado ou automático exigem cuidado quando a entrega tem condições e participação do cliente. Uma palavra atraente não elimina a necessidade de apresentar esses limites.\n\n## Avalie a novidade ao lado do que já existe\n\nUm nome pode funcionar isoladamente e continuar confuso dentro do portfólio. Se duas ofertas parecem equivalentes, o comprador precisa descobrir por que uma delas seria mais adequada à sua situação.\n\nApresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?\n\nNa empresa hipotética, chamar o novo formato de avançado poderia sugerir que o acompanhamento existente ficou ultrapassado, mesmo que ele continue sendo a opção apropriada para muitos clientes. A escolha verbal precisa corresponder à relação real entre as entregas.\n\nNão é necessário criar uma família de nomes com lógica perfeita apenas para agradar à equipe. A organização deve ajudar o público a reconhecer diferenças relevantes. Um sistema elegante que exige tradução permanente ainda merece revisão.\n\n## Escute a primeira interpretação sem corrigir imediatamente\n\nMostre o nome com o descritor e uma apresentação breve a pessoas que tenham contexto do público pretendido. Peça que expliquem o que imaginam que seja a oferta, para quem ela parece adequada e o que esperam encontrar.\n\nEvite começar pela justificativa criativa. Depois de ouvir toda a história, a pessoa já recebeu a explicação que o exercício deveria verificar se estava disponível na apresentação.\n\nRegistre as interpretações recorrentes e as dúvidas. Um comentário isolado não representa todo o mercado, mas pode revelar uma associação que a equipe não havia considerado. Confira se o problema está no nome, no descritor, na relação com as outras opções ou na própria indefinição da oferta.\n\nEsse exercício não comprova preferência nem intenção de compra. Ajuda a discutir compreensão antes de transformar uma escolha interna em material público.\n\n## Originalidade precisa conviver com precisão\n\nA relação entre Undo Glue e a proposta de remoção foi destacada pelos responsáveis pelo projeto na reportagem. Isso não significa que toda empresa deva adotar um nome descritivo em inglês, nem que uma palavra resolva a comunicação inteira.\n\nA página do fabricante mantém informações sobre aplicação e superfícies. O nome aponta para uma característica, mas as condições continuam participando da apresentação do produto. Uma PME precisa preservar essa diferença entre uma pista inicial e uma explicação suficiente para decidir.\n\nTambém existem verificações próprias para disponibilidade e proteção de um nome. Avaliar clareza com o público não substitui pesquisa apropriada nem análise jurídica de registro. Da mesma forma, encontrar uma palavra disponível não comprova que ela comunica bem a proposta.\n\nTrate essas decisões como partes do trabalho, com os profissionais e critérios necessários a cada uma.\n\n## Prepare quem vai apresentar o lançamento\n\nDepois da escolha, confira se a equipe consegue descrever a novidade de maneira consistente. O comercial precisa entender a relação com as opções anteriores. O conteúdo precisa saber quais diferenças destacar. O atendimento precisa reconhecer o pedido mesmo quando o cliente usa uma descrição aproximada.\n\nOrganize uma referência breve com nome, descritor, finalidade e distinções principais. Revise materiais em que uma denominação antiga ou provisória continua circulando. A mudança não deve exigir que o cliente aprenda o vocabulário interno antes de conseguir conversar.\n\nNa próxima escolha de nome, coloque a ideia ao lado da oferta real e ouça o que alguém de fora entende. A originalidade pode despertar interesse. O contexto permite saber a que esse interesse se refere. Um nome útil ajuda a iniciar a conversa certa, sem precisar carregar sozinho todas as respostas.",
+        "sources": "[Branding in Asia, projeto Selleys Undo Glue por Bulletproof, 26/10/2026](https://www.brandinginasia.com/bulletproof-gives-selleys-a-twist-with-new-undo-glue-launch/)\n[Selleys, apresentação oficial de Undo Hooks & Glue](https://www.selleys.com.au/products/our-brands/selleys-undo-hooks-glue/)\n\nA reportagem traz declarações dos responsáveis pelo projeto. A página do fabricante não tem data editorial confirmada e descreve condições próprias do produto; não representa recomendação técnica ou disponibilidade no Brasil. A empresa de serviços é hipotética.",
+        "prompt": "Natural cinematic editorial photograph of a single adult shopper pausing in a small neighborhood hardware store aisle, medium wide rear three-quarter view as they reach toward one plain package among several visually distinct unbranded product families, shelf organization and different package silhouettes clearly visible without readable lettering, spontaneous thoughtful gesture rather than staged presentation, realistic modest interior and worn floor, soft neutral window key light with a restrained teal ambient accent inspired by #08ffb1 on the far aisle end, natural skin tones and controlled contrast, no meeting, papers, desk or laptop, no readable text or logos --ar 3:2",
+        "imageAlt": "Pessoa escolhe uma embalagem em uma prateleira organizada por formatos diferentes, em uma loja de ferragens com acento teal ao fundo."
+      },
+      "createdAt": "2026-10-28T16:49:34.083Z",
+      "startedAt": "2026-10-28T21:20:04.766Z",
+      "completedAt": "2026-10-28T21:21:08.550Z"
     }
   ]
 }
