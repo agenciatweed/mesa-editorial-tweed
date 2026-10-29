@@ -4744,6 +4744,93 @@
       "createdAt": "2026-10-28T16:49:34.083Z",
       "startedAt": "2026-10-28T21:20:04.766Z",
       "completedAt": "2026-10-28T21:21:08.550Z"
+    },
+    {
+      "id": "833905cb-c49c-44ee-99a8-08f5864cdc26",
+      "itemId": "pauta-reposicao-2026-10-28-5213addb8c7f",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "3e2bc7e0a277388cb74c9df1ffe3aa3c3376dcd2d43a7ba23e8188880e368491",
+      "snapshot": "5acd202afe6e0dc2fcf531ff422df212b3e3c356d2f64bd22e68a7bea0854683",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-5213addb8c7f",
+        "title": "Sua marca precisa entrar em toda conversa que está em alta?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: episódio do Marketing Vanguard publicado pelo Adweek em 27/10/2026, com Cheryl Guerin, é apresentado na página oficial do programa como conversa sobre diferenciação e agilidade de marca, incluindo a importância de dizer não e identificar oportunidades culturais. Usar apenas a apresentação editorial acessível do episódio; não alegar audição ou transcrição integral, não inventar falas nem casos. A perspectiva da executiva não comprova resultados universais. Tese: agilidade também envolve decidir quais conversas não merecem uma ação da marca; oportunidade cultural precisa de pertinência ao público, papel legítimo, tempo e capacidade de execução. Exemplo hipotético de PME pressionada a entrar em um meme ou assunto viral sem relação com sua oferta: conferir o que tem a acrescentar, quem precisa aprovar e se ainda existe contexto quando a peça estiver pronta; decidir participar, adaptar ou deixar passar, sem transformar silêncio em regra universal. Evitar comentários sobre crises reais, exploração de sofrimento ou promessas de alcance. Diferenciar de humor de marca: foco em escolher a oportunidade e o papel da empresa, não no alvo de uma piada. Diferenciar de restrição criativa: foco em triagem de demandas externas e oportunidade cultural, não em criação a partir de limites. Diferenciar de aprovação: foco no critério anterior de participação, não em acelerar feedback.",
+        "audience": "Donos de PMEs e responsáveis por conteúdo que recebem pedidos para reagir a tendências, memes e conversas culturais e precisam selecionar ações pertinentes à marca.",
+        "goal": "De “se está em alta, precisamos publicar antes que passe” para “preciso decidir se temos algo pertinente a acrescentar e condições de participar no tempo e no contexto certos”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adweek, Marketing Vanguard, Brandweek 2026 com Cheryl Guerin: Democratized Marketing Won’t Differentiate Your Brand",
+              "url": "https://shows.acast.com/cmo-moves/episodes/brandweek-2026-cheryl-guerin",
+              "publishedAt": "2026-10-27"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "7ebd21c9-06e7-4850-aa63-b4746b3a9838",
+          "completedAt": "2026-10-28T21:21:08.631Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O assunto começou a aparecer em todos os perfis. Alguém manda a referência para a equipe com um pedido: precisamos fazer alguma coisa com isso ainda hoje. Antes de existir uma ideia, a marca já parece ter assumido o compromisso de participar.\n\nParticipar de tendências pode fazer sentido quando existe uma relação compreensível com o público e algo pertinente a acrescentar. O fato de uma conversa estar em alta não responde essas duas questões. Também não garante que a empresa consiga produzir uma peça adequada enquanto o contexto ainda faz sentido.\n\nA apresentação editorial de um episódio do Marketing Vanguard, publicado pelo Adweek em 27 de outubro de 2026 com Cheryl Guerin, inclui a importância de dizer não entre os temas de agilidade de marca. Essa descrição abre uma reflexão útil, sem representar uma fórmula comprovada para toda empresa: escolher também faz parte de agir no tempo certo.\n\nPara uma PME, a decisão começa antes do roteiro. Qual papel a marca teria nessa conversa?\n\n## Descubra o que o público está reconhecendo\n\nUma referência pode circular porque representa uma situação cotidiana, porque acompanha um acontecimento ou porque faz sentido dentro de um grupo específico. Reproduzir apenas a aparência da peça pode deixar essa razão de fora.\n\nImagine uma pequena empresa de serviços recebendo o pedido de entrar num formato viral. É um exemplo hipotético. A equipe reconhece a música e o gesto, mas não sabe explicar o que seu público encontraria de pertinente naquela adaptação.\n\nAntes de produzir, descreva a conversa com palavras simples. Do que as pessoas estão falando? O que o formato ajuda a expressar? A empresa conhece esse contexto ou está apenas acompanhando a repetição?\n\nSe a equipe não consegue responder, vale investigar antes de transformar a referência em obrigação. Uma tendência não precisa ser compreendida por todas as pessoas para existir, mas quem a utiliza profissionalmente precisa entender o suficiente para fazer uma escolha responsável.\n\n## Defina uma contribuição que exista além da presença\n\nA marca pode participar oferecendo uma observação, uma demonstração, uma informação ou uma leitura ligada ao seu repertório. A questão é o que ficará disponível para quem encontrar a peça.\n\nNa empresa hipotética, talvez o formato permita explicar uma dúvida comum do serviço de uma maneira nova. Talvez a relação seja tão distante que a única conexão seja inserir o logotipo no final.\n\nA diferença merece ser discutida antes de investir tempo. A publicação não precisa virar uma aula nem repetir uma oferta comercial. Ainda assim, deve haver uma razão compreensível para aquela marca estar ali.\n\nUma pergunta útil é retirar mentalmente a identidade da peça: o conteúdo ainda apresenta uma perspectiva ligada ao que a empresa conhece, faz ou acompanha? Se poderia ser publicado por qualquer negócio, a equipe pode precisar desenvolver melhor a relação, em vez de apenas trocar a assinatura.\n\n## Confira o tempo que a participação realmente exige\n\nEntre receber a referência e publicar, existem decisões. Alguém precisa compreender o assunto, criar, verificar informações, avaliar permissões quando necessárias e aprovar o material. Esses passos não desaparecem porque a conversa está acontecendo depressa.\n\nUma ação simples pode caber na capacidade disponível. Outra depende de produção ou verificação que não será concluída a tempo. Reconhecer essa diferença permite escolher um caminho plausível.\n\nNo exemplo hipotético, a equipe pode perceber que a ideia exige uma gravação que só acontecerá dias depois. Talvez valha adaptar o formato para outra finalidade. Talvez seja melhor deixar aquela oportunidade passar.\n\nNão prometa uma reação imediata antes de conhecer as condições. A pressa pode produzir uma peça atrasada e pouco compreensível, mesmo quando todas as pessoas envolvidas trabalharam intensamente.\n\n## Não transforme qualquer assunto em ocasião comercial\n\nAlgumas conversas envolvem experiências delicadas, conflitos ou sofrimento. A existência de atenção pública não oferece, por si só, um papel legítimo à empresa.\n\nAntes de associar uma oferta, confira se a participação acrescenta algo pertinente ou apenas usa o assunto como cenário. Quando faltam contexto e responsabilidade, uma chamada comercial pode contradizer o cuidado que a marca procura comunicar.\n\nEsse critério não exige silêncio universal. Uma empresa pode ter conhecimento, responsabilidade ou atuação real relacionada ao tema. Nesse caso, a decisão deve partir dessa relação, com a apuração e a avaliação apropriadas, em vez de começar pela oportunidade de alcance.\n\nA mesma atenção vale para referências culturais que a equipe conhece pouco. Uma adaptação não ganha pertinência apenas porque outras marcas já fizeram algo parecido.\n\n## Escolha entre participar, adaptar e deixar passar\n\nA triagem não precisa terminar sempre com um sim ou não definitivo. Pode revelar que a conversa é relevante, mas o formato não combina com a empresa. Pode indicar uma ideia que merece desenvolvimento fora daquela corrida.\n\nNa PME hipotética, uma dúvida reconhecida no conteúdo viral pode virar um material próprio, sem reproduzir o meme. Assim, a observação encontra uma forma coerente com o serviço e com o tempo disponível.\n\nQuando a decisão for não participar, registre o motivo de maneira objetiva. Faltou relação com o público? A contribuição era fraca? O contexto exigia cuidado que a equipe não conseguiria oferecer? Isso ajuda a distinguir escolha estratégica de indecisão permanente.\n\nTambém evita reabrir a mesma discussão a cada nova referência. O critério pode ser revisto, mas precisa existir para que a equipe não trabalhe apenas reagindo à urgência mais recente.\n\n## Avalie a escolha sem usar alcance como único veredito\n\nUma publicação com muitas visualizações não comprova que a participação foi pertinente. Uma peça de circulação menor também não demonstra, sozinha, que a ideia deveria ter sido abandonada.\n\nObserve o que as pessoas entenderam e que tipo de conversa surgiu. A associação com a marca ficou clara? O conteúdo gerou dúvidas que a equipe consegue responder? O esforço exigiu interromper algo mais importante para o público?\n\nEssas perguntas não substituem os indicadores disponíveis. Acrescentam contexto para discutir a decisão e preparar a próxima oportunidade. Uma reação isolada precisa ser interpretada com cuidado, sem transformar toda manifestação em diagnóstico definitivo.\n\nNa próxima referência que chegar com um pedido urgente, combine primeiro a razão de participar. Depois escolha o formato e o tempo possível. A marca pode acompanhar a cultura sem assumir que toda conversa precisa de sua presença. Agilidade ganha direção quando a equipe sabe reconhecer uma oportunidade e também sabe explicar por que deixou outra passar.",
+        "sources": "[Adweek, apresentação do episódio Marketing Vanguard com Cheryl Guerin, 27/10/2026](https://shows.acast.com/cmo-moves/episodes/brandweek-2026-cheryl-guerin)\n\nA referência é a apresentação editorial acessível do episódio, sem transcrição ou alegação de audição integral. A empresa e as situações descritas são hipotéticas; as recomendações não prometem alcance ou resultado comercial.",
+        "prompt": "Conceptual editorial photograph without people, a quiet row of small brass wind instruments with several bells turned toward a dense cascade of brightly colored ribbon suspended in the air, one instrument rests calmly on its side facing a clear empty area instead, believable physical objects arranged in a warm grey gallery-like space, visual tension between collective noise and deliberate pause, sculptural asymmetrical wide composition, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 reflecting along the resting brass bell, tactile metal and fabric, controlled shadows, no cubes, prisms, labyrinths, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Instrumentos de sopro de latão se voltam para fitas coloridas suspensas, enquanto um deles repousa voltado para um espaço vazio com reflexo teal discreto."
+      },
+      "createdAt": "2026-10-28T21:24:02.334Z",
+      "startedAt": "2026-10-29T02:21:28.481Z",
+      "completedAt": "2026-10-29T02:21:28.741Z"
+    },
+    {
+      "id": "98fa133d-f58c-4615-83fe-b11217518346",
+      "itemId": "pauta-reposicao-2026-10-28-b6546ae763a3",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "921e05ed103eec67fae265ac90987fa51d7cb472a55e680a09834898c199abbc",
+      "snapshot": "269f5ad3b2111c8cc0a9ea0044d7b17d52f0183e8d65207e78a486ffc5b77456",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-b6546ae763a3",
+        "title": "Sua marca explica a melhoria ambiental ou só chama o produto de sustentável?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 13/10/2026, IKEA anunciou atualização da bolsa FRAKTA e especificou a participação de material reciclado em dois tamanhos, junto de informações sobre material e fabricação. Tratar os dados como declarações da fabricante sobre aquele produto e versões, sem afirmar avaliação independente de ciclo de vida, superioridade ambiental global ou disponibilidade brasileira. A janela foi ampliada a até 30 dias para selecionar tema ainda não coberto. Tese: uma melhoria delimitada precisa ser comunicada com objeto, escopo, referência e limites; chamar toda a oferta de sustentável pode sugerir uma conclusão mais ampla que a evidência disponível. Exemplo hipotético de PME que altera um componente de um produto: confirmar documentação com fornecedor, distinguir componente de produto inteiro, explicar o que mudou e não extrapolar para impacto total, reciclabilidade local ou neutralidade. Não dar parecer jurídico, criar selo ou orientar certificações sem base; alegações públicas reais exigem verificação técnica apropriada. Diferenciar de embalagem funcional: foco na precisão da afirmação ambiental, não no gesto de uso. Diferenciar de imagem e prova de entrega: foco no alcance de uma declaração sobre materiais e mudanças, não na natureza documental da imagem. Diferenciar de redesign: foco em comunicação verificável de melhoria ambiental, não em preservar navegação.",
+        "audience": "Donos de PMEs e responsáveis por marca que precisam comunicar mudanças em materiais, fornecedores ou processos sem transformar uma melhoria específica em promessa ambiental genérica.",
+        "goal": "De “mudamos um material, então podemos chamar a oferta de sustentável” para “preciso explicar exatamente o que foi alterado, a que parte se aplica e o que a documentação permite afirmar”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Inter IKEA newsroom, atualização da bolsa FRAKTA em seu aniversário de 30 anos",
+              "url": "https://www.ikea.com/global/en/newsroom/sustainability/ikea-celebrates-30-years-of-the-frakta-bag-261013/",
+              "publishedAt": "2026-10-13"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-28T22:20:20.497Z",
+      "startedAt": "2026-10-29T02:21:28.558Z",
+      "completedAt": "2026-10-29T02:22:45.106Z"
     }
   ]
 }

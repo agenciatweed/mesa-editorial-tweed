@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-10-28-5d882def914b",
+  "title": "Uma pesquisa sobre consumidores também fala sobre os seus clientes?",
+  "edition": 5,
+  "expert": "Mauro",
+  "angle": "Gancho verificado: Ipsos publicou em 19/10/2026 o índice LSEG/Ipsos de sentimento do consumidor americano de outubro, com nota metodológica que informa público e período de coleta: 1.000 americanos de 18 a 74 anos, entrevistados entre 25/09 e 01/10. Usar o recorte metodológico como exemplo de leitura, sem transferir resultados para o Brasil, clientes de uma PME ou mercado B2B; não interpretar o índice como previsão de vendas ou orientação financeira. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo. Tese: uma notícia de pesquisa pode orientar perguntas, mas sua aplicabilidade depende de quem respondeu, onde, quando e sobre o quê; a categoria genérica consumidores não equivale automaticamente à carteira da empresa. Exemplo hipotético de PME que quer alterar uma mensagem porque viu uma manchete internacional: localizar a fonte original e a metodologia, formular uma hipótese limitada e confrontá-la com dúvidas comerciais e observações locais, sem inventar validação estatística nem tratar poucos relatos como amostra representativa. Não ensinar desenho amostral avançado nem desacreditar pesquisas em geral. Diferenciar de dados de campanha: foco no alcance de evidências externas, não em rastreamento e eventos. Diferenciar de atribuição: foco no público e no recorte de pesquisa, não na causalidade de vendas. Diferenciar de tendências culturais: foco na leitura metodológica de levantamento, não em participação em assuntos virais.",
+  "audience": "Donos de PMEs e responsáveis por estratégia e conteúdo que utilizam pesquisas de comportamento para decidir mensagens e precisam distinguir contexto de mercado e evidência sobre seu próprio público.",
+  "goal": "De “a pesquisa diz que o consumidor mudou, então precisamos mudar a comunicação” para “preciso entender o recorte do levantamento e verificar que hipótese ele permite formular sobre quem atendemos”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-28",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Ipsos, October 2026 LSEG/Ipsos Primary Consumer Sentiment Index",
+        "url": "https://www.ipsos.com/en-us/october-2026-lsegipsos-primary-consumer-sentiment-index",
+        "publishedAt": "2026-10-19"
+      }
+    ]
+  }
+}
