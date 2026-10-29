@@ -1,9 +1,7 @@
 TÍTULO: Seu conteúdo tem continuidade ou cada post recomeça do zero?
 EDITORIA: 3
-VOZ: Lorenzo
 ÂNGULO: Gancho verificado: comunicado oficial de 14/10/2026 anuncia parceria do TikTok com MADE BY US STUDIOS para coproduzir microsséries verticais conduzidas por criadores. Usar como sinal de investimento editorial da plataforma em formatos episódicos, sem transferir audiência, números promocionais, escala de produção ou resultado comercial para PMEs. Pesquisa ampliada a até 30 dias após triagem recente para buscar tema distinto. Tese: uma série de conteúdo precisa de uma pergunta ou promessa que conecte as partes e de valor em cada episódio; publicar peças numeradas não cria continuidade sozinho. Exemplo hipotético de PME de serviços que mostra em três episódios decisões sucessivas de um projeto fictício: definir a pergunta central, a contribuição de cada parte, uma breve orientação para quem chega no meio e acesso às anteriores, sem esconder resposta essencial apenas para forçar retorno. Não recomendar produzir ficção cara nem inventar cases reais, clientes ou métricas. Diferenciar de reaproveitamento de vídeo: foco na arquitetura de continuidade entre episódios novos, não em adaptar a mesma peça entre plataformas. Diferenciar de narrativas míticas e storytelling institucional: foco em progressão de uma série editorial curta, não na história de origem da marca. Diferenciar de demonstração: foco no encadeamento das partes, não em provar o funcionamento de um produto.
 LEITOR: Donos de PMEs e responsáveis por conteúdo que querem organizar séries de posts ou vídeos com continuidade e capacidade real de produção.
 OBJETIVO: De “se colocarmos parte 1, parte 2 e parte 3, temos uma série” para “preciso definir o que conecta os episódios e o que cada parte entrega, inclusive para quem começa pelo meio”.
 
-FONTES DA PESQUISA:
-2026-10-14 | TikTok e MADE BY US STUDIOS, parceria para microsséries conduzidas por criadores | https://newsroom.tiktok.com/tiktok-and-made-by-us-studios-enter-partnership-to-co-produce-creator-led-micro-series?lang=en
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

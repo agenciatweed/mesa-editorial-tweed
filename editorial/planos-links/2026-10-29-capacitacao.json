@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "adocao-ia-equipe-conhecimento-compartilhado",
+  "contentSha256": "7efb2d2313b10c3ddeb76dfc612f8ada43eac5d06413af0aca0870e758524a6b",
+  "modifiedAt": "2026-10-29",
+  "links": [
+    {
+      "from": "adocao-ia-equipe-conhecimento-compartilhado",
+      "to": "ia-materiais-marca-alem-das-cores",
+      "anchor": "critérios de revisão",
+      "context": "Um documento breve pode indicar a finalidade da tarefa, os materiais permitidos, os passos principais e os critérios de revisão. Ele precisa ajudar a trabalhar, não reproduzir todas as possibilidades da ferramenta.",
+      "reason": "Complementa a aprendizagem com referências de marca e critérios para avaliar materiais criados por IA."
+    }
+  ]
+}

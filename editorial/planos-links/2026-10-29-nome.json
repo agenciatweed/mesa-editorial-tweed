@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "nome-produto-clareza-proposta",
+  "contentSha256": "b7a753235b3d4798806d2914d281266106cc0a6ce743aa34da777c425fe4a29c",
+  "modifiedAt": "2026-10-29",
+  "links": [
+    {
+      "from": "nome-produto-clareza-proposta",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "reconhecer diferenças relevantes",
+      "context": "Não é necessário criar uma família de nomes com lógica perfeita apenas para agradar à equipe. A organização deve ajudar o público a reconhecer diferenças relevantes. Um sistema elegante que exige tradução permanente ainda merece revisão.",
+      "reason": "Aprofunda a distinção entre alternativas por critérios concretos na apresentação comercial."
+    }
+  ]
+}

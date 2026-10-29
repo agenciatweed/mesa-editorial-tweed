@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: reportagem de 26/10/2026 no Branding in Asia apresenta o trabalho da Bulletproof para Selleys Undo Glue, com nome e expressão visual que destacam a possibilidade de desfazer a fixação. A página oficial da Selleys confirma o nome e a proposta de adesivo removível, com condições de superfície e uso; não possui data editorial verificável, por isso não atribuir a ela a data da reportagem. Usar o relato sobre o projeto e declarações atribuídas aos responsáveis, sem tratar facilidade de compreensão como efeito comprovado, sem repetir estatística promocional sobre abandono de corredor, sem alegar pioneirismo, resultados comerciais ou disponibilidade brasileira. Tese: nomear um produto novo envolve oferecer uma primeira pista da proposta e distingui-lo no portfólio; originalidade verbal não deveria depender de uma longa explicação para permitir entender a categoria e a utilidade. Exemplo hipotético de PME que lança uma nova versão de serviço com nome criativo, mas não esclarece a diferença em relação ao plano existente: testar nome acompanhado de descritor e apresentação conjunta, ouvir o que pessoas de fora entendem e corrigir ambiguidades. Não fornecer parecer sobre registro de marca ou prometer exclusividade; validação jurídica e pesquisa de disponibilidade são etapas próprias. Diferenciar de clareza de logotipo: foco em nome de produto e descritor dentro do portfólio, não em identidade institucional. Diferenciar de proposta comercial: foco na primeira identificação da novidade, não em tabela de escopo. Diferenciar de embalagem funcional: foco verbal e hierarquia da oferta, não em ergonomia.",
   "audience": "Donos de PMEs e responsáveis por marca que vão lançar produtos, planos ou versões e precisam torná-los distinguíveis sem depender da explicação do vendedor.",
   "goal": "De “um nome diferente já mostra que é uma novidade” para “preciso conferir que pista o nome e seu descritor oferecem sobre categoria, utilidade e diferença no portfólio”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "nome de produto",
   "slug": "nome-produto-clareza-proposta",
   "meta": "O nome de produto oferece uma primeira pista da proposta. Avalie descritor, diferenças no portfólio e o que pessoas de fora entendem antes do lançamento.",
-  "date": "",
+  "date": "2026-10-29",
   "faq": "Um nome precisa explicar sozinho toda a oferta?\nNão. Ele pode funcionar junto de um descritor e de uma apresentação que esclareça categoria, finalidade e diferenças relevantes.\n\nComo avaliar a compreensão de um nome novo?\nMostre o nome com uma apresentação breve e ouça a primeira interpretação antes de explicar a intenção criativa.\n\nAvaliar clareza substitui pesquisar disponibilidade do nome?\nNão. A compreensão da proposta e a verificação de disponibilidade e proteção exigem critérios e etapas próprios.",
-  "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/"
+  "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-28-d6abd0c36534/imagens/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+  "imageName": "glue.jpg",
+  "imageWidth": 816,
+  "imageHeight": 544,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/",
+    "publishedAt": "2026-10-29T08:24:14.067032+00:00",
+    "job": "9a56409f-7a49-4e88-8d8f-0b7570683f30",
+    "files": [
+      "assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+      "nome-produto-clareza-proposta/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 14/10/2026, Meta publicou resultados de pesquisa YouGov encomendada pela empresa com pequenos negócios em nove mercados da Ásia-Pacífico, destacando demanda por orientação e treinamento apesar da adoção de IA. Não tratar relatos de produtividade como efeito causal comprovado nem extrapolar percentuais para PMEs brasileiras; a nota metodológica diz que a amostra não é nacionalmente representativa. Preferir apenas a constatação contextual, sem repetir números promocionais, cases ou recomendar ferramentas da patrocinadora. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo recente. Tese: contratar uma ferramenta e ter alguém que a domina não significa que a empresa desenvolveu uma prática compartilhada; a continuidade depende de orientação por tarefa, exemplos verificáveis, limites e espaço para aprender. Exemplo hipotético de PME cuja preparação de materiais depende de um único colaborador: organizar um exercício com informações fictícias, mostrar como conferir o resultado, registrar um procedimento breve e garantir que outra pessoa consiga repetir a tarefa com revisão apropriada. Não inserir dados privados em ferramentas nem prometer autonomia total, retorno ou substituição de profissionais. Distinguir de IA e manual de marca: foco na transferência de conhecimento entre pessoas, não no briefing visual. Distinguir de aprovação de campanha: foco na aprendizagem e continuidade do trabalho, não no gargalo de decisões. Distinguir de humanização de IA: foco em capacitação, não na aparência do texto.",
   "audience": "Donos de PMEs e responsáveis por equipes de marketing que adotaram ferramentas de IA, mas concentram o conhecimento de uso em uma pessoa e precisam preparar uma rotina compartilhada.",
   "goal": "De “a assinatura está contratada e alguém sabe usar, então a adoção está feita” para “preciso tornar o conhecimento praticável por outras pessoas, com critérios de conferência e responsabilidades claras”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "adoção de IA na empresa",
   "slug": "adocao-ia-equipe-conhecimento-compartilhado",
   "meta": "A adoção de IA na empresa exige conhecimento compartilhado. Delimite tarefas, pratique com dados fictícios e defina critérios de conferência e apoio.",
-  "date": "",
+  "date": "2026-10-28",
   "faq": "Por onde começar a capacitação da equipe em IA?\nEscolha uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência, usando dados fictícios para praticar.\n\nComo verificar a transferência de conhecimento?\nObserve outra pessoa realizando uma tarefa equivalente e registre onde ainda precisa de orientação ou revisão.\n\nO que incluir num procedimento de uso de IA?\nRegistre finalidade, materiais permitidos, passos principais, exemplos comentados, critérios de revisão e caminho para esclarecer dúvidas.",
-  "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/"
+  "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-27-a254b26257e2/imagens/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+  "imageName": "Carretel de Cordão e Divisor de Madeira.png",
+  "imageWidth": 1536,
+  "imageHeight": 1024,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/",
+    "publishedAt": "2026-10-29T08:21:44.968094+00:00",
+    "job": "da910c9d-706d-4076-9c52-c79dc2d43463",
+    "files": [
+      "assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+      "adocao-ia-equipe-conhecimento-compartilhado/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

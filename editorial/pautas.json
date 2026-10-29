@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-29T07:22:36.389Z",
+  "exportedAt": "2026-10-29T07:42:58.331Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-10-29-6a074ff5ad21",
+      "title": "A feira terminou. Sua conversa comercial tem um próximo passo?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Gancho verificado: cobertura oficial do Sebrae de 23/10/2026 sobre a Mercopar em Caxias do Sul registra um painel de 22/10 com grandes indústrias e discussão sobre relações com pequenos negócios e fornecedores. Usar apenas como contexto regional de encontros B2B, sem afirmar resultados fechados, reproduzir faturamentos ou atribuir orientações de acompanhamento ao painel. Tese editorial: coletar contatos em um evento não substitui preservar o contexto da conversa e combinar uma continuidade pertinente; um envio genérico pode apagar justamente a necessidade que levou as pessoas a conversar. Exemplo hipotético de PME industrial que volta de uma feira com contatos: registrar assunto tratado, informação que ficou de ser enviada, responsável e próximo movimento combinado, utilizando somente dados necessários e canais apropriados, sem cadastros indiscriminados ou insistência. Não prometer conversão nem apresentar contatos como negócios concluídos. Distinguir de integração marketing-vendas: foco na passagem concreta entre encontro presencial e continuidade, não na arquitetura geral de geração de leads. Distinguir de proposta comparável: foco no contexto do primeiro retorno, antes de elaborar orçamento. Distinguir de pós-venda e trocas: relação comercial ainda em avaliação, não atendimento de compra realizada.",
+      "audience": "Donos de PMEs B2B e equipes comerciais que participam de feiras, rodadas ou encontros de negócios e precisam dar continuidade às conversas sem mensagens genéricas.",
+      "goal": "De “voltamos com muitos contatos, então a participação deu resultado” para “preciso preservar o que foi conversado e oferecer o próximo passo pertinente antes de avaliar o que avançou”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-29",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Agência Sebrae de Notícias, Mercopar 2026: Grandes indústrias do RS revelam estratégias de competitividade",
+            "url": "https://agenciasebrae.com.br/cultura-empreendedora/mercopar-2026-grandes-industrias-do-rs-revelam-estrategias-de-competitividade/",
+            "publishedAt": "2026-10-23"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-diaria-2026-10-29",
       "title": "Seu conteúdo tem continuidade ou cada post recomeça do zero?",
@@ -11,8 +38,8 @@
       "angle": "Gancho verificado: comunicado oficial de 14/10/2026 anuncia parceria do TikTok com MADE BY US STUDIOS para coproduzir microsséries verticais conduzidas por criadores. Usar como sinal de investimento editorial da plataforma em formatos episódicos, sem transferir audiência, números promocionais, escala de produção ou resultado comercial para PMEs. Pesquisa ampliada a até 30 dias após triagem recente para buscar tema distinto. Tese: uma série de conteúdo precisa de uma pergunta ou promessa que conecte as partes e de valor em cada episódio; publicar peças numeradas não cria continuidade sozinho. Exemplo hipotético de PME de serviços que mostra em três episódios decisões sucessivas de um projeto fictício: definir a pergunta central, a contribuição de cada parte, uma breve orientação para quem chega no meio e acesso às anteriores, sem esconder resposta essencial apenas para forçar retorno. Não recomendar produzir ficção cara nem inventar cases reais, clientes ou métricas. Diferenciar de reaproveitamento de vídeo: foco na arquitetura de continuidade entre episódios novos, não em adaptar a mesma peça entre plataformas. Diferenciar de narrativas míticas e storytelling institucional: foco em progressão de uma série editorial curta, não na história de origem da marca. Diferenciar de demonstração: foco no encadeamento das partes, não em provar o funcionamento de um produto.",
       "audience": "Donos de PMEs e responsáveis por conteúdo que querem organizar séries de posts ou vídeos com continuidade e capacidade real de produção.",
       "goal": "De “se colocarmos parte 1, parte 2 e parte 3, temos uma série” para “preciso definir o que conecta os episódios e o que cada parte entrega, inclusive para quem começa pelo meio”.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-14"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "5403751e-7c9c-4e22-8920-f8232e92dd65",
+        "completedAt": "2026-10-29T08:23:28.764Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "O primeiro vídeo apresenta um problema. O segundo muda de assunto. O terceiro recebe o título de parte três, mas não existe uma ideia que explique por que as publicações deveriam ser acompanhadas juntas. O calendário tem sequência; o conteúdo ainda não tem continuidade.\n\nUma série de conteúdo precisa de uma pergunta ou promessa que conecte os episódios e de uma contribuição reconhecível em cada parte. Numerar publicações pode ajudar a organizar, mas não substitui decidir o que avança entre uma e outra.\n\nEm comunicado de 14 de outubro de 2026, o TikTok anunciou uma parceria com MADE BY US STUDIOS para coproduzir microsséries verticais conduzidas por criadores. É um investimento anunciado pela plataforma em conteúdo episódico, com escala e condições próprias. Não constitui uma promessa de audiência ou resultado para uma pequena empresa.\n\nA pergunta útil para uma PME é como organizar uma continuidade que caiba em seu repertório e em sua capacidade de produção.\n\n## Escolha uma pergunta que comporte progressão\n\nUma série pode acompanhar uma transformação, examinar decisões sucessivas ou desenvolver respostas relacionadas. O vínculo precisa ir além de repetir o mesmo cenário ou a mesma abertura.\n\nImagine uma empresa de serviços que quer mostrar como organiza um projeto fictício em três episódios. É um exemplo hipotético. A pergunta central pode ser como uma necessidade inicial se transforma em um plano de trabalho compreensível.\n\nA primeira parte trata de entender o problema. A segunda mostra uma escolha entre caminhos possíveis. A terceira explica como organizar a continuidade. Cada episódio contribui para a pergunta maior, sem precisar resumir todo o serviço.\n\nAntes de produzir, tente explicar essa relação em uma frase. Se a conexão depende apenas de chamar tudo de série, talvez os temas funcionem melhor como publicações independentes.\n\n## Defina o que cada parte entrega\n\nUm episódio pode abrir uma questão e ainda assim oferecer uma resposta útil. A continuidade não exige esconder a informação essencial para forçar o público a voltar.\n\nNo exemplo hipotético, a primeira parte pode mostrar uma pergunta que ajuda a esclarecer o pedido. Quem assistir apenas a ela já encontra algo aplicável. O interesse pelas demais nasce da possibilidade de acompanhar o próximo desenvolvimento.\n\nRegistre a contribuição de cada episódio antes de escrever os roteiros. O que será entendido ao final? O que muda em relação ao começo? Qual nova questão aparece porque aquela etapa foi esclarecida?\n\nSe duas partes entregam a mesma coisa, revise a divisão. Se uma delas existe apenas para anunciar que a resposta virá depois, confira se a fragmentação está ajudando o conteúdo ou apenas aumentando o número de peças.\n\n## Prepare uma entrada para quem chega pelo meio\n\nEm uma rede social, não é seguro presumir que todas as pessoas encontrarão a primeira parte antes das outras. A publicação precisa oferecer orientação suficiente para quem chega naquele momento.\n\nUma abertura breve pode situar o assunto e o ponto atual. No segundo episódio do projeto hipotético, a equipe pode recordar a necessidade que orienta a escolha antes de apresentar as alternativas.\n\nIsso não significa repetir o vídeo anterior inteiro. Escolha o contexto necessário para compreender aquela parte. Uma referência às anteriores pode permitir aprofundamento, mas não deveria ser a única maneira de entender uma informação básica.\n\nConfira também se a identificação da série é reconhecível. Nome, organização visual e indicação das partes podem colaborar, desde que não ocupem mais espaço que a própria contribuição do episódio.\n\n## Facilite o caminho entre os episódios\n\nA continuidade editorial também depende de acesso. Se alguém quiser começar do início, existe um caminho compreensível para encontrar as partes anteriores?\n\nOrganize os recursos disponíveis no canal, sem prometer uma funcionalidade que a plataforma não oferece naquela conta. Uma página de apoio, uma coleção ou uma indicação clara na descrição pode cumprir esse papel, conforme o contexto.\n\nConfira o percurso depois de publicar. A referência leva ao conteúdo correto? A ordem faz sentido? Um material removido deixou uma passagem sem resposta? A série continua compreensível fora da sequência ideal imaginada pela equipe?\n\nEsse trabalho é diferente de adaptar o mesmo vídeo entre canais. Aqui, a questão é permitir acompanhar conteúdos distintos que foram pensados para se relacionar.\n\n## Combine a ambição com a capacidade de manter o projeto\n\nUm formato episódico pode parecer simples porque cada peça é curta. A continuidade, porém, pede preparação: definir a progressão, produzir os materiais necessários e revisar a coerência entre as partes.\n\nAntes de anunciar uma série longa, escolha uma extensão que a equipe consiga sustentar. No exemplo, três episódios planejados podem ser mais úteis que uma promessa aberta de publicação semanal sem material preparado.\n\nConfirme quem participa, quais autorizações são necessárias e como serão tratadas informações de projetos reais. Um caso fictício deve continuar identificado como fictício; uma série não autoriza inventar clientes, resultados ou experiências para preencher a narrativa.\n\nSe a produção mudar, revise o compromisso de continuidade. O objetivo não é manter uma estrutura a qualquer custo, mas evitar que a pessoa encontre uma promessa que a empresa deixou de acompanhar.\n\n## Observe se existe avanço para quem acompanha\n\nDepois de publicar, não avalie apenas a soma das visualizações. Procure entender se as pessoas reconhecem o assunto, localizam as partes e fazem perguntas relacionadas ao desenvolvimento apresentado.\n\nEsses sinais exigem contexto. Um episódio pode circular mais por um motivo específico sem demonstrar que a série inteira funcionou. Uma dúvida recorrente pode indicar falta de orientação ou interesse em um ponto que merece outro material.\n\nNo projeto hipotético, a equipe pode descobrir que a transição entre entender a necessidade e escolher o caminho ficou pouco clara. Em vez de produzir mais partes automaticamente, pode melhorar essa passagem ou criar uma explicação complementar.\n\nNão é necessário transformar toda publicação em capítulo. Alguns assuntos pedem uma resposta direta e completa. A série faz sentido quando a continuidade ajuda a compreender algo que se desenvolve.\n\n## Planeje o encerramento como parte da promessa\n\nUma sequência curta pode terminar retomando a pergunta inicial e mostrando o que ficou esclarecido. Esse fechamento ajuda a distinguir uma progressão planejada de um conjunto de posts que parou porque a pauta acabou.\n\nNo exemplo, a última parte pode reunir as decisões e indicar o próximo passo pertinente, sem transformar a conclusão em pressão comercial. A pessoa deve conseguir reconhecer o percurso feito e localizar o que ainda depende de outra avaliação.\n\nAntes de escrever parte um, defina o que conecta os episódios, o que cada um entrega e como alguém chega ao final. Continuidade não aparece apenas na numeração. Ela aparece quando cada publicação tem valor próprio e também faz o conjunto avançar.",
+      "sources": "[TikTok, parceria com MADE BY US STUDIOS para microsséries, 14/10/2026](https://newsroom.tiktok.com/tiktok-and-made-by-us-studios-enter-partnership-to-co-produce-creator-led-micro-series?lang=en)\n\nO anúncio descreve uma parceria de produção da plataforma, sem promessa de resultado para PMEs. A empresa de serviços e o projeto são hipotéticos.",
+      "prompt": "Natural cinematic editorial photograph of one craftsperson walking through a modest workshop past three successive stages of the same curved wooden structure arranged along an open wall, from a rough frame to a partially assembled form and a finished unbranded piece, wide side view with the person moving naturally between stages rather than presenting to camera, realistic timber grain and practical workspace, soft neutral daylight with a restrained teal ambient accent inspired by #08ffb1 on the far wall, natural skin tones, controlled contrast and generous negative space, no meeting, papers, laptop, readable text, stage numbers or logos --ar 3:2",
+      "imageAlt": "Pessoa atravessa uma oficina diante de três etapas de construção de uma estrutura curva de madeira, com acento teal discreto ao fundo."
     },
     {
       "id": "pauta-reposicao-2026-10-28-5d882def914b",
@@ -38,8 +76,8 @@
       "angle": "Gancho verificado: Ipsos publicou em 19/10/2026 o índice LSEG/Ipsos de sentimento do consumidor americano de outubro, com nota metodológica que informa público e período de coleta: 1.000 americanos de 18 a 74 anos, entrevistados entre 25/09 e 01/10. Usar o recorte metodológico como exemplo de leitura, sem transferir resultados para o Brasil, clientes de uma PME ou mercado B2B; não interpretar o índice como previsão de vendas ou orientação financeira. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo. Tese: uma notícia de pesquisa pode orientar perguntas, mas sua aplicabilidade depende de quem respondeu, onde, quando e sobre o quê; a categoria genérica consumidores não equivale automaticamente à carteira da empresa. Exemplo hipotético de PME que quer alterar uma mensagem porque viu uma manchete internacional: localizar a fonte original e a metodologia, formular uma hipótese limitada e confrontá-la com dúvidas comerciais e observações locais, sem inventar validação estatística nem tratar poucos relatos como amostra representativa. Não ensinar desenho amostral avançado nem desacreditar pesquisas em geral. Diferenciar de dados de campanha: foco no alcance de evidências externas, não em rastreamento e eventos. Diferenciar de atribuição: foco no público e no recorte de pesquisa, não na causalidade de vendas. Diferenciar de tendências culturais: foco na leitura metodológica de levantamento, não em participação em assuntos virais.",
       "audience": "Donos de PMEs e responsáveis por estratégia e conteúdo que utilizam pesquisas de comportamento para decidir mensagens e precisam distinguir contexto de mercado e evidência sobre seu próprio público.",
       "goal": "De “a pesquisa diz que o consumidor mudou, então precisamos mudar a comunicação” para “preciso entender o recorte do levantamento e verificar que hipótese ele permite formular sobre quem atendemos”.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -55,7 +93,18 @@
             "publishedAt": "2026-10-19"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "6db0d9f1-6079-4d33-8e1c-e230a2f80a48",
+        "completedAt": "2026-10-29T08:23:28.615Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A manchete diz que os consumidores estão menos confiantes. Na reunião, alguém propõe mudar a mensagem da campanha. A conclusão parece rápida e bem informada, mas falta uma pergunta: quem respondeu à pesquisa se parece com quem a empresa atende?\n\nUma pesquisa de comportamento do consumidor pode oferecer contexto e ajudar a formular perguntas. Isso não significa que descreva automaticamente a carteira de uma PME, uma região ou uma situação de compra específica. O alcance da evidência depende do recorte do levantamento.\n\nEm 19 de outubro de 2026, a Ipsos publicou o índice LSEG/Ipsos de sentimento do consumidor americano de outubro. A nota metodológica informa uma amostra de mil americanos de 18 a 74 anos, com coleta entre 25 de setembro e 1º de outubro. Esse recorte é parte da informação, não um detalhe que pode desaparecer quando a manchete chega à apresentação.\n\nAntes de usar uma pesquisa para orientar uma mensagem, confira que pergunta ela permite fazer sobre seu público.\n\n## Volte à fonte antes de levar a conclusão para a campanha\n\nUma notícia pode condensar o levantamento em uma frase. Um post pode condensar a notícia ainda mais. Nessa passagem, país, período e perfil dos participantes podem ficar de fora.\n\nLocalize a publicação original e sua metodologia. Quem produziu? O que foi perguntado? Qual público participou? Quando as respostas foram coletadas? Há limites explicitados pelo responsável pelo estudo?\n\nNão é necessário dominar todas as técnicas de pesquisa para reconhecer que essas informações importam. Quando faltam elementos para interpretar um resultado, a resposta responsável pode ser buscar orientação, em vez de preencher a ausência com uma suposição.\n\nNo exemplo do índice americano, o próprio título e a nota metodológica ajudam a localizar o alcance. Uma leitura que o transformasse em retrato imediato do comprador brasileiro acrescentaria uma conclusão que aquela evidência não fornece sozinha.\n\n## A palavra consumidor reúne situações muito diferentes\n\nImagine uma pequena empresa brasileira de serviços para outras empresas. É um exemplo hipotético. A equipe encontra uma pesquisa internacional sobre confiança dos consumidores e considera adotar uma comunicação inteiramente centrada em economia.\n\nSeus compradores, porém, podem decidir em conjunto, seguir um orçamento corporativo e avaliar riscos de implementação. Esses aspectos não desaparecem porque as pessoas envolvidas também são consumidoras na vida cotidiana.\n\nO levantamento pode levantar uma hipótese: a preocupação com compromissos futuros merece ser investigada nas conversas comerciais? A hipótese ainda precisa encontrar contexto na realidade da empresa.\n\nNão é preciso rejeitar a pesquisa por ter outro público. É preciso distinguir o que ela descreve do que a equipe está propondo investigar. Essa diferença preserva a utilidade da referência sem transformá-la em autorização para qualquer mudança.\n\n## Confira o período da pergunta, não apenas a data da notícia\n\nA publicação acontece em uma data; a coleta pode ter ocorrido antes. Entre os dois momentos, as condições relevantes podem mudar. O intervalo não invalida o estudo, mas faz parte de sua interpretação.\n\nNo levantamento da Ipsos citado, a coleta terminou no início de outubro e a publicação ocorreu no dia 19. Uma apresentação que mencionasse somente a data da notícia esconderia essa distinção.\n\nNa rotina da PME, registre o período junto da fonte. Pergunte se o tema permite uma leitura mais duradoura ou se depende de circunstâncias muito específicas. Evite apresentar uma fotografia de determinado momento como descrição permanente do comportamento.\n\nTambém confira qual situação a pergunta aborda. Uma expectativa sobre a economia não equivale necessariamente a uma decisão concreta de contratar o serviço que sua empresa oferece.\n\n## Transforme o dado em uma pergunta delimitada\n\nUma hipótese útil indica o que a empresa pretende observar, sem anunciar que já conhece a resposta. No exemplo hipotético, a equipe poderia investigar se compradores estão pedindo mais clareza sobre etapas e compromissos da contratação.\n\nIsso orienta a escuta de dúvidas comerciais e a revisão dos materiais existentes. A pergunta deixa de ser “como usar essa porcentagem na campanha?” e passa a ser “que informação relevante pode estar faltando para quem avalia nossa oferta?”.\n\nA mudança proposta também precisa ter uma razão. Se a página não esclarece responsabilidades, melhorar a explicação pode ser pertinente independentemente de uma manchete internacional. Não é necessário atribuir ao estudo a descoberta de todo problema local.\n\nMantenha separadas a evidência externa, a observação da equipe e a decisão editorial. Assim, fica possível discutir qual parte está bem sustentada e qual continua sendo uma aposta a acompanhar.\n\n## Escuta local ajuda, mas não vira pesquisa representativa por aproximação\n\nConversas comerciais podem revelar dúvidas importantes. Comentários e pedidos de atendimento podem mostrar situações que merecem atenção. Eles não descrevem automaticamente todos os clientes nem representam quem não entrou em contato.\n\nSe três pessoas mencionam uma preocupação, registre a ocorrência e o contexto. Evite concluir que todo o público mudou de comportamento. Da mesma forma, a ausência de reclamações não comprova que uma questão seja irrelevante.\n\nNo exemplo, a PME pode reunir perguntas recebidas em diferentes momentos e conferir o que seus materiais explicam. Isso permite ajustar um ponto concreto sem fingir que realizou um levantamento estatístico.\n\nQuando a decisão exigir um entendimento mais amplo, busque uma investigação adequada ao problema e ao alcance pretendido. Uma escuta útil não precisa receber um nome maior do que aquilo que efetivamente foi feito.\n\n## Apresente a referência com os limites que a tornam útil\n\nAo levar um estudo para a reunião, inclua fonte, público, lugar, período e questão principal. Depois explique qual hipótese ele sugere e o que a empresa ainda precisa verificar.\n\nEssa apresentação ajuda a discutir a aplicabilidade antes de transformar o número em argumento de autoridade. Também permite que outra pessoa consulte a origem e entenda o raciocínio sem depender de uma frase solta no slide.\n\nSe decidir mudar uma mensagem, registre a alteração e o motivo. Acompanhe o que as pessoas compreendem e as dúvidas que aparecem, sem tratar uma melhora posterior como prova automática de toda a hipótese.\n\nPesquisas ampliam repertório quando ajudam a formular perguntas melhores. Na próxima manchete sobre o consumidor, procure primeiro o recorte. A referência pode ser importante sem descrever exatamente os seus clientes. Reconhecer essa distância é o começo de uma aplicação mais cuidadosa.",
+      "sources": "[Ipsos, LSEG/Ipsos Primary Consumer Sentiment Index de outubro de 2026, 19/10/2026](https://www.ipsos.com/en-us/october-2026-lsegipsos-primary-consumer-sentiment-index)\n\nLevantamento sobre consumidores americanos, sem extrapolação de resultados para o Brasil ou para a carteira de uma PME. A empresa descrita é hipotética; o artigo não faz previsão de vendas nem oferece orientação financeira.",
+      "prompt": "Conceptual editorial photograph with no people, a large translucent oval magnifying lens held in a simple brass stand above one small section of a broad woven textile made from clearly different colored patches, the lens enlarges only the patch beneath it while the surrounding fabric remains visible and distinct, realistic optical distortion and tactile fibers, diagonal close composition with negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 reflected along one edge of the glass, controlled contrast, no graphs, charts, numbers, letters, cubes, prisms, beams or logos --ar 3:2",
+      "imageAlt": "Uma lente amplia apenas um trecho de um tecido feito de retalhos de cores diferentes, com reflexo teal discreto na borda do vidro."
     },
     {
       "id": "pauta-reposicao-2026-10-28-b6546ae763a3",
@@ -85,19 +134,27 @@
       },
       "automation": {
         "stage": "Revisão",
-        "state": "pending",
-        "lastJob": "98fa133d-f58c-4615-83fe-b11217518346",
-        "completedAt": "2026-10-29T02:22:45.054Z",
-        "message": "Redação e prompt prontos para edição."
+        "state": "done",
+        "lastJob": "d1f4d8c8-6d4d-4a3e-8d7b-648228ff44d4",
+        "completedAt": "2026-10-29T08:20:53.551Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "1e59bce1b7233e05ebfe527b95e714017c0d552dee6fbe024a2cda7224c71311"
       },
       "body": "A empresa trocou um material e quer contar a novidade. Na reunião, a mudança tem contornos claros: um componente passou a incorporar conteúdo reciclado. Na campanha, a informação vira outra coisa: “agora, um produto sustentável”. Entre a alteração e a chamada, o alcance da afirmação aumentou.\n\nComunicar uma melhoria ambiental exige preservar essa relação com o que foi verificado. Qual parte mudou? Em quais versões? Que documentação sustenta a informação? O público consegue distinguir a alteração específica de uma avaliação sobre o produto inteiro?\n\nEm comunicado de 13 de outubro de 2026, a IKEA apresentou uma atualização da bolsa FRAKTA e informou uma participação mínima de material reciclado em dois tamanhos, junto de detalhes sobre material e fabricação. São declarações da fabricante sobre versões determinadas. O anúncio não deve ser convertido automaticamente em uma conclusão independente sobre todo o impacto ambiental da oferta.\n\nA referência útil para uma PME está na necessidade de dar contorno à mudança que pretende comunicar.\n\n## Comece pelo que foi alterado de fato\n\nImagine uma pequena empresa que substitui um componente da embalagem de seu produto. É um exemplo hipotético. O fornecedor informa uma nova composição para aquela peça, enquanto os demais elementos continuam iguais.\n\nAntes de preparar a chamada, registre a alteração em linguagem direta. O que era utilizado? O que passou a ser utilizado? A informação vale para o componente, para a embalagem inteira ou para o produto? A mudança já está presente nos itens comercializados?\n\nEssas perguntas ajudam a evitar que uma melhoria localizada se transforme em atributo de toda a oferta. Também permitem reconhecer o que ainda precisa ser confirmado.\n\nUma comunicação precisa não precisa apresentar cada detalhe técnico na chamada principal. Precisa respeitar o alcance da informação e oferecer contexto suficiente para quem quiser entendê-la melhor.\n\n## Confira de onde vem a informação\n\nUma apresentação comercial do fornecedor pode anunciar vantagens, mas a equipe precisa identificar qual documento sustenta a afirmação que pretende publicar. Uma frase recebida por mensagem não esclarece necessariamente composição, método ou versões abrangidas.\n\nNo exemplo hipotético, a empresa pode solicitar a documentação pertinente e confirmar a quais lotes ou especificações ela se aplica. Se houver dúvidas técnicas, deve buscar a avaliação apropriada antes de transformar o material em promessa pública.\n\nRegistre também quem confirmou a informação e quando ela foi verificada. Esse cuidado permite revisar o conteúdo se o componente ou o fornecedor mudar.\n\nNão é necessário fazer o marketing interpretar sozinho documentos que exigem conhecimento especializado. O trabalho de comunicação inclui reconhecer o que precisa de confirmação, em vez de preencher uma lacuna com uma expressão mais atraente.\n\n## Não amplie o componente para o produto inteiro\n\nUma alteração de material pode ser relevante sem resolver todas as questões associadas ao produto. Transporte, produção, uso, durabilidade e destino envolvem condições próprias, que uma informação isolada não permite avaliar por completo.\n\nSe o dado confirmado diz respeito a um componente, apresente esse componente. Se vale para determinada versão, deixe a versão reconhecível. Evite usar uma imagem da linha inteira quando apenas parte dela recebeu a mudança, sem explicar essa diferença.\n\nNo caso hipotético, uma descrição da nova composição da peça pode ser mais precisa que um adjetivo aplicado a todo o produto. A escolha ajuda a valorizar o avanço real sem sugerir uma conclusão que não foi examinada.\n\nO mesmo cuidado vale para comparações. Dizer que houve redução exige esclarecer o que foi comparado e a qual condição a comparação corresponde. Não trate uma referência desconhecida como evidente para o público.\n\n## Palavras próximas podem descrever coisas diferentes\n\nConteúdo reciclado, possibilidade de reciclagem e reutilização não são informações equivalentes. Uma característica do material não confirma, sozinha, que ele será coletado ou processado em qualquer lugar.\n\nAo redigir, confira qual condição está realmente documentada. Evite substituir um termo por outro apenas para tornar a frase mais curta. Se o destino depende de uma estrutura específica, essa dependência não deve desaparecer na simplificação.\n\nA equipe também precisa ter cuidado com símbolos e selos. Uma marca gráfica criada para a campanha pode ser interpretada como avaliação externa. Não apresente uma escolha visual como certificação que a empresa não possui.\n\nQuestões técnicas e exigências aplicáveis pedem avaliação própria. O objetivo editorial é não acrescentar, por palavras ou imagens, uma certeza que os documentos disponíveis não oferecem.\n\n## A fotografia e a chamada precisam contar a mesma mudança\n\nUma frase delimitada pode perder precisão quando aparece sob imagens que sugerem uma transformação muito mais ampla. Florestas, rios limpos e expressões absolutas podem fazer parte da leitura da peça, mesmo quando a nota técnica é cuidadosa.\n\nConfira o conjunto. O título se refere ao que mudou? A imagem mostra a versão correta? A legenda explica a parte envolvida? Uma ressalva distante tenta corrigir uma impressão criada na área mais visível?\n\nNo exemplo, mostrar o componente alterado e explicar sua função pode ser uma escolha mais informativa que cobrir toda a apresentação com uma linguagem ambiental genérica. A solução visual deve ajudar a compreender, não ampliar silenciosamente a afirmação.\n\nRevise também versões menores da peça. Quando o conteúdo vira uma imagem isolada ou um anúncio curto, o contexto necessário continua disponível?\n\n## Prepare a resposta para quem quiser conferir\n\nUma pessoa pode perguntar qual parte mudou, desde quando ou como a informação foi obtida. O atendimento precisa conseguir localizar uma resposta consistente, sem improvisar a interpretação de uma frase de campanha.\n\nOrganize uma referência interna com a descrição aprovada, os documentos pertinentes e o responsável por dúvidas técnicas. Se uma informação ainda não puder ser confirmada, explique a necessidade de verificação em vez de completar a resposta com uma promessa geral.\n\nEssa preparação também ajuda a encontrar desencontros entre canais. Uma página pode apresentar a melhoria específica enquanto a equipe comercial utiliza um material antigo com afirmações mais amplas. A revisão precisa alcançar os lugares em que a oferta é explicada.\n\n## Mantenha o contexto enquanto o produto muda\n\nUma informação correta pode deixar de corresponder à composição disponível. Por isso, a comunicação sobre materiais e processos precisa de um responsável por revisar mudanças posteriores.\n\nNa PME hipotética, a substituição de fornecedor ou a convivência de versões exige conferir o que cada cliente recebe e como a apresentação distingue os itens. O conteúdo não deve presumir que toda unidade já incorpora uma alteração apenas porque ela foi aprovada no projeto.\n\nNa próxima divulgação, comece pela melhoria que consegue descrever e sustentar. Dê a ela o valor que tem, com objeto e limites claros. Explicar uma mudança concreta oferece ao público algo que pode compreender e conferir, sem pedir que um avanço específico prove sozinho uma promessa sobre o produto inteiro.",
       "sources": "[Inter IKEA newsroom, atualização da bolsa FRAKTA, 13/10/2026](https://www.ikea.com/global/en/newsroom/sustainability/ikea-celebrates-30-years-of-the-frakta-bag-261013/)\n\nAs informações sobre a FRAKTA são declarações da fabricante sobre versões determinadas, sem avaliação independente de impacto total. A PME e a alteração de componente são hipotéticas. O artigo trata de precisão editorial; afirmações reais exigem verificação técnica apropriada.",
       "prompt": "Natural editorial photograph of one adult quality technician standing beside a partially opened reusable woven shopping bag suspended on a simple inspection rack in a modest workshop, close side view of their hands carefully checking a single contrasting material patch while the rest of the bag remains clearly visible, candid precise gesture, no papers, meeting or laptop, tactile fibers and realistic construction, soft neutral workshop window key light preserving natural skin tones with a restrained teal ambient reflection inspired by #08ffb1 on the inspection rack, generous negative space and controlled contrast, no nature backdrop, leaves, certification symbols, readable text or logos --ar 3:2",
-      "imageAlt": "Pessoa inspeciona um pequeno trecho de material em uma bolsa de tecido suspensa numa oficina, com reflexo teal discreto no suporte.",
-      "keyword": "",
-      "slug": "",
-      "meta": "",
-      "date": ""
+      "imageAlt": "Bolsa Frakta da IKEA",
+      "keyword": "comunicar uma melhoria ambiental",
+      "slug": "comunicar-melhoria-ambiental-escopo-evidencia",
+      "meta": "Comunicar uma melhoria ambiental exige explicar o que mudou, a que parte se aplica e qual evidência sustenta a afirmação. Evite ampliar uma mudança específica.",
+      "date": "2026-10-31",
+      "imageFile": "conteudos/pauta-reposicao-2026-10-28-b6546ae763a3/imagens/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
+      "imageName": "frakta.jpg",
+      "imageWidth": 816,
+      "imageHeight": 544,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
+      "faq": "O que conferir antes de comunicar uma melhoria ambiental?\nIdentifique o que mudou, as versões abrangidas e a documentação pertinente, buscando confirmação técnica quando necessária.\n\nUma mudança de componente permite classificar todo o produto como sustentável?\nUma informação sobre um componente não comprova, sozinha, uma conclusão sobre o impacto ambiental de toda a oferta.\n\nPor que revisar imagens e legendas junto da chamada?\nPorque a apresentação visual pode sugerir uma transformação mais ampla que a informação delimitada no texto.",
+      "url": "https://www.agenciatweed.com.br/comunicar-melhoria-ambiental-escopo-evidencia/"
     },
     {
       "id": "pauta-reposicao-2026-10-28-5213addb8c7f",
@@ -107,11 +164,16 @@
       "angle": "Gancho verificado: episódio do Marketing Vanguard publicado pelo Adweek em 27/10/2026, com Cheryl Guerin, é apresentado na página oficial do programa como conversa sobre diferenciação e agilidade de marca, incluindo a importância de dizer não e identificar oportunidades culturais. Usar apenas a apresentação editorial acessível do episódio; não alegar audição ou transcrição integral, não inventar falas nem casos. A perspectiva da executiva não comprova resultados universais. Tese: agilidade também envolve decidir quais conversas não merecem uma ação da marca; oportunidade cultural precisa de pertinência ao público, papel legítimo, tempo e capacidade de execução. Exemplo hipotético de PME pressionada a entrar em um meme ou assunto viral sem relação com sua oferta: conferir o que tem a acrescentar, quem precisa aprovar e se ainda existe contexto quando a peça estiver pronta; decidir participar, adaptar ou deixar passar, sem transformar silêncio em regra universal. Evitar comentários sobre crises reais, exploração de sofrimento ou promessas de alcance. Diferenciar de humor de marca: foco em escolher a oportunidade e o papel da empresa, não no alvo de uma piada. Diferenciar de restrição criativa: foco em triagem de demandas externas e oportunidade cultural, não em criação a partir de limites. Diferenciar de aprovação: foco no critério anterior de participação, não em acelerar feedback.",
       "audience": "Donos de PMEs e responsáveis por conteúdo que recebem pedidos para reagir a tendências, memes e conversas culturais e precisam selecionar ações pertinentes à marca.",
       "goal": "De “se está em alta, precisamos publicar antes que passe” para “preciso decidir se temos algo pertinente a acrescentar e condições de participar no tempo e no contexto certos”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -140,9 +202,18 @@
       "keyword": "participar de tendências",
       "slug": "marca-tendencias-criterio-participacao",
       "meta": "Participar de tendências pede critério: avalie pertinência ao público, contribuição da marca e capacidade de agir enquanto o contexto faz sentido.",
-      "date": "",
+      "date": "2026-10-30",
       "faq": "Como decidir se uma tendência merece uma ação da marca?\nConfira o contexto, a relação com o público, a contribuição possível e as condições de produzir uma peça adequada no tempo disponível.\n\nA marca precisa repetir o formato que está em alta?\nNão. Uma observação pertinente pode virar um material próprio quando o formato viral não combina com a empresa.\n\nComo avaliar a participação além do alcance?\nObserve o que o público compreendeu, a associação com a marca, as conversas geradas e o esforço exigido da equipe.",
-      "url": "https://www.agenciatweed.com.br/marca-tendencias-criterio-participacao/"
+      "url": "https://www.agenciatweed.com.br/marca-tendencias-criterio-participacao/",
+      "imageFile": "conteudos/pauta-reposicao-2026-10-28-5213addb8c7f/imagens/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+      "imageName": "Metais Dourados e Fitas ao Vento.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-10-29T07:34:27.774Z"
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-28-d6abd0c36534",
@@ -152,11 +223,16 @@
       "angle": "Gancho verificado: reportagem de 26/10/2026 no Branding in Asia apresenta o trabalho da Bulletproof para Selleys Undo Glue, com nome e expressão visual que destacam a possibilidade de desfazer a fixação. A página oficial da Selleys confirma o nome e a proposta de adesivo removível, com condições de superfície e uso; não possui data editorial verificável, por isso não atribuir a ela a data da reportagem. Usar o relato sobre o projeto e declarações atribuídas aos responsáveis, sem tratar facilidade de compreensão como efeito comprovado, sem repetir estatística promocional sobre abandono de corredor, sem alegar pioneirismo, resultados comerciais ou disponibilidade brasileira. Tese: nomear um produto novo envolve oferecer uma primeira pista da proposta e distingui-lo no portfólio; originalidade verbal não deveria depender de uma longa explicação para permitir entender a categoria e a utilidade. Exemplo hipotético de PME que lança uma nova versão de serviço com nome criativo, mas não esclarece a diferença em relação ao plano existente: testar nome acompanhado de descritor e apresentação conjunta, ouvir o que pessoas de fora entendem e corrigir ambiguidades. Não fornecer parecer sobre registro de marca ou prometer exclusividade; validação jurídica e pesquisa de disponibilidade são etapas próprias. Diferenciar de clareza de logotipo: foco em nome de produto e descritor dentro do portfólio, não em identidade institucional. Diferenciar de proposta comercial: foco na primeira identificação da novidade, não em tabela de escopo. Diferenciar de embalagem funcional: foco verbal e hierarquia da oferta, não em ergonomia.",
       "audience": "Donos de PMEs e responsáveis por marca que vão lançar produtos, planos ou versões e precisam torná-los distinguíveis sem depender da explicação do vendedor.",
       "goal": "De “um nome diferente já mostra que é uma novidade” para “preciso conferir que pista o nome e seu descritor oferecem sobre categoria, utilidade e diferença no portfólio”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -185,9 +261,28 @@
       "keyword": "nome de produto",
       "slug": "nome-produto-clareza-proposta",
       "meta": "O nome de produto oferece uma primeira pista da proposta. Avalie descritor, diferenças no portfólio e o que pessoas de fora entendem antes do lançamento.",
-      "date": "",
+      "date": "2026-10-29",
       "faq": "Um nome precisa explicar sozinho toda a oferta?\nNão. Ele pode funcionar junto de um descritor e de uma apresentação que esclareça categoria, finalidade e diferenças relevantes.\n\nComo avaliar a compreensão de um nome novo?\nMostre o nome com uma apresentação breve e ouça a primeira interpretação antes de explicar a intenção criativa.\n\nAvaliar clareza substitui pesquisar disponibilidade do nome?\nNão. A compreensão da proposta e a verificação de disponibilidade e proteção exigem critérios e etapas próprios.",
-      "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/"
+      "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/",
+      "imageFile": "conteudos/pauta-reposicao-2026-10-28-d6abd0c36534/imagens/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+      "imageName": "glue.jpg",
+      "imageWidth": 816,
+      "imageHeight": 544,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/",
+        "publishedAt": "2026-10-29T08:24:14.067032+00:00",
+        "job": "9a56409f-7a49-4e88-8d8f-0b7570683f30",
+        "files": [
+          "assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+          "nome-produto-clareza-proposta/index.html",
+          "blog/index.html",
+          "blog-marcas-que-ficam/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-diaria-2026-10-28",
@@ -197,11 +292,16 @@
       "angle": "Gancho verificado: em publicação de 20/10/2026, o Pentawards apresentou os vencedores de 2026, anunciados em cerimônia de 16/10. Entre eles, Heinz Dipper integra um compartimento para molho à embalagem de batatas, segundo a descrição do organizador. Usar somente essa solução estrutural como exemplo descrito, sem repetir alegações de aumento comercial, superioridade universal, validação técnica independente ou disponibilidade no Brasil. Pesquisa ampliada a até 30 dias, pois a fonte pertinente foi publicada há oito dias. Tese: o design da embalagem deve considerar a sequência real de uso, não apenas a aparência na prateleira ou na foto; abrir, apoiar, segurar e acessar o produto fazem parte da experiência. Aplicar a PMEs de alimentação ou produtos físicos com exemplo hipotético de consumidor que precisa equilibrar embalagem, produto e acessório enquanto usa: observar o gesto, identificar um esforço evitável e testar uma alternativa com protótipo seguro e condições plausíveis. Não recomendar materiais, aquecimento ou contato alimentar sem validação técnica apropriada; não fazer alegações ambientais nem dar parecer regulatório. Distinguir de embalagem e pós-venda: foco específico na ergonomia e na estrutura durante o consumo, não no encantamento da entrega. Distinguir de experiência sensorial: foco no gesto e na função, não em acrescentar estímulos. Distinguir de redesign digital: interação física com a embalagem, sem repetir navegação ou mudança de versões.",
       "audience": "Donos de PMEs de alimentação e produtos físicos, responsáveis por marca e desenvolvimento de embalagem que precisam conciliar apresentação, operação e facilidade de uso.",
       "goal": "De “a embalagem está bonita e protege o produto, então o projeto está resolvido” para “preciso observar o que a pessoa faz com ela durante o uso e verificar onde a estrutura ajuda ou atrapalha”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -230,9 +330,18 @@
       "keyword": "design de embalagem",
       "slug": "design-embalagem-gesto-uso",
       "meta": "O design de embalagem precisa acompanhar abertura, apoio e consumo. Observe os gestos do cliente e teste a estrutura junto da operação.",
-      "date": "",
+      "date": "2026-10-30",
       "faq": "O que observar no uso de uma embalagem?\nAcompanhe como a pessoa abre, segura, retira, apoia e guarda o produto nas condições previstas.\n\nUm protótipo comprova a segurança do material final?\nNão. Um modelo pode esclarecer forma e sequência de uso, mas resistência, contato alimentar e outras exigências precisam de validação técnica apropriada.\n\nPor que envolver a operação no projeto?\nPorque a embalagem também precisa ser montada, preenchida, fechada e transportada de maneira consistente.",
-      "url": "https://www.agenciatweed.com.br/design-embalagem-gesto-uso/"
+      "url": "https://www.agenciatweed.com.br/design-embalagem-gesto-uso/",
+      "imageFile": "conteudos/pauta-diaria-2026-10-28/imagens/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+      "imageName": "Lanche de rua no mercado molhado.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-10-29T07:26:32.812Z"
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-27-a254b26257e2",
@@ -242,11 +351,16 @@
       "angle": "Gancho verificado: em 14/10/2026, Meta publicou resultados de pesquisa YouGov encomendada pela empresa com pequenos negócios em nove mercados da Ásia-Pacífico, destacando demanda por orientação e treinamento apesar da adoção de IA. Não tratar relatos de produtividade como efeito causal comprovado nem extrapolar percentuais para PMEs brasileiras; a nota metodológica diz que a amostra não é nacionalmente representativa. Preferir apenas a constatação contextual, sem repetir números promocionais, cases ou recomendar ferramentas da patrocinadora. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo recente. Tese: contratar uma ferramenta e ter alguém que a domina não significa que a empresa desenvolveu uma prática compartilhada; a continuidade depende de orientação por tarefa, exemplos verificáveis, limites e espaço para aprender. Exemplo hipotético de PME cuja preparação de materiais depende de um único colaborador: organizar um exercício com informações fictícias, mostrar como conferir o resultado, registrar um procedimento breve e garantir que outra pessoa consiga repetir a tarefa com revisão apropriada. Não inserir dados privados em ferramentas nem prometer autonomia total, retorno ou substituição de profissionais. Distinguir de IA e manual de marca: foco na transferência de conhecimento entre pessoas, não no briefing visual. Distinguir de aprovação de campanha: foco na aprendizagem e continuidade do trabalho, não no gargalo de decisões. Distinguir de humanização de IA: foco em capacitação, não na aparência do texto.",
       "audience": "Donos de PMEs e responsáveis por equipes de marketing que adotaram ferramentas de IA, mas concentram o conhecimento de uso em uma pessoa e precisam preparar uma rotina compartilhada.",
       "goal": "De “a assinatura está contratada e alguém sabe usar, então a adoção está feita” para “preciso tornar o conhecimento praticável por outras pessoas, com critérios de conferência e responsabilidades claras”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -275,9 +389,28 @@
       "keyword": "adoção de IA na empresa",
       "slug": "adocao-ia-equipe-conhecimento-compartilhado",
       "meta": "A adoção de IA na empresa exige conhecimento compartilhado. Delimite tarefas, pratique com dados fictícios e defina critérios de conferência e apoio.",
-      "date": "",
+      "date": "2026-10-28",
       "faq": "Por onde começar a capacitação da equipe em IA?\nEscolha uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência, usando dados fictícios para praticar.\n\nComo verificar a transferência de conhecimento?\nObserve outra pessoa realizando uma tarefa equivalente e registre onde ainda precisa de orientação ou revisão.\n\nO que incluir num procedimento de uso de IA?\nRegistre finalidade, materiais permitidos, passos principais, exemplos comentados, critérios de revisão e caminho para esclarecer dúvidas.",
-      "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/"
+      "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/",
+      "imageFile": "conteudos/pauta-reposicao-2026-10-27-a254b26257e2/imagens/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+      "imageName": "Carretel de Cordão e Divisor de Madeira.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/",
+        "publishedAt": "2026-10-29T08:21:44.968094+00:00",
+        "job": "da910c9d-706d-4076-9c52-c79dc2d43463",
+        "files": [
+          "assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+          "adocao-ia-equipe-conhecimento-compartilhado/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-27-721f33d03844",

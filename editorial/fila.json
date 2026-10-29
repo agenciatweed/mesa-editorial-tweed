@@ -4831,6 +4831,474 @@
       "createdAt": "2026-10-28T22:20:20.497Z",
       "startedAt": "2026-10-29T02:21:28.558Z",
       "completedAt": "2026-10-29T02:22:45.106Z"
+    },
+    {
+      "id": "d1f4d8c8-6d4d-4a3e-8d7b-648228ff44d4",
+      "itemId": "pauta-reposicao-2026-10-28-b6546ae763a3",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "1e59bce1b7233e05ebfe527b95e714017c0d552dee6fbe024a2cda7224c71311",
+      "snapshot": "66bdb61f95b2c7aa9613584637bcebe3b51405a455ff8fb450593fcf1dbe729c",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-b6546ae763a3",
+        "title": "Sua marca explica a melhoria ambiental ou só chama o produto de sustentável?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 13/10/2026, IKEA anunciou atualização da bolsa FRAKTA e especificou a participação de material reciclado em dois tamanhos, junto de informações sobre material e fabricação. Tratar os dados como declarações da fabricante sobre aquele produto e versões, sem afirmar avaliação independente de ciclo de vida, superioridade ambiental global ou disponibilidade brasileira. A janela foi ampliada a até 30 dias para selecionar tema ainda não coberto. Tese: uma melhoria delimitada precisa ser comunicada com objeto, escopo, referência e limites; chamar toda a oferta de sustentável pode sugerir uma conclusão mais ampla que a evidência disponível. Exemplo hipotético de PME que altera um componente de um produto: confirmar documentação com fornecedor, distinguir componente de produto inteiro, explicar o que mudou e não extrapolar para impacto total, reciclabilidade local ou neutralidade. Não dar parecer jurídico, criar selo ou orientar certificações sem base; alegações públicas reais exigem verificação técnica apropriada. Diferenciar de embalagem funcional: foco na precisão da afirmação ambiental, não no gesto de uso. Diferenciar de imagem e prova de entrega: foco no alcance de uma declaração sobre materiais e mudanças, não na natureza documental da imagem. Diferenciar de redesign: foco em comunicação verificável de melhoria ambiental, não em preservar navegação.",
+        "audience": "Donos de PMEs e responsáveis por marca que precisam comunicar mudanças em materiais, fornecedores ou processos sem transformar uma melhoria específica em promessa ambiental genérica.",
+        "goal": "De “mudamos um material, então podemos chamar a oferta de sustentável” para “preciso explicar exatamente o que foi alterado, a que parte se aplica e o que a documentação permite afirmar”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Inter IKEA newsroom, atualização da bolsa FRAKTA em seu aniversário de 30 anos",
+              "url": "https://www.ikea.com/global/en/newsroom/sustainability/ikea-celebrates-30-years-of-the-frakta-bag-261013/",
+              "publishedAt": "2026-10-13"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "98fa133d-f58c-4615-83fe-b11217518346",
+          "completedAt": "2026-10-29T02:22:45.054Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A empresa trocou um material e quer contar a novidade. Na reunião, a mudança tem contornos claros: um componente passou a incorporar conteúdo reciclado. Na campanha, a informação vira outra coisa: “agora, um produto sustentável”. Entre a alteração e a chamada, o alcance da afirmação aumentou.\n\nComunicar uma melhoria ambiental exige preservar essa relação com o que foi verificado. Qual parte mudou? Em quais versões? Que documentação sustenta a informação? O público consegue distinguir a alteração específica de uma avaliação sobre o produto inteiro?\n\nEm comunicado de 13 de outubro de 2026, a IKEA apresentou uma atualização da bolsa FRAKTA e informou uma participação mínima de material reciclado em dois tamanhos, junto de detalhes sobre material e fabricação. São declarações da fabricante sobre versões determinadas. O anúncio não deve ser convertido automaticamente em uma conclusão independente sobre todo o impacto ambiental da oferta.\n\nA referência útil para uma PME está na necessidade de dar contorno à mudança que pretende comunicar.\n\n## Comece pelo que foi alterado de fato\n\nImagine uma pequena empresa que substitui um componente da embalagem de seu produto. É um exemplo hipotético. O fornecedor informa uma nova composição para aquela peça, enquanto os demais elementos continuam iguais.\n\nAntes de preparar a chamada, registre a alteração em linguagem direta. O que era utilizado? O que passou a ser utilizado? A informação vale para o componente, para a embalagem inteira ou para o produto? A mudança já está presente nos itens comercializados?\n\nEssas perguntas ajudam a evitar que uma melhoria localizada se transforme em atributo de toda a oferta. Também permitem reconhecer o que ainda precisa ser confirmado.\n\nUma comunicação precisa não precisa apresentar cada detalhe técnico na chamada principal. Precisa respeitar o alcance da informação e oferecer contexto suficiente para quem quiser entendê-la melhor.\n\n## Confira de onde vem a informação\n\nUma apresentação comercial do fornecedor pode anunciar vantagens, mas a equipe precisa identificar qual documento sustenta a afirmação que pretende publicar. Uma frase recebida por mensagem não esclarece necessariamente composição, método ou versões abrangidas.\n\nNo exemplo hipotético, a empresa pode solicitar a documentação pertinente e confirmar a quais lotes ou especificações ela se aplica. Se houver dúvidas técnicas, deve buscar a avaliação apropriada antes de transformar o material em promessa pública.\n\nRegistre também quem confirmou a informação e quando ela foi verificada. Esse cuidado permite revisar o conteúdo se o componente ou o fornecedor mudar.\n\nNão é necessário fazer o marketing interpretar sozinho documentos que exigem conhecimento especializado. O trabalho de comunicação inclui reconhecer o que precisa de confirmação, em vez de preencher uma lacuna com uma expressão mais atraente.\n\n## Não amplie o componente para o produto inteiro\n\nUma alteração de material pode ser relevante sem resolver todas as questões associadas ao produto. Transporte, produção, uso, durabilidade e destino envolvem condições próprias, que uma informação isolada não permite avaliar por completo.\n\nSe o dado confirmado diz respeito a um componente, apresente esse componente. Se vale para determinada versão, deixe a versão reconhecível. Evite usar uma imagem da linha inteira quando apenas parte dela recebeu a mudança, sem explicar essa diferença.\n\nNo caso hipotético, uma descrição da nova composição da peça pode ser mais precisa que um adjetivo aplicado a todo o produto. A escolha ajuda a valorizar o avanço real sem sugerir uma conclusão que não foi examinada.\n\nO mesmo cuidado vale para comparações. Dizer que houve redução exige esclarecer o que foi comparado e a qual condição a comparação corresponde. Não trate uma referência desconhecida como evidente para o público.\n\n## Palavras próximas podem descrever coisas diferentes\n\nConteúdo reciclado, possibilidade de reciclagem e reutilização não são informações equivalentes. Uma característica do material não confirma, sozinha, que ele será coletado ou processado em qualquer lugar.\n\nAo redigir, confira qual condição está realmente documentada. Evite substituir um termo por outro apenas para tornar a frase mais curta. Se o destino depende de uma estrutura específica, essa dependência não deve desaparecer na simplificação.\n\nA equipe também precisa ter cuidado com símbolos e selos. Uma marca gráfica criada para a campanha pode ser interpretada como avaliação externa. Não apresente uma escolha visual como certificação que a empresa não possui.\n\nQuestões técnicas e exigências aplicáveis pedem avaliação própria. O objetivo editorial é não acrescentar, por palavras ou imagens, uma certeza que os documentos disponíveis não oferecem.\n\n## A fotografia e a chamada precisam contar a mesma mudança\n\nUma frase delimitada pode perder precisão quando aparece sob imagens que sugerem uma transformação muito mais ampla. Florestas, rios limpos e expressões absolutas podem fazer parte da leitura da peça, mesmo quando a nota técnica é cuidadosa.\n\nConfira o conjunto. O título se refere ao que mudou? A imagem mostra a versão correta? A legenda explica a parte envolvida? Uma ressalva distante tenta corrigir uma impressão criada na área mais visível?\n\nNo exemplo, mostrar o componente alterado e explicar sua função pode ser uma escolha mais informativa que cobrir toda a apresentação com uma linguagem ambiental genérica. A solução visual deve ajudar a compreender, não ampliar silenciosamente a afirmação.\n\nRevise também versões menores da peça. Quando o conteúdo vira uma imagem isolada ou um anúncio curto, o contexto necessário continua disponível?\n\n## Prepare a resposta para quem quiser conferir\n\nUma pessoa pode perguntar qual parte mudou, desde quando ou como a informação foi obtida. O atendimento precisa conseguir localizar uma resposta consistente, sem improvisar a interpretação de uma frase de campanha.\n\nOrganize uma referência interna com a descrição aprovada, os documentos pertinentes e o responsável por dúvidas técnicas. Se uma informação ainda não puder ser confirmada, explique a necessidade de verificação em vez de completar a resposta com uma promessa geral.\n\nEssa preparação também ajuda a encontrar desencontros entre canais. Uma página pode apresentar a melhoria específica enquanto a equipe comercial utiliza um material antigo com afirmações mais amplas. A revisão precisa alcançar os lugares em que a oferta é explicada.\n\n## Mantenha o contexto enquanto o produto muda\n\nUma informação correta pode deixar de corresponder à composição disponível. Por isso, a comunicação sobre materiais e processos precisa de um responsável por revisar mudanças posteriores.\n\nNa PME hipotética, a substituição de fornecedor ou a convivência de versões exige conferir o que cada cliente recebe e como a apresentação distingue os itens. O conteúdo não deve presumir que toda unidade já incorpora uma alteração apenas porque ela foi aprovada no projeto.\n\nNa próxima divulgação, comece pela melhoria que consegue descrever e sustentar. Dê a ela o valor que tem, com objeto e limites claros. Explicar uma mudança concreta oferece ao público algo que pode compreender e conferir, sem pedir que um avanço específico prove sozinho uma promessa sobre o produto inteiro.",
+        "sources": "[Inter IKEA newsroom, atualização da bolsa FRAKTA, 13/10/2026](https://www.ikea.com/global/en/newsroom/sustainability/ikea-celebrates-30-years-of-the-frakta-bag-261013/)\n\nAs informações sobre a FRAKTA são declarações da fabricante sobre versões determinadas, sem avaliação independente de impacto total. A PME e a alteração de componente são hipotéticas. O artigo trata de precisão editorial; afirmações reais exigem verificação técnica apropriada.",
+        "prompt": "Natural editorial photograph of one adult quality technician standing beside a partially opened reusable woven shopping bag suspended on a simple inspection rack in a modest workshop, close side view of their hands carefully checking a single contrasting material patch while the rest of the bag remains clearly visible, candid precise gesture, no papers, meeting or laptop, tactile fibers and realistic construction, soft neutral workshop window key light preserving natural skin tones with a restrained teal ambient reflection inspired by #08ffb1 on the inspection rack, generous negative space and controlled contrast, no nature backdrop, leaves, certification symbols, readable text or logos --ar 3:2",
+        "imageAlt": "Pessoa inspeciona um pequeno trecho de material em uma bolsa de tecido suspensa numa oficina, com reflexo teal discreto no suporte."
+      },
+      "createdAt": "2026-10-29T07:22:35.135Z",
+      "startedAt": "2026-10-29T08:20:53.195Z",
+      "completedAt": "2026-10-29T08:20:53.619Z"
+    },
+    {
+      "id": "da910c9d-706d-4076-9c52-c79dc2d43463",
+      "itemId": "pauta-reposicao-2026-10-27-a254b26257e2",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "e4986ad46c8f3c66dd49355c13347fdeca3fea60ce85e8d1dfb5c6da2458ebc5",
+      "snapshot": "e4986ad46c8f3c66dd49355c13347fdeca3fea60ce85e8d1dfb5c6da2458ebc5",
+      "input": {
+        "id": "pauta-reposicao-2026-10-27-a254b26257e2",
+        "title": "Sua empresa adotou IA. A equipe sabe usar sem depender de uma pessoa?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em 14/10/2026, Meta publicou resultados de pesquisa YouGov encomendada pela empresa com pequenos negócios em nove mercados da Ásia-Pacífico, destacando demanda por orientação e treinamento apesar da adoção de IA. Não tratar relatos de produtividade como efeito causal comprovado nem extrapolar percentuais para PMEs brasileiras; a nota metodológica diz que a amostra não é nacionalmente representativa. Preferir apenas a constatação contextual, sem repetir números promocionais, cases ou recomendar ferramentas da patrocinadora. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo recente. Tese: contratar uma ferramenta e ter alguém que a domina não significa que a empresa desenvolveu uma prática compartilhada; a continuidade depende de orientação por tarefa, exemplos verificáveis, limites e espaço para aprender. Exemplo hipotético de PME cuja preparação de materiais depende de um único colaborador: organizar um exercício com informações fictícias, mostrar como conferir o resultado, registrar um procedimento breve e garantir que outra pessoa consiga repetir a tarefa com revisão apropriada. Não inserir dados privados em ferramentas nem prometer autonomia total, retorno ou substituição de profissionais. Distinguir de IA e manual de marca: foco na transferência de conhecimento entre pessoas, não no briefing visual. Distinguir de aprovação de campanha: foco na aprendizagem e continuidade do trabalho, não no gargalo de decisões. Distinguir de humanização de IA: foco em capacitação, não na aparência do texto.",
+        "audience": "Donos de PMEs e responsáveis por equipes de marketing que adotaram ferramentas de IA, mas concentram o conhecimento de uso em uma pessoa e precisam preparar uma rotina compartilhada.",
+        "goal": "De “a assinatura está contratada e alguém sabe usar, então a adoção está feita” para “preciso tornar o conhecimento praticável por outras pessoas, com critérios de conferência e responsabilidades claras”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-27",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+              "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+              "publishedAt": "2026-10-14"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "dd3926a9-3763-47fa-82af-fcde2b54aad9",
+          "completedAt": "2026-10-28T16:17:14.248Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "1d263c54a9f516c63da4ce18466eda356a66f95391ca6383a5bc8929d8d4d1d5"
+        },
+        "body": "A empresa contratou uma ferramenta de IA. Uma pessoa aprendeu a usar, preparou modelos e passou a ajudar o restante da equipe. Quando ela está indisponível, as tarefas voltam para a fila. A assinatura continua ativa, mas o conhecimento ainda não circula.\n\nA adoção de IA na empresa envolve aprender a realizar tarefas com critérios compartilhados. Ter acesso e contar com alguém habilidoso são partes desse caminho. A continuidade exige que outras pessoas saibam começar, conferir o resultado e reconhecer quando precisam pedir ajuda.\n\nEm 14 de outubro de 2026, a Meta publicou resultados de uma pesquisa encomendada à YouGov com pequenos negócios em nove mercados da Ásia-Pacífico. O comunicado destaca demanda por orientação, mesmo entre empresas que já utilizam IA. São relatos de participantes daquela pesquisa, cuja amostra não é nacionalmente representativa, e não uma comprovação de impacto nas PMEs brasileiras.\n\nA questão prática é o que a equipe consegue fazer quando a pessoa de referência não está ao lado.\n\n## Escolha uma tarefa que possa ser ensinada\n\n“Aprender IA” é um objetivo amplo demais para orientar a rotina. Comece por uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência.\n\nImagine uma pequena empresa que prepara versões iniciais de descrições para materiais comerciais. É um exemplo hipotético. Uma colaboradora sabe organizar o pedido à ferramenta, selecionar o que aproveita e revisar o texto. Os colegas apenas enviam suas demandas para ela.\n\nA tarefa pode ser dividida em decisões compreensíveis: que informação é necessária, o que não deve ser enviado, qual finalidade o texto terá e como verificar se a resposta atende ao pedido. O aprendizado deixa de depender de observar alguém digitando rapidamente.\n\nEscolha um exercício que faça sentido para o trabalho e possa ser realizado com dados fictícios. Não use uma entrega urgente como primeira experiência de quem ainda precisa aprender o procedimento.\n\n## Mostre também o que precisa ser recusado\n\nUma demonstração que apresenta apenas uma resposta boa ensina pouco sobre avaliação. Quem está aprendendo pode concluir que basta repetir a solicitação para obter algo pronto.\n\nInclua um exemplo de resultado inadequado. No caso hipotético, a ferramenta pode acrescentar uma característica inexistente ou transformar uma possibilidade em promessa. A equipe precisa identificar por que aquilo não serve e o que deve consultar antes de continuar.\n\nExplique quais informações têm uma referência confirmada e quais exigem revisão por alguém responsável. Uma resposta bem escrita continua precisando de conferência. Familiaridade com a ferramenta não torna a pessoa automaticamente habilitada a validar qualquer assunto.\n\nEssa distinção ajuda a evitar dois extremos: aceitar tudo ou encaminhar qualquer detalhe para a mesma pessoa. A orientação deve mostrar o que pode ser avaliado naquela tarefa e onde começa outro tipo de responsabilidade.\n\n## Registre o procedimento sem tentar prever tudo\n\nUm documento breve pode indicar a finalidade da tarefa, os materiais permitidos, os passos principais e os critérios de revisão. Ele precisa ajudar a trabalhar, não reproduzir todas as possibilidades da ferramenta.\n\nNo exemplo, uma referência útil inclui um pedido de teste com informações fictícias, um resultado comentado e uma lista de conferências: o texto corresponde aos dados fornecidos? Acrescentou algo? Está adequado ao canal? O que ainda depende de confirmação?\n\nInclua também o caminho para dúvidas. Se o procedimento deixa claro apenas como começar, a pessoa pode ficar sem orientação justamente quando encontra uma resposta inesperada.\n\nEvite tratar um modelo de solicitação como fórmula imutável. Ele pode ser um ponto de partida, acompanhado da explicação sobre as decisões que contém. Sem essa compreensão, a equipe consegue copiar, mas encontra dificuldade para adaptar.\n\n## Verifique se outra pessoa consegue repetir\n\nDepois de apresentar, convide alguém da equipe a realizar uma tarefa equivalente com outro conjunto de dados fictícios. Observe onde surgem dúvidas sem assumir o teclado a cada dificuldade.\n\nA pergunta é se a orientação permite decidir o próximo passo. Talvez uma etapa esteja descrita com um termo que só a pessoa mais experiente entende. Talvez o exemplo não esclareça como conferir uma informação. Essas dúvidas ajudam a melhorar o material.\n\nNão confunda uma execução acompanhada com autonomia completa. A pessoa pode conseguir preparar uma versão inicial e ainda precisar de revisão. Isso deve ser combinado de forma explícita.\n\nRegistre o que ela já consegue realizar e o que continua exigindo apoio. A transferência de conhecimento não precisa acontecer de uma vez, mas precisa ser observável em ações, não apenas em presença num treinamento.\n\n## Defina limites para os dados utilizados\n\nO exercício não deve depender de inserir informações internas, pessoais ou de clientes em um serviço sem autorização e critérios apropriados. Trabalhar com dados fictícios permite praticar o procedimento sem transformar o aprendizado em exposição desnecessária.\n\nNa rotina real, confirme quais ferramentas e usos foram autorizados pela empresa, que informações podem participar e quem responde por esclarecer uma dúvida. Não peça a cada colaborador que invente sua própria regra enquanto prepara uma entrega.\n\nA orientação precisa ser concreta para a tarefa. Uma proibição genérica pode deixar dúvidas sobre materiais aparentemente comuns. Quando não houver clareza, o procedimento deve indicar a consulta necessária antes de enviar informações.\n\nEsses limites fazem parte do uso profissional. Eles não podem ficar apenas na memória de quem introduziu a ferramenta na empresa.\n\n## Reserve tempo para ajustar o aprendizado\n\nUma assinatura pode ser contratada rapidamente. Aprender a utilizá-la com responsabilidade requer tempo para praticar, revisar e corrigir o procedimento. Se todo esse esforço acontece entre urgências, o conhecimento tende a continuar concentrado em quem já sabe resolver.\n\nEscolha uma tarefa inicial e combine momentos curtos de prática e retorno. Observe as dúvidas que se repetem, confira se o material continua válido e atualize os exemplos quando o modo de uso mudar.\n\nTambém avalie se a ferramenta continua adequada àquela necessidade. O objetivo do aprendizado não é justificar qualquer assinatura, nem aumentar o uso por si só. É permitir realizar um trabalho definido com critérios compreensíveis e revisão suficiente.\n\nNa próxima conversa sobre IA, pergunte quem consegue executar e conferir a tarefa além da pessoa de referência. Se a resposta ainda for ninguém, o próximo investimento talvez esteja na orientação da equipe. Conhecimento compartilhado aparece quando outra pessoa consegue dar continuidade sem precisar reconstruir tudo do começo.",
+        "sources": "[Meta, pesquisa sobre adoção de IA e necessidade de orientação em pequenos negócios da Ásia-Pacífico, 14/10/2026](https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/)\n\nPesquisa encomendada pela Meta e realizada pela YouGov, com relatos de participantes em nove mercados, sem representatividade nacional declarada e sem extrapolação para o Brasil. A empresa e a situação descrita são hipotéticas.",
+        "prompt": "Conceptual editorial photograph with no people, a single spool of pale woven cord feeding into three separate smaller spools through a gently opened wooden guide, every strand remains visibly continuous and each smaller spool can turn independently, tactile fibers and simple believable hand-built mechanics on a warm off-white plaster ledge, precise side-on composition with generous empty space above, soft neutral key light and a restrained teal accent inspired by #08ffb1 reflected softly across the wood from the left, controlled contrast and realistic material detail, no cubes, prisms, labyrinths, glowing beams, computer screens, readable text or logos --ar 3:2",
+        "imageAlt": "Um carretel de cordão claro se conecta a três carretéis menores por fios contínuos, sobre uma base clara com reflexo teal discreto.",
+        "keyword": "adoção de IA na empresa",
+        "slug": "adocao-ia-equipe-conhecimento-compartilhado",
+        "meta": "A adoção de IA na empresa exige conhecimento compartilhado. Delimite tarefas, pratique com dados fictícios e defina critérios de conferência e apoio.",
+        "date": "2026-10-28",
+        "faq": "Por onde começar a capacitação da equipe em IA?\nEscolha uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência, usando dados fictícios para praticar.\n\nComo verificar a transferência de conhecimento?\nObserve outra pessoa realizando uma tarefa equivalente e registre onde ainda precisa de orientação ou revisão.\n\nO que incluir num procedimento de uso de IA?\nRegistre finalidade, materiais permitidos, passos principais, exemplos comentados, critérios de revisão e caminho para esclarecer dúvidas.",
+        "url": "https://www.agenciatweed.com.br/adocao-ia-equipe-conhecimento-compartilhado/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-27-a254b26257e2/imagens/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+        "imageName": "Carretel de Cordão e Divisor de Madeira.png",
+        "imageWidth": 1536,
+        "imageHeight": 1024,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8c390be80b3895acf3633e3f483b5ed6130238138bd245d3cdd1cd6cba762f5e.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-29T07:24:54.266Z"
+        }
+      },
+      "createdAt": "2026-10-29T07:24:54.269Z",
+      "completedAt": "2026-10-29T08:21:44.972984+00:00"
+    },
+    {
+      "id": "8dcb55e0-5d9e-49c6-94bd-4be9a9d5dae1",
+      "itemId": "pauta-diaria-2026-10-28",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "897e2128d0b40637a3c518cc50d61cada35000006382ad840ead8f0c925c64e3",
+      "snapshot": "897e2128d0b40637a3c518cc50d61cada35000006382ad840ead8f0c925c64e3",
+      "input": {
+        "id": "pauta-diaria-2026-10-28",
+        "title": "Sua embalagem acompanha o jeito como o produto é usado?",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: em publicação de 20/10/2026, o Pentawards apresentou os vencedores de 2026, anunciados em cerimônia de 16/10. Entre eles, Heinz Dipper integra um compartimento para molho à embalagem de batatas, segundo a descrição do organizador. Usar somente essa solução estrutural como exemplo descrito, sem repetir alegações de aumento comercial, superioridade universal, validação técnica independente ou disponibilidade no Brasil. Pesquisa ampliada a até 30 dias, pois a fonte pertinente foi publicada há oito dias. Tese: o design da embalagem deve considerar a sequência real de uso, não apenas a aparência na prateleira ou na foto; abrir, apoiar, segurar e acessar o produto fazem parte da experiência. Aplicar a PMEs de alimentação ou produtos físicos com exemplo hipotético de consumidor que precisa equilibrar embalagem, produto e acessório enquanto usa: observar o gesto, identificar um esforço evitável e testar uma alternativa com protótipo seguro e condições plausíveis. Não recomendar materiais, aquecimento ou contato alimentar sem validação técnica apropriada; não fazer alegações ambientais nem dar parecer regulatório. Distinguir de embalagem e pós-venda: foco específico na ergonomia e na estrutura durante o consumo, não no encantamento da entrega. Distinguir de experiência sensorial: foco no gesto e na função, não em acrescentar estímulos. Distinguir de redesign digital: interação física com a embalagem, sem repetir navegação ou mudança de versões.",
+        "audience": "Donos de PMEs de alimentação e produtos físicos, responsáveis por marca e desenvolvimento de embalagem que precisam conciliar apresentação, operação e facilidade de uso.",
+        "goal": "De “a embalagem está bonita e protege o produto, então o projeto está resolvido” para “preciso observar o que a pessoa faz com ela durante o uso e verificar onde a estrutura ajuda ou atrapalha”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Pentawards, Meet the 2026 Pentawards winners, seção Heinz Dipper",
+              "url": "https://pentawards.com/live/en/node/newsarticle-meet-the-2026-pentawards-winners?type=NewsArticle",
+              "publishedAt": "2026-10-20"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "982497cf-1151-4803-9cf6-4a3300e8bf3c",
+          "completedAt": "2026-10-28T16:17:14.117Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "442e0664c703ae9cc20a84e8e570785f6fb041c1668300b5335cc12ed70d2727"
+        },
+        "body": "A embalagem fica bonita na foto. O produto chega protegido e a identidade é reconhecível. Na hora de usar, porém, o cliente precisa apoiar tudo, procurar uma tesoura e encontrar onde colocar uma peça que veio separada. O projeto passou pela apresentação, mas ainda encontra dificuldades no gesto cotidiano.\n\nO design de embalagem precisa considerar essa sequência. A pessoa abre, segura, retira, apoia e, conforme o produto, fecha ou guarda novamente. Cada movimento coloca a estrutura em contato com uma situação que a imagem de divulgação não mostra.\n\nEm publicação de 20 de outubro de 2026, o Pentawards apresentou os vencedores daquele ano. Entre os projetos descritos pelo organizador está o Heinz Dipper, uma embalagem de batatas com compartimento integrado para molho. O exemplo destaca uma decisão estrutural ligada à maneira de consumir, sem comprovar por si só resultado comercial ou adequação a qualquer operação.\n\nPara uma PME, a pergunta útil é o que sua própria embalagem exige da pessoa durante o uso.\n\n## Acompanhe o produto além da prateleira\n\nImagine um pequeno negócio de alimentos que oferece um produto acompanhado de um complemento. É uma situação hipotética. A embalagem protege os itens no transporte, mas, ao abrir, o cliente fica com partes soltas e nenhum apoio conveniente.\n\nTalvez o consumo aconteça sentado a uma mesa. Talvez a pessoa esteja em um evento, com espaço limitado. Essas situações impõem condições diferentes. O que funciona em um ambiente controlado pode se tornar trabalhoso em outro.\n\nAntes de desenhar uma solução, descreva a sequência prevista. Como a embalagem sai da sacola? Onde fica enquanto é aberta? O conteúdo está acessível? A tampa ocupa um lugar necessário? O complemento exige uma ação que ninguém considerou?\n\nNão é preciso presumir a resposta. Observe usos possíveis, com autorização quando houver participantes, e registre os movimentos que merecem investigação.\n\n## Uma dificuldade de uso pode parecer um detalhe de acabamento\n\nUma aba pequena demais pode ser interpretada como um problema pontual. Se a pessoa não consegue identificá-la ou segurá-la, a dificuldade participa da experiência inteira de abertura.\n\nO mesmo vale para encaixes, separações internas e partes removíveis. Um recurso pode parecer elegante no desenho e exigir uma coordenação pouco plausível na situação real. Uma instrução pode ajudar, mas não transforma automaticamente uma estrutura difícil em uma estrutura simples.\n\nNo exemplo hipotético, a equipe pode descobrir que o esforço está em manter duas partes juntas. Em outro produto, talvez o problema seja localizar por onde começar ou retirar o conteúdo sem desmontar toda a proteção.\n\nEscolha um problema específico antes de propor uma mudança. “Melhorar a experiência” é uma intenção ampla. Permitir que a pessoa identifique a abertura ou apoie uma parte durante o uso oferece uma questão concreta para testar.\n\n## A solução precisa conversar com quem prepara e entrega\n\nUma embalagem não passa apenas pelas mãos do consumidor. Alguém monta, preenche, fecha, identifica, armazena e transporta. Uma alteração que facilita uma etapa pode dificultar outra.\n\nConverse com a operação antes de aprovar o desenho. O novo encaixe é montado de maneira consistente? A equipe consegue identificar a posição correta? O formato continua adequado ao transporte previsto? Há peças adicionais que podem se perder?\n\nEssas perguntas não devem servir para rejeitar toda novidade. Elas ajudam a transformar uma intenção visual em um projeto executável. Se a montagem exige treinamento, isso precisa fazer parte da preparação.\n\nUma solução bonita, que só funciona quando o designer está por perto para montá-la, ainda precisa de desenvolvimento. O funcionamento deve ser compreensível para as pessoas que participarão da rotina.\n\n## Teste o gesto com um protótipo apropriado\n\nUm protótipo permite discutir proporções, sequência de abertura e formas de apoio antes de fechar decisões de produção. A fidelidade necessária depende da pergunta: um modelo preliminar pode esclarecer uma dobra, mas não comprova resistência ou segurança do material final.\n\nDefina o que será observado e quais conclusões o teste permite. Se a intenção é avaliar acesso, acompanhe como a pessoa identifica o caminho. Se o objetivo é entender apoio, reproduza uma condição plausível e segura.\n\nEvite conduzir cada movimento. Quando alguém precisa explicar continuamente como segurar ou abrir, essa orientação pode esconder a dificuldade que o exercício deveria revelar.\n\nNo caso de alimentos, contato, resistência e possibilidades de aquecimento exigem validação técnica apropriada. Uma simulação de forma não autoriza recomendar materiais ou modos de uso. A mesma atenção vale para requisitos específicos de outros produtos.\n\n## A identidade também pode participar da estrutura\n\nA marca não precisa aparecer apenas na impressão externa. Proporção, abertura, encaixe e organização podem expressar uma maneira de pensar o produto. Ainda assim, um gesto distintivo precisa continuar compreensível.\n\nNo Heinz Dipper, a descrição do Pentawards relaciona a forma do compartimento à identidade da marca. Isso oferece uma referência de integração entre linguagem visual e função, sem exigir que uma pequena empresa imite a solução.\n\nO trabalho útil é descobrir qual relação faz sentido para seu produto. Uma marca que valoriza simplicidade pode procurar reduzir etapas desnecessárias. Uma proposta de cuidado pode orientar o acesso e a organização dos componentes.\n\nNão transforme essa intenção em alegação que o projeto não sustenta. Afirmações ambientais, de proteção ou de facilidade precisam de base adequada. Acrescentar um símbolo ou uma frase não substitui verificar o que a embalagem faz.\n\n## Revise a escolha depois do uso real\n\nO primeiro teste não encerra o projeto. Registre dificuldades observadas, diferenças de montagem e perguntas recebidas. Procure saber se o problema foi resolvido ou apenas deslocado para outra etapa.\n\nUma alteração pode funcionar bem em determinada situação e exigir revisão em outra. Não conclua que todos os públicos usam o produto da mesma maneira. Considere diferenças de contexto e capacidade de manuseio, sem presumir um usuário ideal que sempre dispõe de tempo, espaço e duas mãos livres.\n\nNa próxima revisão da embalagem, apresente o desenho junto da sequência de uso. Mostre onde a estrutura protege, orienta e oferece apoio, além de mostrar como ela aparece na foto. O design ganha um critério mais concreto quando acompanha o que a pessoa realmente precisa fazer com o produto.",
+        "sources": "[Pentawards, vencedores de 2026 e projeto Heinz Dipper, 20/10/2026](https://pentawards.com/live/en/node/newsarticle-meet-the-2026-pentawards-winners?type=NewsArticle)\n\nA descrição do projeto pertence ao organizador da premiação e não comprova eficácia comercial nem adequação técnica a outros usos. O negócio de alimentos é hipotético.",
+        "prompt": "Cinematic editorial photograph of one adult standing at an outdoor food market counter, close cropped side view of their hands naturally holding a plain folded food carton with a small integrated side pocket while taking a bite, the relationship between fingers, fold and container clearly visible, candid everyday gesture with only a softly blurred partial face and lively distant market background, no meeting, papers or laptop, soft neutral overcast daylight and a restrained teal ambient reflection inspired by #08ffb1 from an out-of-focus stall panel along one carton edge, natural skin tones, believable materials and food, no readable text or logos --ar 3:2",
+        "imageAlt": "Pessoa segura uma embalagem de alimento com pequeno compartimento lateral em uma feira ao ar livre, com reflexo teal discreto na borda.",
+        "keyword": "design de embalagem",
+        "slug": "design-embalagem-gesto-uso",
+        "meta": "O design de embalagem precisa acompanhar abertura, apoio e consumo. Observe os gestos do cliente e teste a estrutura junto da operação.",
+        "date": "2026-10-30",
+        "faq": "O que observar no uso de uma embalagem?\nAcompanhe como a pessoa abre, segura, retira, apoia e guarda o produto nas condições previstas.\n\nUm protótipo comprova a segurança do material final?\nNão. Um modelo pode esclarecer forma e sequência de uso, mas resistência, contato alimentar e outras exigências precisam de validação técnica apropriada.\n\nPor que envolver a operação no projeto?\nPorque a embalagem também precisa ser montada, preenchida, fechada e transportada de maneira consistente.",
+        "url": "https://www.agenciatweed.com.br/design-embalagem-gesto-uso/",
+        "imageFile": "conteudos/pauta-diaria-2026-10-28/imagens/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+        "imageName": "Lanche de rua no mercado molhado.png",
+        "imageWidth": 1536,
+        "imageHeight": 1024,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-29T07:26:32.812Z"
+        }
+      },
+      "createdAt": "2026-10-29T07:26:32.815Z"
+    },
+    {
+      "id": "6f497375-9692-410f-9637-9d0bfdb41ff9",
+      "itemId": "pauta-reposicao-2026-10-28-d6abd0c36534",
+      "action": "publicar",
+      "state": "cancelled",
+      "workKey": "8992517b8cf9b29093b8b124a0a3c8b9bd00b61f6c9dc8f1e4e95aa78301b976",
+      "snapshot": "8992517b8cf9b29093b8b124a0a3c8b9bd00b61f6c9dc8f1e4e95aa78301b976",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-d6abd0c36534",
+        "title": "O nome do seu produto ajuda o cliente a entender o que ele faz?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: reportagem de 26/10/2026 no Branding in Asia apresenta o trabalho da Bulletproof para Selleys Undo Glue, com nome e expressão visual que destacam a possibilidade de desfazer a fixação. A página oficial da Selleys confirma o nome e a proposta de adesivo removível, com condições de superfície e uso; não possui data editorial verificável, por isso não atribuir a ela a data da reportagem. Usar o relato sobre o projeto e declarações atribuídas aos responsáveis, sem tratar facilidade de compreensão como efeito comprovado, sem repetir estatística promocional sobre abandono de corredor, sem alegar pioneirismo, resultados comerciais ou disponibilidade brasileira. Tese: nomear um produto novo envolve oferecer uma primeira pista da proposta e distingui-lo no portfólio; originalidade verbal não deveria depender de uma longa explicação para permitir entender a categoria e a utilidade. Exemplo hipotético de PME que lança uma nova versão de serviço com nome criativo, mas não esclarece a diferença em relação ao plano existente: testar nome acompanhado de descritor e apresentação conjunta, ouvir o que pessoas de fora entendem e corrigir ambiguidades. Não fornecer parecer sobre registro de marca ou prometer exclusividade; validação jurídica e pesquisa de disponibilidade são etapas próprias. Diferenciar de clareza de logotipo: foco em nome de produto e descritor dentro do portfólio, não em identidade institucional. Diferenciar de proposta comercial: foco na primeira identificação da novidade, não em tabela de escopo. Diferenciar de embalagem funcional: foco verbal e hierarquia da oferta, não em ergonomia.",
+        "audience": "Donos de PMEs e responsáveis por marca que vão lançar produtos, planos ou versões e precisam torná-los distinguíveis sem depender da explicação do vendedor.",
+        "goal": "De “um nome diferente já mostra que é uma novidade” para “preciso conferir que pista o nome e seu descritor oferecem sobre categoria, utilidade e diferença no portfólio”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Branding in Asia, Bulletproof Gives Selleys a Twist With New Undo Glue Launch",
+              "url": "https://www.brandinginasia.com/bulletproof-gives-selleys-a-twist-with-new-undo-glue-launch/",
+              "publishedAt": "2026-10-26"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "f0e7dacc-52bb-47fe-ade9-b76e983ae25c",
+          "completedAt": "2026-10-28T21:21:08.502Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "da458bb5e6acc8fae98f957156b787896da5df3c3472e9e056cba16dea4137f5"
+        },
+        "body": "O produto novo está pronto. A equipe escolheu um nome original, criou a apresentação e começou a divulgação. Quando o cliente pergunta o que muda em relação à versão que já conhece, a resposta exige uma longa explicação. O nome diferencia internamente, mas ainda não oferece uma pista útil para quem precisa escolher.\n\nO nome de produto participa desse primeiro entendimento. Ele pode indicar uma função, sugerir uma situação de uso ou criar uma associação distintiva. Não precisa explicar tudo sozinho. Precisa funcionar junto do descritor e da organização da oferta, sem acrescentar uma confusão que o vendedor terá de desfazer depois.\n\nEm reportagem de 26 de outubro de 2026, o Branding in Asia apresentou o trabalho da Bulletproof para Selleys Undo Glue. O relato destaca nome e linguagem visual ligados à possibilidade de desfazer a fixação. A página oficial da Selleys apresenta o produto como adesivo removível, com condições de uso próprias. Essa relação entre nome e proposta oferece uma referência de projeto, sem comprovar um resultado comercial.\n\nA pergunta para uma PME é qual pista sua novidade oferece antes da explicação completa.\n\n## Diferencie o nome que a equipe entende do nome que o público encontra\n\nImagine uma pequena empresa de serviços que oferece acompanhamento mensal e vai lançar uma versão voltada a uma necessidade específica. É um exemplo hipotético. Internamente, todos conhecem a diferença entre os dois formatos. O nome escolhido para o novo plano faz referência a uma etapa do processo que só a equipe costuma mencionar.\n\nA expressão pode parecer precisa para quem participou do desenvolvimento. O cliente vê duas opções com nomes diferentes e não sabe se mudou o público, a duração ou o tipo de entrega.\n\nAntes de decidir, descreva a novidade em linguagem direta. O que ela é? Para quem faz sentido? Qual diferença precisa ser reconhecida no primeiro contato? Essa descrição não é necessariamente o nome final. É a referência que ajuda a avaliar se o nome está colaborando com o entendimento.\n\nSe a explicação depende de uma história interna, confira se essa história tem relevância para quem vai contratar.\n\n## Um descritor pode dar o contexto que o nome não carrega\n\nUm nome evocativo pode ter força expressiva sem indicar a categoria. Nesse caso, uma descrição breve pode ajudar a situar a oferta. O problema aparece quando o descritor é tratado como detalhe dispensável e desaparece justamente nos materiais mais vistos.\n\nNo exemplo hipotético, o nome criativo poderia vir acompanhado da descrição do tipo de acompanhamento. Isso permite preservar a linguagem da marca e oferecer uma entrada compreensível para quem ainda não conhece o serviço.\n\nConfira a combinação no site, na proposta, na apresentação comercial e na peça de divulgação. O mesmo nome pode aparecer com explicações incompatíveis se cada área o interpreta de uma maneira.\n\nO descritor também não deve prometer mais do que existe. Termos como completo, ilimitado ou automático exigem cuidado quando a entrega tem condições e participação do cliente. Uma palavra atraente não elimina a necessidade de apresentar esses limites.\n\n## Avalie a novidade ao lado do que já existe\n\nUm nome pode funcionar isoladamente e continuar confuso dentro do portfólio. Se duas ofertas parecem equivalentes, o comprador precisa descobrir por que uma delas seria mais adequada à sua situação.\n\nApresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?\n\nNa empresa hipotética, chamar o novo formato de avançado poderia sugerir que o acompanhamento existente ficou ultrapassado, mesmo que ele continue sendo a opção apropriada para muitos clientes. A escolha verbal precisa corresponder à relação real entre as entregas.\n\nNão é necessário criar uma família de nomes com lógica perfeita apenas para agradar à equipe. A organização deve ajudar o público a reconhecer diferenças relevantes. Um sistema elegante que exige tradução permanente ainda merece revisão.\n\n## Escute a primeira interpretação sem corrigir imediatamente\n\nMostre o nome com o descritor e uma apresentação breve a pessoas que tenham contexto do público pretendido. Peça que expliquem o que imaginam que seja a oferta, para quem ela parece adequada e o que esperam encontrar.\n\nEvite começar pela justificativa criativa. Depois de ouvir toda a história, a pessoa já recebeu a explicação que o exercício deveria verificar se estava disponível na apresentação.\n\nRegistre as interpretações recorrentes e as dúvidas. Um comentário isolado não representa todo o mercado, mas pode revelar uma associação que a equipe não havia considerado. Confira se o problema está no nome, no descritor, na relação com as outras opções ou na própria indefinição da oferta.\n\nEsse exercício não comprova preferência nem intenção de compra. Ajuda a discutir compreensão antes de transformar uma escolha interna em material público.\n\n## Originalidade precisa conviver com precisão\n\nA relação entre Undo Glue e a proposta de remoção foi destacada pelos responsáveis pelo projeto na reportagem. Isso não significa que toda empresa deva adotar um nome descritivo em inglês, nem que uma palavra resolva a comunicação inteira.\n\nA página do fabricante mantém informações sobre aplicação e superfícies. O nome aponta para uma característica, mas as condições continuam participando da apresentação do produto. Uma PME precisa preservar essa diferença entre uma pista inicial e uma explicação suficiente para decidir.\n\nTambém existem verificações próprias para disponibilidade e proteção de um nome. Avaliar clareza com o público não substitui pesquisa apropriada nem análise jurídica de registro. Da mesma forma, encontrar uma palavra disponível não comprova que ela comunica bem a proposta.\n\nTrate essas decisões como partes do trabalho, com os profissionais e critérios necessários a cada uma.\n\n## Prepare quem vai apresentar o lançamento\n\nDepois da escolha, confira se a equipe consegue descrever a novidade de maneira consistente. O comercial precisa entender a relação com as opções anteriores. O conteúdo precisa saber quais diferenças destacar. O atendimento precisa reconhecer o pedido mesmo quando o cliente usa uma descrição aproximada.\n\nOrganize uma referência breve com nome, descritor, finalidade e distinções principais. Revise materiais em que uma denominação antiga ou provisória continua circulando. A mudança não deve exigir que o cliente aprenda o vocabulário interno antes de conseguir conversar.\n\nNa próxima escolha de nome, coloque a ideia ao lado da oferta real e ouça o que alguém de fora entende. A originalidade pode despertar interesse. O contexto permite saber a que esse interesse se refere. Um nome útil ajuda a iniciar a conversa certa, sem precisar carregar sozinho todas as respostas.",
+        "sources": "[Branding in Asia, projeto Selleys Undo Glue por Bulletproof, 26/10/2026](https://www.brandinginasia.com/bulletproof-gives-selleys-a-twist-with-new-undo-glue-launch/)\n[Selleys, apresentação oficial de Undo Hooks & Glue](https://www.selleys.com.au/products/our-brands/selleys-undo-hooks-glue/)\n\nA reportagem traz declarações dos responsáveis pelo projeto. A página do fabricante não tem data editorial confirmada e descreve condições próprias do produto; não representa recomendação técnica ou disponibilidade no Brasil. A empresa de serviços é hipotética.",
+        "prompt": "Natural cinematic editorial photograph of a single adult shopper pausing in a small neighborhood hardware store aisle, medium wide rear three-quarter view as they reach toward one plain package among several visually distinct unbranded product families, shelf organization and different package silhouettes clearly visible without readable lettering, spontaneous thoughtful gesture rather than staged presentation, realistic modest interior and worn floor, soft neutral window key light with a restrained teal ambient accent inspired by #08ffb1 on the far aisle end, natural skin tones and controlled contrast, no meeting, papers, desk or laptop, no readable text or logos --ar 3:2",
+        "imageAlt": "Pessoa escolhe uma embalagem em uma prateleira organizada por formatos diferentes, em uma loja de ferragens com acento teal ao fundo.",
+        "keyword": "nome de produto",
+        "slug": "nome-produto-clareza-proposta",
+        "meta": "O nome de produto oferece uma primeira pista da proposta. Avalie descritor, diferenças no portfólio e o que pessoas de fora entendem antes do lançamento.",
+        "date": "2026-10-29",
+        "faq": "Um nome precisa explicar sozinho toda a oferta?\nNão. Ele pode funcionar junto de um descritor e de uma apresentação que esclareça categoria, finalidade e diferenças relevantes.\n\nComo avaliar a compreensão de um nome novo?\nMostre o nome com uma apresentação breve e ouça a primeira interpretação antes de explicar a intenção criativa.\n\nAvaliar clareza substitui pesquisar disponibilidade do nome?\nNão. A compreensão da proposta e a verificação de disponibilidade e proteção exigem critérios e etapas próprios.",
+        "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-28-d6abd0c36534/imagens/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+        "imageName": "glue.jpg",
+        "imageWidth": 816,
+        "imageHeight": 544,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-29T07:29:34.229Z"
+        }
+      },
+      "createdAt": "2026-10-29T07:29:34.232Z",
+      "message": "Etapa ou conteúdo mudou; solicitação substituída."
+    },
+    {
+      "id": "9a56409f-7a49-4e88-8d8f-0b7570683f30",
+      "itemId": "pauta-reposicao-2026-10-28-d6abd0c36534",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "8992517b8cf9b29093b8b124a0a3c8b9bd00b61f6c9dc8f1e4e95aa78301b976",
+      "snapshot": "8992517b8cf9b29093b8b124a0a3c8b9bd00b61f6c9dc8f1e4e95aa78301b976",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-d6abd0c36534",
+        "title": "O nome do seu produto ajuda o cliente a entender o que ele faz?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: reportagem de 26/10/2026 no Branding in Asia apresenta o trabalho da Bulletproof para Selleys Undo Glue, com nome e expressão visual que destacam a possibilidade de desfazer a fixação. A página oficial da Selleys confirma o nome e a proposta de adesivo removível, com condições de superfície e uso; não possui data editorial verificável, por isso não atribuir a ela a data da reportagem. Usar o relato sobre o projeto e declarações atribuídas aos responsáveis, sem tratar facilidade de compreensão como efeito comprovado, sem repetir estatística promocional sobre abandono de corredor, sem alegar pioneirismo, resultados comerciais ou disponibilidade brasileira. Tese: nomear um produto novo envolve oferecer uma primeira pista da proposta e distingui-lo no portfólio; originalidade verbal não deveria depender de uma longa explicação para permitir entender a categoria e a utilidade. Exemplo hipotético de PME que lança uma nova versão de serviço com nome criativo, mas não esclarece a diferença em relação ao plano existente: testar nome acompanhado de descritor e apresentação conjunta, ouvir o que pessoas de fora entendem e corrigir ambiguidades. Não fornecer parecer sobre registro de marca ou prometer exclusividade; validação jurídica e pesquisa de disponibilidade são etapas próprias. Diferenciar de clareza de logotipo: foco em nome de produto e descritor dentro do portfólio, não em identidade institucional. Diferenciar de proposta comercial: foco na primeira identificação da novidade, não em tabela de escopo. Diferenciar de embalagem funcional: foco verbal e hierarquia da oferta, não em ergonomia.",
+        "audience": "Donos de PMEs e responsáveis por marca que vão lançar produtos, planos ou versões e precisam torná-los distinguíveis sem depender da explicação do vendedor.",
+        "goal": "De “um nome diferente já mostra que é uma novidade” para “preciso conferir que pista o nome e seu descritor oferecem sobre categoria, utilidade e diferença no portfólio”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Branding in Asia, Bulletproof Gives Selleys a Twist With New Undo Glue Launch",
+              "url": "https://www.brandinginasia.com/bulletproof-gives-selleys-a-twist-with-new-undo-glue-launch/",
+              "publishedAt": "2026-10-26"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "f0e7dacc-52bb-47fe-ade9-b76e983ae25c",
+          "completedAt": "2026-10-28T21:21:08.502Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "da458bb5e6acc8fae98f957156b787896da5df3c3472e9e056cba16dea4137f5"
+        },
+        "body": "O produto novo está pronto. A equipe escolheu um nome original, criou a apresentação e começou a divulgação. Quando o cliente pergunta o que muda em relação à versão que já conhece, a resposta exige uma longa explicação. O nome diferencia internamente, mas ainda não oferece uma pista útil para quem precisa escolher.\n\nO nome de produto participa desse primeiro entendimento. Ele pode indicar uma função, sugerir uma situação de uso ou criar uma associação distintiva. Não precisa explicar tudo sozinho. Precisa funcionar junto do descritor e da organização da oferta, sem acrescentar uma confusão que o vendedor terá de desfazer depois.\n\nEm reportagem de 26 de outubro de 2026, o Branding in Asia apresentou o trabalho da Bulletproof para Selleys Undo Glue. O relato destaca nome e linguagem visual ligados à possibilidade de desfazer a fixação. A página oficial da Selleys apresenta o produto como adesivo removível, com condições de uso próprias. Essa relação entre nome e proposta oferece uma referência de projeto, sem comprovar um resultado comercial.\n\nA pergunta para uma PME é qual pista sua novidade oferece antes da explicação completa.\n\n## Diferencie o nome que a equipe entende do nome que o público encontra\n\nImagine uma pequena empresa de serviços que oferece acompanhamento mensal e vai lançar uma versão voltada a uma necessidade específica. É um exemplo hipotético. Internamente, todos conhecem a diferença entre os dois formatos. O nome escolhido para o novo plano faz referência a uma etapa do processo que só a equipe costuma mencionar.\n\nA expressão pode parecer precisa para quem participou do desenvolvimento. O cliente vê duas opções com nomes diferentes e não sabe se mudou o público, a duração ou o tipo de entrega.\n\nAntes de decidir, descreva a novidade em linguagem direta. O que ela é? Para quem faz sentido? Qual diferença precisa ser reconhecida no primeiro contato? Essa descrição não é necessariamente o nome final. É a referência que ajuda a avaliar se o nome está colaborando com o entendimento.\n\nSe a explicação depende de uma história interna, confira se essa história tem relevância para quem vai contratar.\n\n## Um descritor pode dar o contexto que o nome não carrega\n\nUm nome evocativo pode ter força expressiva sem indicar a categoria. Nesse caso, uma descrição breve pode ajudar a situar a oferta. O problema aparece quando o descritor é tratado como detalhe dispensável e desaparece justamente nos materiais mais vistos.\n\nNo exemplo hipotético, o nome criativo poderia vir acompanhado da descrição do tipo de acompanhamento. Isso permite preservar a linguagem da marca e oferecer uma entrada compreensível para quem ainda não conhece o serviço.\n\nConfira a combinação no site, na proposta, na apresentação comercial e na peça de divulgação. O mesmo nome pode aparecer com explicações incompatíveis se cada área o interpreta de uma maneira.\n\nO descritor também não deve prometer mais do que existe. Termos como completo, ilimitado ou automático exigem cuidado quando a entrega tem condições e participação do cliente. Uma palavra atraente não elimina a necessidade de apresentar esses limites.\n\n## Avalie a novidade ao lado do que já existe\n\nUm nome pode funcionar isoladamente e continuar confuso dentro do portfólio. Se duas ofertas parecem equivalentes, o comprador precisa descobrir por que uma delas seria mais adequada à sua situação.\n\nApresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?\n\nNa empresa hipotética, chamar o novo formato de avançado poderia sugerir que o acompanhamento existente ficou ultrapassado, mesmo que ele continue sendo a opção apropriada para muitos clientes. A escolha verbal precisa corresponder à relação real entre as entregas.\n\nNão é necessário criar uma família de nomes com lógica perfeita apenas para agradar à equipe. A organização deve ajudar o público a reconhecer diferenças relevantes. Um sistema elegante que exige tradução permanente ainda merece revisão.\n\n## Escute a primeira interpretação sem corrigir imediatamente\n\nMostre o nome com o descritor e uma apresentação breve a pessoas que tenham contexto do público pretendido. Peça que expliquem o que imaginam que seja a oferta, para quem ela parece adequada e o que esperam encontrar.\n\nEvite começar pela justificativa criativa. Depois de ouvir toda a história, a pessoa já recebeu a explicação que o exercício deveria verificar se estava disponível na apresentação.\n\nRegistre as interpretações recorrentes e as dúvidas. Um comentário isolado não representa todo o mercado, mas pode revelar uma associação que a equipe não havia considerado. Confira se o problema está no nome, no descritor, na relação com as outras opções ou na própria indefinição da oferta.\n\nEsse exercício não comprova preferência nem intenção de compra. Ajuda a discutir compreensão antes de transformar uma escolha interna em material público.\n\n## Originalidade precisa conviver com precisão\n\nA relação entre Undo Glue e a proposta de remoção foi destacada pelos responsáveis pelo projeto na reportagem. Isso não significa que toda empresa deva adotar um nome descritivo em inglês, nem que uma palavra resolva a comunicação inteira.\n\nA página do fabricante mantém informações sobre aplicação e superfícies. O nome aponta para uma característica, mas as condições continuam participando da apresentação do produto. Uma PME precisa preservar essa diferença entre uma pista inicial e uma explicação suficiente para decidir.\n\nTambém existem verificações próprias para disponibilidade e proteção de um nome. Avaliar clareza com o público não substitui pesquisa apropriada nem análise jurídica de registro. Da mesma forma, encontrar uma palavra disponível não comprova que ela comunica bem a proposta.\n\nTrate essas decisões como partes do trabalho, com os profissionais e critérios necessários a cada uma.\n\n## Prepare quem vai apresentar o lançamento\n\nDepois da escolha, confira se a equipe consegue descrever a novidade de maneira consistente. O comercial precisa entender a relação com as opções anteriores. O conteúdo precisa saber quais diferenças destacar. O atendimento precisa reconhecer o pedido mesmo quando o cliente usa uma descrição aproximada.\n\nOrganize uma referência breve com nome, descritor, finalidade e distinções principais. Revise materiais em que uma denominação antiga ou provisória continua circulando. A mudança não deve exigir que o cliente aprenda o vocabulário interno antes de conseguir conversar.\n\nNa próxima escolha de nome, coloque a ideia ao lado da oferta real e ouça o que alguém de fora entende. A originalidade pode despertar interesse. O contexto permite saber a que esse interesse se refere. Um nome útil ajuda a iniciar a conversa certa, sem precisar carregar sozinho todas as respostas.",
+        "sources": "[Branding in Asia, projeto Selleys Undo Glue por Bulletproof, 26/10/2026](https://www.brandinginasia.com/bulletproof-gives-selleys-a-twist-with-new-undo-glue-launch/)\n[Selleys, apresentação oficial de Undo Hooks & Glue](https://www.selleys.com.au/products/our-brands/selleys-undo-hooks-glue/)\n\nA reportagem traz declarações dos responsáveis pelo projeto. A página do fabricante não tem data editorial confirmada e descreve condições próprias do produto; não representa recomendação técnica ou disponibilidade no Brasil. A empresa de serviços é hipotética.",
+        "prompt": "Natural cinematic editorial photograph of a single adult shopper pausing in a small neighborhood hardware store aisle, medium wide rear three-quarter view as they reach toward one plain package among several visually distinct unbranded product families, shelf organization and different package silhouettes clearly visible without readable lettering, spontaneous thoughtful gesture rather than staged presentation, realistic modest interior and worn floor, soft neutral window key light with a restrained teal ambient accent inspired by #08ffb1 on the far aisle end, natural skin tones and controlled contrast, no meeting, papers, desk or laptop, no readable text or logos --ar 3:2",
+        "imageAlt": "Pessoa escolhe uma embalagem em uma prateleira organizada por formatos diferentes, em uma loja de ferragens com acento teal ao fundo.",
+        "keyword": "nome de produto",
+        "slug": "nome-produto-clareza-proposta",
+        "meta": "O nome de produto oferece uma primeira pista da proposta. Avalie descritor, diferenças no portfólio e o que pessoas de fora entendem antes do lançamento.",
+        "date": "2026-10-29",
+        "faq": "Um nome precisa explicar sozinho toda a oferta?\nNão. Ele pode funcionar junto de um descritor e de uma apresentação que esclareça categoria, finalidade e diferenças relevantes.\n\nComo avaliar a compreensão de um nome novo?\nMostre o nome com uma apresentação breve e ouça a primeira interpretação antes de explicar a intenção criativa.\n\nAvaliar clareza substitui pesquisar disponibilidade do nome?\nNão. A compreensão da proposta e a verificação de disponibilidade e proteção exigem critérios e etapas próprios.",
+        "url": "https://www.agenciatweed.com.br/nome-produto-clareza-proposta/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-28-d6abd0c36534/imagens/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+        "imageName": "glue.jpg",
+        "imageWidth": 816,
+        "imageHeight": 544,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/c2f643adb98badc1bc46832e193564b3132a26b8e1d752a3d81665fd8ee52e1d.jpg",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-29T07:29:46.319Z"
+        }
+      },
+      "createdAt": "2026-10-29T07:29:46.323Z",
+      "completedAt": "2026-10-29T08:24:14.072142+00:00"
+    },
+    {
+      "id": "f7823bdc-e8ce-4747-8bb2-324f1b944fc0",
+      "itemId": "pauta-reposicao-2026-10-28-5213addb8c7f",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "957020371cdb029425d5c81a68ea6490cda6bbb492ddd2606578aae94a69d80f",
+      "snapshot": "957020371cdb029425d5c81a68ea6490cda6bbb492ddd2606578aae94a69d80f",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-5213addb8c7f",
+        "title": "Sua marca precisa entrar em toda conversa que está em alta?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: episódio do Marketing Vanguard publicado pelo Adweek em 27/10/2026, com Cheryl Guerin, é apresentado na página oficial do programa como conversa sobre diferenciação e agilidade de marca, incluindo a importância de dizer não e identificar oportunidades culturais. Usar apenas a apresentação editorial acessível do episódio; não alegar audição ou transcrição integral, não inventar falas nem casos. A perspectiva da executiva não comprova resultados universais. Tese: agilidade também envolve decidir quais conversas não merecem uma ação da marca; oportunidade cultural precisa de pertinência ao público, papel legítimo, tempo e capacidade de execução. Exemplo hipotético de PME pressionada a entrar em um meme ou assunto viral sem relação com sua oferta: conferir o que tem a acrescentar, quem precisa aprovar e se ainda existe contexto quando a peça estiver pronta; decidir participar, adaptar ou deixar passar, sem transformar silêncio em regra universal. Evitar comentários sobre crises reais, exploração de sofrimento ou promessas de alcance. Diferenciar de humor de marca: foco em escolher a oportunidade e o papel da empresa, não no alvo de uma piada. Diferenciar de restrição criativa: foco em triagem de demandas externas e oportunidade cultural, não em criação a partir de limites. Diferenciar de aprovação: foco no critério anterior de participação, não em acelerar feedback.",
+        "audience": "Donos de PMEs e responsáveis por conteúdo que recebem pedidos para reagir a tendências, memes e conversas culturais e precisam selecionar ações pertinentes à marca.",
+        "goal": "De “se está em alta, precisamos publicar antes que passe” para “preciso decidir se temos algo pertinente a acrescentar e condições de participar no tempo e no contexto certos”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adweek, Marketing Vanguard, Brandweek 2026 com Cheryl Guerin: Democratized Marketing Won’t Differentiate Your Brand",
+              "url": "https://shows.acast.com/cmo-moves/episodes/brandweek-2026-cheryl-guerin",
+              "publishedAt": "2026-10-27"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "833905cb-c49c-44ee-99a8-08f5864cdc26",
+          "completedAt": "2026-10-29T02:21:28.687Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "3e2bc7e0a277388cb74c9df1ffe3aa3c3376dcd2d43a7ba23e8188880e368491"
+        },
+        "body": "O assunto começou a aparecer em todos os perfis. Alguém manda a referência para a equipe com um pedido: precisamos fazer alguma coisa com isso ainda hoje. Antes de existir uma ideia, a marca já parece ter assumido o compromisso de participar.\n\nParticipar de tendências pode fazer sentido quando existe uma relação compreensível com o público e algo pertinente a acrescentar. O fato de uma conversa estar em alta não responde essas duas questões. Também não garante que a empresa consiga produzir uma peça adequada enquanto o contexto ainda faz sentido.\n\nA apresentação editorial de um episódio do Marketing Vanguard, publicado pelo Adweek em 27 de outubro de 2026 com Cheryl Guerin, inclui a importância de dizer não entre os temas de agilidade de marca. Essa descrição abre uma reflexão útil, sem representar uma fórmula comprovada para toda empresa: escolher também faz parte de agir no tempo certo.\n\nPara uma PME, a decisão começa antes do roteiro. Qual papel a marca teria nessa conversa?\n\n## Descubra o que o público está reconhecendo\n\nUma referência pode circular porque representa uma situação cotidiana, porque acompanha um acontecimento ou porque faz sentido dentro de um grupo específico. Reproduzir apenas a aparência da peça pode deixar essa razão de fora.\n\nImagine uma pequena empresa de serviços recebendo o pedido de entrar num formato viral. É um exemplo hipotético. A equipe reconhece a música e o gesto, mas não sabe explicar o que seu público encontraria de pertinente naquela adaptação.\n\nAntes de produzir, descreva a conversa com palavras simples. Do que as pessoas estão falando? O que o formato ajuda a expressar? A empresa conhece esse contexto ou está apenas acompanhando a repetição?\n\nSe a equipe não consegue responder, vale investigar antes de transformar a referência em obrigação. Uma tendência não precisa ser compreendida por todas as pessoas para existir, mas quem a utiliza profissionalmente precisa entender o suficiente para fazer uma escolha responsável.\n\n## Defina uma contribuição que exista além da presença\n\nA marca pode participar oferecendo uma observação, uma demonstração, uma informação ou uma leitura ligada ao seu repertório. A questão é o que ficará disponível para quem encontrar a peça.\n\nNa empresa hipotética, talvez o formato permita explicar uma dúvida comum do serviço de uma maneira nova. Talvez a relação seja tão distante que a única conexão seja inserir o logotipo no final.\n\nA diferença merece ser discutida antes de investir tempo. A publicação não precisa virar uma aula nem repetir uma oferta comercial. Ainda assim, deve haver uma razão compreensível para aquela marca estar ali.\n\nUma pergunta útil é retirar mentalmente a identidade da peça: o conteúdo ainda apresenta uma perspectiva ligada ao que a empresa conhece, faz ou acompanha? Se poderia ser publicado por qualquer negócio, a equipe pode precisar desenvolver melhor a relação, em vez de apenas trocar a assinatura.\n\n## Confira o tempo que a participação realmente exige\n\nEntre receber a referência e publicar, existem decisões. Alguém precisa compreender o assunto, criar, verificar informações, avaliar permissões quando necessárias e aprovar o material. Esses passos não desaparecem porque a conversa está acontecendo depressa.\n\nUma ação simples pode caber na capacidade disponível. Outra depende de produção ou verificação que não será concluída a tempo. Reconhecer essa diferença permite escolher um caminho plausível.\n\nNo exemplo hipotético, a equipe pode perceber que a ideia exige uma gravação que só acontecerá dias depois. Talvez valha adaptar o formato para outra finalidade. Talvez seja melhor deixar aquela oportunidade passar.\n\nNão prometa uma reação imediata antes de conhecer as condições. A pressa pode produzir uma peça atrasada e pouco compreensível, mesmo quando todas as pessoas envolvidas trabalharam intensamente.\n\n## Não transforme qualquer assunto em ocasião comercial\n\nAlgumas conversas envolvem experiências delicadas, conflitos ou sofrimento. A existência de atenção pública não oferece, por si só, um papel legítimo à empresa.\n\nAntes de associar uma oferta, confira se a participação acrescenta algo pertinente ou apenas usa o assunto como cenário. Quando faltam contexto e responsabilidade, uma chamada comercial pode contradizer o cuidado que a marca procura comunicar.\n\nEsse critério não exige silêncio universal. Uma empresa pode ter conhecimento, responsabilidade ou atuação real relacionada ao tema. Nesse caso, a decisão deve partir dessa relação, com a apuração e a avaliação apropriadas, em vez de começar pela oportunidade de alcance.\n\nA mesma atenção vale para referências culturais que a equipe conhece pouco. Uma adaptação não ganha pertinência apenas porque outras marcas já fizeram algo parecido.\n\n## Escolha entre participar, adaptar e deixar passar\n\nA triagem não precisa terminar sempre com um sim ou não definitivo. Pode revelar que a conversa é relevante, mas o formato não combina com a empresa. Pode indicar uma ideia que merece desenvolvimento fora daquela corrida.\n\nNa PME hipotética, uma dúvida reconhecida no conteúdo viral pode virar um material próprio, sem reproduzir o meme. Assim, a observação encontra uma forma coerente com o serviço e com o tempo disponível.\n\nQuando a decisão for não participar, registre o motivo de maneira objetiva. Faltou relação com o público? A contribuição era fraca? O contexto exigia cuidado que a equipe não conseguiria oferecer? Isso ajuda a distinguir escolha estratégica de indecisão permanente.\n\nTambém evita reabrir a mesma discussão a cada nova referência. O critério pode ser revisto, mas precisa existir para que a equipe não trabalhe apenas reagindo à urgência mais recente.\n\n## Avalie a escolha sem usar alcance como único veredito\n\nUma publicação com muitas visualizações não comprova que a participação foi pertinente. Uma peça de circulação menor também não demonstra, sozinha, que a ideia deveria ter sido abandonada.\n\nObserve o que as pessoas entenderam e que tipo de conversa surgiu. A associação com a marca ficou clara? O conteúdo gerou dúvidas que a equipe consegue responder? O esforço exigiu interromper algo mais importante para o público?\n\nEssas perguntas não substituem os indicadores disponíveis. Acrescentam contexto para discutir a decisão e preparar a próxima oportunidade. Uma reação isolada precisa ser interpretada com cuidado, sem transformar toda manifestação em diagnóstico definitivo.\n\nNa próxima referência que chegar com um pedido urgente, combine primeiro a razão de participar. Depois escolha o formato e o tempo possível. A marca pode acompanhar a cultura sem assumir que toda conversa precisa de sua presença. Agilidade ganha direção quando a equipe sabe reconhecer uma oportunidade e também sabe explicar por que deixou outra passar.",
+        "sources": "[Adweek, apresentação do episódio Marketing Vanguard com Cheryl Guerin, 27/10/2026](https://shows.acast.com/cmo-moves/episodes/brandweek-2026-cheryl-guerin)\n\nA referência é a apresentação editorial acessível do episódio, sem transcrição ou alegação de audição integral. A empresa e as situações descritas são hipotéticas; as recomendações não prometem alcance ou resultado comercial.",
+        "prompt": "Conceptual editorial photograph without people, a quiet row of small brass wind instruments with several bells turned toward a dense cascade of brightly colored ribbon suspended in the air, one instrument rests calmly on its side facing a clear empty area instead, believable physical objects arranged in a warm grey gallery-like space, visual tension between collective noise and deliberate pause, sculptural asymmetrical wide composition, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 reflecting along the resting brass bell, tactile metal and fabric, controlled shadows, no cubes, prisms, labyrinths, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Instrumentos de sopro de latão se voltam para fitas coloridas suspensas, enquanto um deles repousa voltado para um espaço vazio com reflexo teal discreto.",
+        "keyword": "participar de tendências",
+        "slug": "marca-tendencias-criterio-participacao",
+        "meta": "Participar de tendências pede critério: avalie pertinência ao público, contribuição da marca e capacidade de agir enquanto o contexto faz sentido.",
+        "date": "2026-10-30",
+        "faq": "Como decidir se uma tendência merece uma ação da marca?\nConfira o contexto, a relação com o público, a contribuição possível e as condições de produzir uma peça adequada no tempo disponível.\n\nA marca precisa repetir o formato que está em alta?\nNão. Uma observação pertinente pode virar um material próprio quando o formato viral não combina com a empresa.\n\nComo avaliar a participação além do alcance?\nObserve o que o público compreendeu, a associação com a marca, as conversas geradas e o esforço exigido da equipe.",
+        "url": "https://www.agenciatweed.com.br/marca-tendencias-criterio-participacao/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-28-5213addb8c7f/imagens/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+        "imageName": "Metais Dourados e Fitas ao Vento.png",
+        "imageWidth": 1536,
+        "imageHeight": 1024,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-29T07:34:27.774Z"
+        }
+      },
+      "createdAt": "2026-10-29T07:34:27.778Z"
+    },
+    {
+      "id": "6db0d9f1-6079-4d33-8e1c-e230a2f80a48",
+      "itemId": "pauta-reposicao-2026-10-28-5d882def914b",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "ecdbcc245f0513544112f642f7203a5290629374c6f5e7d3cb79c6de252bc290",
+      "snapshot": "3100ff045c75e3b749cede238290b5a49558c50dad77f35448df853f197f0e63",
+      "input": {
+        "id": "pauta-reposicao-2026-10-28-5d882def914b",
+        "title": "Uma pesquisa sobre consumidores também fala sobre os seus clientes?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho verificado: Ipsos publicou em 19/10/2026 o índice LSEG/Ipsos de sentimento do consumidor americano de outubro, com nota metodológica que informa público e período de coleta: 1.000 americanos de 18 a 74 anos, entrevistados entre 25/09 e 01/10. Usar o recorte metodológico como exemplo de leitura, sem transferir resultados para o Brasil, clientes de uma PME ou mercado B2B; não interpretar o índice como previsão de vendas ou orientação financeira. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo. Tese: uma notícia de pesquisa pode orientar perguntas, mas sua aplicabilidade depende de quem respondeu, onde, quando e sobre o quê; a categoria genérica consumidores não equivale automaticamente à carteira da empresa. Exemplo hipotético de PME que quer alterar uma mensagem porque viu uma manchete internacional: localizar a fonte original e a metodologia, formular uma hipótese limitada e confrontá-la com dúvidas comerciais e observações locais, sem inventar validação estatística nem tratar poucos relatos como amostra representativa. Não ensinar desenho amostral avançado nem desacreditar pesquisas em geral. Diferenciar de dados de campanha: foco no alcance de evidências externas, não em rastreamento e eventos. Diferenciar de atribuição: foco no público e no recorte de pesquisa, não na causalidade de vendas. Diferenciar de tendências culturais: foco na leitura metodológica de levantamento, não em participação em assuntos virais.",
+        "audience": "Donos de PMEs e responsáveis por estratégia e conteúdo que utilizam pesquisas de comportamento para decidir mensagens e precisam distinguir contexto de mercado e evidência sobre seu próprio público.",
+        "goal": "De “a pesquisa diz que o consumidor mudou, então precisamos mudar a comunicação” para “preciso entender o recorte do levantamento e verificar que hipótese ele permite formular sobre quem atendemos”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-28",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Ipsos, October 2026 LSEG/Ipsos Primary Consumer Sentiment Index",
+              "url": "https://www.ipsos.com/en-us/october-2026-lsegipsos-primary-consumer-sentiment-index",
+              "publishedAt": "2026-10-19"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-29T07:35:14.399Z",
+      "startedAt": "2026-10-29T08:20:53.288Z",
+      "completedAt": "2026-10-29T08:23:28.673Z"
+    },
+    {
+      "id": "5403751e-7c9c-4e22-8920-f8232e92dd65",
+      "itemId": "pauta-diaria-2026-10-29",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "b1ce542427b630462ebbc33acbf5475c529da74701ec3efb23a76df82cc93e80",
+      "snapshot": "bd59ed21a715c73750d46779910bbe6af57f93d3a1bcbbe93a8dfa966550bdb5",
+      "input": {
+        "id": "pauta-diaria-2026-10-29",
+        "title": "Seu conteúdo tem continuidade ou cada post recomeça do zero?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: comunicado oficial de 14/10/2026 anuncia parceria do TikTok com MADE BY US STUDIOS para coproduzir microsséries verticais conduzidas por criadores. Usar como sinal de investimento editorial da plataforma em formatos episódicos, sem transferir audiência, números promocionais, escala de produção ou resultado comercial para PMEs. Pesquisa ampliada a até 30 dias após triagem recente para buscar tema distinto. Tese: uma série de conteúdo precisa de uma pergunta ou promessa que conecte as partes e de valor em cada episódio; publicar peças numeradas não cria continuidade sozinho. Exemplo hipotético de PME de serviços que mostra em três episódios decisões sucessivas de um projeto fictício: definir a pergunta central, a contribuição de cada parte, uma breve orientação para quem chega no meio e acesso às anteriores, sem esconder resposta essencial apenas para forçar retorno. Não recomendar produzir ficção cara nem inventar cases reais, clientes ou métricas. Diferenciar de reaproveitamento de vídeo: foco na arquitetura de continuidade entre episódios novos, não em adaptar a mesma peça entre plataformas. Diferenciar de narrativas míticas e storytelling institucional: foco em progressão de uma série editorial curta, não na história de origem da marca. Diferenciar de demonstração: foco no encadeamento das partes, não em provar o funcionamento de um produto.",
+        "audience": "Donos de PMEs e responsáveis por conteúdo que querem organizar séries de posts ou vídeos com continuidade e capacidade real de produção.",
+        "goal": "De “se colocarmos parte 1, parte 2 e parte 3, temos uma série” para “preciso definir o que conecta os episódios e o que cada parte entrega, inclusive para quem começa pelo meio”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-29",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "TikTok e MADE BY US STUDIOS, parceria para microsséries conduzidas por criadores",
+              "url": "https://newsroom.tiktok.com/tiktok-and-made-by-us-studios-enter-partnership-to-co-produce-creator-led-micro-series?lang=en",
+              "publishedAt": "2026-10-14"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-29T07:35:17.510Z",
+      "startedAt": "2026-10-29T08:20:53.389Z",
+      "completedAt": "2026-10-29T08:23:28.818Z"
     }
   ]
 }
