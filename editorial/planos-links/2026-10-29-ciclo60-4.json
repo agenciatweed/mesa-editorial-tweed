@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "adocao-ia-equipe-conhecimento-compartilhado",
+  "contentSha256": "7efb2d2313b10c3ddeb76dfc612f8ada43eac5d06413af0aca0870e758524a6b",
+  "modifiedAt": "2026-10-29",
+  "links": [
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "adocao-ia-equipe-conhecimento-compartilhado",
+      "anchor": "Defina quem confere a oferta",
+      "context": "Defina quem confere a oferta, quem revisa a linguagem e quem decide o acabamento visual. Em uma equipe pequena, uma pessoa pode acumular funções, mas os critérios ainda precisam ser distintos.",
+      "reason": "Aprofunda aprendizagem compartilhada e critérios de uso da IA além da referência visual."
+    }
+  ]
+}

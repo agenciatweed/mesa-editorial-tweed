@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "imagem-campanha-prova-entrega",
+  "contentSha256": "c241485a1ef5b8c85957ed2670b3949a838ba0e5a739df42c9e5a35004845575",
+  "modifiedAt": "2026-10-29",
+  "links": [
+    {
+      "from": "a-marca-que-voce-posta-e-a-mesma-que-voce-entrega",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "o que você mostra",
+      "context": "O branding só funciona quando o que você mostra é sustentado pelo que você é. A experiência precisa reforçar a comunicação, não contradizê-la.",
+      "reason": "Distingue representação visual de evidência sobre o que a empresa entrega."
+    }
+  ]
+}

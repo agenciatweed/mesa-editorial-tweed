@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "atendimento-troca-clareza-encaminhamento",
+  "contentSha256": "1205c95ae8979105baa74f07fa2d49fb11a23ff418d5d5aa8d2fcb259b15f419",
+  "modifiedAt": "2026-10-29",
+  "links": [
+    {
+      "from": "da-embalagem-ao-pos-venda",
+      "to": "atendimento-troca-clareza-encaminhamento",
+      "anchor": "Problemas acontecem",
+      "context": "Problemas acontecem. Produtos atrasam. Itens chegam com defeito. É nesse momento que se descobre se o branding era real ou só discurso.",
+      "reason": "Detalha como orientar o cliente quando a compra exige troca ou encaminhamento."
+    }
+  ]
+}

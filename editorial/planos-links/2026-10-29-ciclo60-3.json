@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "humor-marca-cliente-alvo-piada",
+  "contentSha256": "3a640a65135d4f33913c69417e4c2f6e71755ad9dc8a2529128e611c43725b45",
+  "modifiedAt": "2026-10-29",
+  "links": [
+    {
+      "from": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "to": "humor-marca-cliente-alvo-piada",
+      "anchor": "quando o humor deve ceder lugar",
+      "context": "Inclua limites. Se a marca é confiante, explique como evita promessas que não consegue sustentar. Se é próxima, discuta como respeita a privacidade e o espaço do cliente. Se é irreverente, estabeleça quando o humor deve ceder lugar a uma orientação sóbria.",
+      "reason": "Aprofunda limites do humor sem transformar a dificuldade do cliente em alvo."
+    }
+  ]
+}
