@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-10-29-48c5e0483de5",
+  "title": "Quando sua venda promete apoiar uma causa, o cliente entende como?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado: comunicado do Airbnb de 28/10/2026 anuncia financiamento ao Airbnb.org associado às estadias e explicita em nota o valor por estadia, a origem na receita da empresa e exclusões como cancelamentos antes do check-in, experiências e serviços. Usar como referência de explicação de mecanismo, atribuindo as informações à empresa. Não apresentar metas plurianuais como impacto realizado nem misturar aporte global e contribuição por transação. Tese: uma campanha que associa compra a apoio social precisa tornar compreensíveis o mecanismo, o período, os critérios e a forma de acompanhar o que foi efetivamente realizado; a frase “parte das vendas ajuda” não explica tudo. Exemplo hipotético de PME que prepara ação com organização parceira e confere previamente o que pode prometer, quem executa a contribuição e quais informações de prestação de contas pode divulgar. Não inventar parceiro, beneficiários reais, valores realizados ou resultado social. Não oferecer parecer jurídico, tributário ou financeiro; confirmar condições aplicáveis antes da execução. Diferenciar de produto e causa: foco no mecanismo concreto de apoio ligado à transação, não na ordem de apresentação de atributos de marca. Diferenciar de alegações ambientais: foco em compromisso de repasse e informação de acompanhamento, sem presumir equivalência entre valor doado e impacto social. Diferenciar de parceria entre logotipos: foco em regras da campanha e continuidade da informação ao comprador.",
+  "audience": "Donos de PMEs e responsáveis por marketing que pretendem comunicar uma ação de apoio social associada à venda de produtos ou serviços.",
+  "goal": "De “basta anunciar que a compra ajuda uma causa” para “preciso explicar como o apoio funciona, o que entra na ação, quem responde por ela e como o compromisso será acompanhado sem prometer impacto que não foi demonstrado”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-29",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Airbnb, Starting today, every home booked on Airbnb will help house people in crisis",
+        "url": "https://news.airbnb.com/every-home-booked-on-airbnb-helps-house-people-in-crisis",
+        "publishedAt": "2026-10-28"
+      }
+    ]
+  }
+}

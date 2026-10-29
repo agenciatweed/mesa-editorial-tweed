@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-10-29T16:20:24.837Z",
+  "exportedAt": "2026-10-29T19:36:05.514Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-10-29-48c5e0483de5",
+      "title": "Quando sua venda promete apoiar uma causa, o cliente entende como?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário verificado: comunicado do Airbnb de 28/10/2026 anuncia financiamento ao Airbnb.org associado às estadias e explicita em nota o valor por estadia, a origem na receita da empresa e exclusões como cancelamentos antes do check-in, experiências e serviços. Usar como referência de explicação de mecanismo, atribuindo as informações à empresa. Não apresentar metas plurianuais como impacto realizado nem misturar aporte global e contribuição por transação. Tese: uma campanha que associa compra a apoio social precisa tornar compreensíveis o mecanismo, o período, os critérios e a forma de acompanhar o que foi efetivamente realizado; a frase “parte das vendas ajuda” não explica tudo. Exemplo hipotético de PME que prepara ação com organização parceira e confere previamente o que pode prometer, quem executa a contribuição e quais informações de prestação de contas pode divulgar. Não inventar parceiro, beneficiários reais, valores realizados ou resultado social. Não oferecer parecer jurídico, tributário ou financeiro; confirmar condições aplicáveis antes da execução. Diferenciar de produto e causa: foco no mecanismo concreto de apoio ligado à transação, não na ordem de apresentação de atributos de marca. Diferenciar de alegações ambientais: foco em compromisso de repasse e informação de acompanhamento, sem presumir equivalência entre valor doado e impacto social. Diferenciar de parceria entre logotipos: foco em regras da campanha e continuidade da informação ao comprador.",
+      "audience": "Donos de PMEs e responsáveis por marketing que pretendem comunicar uma ação de apoio social associada à venda de produtos ou serviços.",
+      "goal": "De “basta anunciar que a compra ajuda uma causa” para “preciso explicar como o apoio funciona, o que entra na ação, quem responde por ela e como o compromisso será acompanhado sem prometer impacto que não foi demonstrado”.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-10-29",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Airbnb, Starting today, every home booked on Airbnb will help house people in crisis",
+            "url": "https://news.airbnb.com/every-home-booked-on-airbnb-helps-house-people-in-crisis",
+            "publishedAt": "2026-10-28"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-reposicao-2026-10-29-7ad0b8ec8b5d",
       "title": "Sua marca explica o produto para quem ainda não compartilha da sua causa?",
@@ -11,8 +38,8 @@
       "angle": "Gancho verificado: reportagem do Sebrae de 28/10/2026 sobre veganismo inclui relato da fundadora da Maduu sobre apresentar design e funcionalidade para alcançar pessoas que não necessariamente são veganas. Usar esse depoimento como visão da empreendedora, sem tratá-lo como experimento ou prova causal de crescimento. Não reproduzir estatísticas de consumo sem acessar o levantamento original. Tese: uma marca orientada por valores pode criar portas de entrada pelo uso e pelo projeto do produto sem esconder nem diluir seus compromissos; não é preciso presumir adesão prévia do comprador à causa para explicar a oferta. Exemplo hipotético de pequena marca de acessórios que apresenta primeiro uma situação de uso e detalhes verificáveis de construção, mantendo acessível a explicação de seus compromissos e materiais. Comparar modos de organizar uma página de produto para diferentes dúvidas, sem estabelecer fórmula universal ou recomendar omissão. Não equiparar sintético, vegano e sustentável, nem prometer durabilidade, benefício ambiental ou desempenho sem evidência. Diferenciar de valor de serviço já contratado: foco na entrada de novos públicos em uma marca orientada por valores. Diferenciar de nicho: ampliar compreensão sem mudar indiscriminadamente o público ou abandonar posicionamento. Diferenciar de melhoria ambiental: foco na hierarquia de apresentação do produto e da causa, não na validação de alegações ambientais.",
       "audience": "Donos de pequenas marcas de produtos orientadas por valores e responsáveis por páginas de produto e comunicação de lançamento.",
       "goal": "De “o comprador precisa aderir primeiro à nossa causa” para “posso explicar uma utilidade concreta e manter meus compromissos claros, sem exigir uma identidade prévia do público nem esconder informações relevantes”.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-28"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "9322c446-8821-405e-9630-c0613cfbf36c",
+        "completedAt": "2026-10-29T22:21:56.803Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A página abre com um manifesto. Fala de convicções, escolhas e do futuro que a marca deseja construir. O produto aparece depois, com uma fotografia bonita e pouca explicação sobre o uso. Quem já compartilha daqueles valores encontra um sinal de afinidade. Quem chegou procurando uma solução concreta ainda precisa descobrir se está no lugar certo.\n\nUma marca orientada por uma causa também precisa explicar o produto. Apresentar uma utilidade não diminui seus compromissos. Pode criar uma entrada compreensível para pessoas que ainda não conhecem a marca ou não se definem pela mesma identidade.\n\nEm reportagem publicada pelo Sebrae em 28 de outubro de 2026, a fundadora da Maduu, marca de bolsas e acessórios veganos, descreve a escolha de destacar design e funcionalidade para conversar também com consumidores que não necessariamente são veganos. É a visão de uma empreendedora sobre sua abordagem. O relato não demonstra, sozinho, que essa ordem de apresentação cause crescimento.\n\nPara uma pequena empresa, a questão é como organizar a explicação da oferta sem esconder seus valores nem exigir adesão prévia a eles.\n\n## Descubra qual pergunta trouxe a pessoa até o produto\n\nUma pessoa pode chegar à página porque procura uma bolsa para levar objetos no transporte cotidiano. Outra pode querer conhecer os materiais utilizados. Uma terceira pode já acompanhar a causa defendida pela marca e buscar uma opção compatível com ela.\n\nEssas perguntas podem coexistir. Presumir uma única motivação torna a comunicação menos capaz de acolher o que ainda precisa ser entendido.\n\nImagine uma pequena marca de acessórios que defende escolhas responsáveis de produção. É um exemplo hipotético. Sua página dedica quase todo o espaço inicial ao compromisso declarado. Não informa claramente dimensões, divisões internas ou como a peça é carregada.\n\nQuem procura uma bolsa para determinada rotina pode até valorizar o compromisso, mas continua sem saber se o produto atende à necessidade. A afinidade não substitui a informação que permite avaliar o uso.\n\nComece reunindo dúvidas concretas que a equipe recebe e conferindo o que os materiais já explicam. Essa escuta pode orientar a revisão da página, sem ser apresentada como pesquisa representativa de todo o público.\n\n## Explique uma utilidade que possa ser conferida\n\nNo exemplo hipotético, a marca poderia mostrar o compartimento interno, informar as medidas e apresentar uma situação plausível de transporte. São maneiras de tornar a oferta mais compreensível, desde que correspondam à peça vendida.\n\nIsso é diferente de acrescentar promessas genéricas de praticidade, resistência ou versatilidade. Cada uma dessas palavras pode sugerir condições de uso que precisam estar sustentadas.\n\nEscolha o que a pessoa deve conseguir avaliar. A abertura da bolsa aparece? A imagem permite entender sua escala? A descrição esclarece o que acompanha o produto? Uma limitação relevante está acessível antes da decisão?\n\nA explicação não precisa transformar a página em um manual técnico. Precisa oferecer pistas suficientes para que o público entenda o que está escolhendo. Detalhes verificáveis ajudam a tirar a utilidade do campo dos adjetivos.\n\n## Mantenha os compromissos visíveis e específicos\n\nCriar uma entrada pelo produto não significa deixar os valores escondidos até o fim da compra. Informações importantes sobre materiais, processos e condições precisam continuar acessíveis, com a precisão que o assunto exige.\n\nNa marca hipotética, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.\n\nEvite juntar afirmações diferentes numa conclusão ampla. Um material sintético não se torna automaticamente sustentável por não ser couro. Uma característica de composição não comprova, sozinha, o impacto de todo o produto. A comunicação deve distinguir aquilo que foi confirmado daquilo que continua exigindo avaliação.\n\nSe uma informação depende de documentação ou de confirmação de um parceiro, faça essa verificação antes de transformá-la em chamada. A força de um compromisso também está na capacidade de dizer exatamente o que ele abrange.\n\n## Organize entradas diferentes sem criar marcas contraditórias\n\nUma campanha pode destacar o uso cotidiano. Outra pode aprofundar os materiais. Uma apresentação institucional pode desenvolver a razão das escolhas. Esses pontos de entrada não precisam disputar entre si.\n\nO que deve permanecer coerente é a oferta encontrada depois do clique. A página precisa sustentar a promessa da campanha e permitir acesso às demais informações relevantes.\n\nNo exemplo, uma imagem sobre organização interna deveria levar a uma explicação que mostre essa organização. Uma publicação sobre materiais deveria encontrar uma descrição compatível na mesma peça. Mudar a porta de entrada não autoriza mudar os fatos conforme o público.\n\nTambém não é necessário abandonar quem já acompanha a causa. Explicar o produto amplia a compreensão; não exige substituir o posicionamento por uma mensagem genérica capaz de caber em qualquer concorrente.\n\n## Observe o entendimento antes de declarar uma fórmula vencedora\n\nUma revisão útil começa por perguntas delimitadas. As pessoas conseguem explicar para que a peça serve? Encontram as medidas? Entendem quais compromissos foram declarados e quais características foram comprovadas?\n\nPeça a alguém que não participou da criação para percorrer a página e relatar o que compreendeu. Essa observação pode revelar uma ambiguidade. Não equivale a comprovar a preferência de todo o mercado.\n\nSe mudar a ordem da apresentação, registre o motivo e acompanhe as dúvidas recebidas. Uma alteração posterior nas vendas não demonstra automaticamente que a hierarquia da mensagem foi a causa. Preço, disponibilidade e outras condições também podem ter mudado.\n\nO objetivo inicial é tornar a proposta legível. Uma marca pode defender convicções e oferecer razões concretas de escolha na mesma experiência. Na próxima revisão de página, confira se alguém que ainda não conhece sua causa consegue entender o produto e se alguém que procura seus compromissos consegue encontrá-los. As duas perguntas merecem uma resposta clara.",
+      "sources": "[Agência Sebrae de Notícias, veganismo e oportunidades para empreendedores, 28/10/2026](https://agenciasebrae.com.br/dados/veganismo-conquista-consumidores-e-abre-oportunidades-para-empreendedores-no-brasil/)\n\nO relato da fundadora da Maduu é uma perspectiva empresarial, sem prova causal de resultado. Não foram reproduzidas estatísticas de consumo. A marca de acessórios descrita é hipotética; a organização da comunicação é análise editorial da Tweed.",
+      "prompt": "Conceptual editorial still life with no people, one carefully crafted unbranded everyday shoulder bag seen from above with its opening gently folded back to reveal clearly organized empty compartments, its long strap curves outward toward an open area of warm textured stone, a single small inset detail of the material remains visible beside the bag, tactile stitching and believable construction, generous asymmetric negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 grazing the inner rim, controlled contrast, no papers, laptop, desk setup, nature symbols, cubes, prisms, readable text or logos --ar 3:2",
+      "imageAlt": "Bolsa aberta sobre pedra clara revela divisórias internas, com a alça curvada e um reflexo teal discreto na borda."
     },
     {
       "id": "pauta-reposicao-2026-10-29-62a1de992195",
