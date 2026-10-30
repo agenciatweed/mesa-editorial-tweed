@@ -1,9 +1,7 @@
 TÍTULO: Quem cuida da comunidade depois que sua marca abre o grupo?
 EDITORIA: 3
-VOZ: Lorenzo
 ÂNGULO: Gancho primário verificado: Meta publicou em 23/10/2026 (article:published_time confirmado) anúncio de ferramentas de administração do Forum, com apoio à triagem de posts, regras de moderação e calendário compartilhado. O comunicado informa disponibilidade do app nos EUA; não presumir acesso no Brasil nem recomendar migração. Usar o anúncio como contexto para o trabalho de administração, sem prometer crescimento ou tratar IA como substituta de julgamento. Tese: criar um grupo de marca implica combinar propósito, regras compreensíveis e responsabilidades de acompanhamento; a comunidade não se sustenta apenas com calendário de conteúdo. Exemplo hipotético de PME que reúne usuários para trocar experiências e define quem recebe dúvidas, qual assunto pertence ao grupo, quando encaminhar atendimento privado e como lidar com uma mensagem fora das regras sem expor dados do participante. Diferenciar de microcomunidades: foco na rotina de cuidado e moderação após a abertura, não no tamanho da audiência ou no potencial de alcance. Diferenciar de comentários como experiência: foco num espaço mantido pela marca com participantes recorrentes e regras próprias. Não usar casos identificáveis nem ensinar automação indiscriminada, vigilância ou coleta de dados pessoais. Não oferecer parecer jurídico.
 LEITOR: Donos de PMEs e responsáveis por marketing ou relacionamento que mantêm ou planejam grupos de clientes e usuários.
 OBJETIVO: De “abrir um grupo e programar posts cria uma comunidade” para “preciso estabelecer finalidade, regras e pessoas responsáveis pela continuidade, com limites entre conversa coletiva e atendimento individual”.
 
-FONTES DA PESQUISA:
-2026-10-23 | Meta, New Tools for the Admins Who Build Communities on Forum | https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

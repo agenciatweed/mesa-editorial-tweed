@@ -6041,6 +6041,248 @@
       "createdAt": "2026-10-29T19:36:05.557Z",
       "startedAt": "2026-10-29T22:21:56.661Z",
       "completedAt": "2026-10-29T22:21:56.858Z"
+    },
+    {
+      "id": "ec7a6337-fc57-4026-91b6-d5f4628b58f4",
+      "itemId": "pauta-diaria-2026-10-30",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "c8f42aff397161dcbb2d00a8bda787bc2a29dd2c34a82f61a5c7899f8abbe480",
+      "snapshot": "7bc6201046ef4cf037c66d4ec0c58442fb38afe52bb665bd9673f611a37c09ae",
+      "input": {
+        "id": "pauta-diaria-2026-10-30",
+        "title": "Quem cuida da comunidade depois que sua marca abre o grupo?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: Meta publicou em 23/10/2026 (article:published_time confirmado) anúncio de ferramentas de administração do Forum, com apoio à triagem de posts, regras de moderação e calendário compartilhado. O comunicado informa disponibilidade do app nos EUA; não presumir acesso no Brasil nem recomendar migração. Usar o anúncio como contexto para o trabalho de administração, sem prometer crescimento ou tratar IA como substituta de julgamento. Tese: criar um grupo de marca implica combinar propósito, regras compreensíveis e responsabilidades de acompanhamento; a comunidade não se sustenta apenas com calendário de conteúdo. Exemplo hipotético de PME que reúne usuários para trocar experiências e define quem recebe dúvidas, qual assunto pertence ao grupo, quando encaminhar atendimento privado e como lidar com uma mensagem fora das regras sem expor dados do participante. Diferenciar de microcomunidades: foco na rotina de cuidado e moderação após a abertura, não no tamanho da audiência ou no potencial de alcance. Diferenciar de comentários como experiência: foco num espaço mantido pela marca com participantes recorrentes e regras próprias. Não usar casos identificáveis nem ensinar automação indiscriminada, vigilância ou coleta de dados pessoais. Não oferecer parecer jurídico.",
+        "audience": "Donos de PMEs e responsáveis por marketing ou relacionamento que mantêm ou planejam grupos de clientes e usuários.",
+        "goal": "De “abrir um grupo e programar posts cria uma comunidade” para “preciso estabelecer finalidade, regras e pessoas responsáveis pela continuidade, com limites entre conversa coletiva e atendimento individual”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Meta, New Tools for the Admins Who Build Communities on Forum",
+              "url": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+              "publishedAt": "2026-10-23"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-30T07:21:33.123Z",
+      "startedAt": "2026-10-30T07:32:44.318Z",
+      "completedAt": "2026-10-30T07:34:40.907Z"
+    },
+    {
+      "id": "c6e98e70-489b-49be-9b4b-918bfa225270",
+      "itemId": "pauta-reposicao-2026-10-29-48c5e0483de5",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "a558b290e445eeb76cf8ba4139c1efd4b701a0a504457657b21f3f409dcf9d15",
+      "snapshot": "7dbd4ee77a03c905124af0433c6b29d1db50f499a7ba56c66006d3b0c4e33581",
+      "input": {
+        "id": "pauta-reposicao-2026-10-29-48c5e0483de5",
+        "title": "Quando sua venda promete apoiar uma causa, o cliente entende como?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: comunicado do Airbnb de 28/10/2026 anuncia financiamento ao Airbnb.org associado às estadias e explicita em nota o valor por estadia, a origem na receita da empresa e exclusões como cancelamentos antes do check-in, experiências e serviços. Usar como referência de explicação de mecanismo, atribuindo as informações à empresa. Não apresentar metas plurianuais como impacto realizado nem misturar aporte global e contribuição por transação. Tese: uma campanha que associa compra a apoio social precisa tornar compreensíveis o mecanismo, o período, os critérios e a forma de acompanhar o que foi efetivamente realizado; a frase “parte das vendas ajuda” não explica tudo. Exemplo hipotético de PME que prepara ação com organização parceira e confere previamente o que pode prometer, quem executa a contribuição e quais informações de prestação de contas pode divulgar. Não inventar parceiro, beneficiários reais, valores realizados ou resultado social. Não oferecer parecer jurídico, tributário ou financeiro; confirmar condições aplicáveis antes da execução. Diferenciar de produto e causa: foco no mecanismo concreto de apoio ligado à transação, não na ordem de apresentação de atributos de marca. Diferenciar de alegações ambientais: foco em compromisso de repasse e informação de acompanhamento, sem presumir equivalência entre valor doado e impacto social. Diferenciar de parceria entre logotipos: foco em regras da campanha e continuidade da informação ao comprador.",
+        "audience": "Donos de PMEs e responsáveis por marketing que pretendem comunicar uma ação de apoio social associada à venda de produtos ou serviços.",
+        "goal": "De “basta anunciar que a compra ajuda uma causa” para “preciso explicar como o apoio funciona, o que entra na ação, quem responde por ela e como o compromisso será acompanhado sem prometer impacto que não foi demonstrado”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-29",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Airbnb, Starting today, every home booked on Airbnb will help house people in crisis",
+              "url": "https://news.airbnb.com/every-home-booked-on-airbnb-helps-house-people-in-crisis",
+              "publishedAt": "2026-10-28"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-30T07:21:37.246Z",
+      "startedAt": "2026-10-30T07:32:44.401Z",
+      "completedAt": "2026-10-30T07:35:54.340Z"
+    },
+    {
+      "id": "30818411-d007-426f-b6f9-36a3d0883994",
+      "itemId": "pauta-reposicao-2026-10-29-7ad0b8ec8b5d",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "9931b77423a5b9194c78b2d6a625451b5ab4d86941fa137da2b375691cfa07b2",
+      "snapshot": "520a4e2dd18c38c952f0f58e4fbab64ec9dd96e533e6da6b481dd620ad9097fd",
+      "input": {
+        "id": "pauta-reposicao-2026-10-29-7ad0b8ec8b5d",
+        "title": "Sua marca explica o produto para quem ainda não compartilha da sua causa?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: reportagem do Sebrae de 28/10/2026 sobre veganismo inclui relato da fundadora da Maduu sobre apresentar design e funcionalidade para alcançar pessoas que não necessariamente são veganas. Usar esse depoimento como visão da empreendedora, sem tratá-lo como experimento ou prova causal de crescimento. Não reproduzir estatísticas de consumo sem acessar o levantamento original. Tese: uma marca orientada por valores pode criar portas de entrada pelo uso e pelo projeto do produto sem esconder nem diluir seus compromissos; não é preciso presumir adesão prévia do comprador à causa para explicar a oferta. Exemplo hipotético de pequena marca de acessórios que apresenta primeiro uma situação de uso e detalhes verificáveis de construção, mantendo acessível a explicação de seus compromissos e materiais. Comparar modos de organizar uma página de produto para diferentes dúvidas, sem estabelecer fórmula universal ou recomendar omissão. Não equiparar sintético, vegano e sustentável, nem prometer durabilidade, benefício ambiental ou desempenho sem evidência. Diferenciar de valor de serviço já contratado: foco na entrada de novos públicos em uma marca orientada por valores. Diferenciar de nicho: ampliar compreensão sem mudar indiscriminadamente o público ou abandonar posicionamento. Diferenciar de melhoria ambiental: foco na hierarquia de apresentação do produto e da causa, não na validação de alegações ambientais.",
+        "audience": "Donos de pequenas marcas de produtos orientadas por valores e responsáveis por páginas de produto e comunicação de lançamento.",
+        "goal": "De “o comprador precisa aderir primeiro à nossa causa” para “posso explicar uma utilidade concreta e manter meus compromissos claros, sem exigir uma identidade prévia do público nem esconder informações relevantes”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-29",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Agência Sebrae de Notícias, Veganismo conquista consumidores e abre oportunidades para empreendedores no Brasil",
+              "url": "https://agenciasebrae.com.br/dados/veganismo-conquista-consumidores-e-abre-oportunidades-para-empreendedores-no-brasil/",
+              "publishedAt": "2026-10-28"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "9322c446-8821-405e-9630-c0613cfbf36c",
+          "completedAt": "2026-10-29T22:21:56.803Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A página abre com um manifesto. Fala de convicções, escolhas e do futuro que a marca deseja construir. O produto aparece depois, com uma fotografia bonita e pouca explicação sobre o uso. Quem já compartilha daqueles valores encontra um sinal de afinidade. Quem chegou procurando uma solução concreta ainda precisa descobrir se está no lugar certo.\n\nUma marca orientada por uma causa também precisa explicar o produto. Apresentar uma utilidade não diminui seus compromissos. Pode criar uma entrada compreensível para pessoas que ainda não conhecem a marca ou não se definem pela mesma identidade.\n\nEm reportagem publicada pelo Sebrae em 28 de outubro de 2026, a fundadora da Maduu, marca de bolsas e acessórios veganos, descreve a escolha de destacar design e funcionalidade para conversar também com consumidores que não necessariamente são veganos. É a visão de uma empreendedora sobre sua abordagem. O relato não demonstra, sozinho, que essa ordem de apresentação cause crescimento.\n\nPara uma pequena empresa, a questão é como organizar a explicação da oferta sem esconder seus valores nem exigir adesão prévia a eles.\n\n## Descubra qual pergunta trouxe a pessoa até o produto\n\nUma pessoa pode chegar à página porque procura uma bolsa para levar objetos no transporte cotidiano. Outra pode querer conhecer os materiais utilizados. Uma terceira pode já acompanhar a causa defendida pela marca e buscar uma opção compatível com ela.\n\nEssas perguntas podem coexistir. Presumir uma única motivação torna a comunicação menos capaz de acolher o que ainda precisa ser entendido.\n\nImagine uma pequena marca de acessórios que defende escolhas responsáveis de produção. É um exemplo hipotético. Sua página dedica quase todo o espaço inicial ao compromisso declarado. Não informa claramente dimensões, divisões internas ou como a peça é carregada.\n\nQuem procura uma bolsa para determinada rotina pode até valorizar o compromisso, mas continua sem saber se o produto atende à necessidade. A afinidade não substitui a informação que permite avaliar o uso.\n\nComece reunindo dúvidas concretas que a equipe recebe e conferindo o que os materiais já explicam. Essa escuta pode orientar a revisão da página, sem ser apresentada como pesquisa representativa de todo o público.\n\n## Explique uma utilidade que possa ser conferida\n\nNo exemplo hipotético, a marca poderia mostrar o compartimento interno, informar as medidas e apresentar uma situação plausível de transporte. São maneiras de tornar a oferta mais compreensível, desde que correspondam à peça vendida.\n\nIsso é diferente de acrescentar promessas genéricas de praticidade, resistência ou versatilidade. Cada uma dessas palavras pode sugerir condições de uso que precisam estar sustentadas.\n\nEscolha o que a pessoa deve conseguir avaliar. A abertura da bolsa aparece? A imagem permite entender sua escala? A descrição esclarece o que acompanha o produto? Uma limitação relevante está acessível antes da decisão?\n\nA explicação não precisa transformar a página em um manual técnico. Precisa oferecer pistas suficientes para que o público entenda o que está escolhendo. Detalhes verificáveis ajudam a tirar a utilidade do campo dos adjetivos.\n\n## Mantenha os compromissos visíveis e específicos\n\nCriar uma entrada pelo produto não significa deixar os valores escondidos até o fim da compra. Informações importantes sobre materiais, processos e condições precisam continuar acessíveis, com a precisão que o assunto exige.\n\nNa marca hipotética, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.\n\nEvite juntar afirmações diferentes numa conclusão ampla. Um material sintético não se torna automaticamente sustentável por não ser couro. Uma característica de composição não comprova, sozinha, o impacto de todo o produto. A comunicação deve distinguir aquilo que foi confirmado daquilo que continua exigindo avaliação.\n\nSe uma informação depende de documentação ou de confirmação de um parceiro, faça essa verificação antes de transformá-la em chamada. A força de um compromisso também está na capacidade de dizer exatamente o que ele abrange.\n\n## Organize entradas diferentes sem criar marcas contraditórias\n\nUma campanha pode destacar o uso cotidiano. Outra pode aprofundar os materiais. Uma apresentação institucional pode desenvolver a razão das escolhas. Esses pontos de entrada não precisam disputar entre si.\n\nO que deve permanecer coerente é a oferta encontrada depois do clique. A página precisa sustentar a promessa da campanha e permitir acesso às demais informações relevantes.\n\nNo exemplo, uma imagem sobre organização interna deveria levar a uma explicação que mostre essa organização. Uma publicação sobre materiais deveria encontrar uma descrição compatível na mesma peça. Mudar a porta de entrada não autoriza mudar os fatos conforme o público.\n\nTambém não é necessário abandonar quem já acompanha a causa. Explicar o produto amplia a compreensão; não exige substituir o posicionamento por uma mensagem genérica capaz de caber em qualquer concorrente.\n\n## Observe o entendimento antes de declarar uma fórmula vencedora\n\nUma revisão útil começa por perguntas delimitadas. As pessoas conseguem explicar para que a peça serve? Encontram as medidas? Entendem quais compromissos foram declarados e quais características foram comprovadas?\n\nPeça a alguém que não participou da criação para percorrer a página e relatar o que compreendeu. Essa observação pode revelar uma ambiguidade. Não equivale a comprovar a preferência de todo o mercado.\n\nSe mudar a ordem da apresentação, registre o motivo e acompanhe as dúvidas recebidas. Uma alteração posterior nas vendas não demonstra automaticamente que a hierarquia da mensagem foi a causa. Preço, disponibilidade e outras condições também podem ter mudado.\n\nO objetivo inicial é tornar a proposta legível. Uma marca pode defender convicções e oferecer razões concretas de escolha na mesma experiência. Na próxima revisão de página, confira se alguém que ainda não conhece sua causa consegue entender o produto e se alguém que procura seus compromissos consegue encontrá-los. As duas perguntas merecem uma resposta clara.",
+        "sources": "[Agência Sebrae de Notícias, veganismo e oportunidades para empreendedores, 28/10/2026](https://agenciasebrae.com.br/dados/veganismo-conquista-consumidores-e-abre-oportunidades-para-empreendedores-no-brasil/)\n\nO relato da fundadora da Maduu é uma perspectiva empresarial, sem prova causal de resultado. Não foram reproduzidas estatísticas de consumo. A marca de acessórios descrita é hipotética; a organização da comunicação é análise editorial da Tweed.",
+        "prompt": "Conceptual editorial still life with no people, one carefully crafted unbranded everyday shoulder bag seen from above with its opening gently folded back to reveal clearly organized empty compartments, its long strap curves outward toward an open area of warm textured stone, a single small inset detail of the material remains visible beside the bag, tactile stitching and believable construction, generous asymmetric negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 grazing the inner rim, controlled contrast, no papers, laptop, desk setup, nature symbols, cubes, prisms, readable text or logos --ar 3:2",
+        "imageAlt": "Bolsa aberta sobre pedra clara revela divisórias internas, com a alça curvada e um reflexo teal discreto na borda."
+      },
+      "createdAt": "2026-10-30T07:22:26.242Z",
+      "startedAt": "2026-10-30T07:32:44.482Z",
+      "completedAt": "2026-10-30T07:33:22.811Z"
+    },
+    {
+      "id": "7165336c-c5bd-4681-a051-199d890db8f0",
+      "itemId": "pauta-reposicao-2026-10-29-62a1de992195",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "9574442557e177a49880d16bfb29ce2318f951fc53af009b46874bde22a37608",
+      "snapshot": "5d3eb7905dc48d396301129bead679d21193ea22f608756804537906fec8dc0b",
+      "input": {
+        "id": "pauta-reposicao-2026-10-29-62a1de992195",
+        "title": "Quem fez o seu produto aparece na história que sua marca conta?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho verificado: em 13/10/2026 o Sebrae-RN anunciou a participação de marcas autorais e da Coleção Poti no SPFW, identificando grupos de artesãs e a mentoria que participaram do desenvolvimento. Usar somente o anúncio e as atribuições explícitas, sem afirmar resultados comerciais ou confirmar retrospectivamente toda a participação. Após triagem da última semana, pesquisa ampliada a 30 dias para um tema distinto. Tese: quando o saber-fazer de parceiros integra a proposta de uma marca, apresentar sua contribuição com precisão e autorização ajuda o público a compreender a origem do trabalho; não basta usar o artesanato como decoração narrativa. Exemplo hipotético de pequena marca que decide como creditar autoria, desenvolvimento e execução de uma peça, combinando previamente nomes, imagens e descrição de papéis com as pessoas envolvidas. Não usar dados de clientes da Tweed nem presumir direitos contratuais. Não fazer parecer jurídico, nem prometer venda, preço premium ou impacto social mensurado. Diferenciar de textura e tendências visuais: foco no reconhecimento das contribuições humanas e na precisão dos créditos. Diferenciar de storytelling mítico: descrever responsabilidades reais, sem inventar uma história heroica de origem.",
+        "audience": "Donos de pequenas marcas e responsáveis por comunicação de produtos desenvolvidos com artesãos, designers e parceiros de produção.",
+        "goal": "De “a história do produto é só a história da nossa marca” para “preciso tornar compreensível quem contribuiu, em qual papel e como essa contribuição pode ser apresentada de maneira acordada e precisa”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-29",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Sebrae-RN, Moda potiguar ganha espaço no São Paulo Fashion Week com marcas autorais e artesanato",
+              "url": "https://agenciasebrae.com.br/cultura-empreendedora/moda-potiguar-ganha-espaco-no-sao-paulo-fashion-week-com-marcas-autorais-e-artesanato/",
+              "publishedAt": "2026-10-13"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "97face5c-d484-45d6-9d82-d474f11c120e",
+          "completedAt": "2026-10-29T17:22:55.582Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A fotografia mostra uma peça de acabamento cuidadoso. A legenda fala de tradição, talento e trabalho manual. O nome da marca aparece em destaque. Quem desenhou, desenvolveu e produziu a peça permanece fora da história. O público vê o resultado, mas recebe pouca informação para entender de onde ele veio.\n\nReconhecer quem fez o produto exige mais precisão do que acrescentar a palavra artesanal à comunicação. Quando a contribuição de parceiros integra a proposta, vale explicar quais pessoas e conhecimentos participaram do trabalho, sem atribuir tudo a uma única assinatura nem preencher as lacunas com uma narrativa inventada.\n\nEm notícia de 13 de outubro de 2026, o Sebrae-RN anunciou a presença de marcas autorais e da Coleção Poti no São Paulo Fashion Week. Ao apresentar a coleção, identificou grupos de artesãs e a mentoria envolvidos no desenvolvimento. O anúncio oferece uma referência de atribuição de contribuições. Não comprova, sozinho, o resultado comercial da iniciativa.\n\nA pergunta para uma pequena marca é como tornar essas participações compreensíveis em sua própria comunicação.\n\n## Comece pelos papéis, antes de escrever a história\n\nImagine uma pequena marca de objetos de decoração que lança uma luminária com uma ceramista e uma designer. É um exemplo hipotético. A marca definiu a necessidade do público e organiza a comercialização. A designer desenvolveu a forma. A ceramista participou dos testes de material e produziu as peças.\n\nUma legenda que diga apenas “nossa criação” pode deixar essa construção pouco clara. Uma versão que atribua todo o projeto à produção manual também pode apagar decisões de desenvolvimento. A precisão depende de compreender o que cada participante efetivamente fez.\n\nAntes de redigir, reúna os papéis pertinentes. Quem concebeu? Quem desenvolveu? Quem executou? Houve decisões compartilhadas? As respostas não precisam se transformar em uma lista extensa em cada post. Servem para que a síntese não conte uma história diferente do trabalho realizado.\n\nSe a equipe não consegue explicar uma contribuição, procure esclarecê-la com quem participou. O texto não deve resolver uma dúvida factual com um adjetivo bonito.\n\n## Um crédito útil também ajuda a compreender o produto\n\nMencionar um nome pode reconhecer uma participação. Explicar brevemente o papel ajuda a entender por que aquela participação importa naquela peça.\n\nNa luminária hipotética, a comunicação poderia apresentar o desenvolvimento da forma e a execução em cerâmica como contribuições distintas, conforme o que tiver sido confirmado. Uma imagem de um detalhe pode acompanhar uma explicação sobre uma escolha de construção. O objetivo é dar ao público elementos para compreender o trabalho.\n\nEvite, porém, transformar toda característica em prova de superioridade. Produção manual não autoriza prometer durabilidade, exclusividade ou desempenho sem base. A origem de uma peça e suas condições de uso são informações relacionadas, mas não equivalentes.\n\nTambém não é necessário expor cada etapa interna para demonstrar cuidado. Selecione o que esclarece a proposta e o que pode ser apresentado com precisão. Um detalhe bem explicado pode dizer mais que uma sequência de expressões vagas sobre paixão e propósito.\n\n## Combine como as pessoas e suas contribuições serão apresentadas\n\nO desejo de valorizar um parceiro não permite presumir que qualquer nome, fotografia ou relato esteja disponível para divulgação. Antes de publicar, alinhe o modo de apresentação com as pessoas envolvidas e confira as condições aplicáveis ao trabalho.\n\nNo exemplo hipotético, a marca pode confirmar como a ceramista prefere ser identificada, qual descrição representa sua participação e quais imagens podem ser usadas. Se houver divergência sobre o papel de alguém, a legenda deve esperar o esclarecimento.\n\nEsse alinhamento também ajuda a evitar uma assimetria comum: a campanha fala longamente sobre a marca enquanto os demais participantes aparecem como figuras anônimas de bastidor. A solução precisa considerar o contexto e os acordos reais, sem transformar um modelo de crédito em regra universal.\n\nEste é um critério editorial de cuidado. Questões sobre autoria, contratos e uso de imagem podem exigir orientação específica; uma fórmula de legenda não resolve todas essas situações.\n\n## Mostre o trabalho sem inventar a vida de quem trabalha\n\nUma cena de produção pode ajudar a compreender um gesto e um material. Não precisa vir acompanhada de uma história pessoal que a marca não conhece ou que a pessoa não deseja contar.\n\nEvite construir uma personagem heroica para tornar a peça mais emocionante. Frases sobre sacrifício, ancestralidade ou transformação social exigem contexto e fundamento. Não se tornam verdadeiras porque combinam com a estética da campanha.\n\nNa luminária hipotética, mostrar como duas partes se encontram pode ser suficiente para explicar uma decisão de construção. A contribuição aparece no trabalho, sem exigir que a ceramista exponha sua intimidade para validar o produto.\n\nDa mesma forma, não trate uma técnica como representação de toda uma comunidade sem compreender sua origem e seu alcance. O reconhecimento ganha consistência quando a descrição respeita o que se sabe e os limites do que pode ser afirmado.\n\n## Leve a atribuição aos pontos em que o produto é apresentado\n\nUma boa publicação pode se perder quando a página do produto volta a omitir os participantes. Uma ficha completa pode não ajudar se a equipe comercial apresenta a peça com uma explicação diferente.\n\nConfira os pontos de contato relevantes: página, catálogo, apresentação e materiais de lançamento. Eles não precisam repetir exatamente o mesmo texto, mas devem sustentar uma descrição compatível dos papéis.\n\nDefina também quem atualiza a informação. Se um novo lote envolver outra configuração de parceiros ou uma mudança no desenvolvimento, a comunicação precisa acompanhar o que aconteceu. Um crédito antigo não deveria continuar circulando apenas porque está no arquivo da campanha anterior.\n\nReconhecer contribuições é parte da clareza da marca. Na próxima história sobre um produto, procure quem aparece apenas como cenário. Pergunte se o público consegue entender o trabalho dessas pessoas e se elas reconhecem sua participação no que foi escrito. Essa conversa oferece uma base mais firme que uma origem idealizada.",
+        "sources": "[Agência Sebrae de Notícias, moda potiguar no SPFW, 13/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/moda-potiguar-ganha-espaco-no-sao-paulo-fashion-week-com-marcas-autorais-e-artesanato/)\n\nA fonte é um anúncio de participação e identifica contribuições na Coleção Poti. Não demonstra resultado comercial. A marca de luminárias é hipotética; os critérios de comunicação são análise editorial, sem parecer jurídico.",
+        "prompt": "Natural cinematic editorial photograph of two adult makers carrying a finished unbranded ceramic pendant lamp together from an open workshop doorway into a small courtyard, one supports the ceramic shade while the other steadies the fitting, candid coordinated gesture, medium wide side view, visible clay texture and simple architecture, soft neutral daylight preserving natural skin tones, subtle teal ambient accent inspired by #08ffb1 reflected on the doorway edge, controlled contrast, no papers, meeting, desk, laptop, readable text or logos --ar 3:2",
+        "imageAlt": "Duas pessoas levam juntas uma luminária de cerâmica de uma oficina para um pátio, com acento teal na porta."
+      },
+      "createdAt": "2026-10-30T07:22:30.197Z",
+      "startedAt": "2026-10-30T07:32:44.565Z",
+      "completedAt": "2026-10-30T07:33:22.970Z"
+    },
+    {
+      "id": "0f813eed-6feb-4e75-a31e-6c2804bea96a",
+      "itemId": "pauta-reposicao-2026-10-29-6a074ff5ad21",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "155e96708ad20b35c1a97a9bcb860136da379dcf7f6e1e7c4055cb32d7e2f0b8",
+      "snapshot": "155e96708ad20b35c1a97a9bcb860136da379dcf7f6e1e7c4055cb32d7e2f0b8",
+      "input": {
+        "id": "pauta-reposicao-2026-10-29-6a074ff5ad21",
+        "title": "A feira terminou. Sua conversa comercial tem um próximo passo?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: cobertura oficial do Sebrae de 23/10/2026 sobre a Mercopar em Caxias do Sul registra um painel de 22/10 com grandes indústrias e discussão sobre relações com pequenos negócios e fornecedores. Usar apenas como contexto regional de encontros B2B, sem afirmar resultados fechados, reproduzir faturamentos ou atribuir orientações de acompanhamento ao painel. Tese editorial: coletar contatos em um evento não substitui preservar o contexto da conversa e combinar uma continuidade pertinente; um envio genérico pode apagar justamente a necessidade que levou as pessoas a conversar. Exemplo hipotético de PME industrial que volta de uma feira com contatos: registrar assunto tratado, informação que ficou de ser enviada, responsável e próximo movimento combinado, utilizando somente dados necessários e canais apropriados, sem cadastros indiscriminados ou insistência. Não prometer conversão nem apresentar contatos como negócios concluídos. Distinguir de integração marketing-vendas: foco na passagem concreta entre encontro presencial e continuidade, não na arquitetura geral de geração de leads. Distinguir de proposta comparável: foco no contexto do primeiro retorno, antes de elaborar orçamento. Distinguir de pós-venda e trocas: relação comercial ainda em avaliação, não atendimento de compra realizada.",
+        "audience": "Donos de PMEs B2B e equipes comerciais que participam de feiras, rodadas ou encontros de negócios e precisam dar continuidade às conversas sem mensagens genéricas.",
+        "goal": "De “voltamos com muitos contatos, então a participação deu resultado” para “preciso preservar o que foi conversado e oferecer o próximo passo pertinente antes de avaliar o que avançou”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-29",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Agência Sebrae de Notícias, Mercopar 2026: Grandes indústrias do RS revelam estratégias de competitividade",
+              "url": "https://agenciasebrae.com.br/cultura-empreendedora/mercopar-2026-grandes-industrias-do-rs-revelam-estrategias-de-competitividade/",
+              "publishedAt": "2026-10-23"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "0eeb985c-8024-477a-b15e-f9593a83e31e",
+          "completedAt": "2026-10-29T17:22:55.442Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "33d63e8076ddee7f2ac13b66209fed77cac72e513d3a3ed668c8171be88ec7f5"
+        },
+        "body": "A equipe volta da feira com contatos novos, lembranças de boas conversas e uma lista de mensagens para enviar. Na segunda-feira, todos recebem a mesma apresentação. Quem pediu uma informação técnica precisa procurá-la entre páginas institucionais. Quem queria apenas conhecer a empresa recebe uma cobrança por reunião. O encontro aconteceu; a continuidade ainda não foi organizada.\n\nO acompanhamento após uma feira começa por recuperar o sentido de cada conversa. A quantidade de contatos é uma informação sobre a atividade realizada. Não explica, sozinha, quais relações têm uma questão concreta a desenvolver nem qual seria um próximo passo pertinente.\n\nEm cobertura publicada em 23 de outubro de 2026, o Sebrae relatou um painel da Mercopar sobre competitividade industrial e relações com pequenos negócios. O encontro reuniu representantes de indústrias gaúchas e abordou, entre outros temas, o papel das cadeias de fornecedores. A notícia oferece um contexto regional para pensar relações B2B. As orientações a seguir são uma análise editorial, não recomendações atribuídas aos participantes do painel.\n\nPara uma pequena empresa que participa de eventos, a pergunta prática é o que fazer com uma conversa depois que o estande foi desmontado.\n\n## Recupere a pergunta antes de enviar a apresentação\n\nImagine uma PME industrial que apresentou um componente numa feira. É um exemplo hipotético. Uma visitante perguntou sobre as condições de aplicação. Outro contato quis saber como funcionaria uma avaliação inicial. Uma terceira pessoa estava conhecendo fornecedores para uma necessidade futura.\n\nOs três encontros podem merecer continuidade. Não pedem necessariamente a mesma resposta, no mesmo momento. Uma mensagem que ignora essas diferenças obriga o destinatário a refazer o contexto que já explicou pessoalmente.\n\nAntes de escrever, confira o que foi conversado e o que ficou combinado. Se a anotação diz apenas “interessado”, falta informação para escolher uma abordagem. Qual necessidade foi mencionada? Houve um pedido específico? Alguma resposta ficou pendente?\n\nQuando o registro estiver incompleto, reconheça o limite. É possível retomar a conversa com uma pergunta breve, sem inventar um interesse ou apresentar como acordo aquilo que não foi combinado.\n\n## Uma promessa pequena também precisa de responsável\n\nNo exemplo hipotético, a visitante pediu uma ficha técnica. A pessoa que fez o atendimento prometeu enviá-la, mas depende de uma confirmação da engenharia. A tarefa fica circulando porque ninguém assumiu a resposta ao contato.\n\nDefinir um responsável não significa que essa pessoa fará tudo sozinha. Significa que alguém acompanha a pendência, sabe a quem recorrer e consegue comunicar o andamento. O cliente não deveria precisar descobrir a estrutura interna para receber o que foi prometido.\n\nRegistre a informação solicitada, quem vai confirmar e qual retorno pode ser combinado com realismo. Se ainda não há prazo seguro, não crie uma certeza apenas para encerrar a mensagem. Explique o que precisa ser verificado e mantenha a continuidade sob acompanhamento.\n\nA coerência da marca aparece nesse detalhe: a atenção demonstrada no encontro precisa sobreviver à volta para a rotina.\n\n## Escolha um próximo passo que ajude a decidir\n\nUma reunião pode fazer sentido quando existe uma questão que exige conversa. Pode ser desnecessária quando o destinatário pediu apenas um documento ou a confirmação de uma condição.\n\nNa PME hipotética, a primeira visitante pode receber a informação técnica solicitada e uma pergunta sobre a necessidade de esclarecimento. O segundo contato pode avaliar uma conversa sobre o processo inicial. A terceira pessoa pode preferir guardar uma referência e retomar quando a necessidade estiver definida.\n\nO próximo passo precisa ter uma função compreensível. O que será esclarecido? O que a pessoa precisa avaliar? Há algo que depende de uma decisão dela antes de avançar?\n\nIsso também muda a forma de apresentar a oferta. Uma mensagem curta, ligada ao assunto discutido, pode orientar melhor que um arquivo extenso enviado sem indicação do trecho relevante. O material institucional continua útil quando ajuda a responder àquela pergunta.\n\n## Não transforme todo encontro em uma sequência automática\n\nTer recebido um contato não esclarece, por si só, todas as expectativas de uso daquela informação. Diferencie o retorno combinado no evento de campanhas e abordagens futuras. Respeite as preferências expressas e as regras aplicáveis à situação.\n\nEvite alimentar registros com detalhes pessoais que não ajudam a dar continuidade ao assunto. Guarde o contexto comercial necessário, com acesso adequado, sem transformar impressões sobre a pessoa em fatos.\n\nSe alguém sinaliza que o tema não faz sentido agora, essa informação precisa chegar a quem faria o próximo contato. Uma mensagem repetida depois de uma recusa mostra que o sistema da empresa não acompanha a conversa.\n\nA automação pode ajudar a lembrar uma pendência. O critério sobre o que enviar e por que enviar precisa vir antes da sequência.\n\n## Observe a continuidade, sem chamar toda resposta de oportunidade\n\nDepois do evento, vale acompanhar quais retornos foram enviados, quais perguntas continuam pendentes e quais conversas ganharam um próximo passo acordado. Essas observações ajudam a organizar o trabalho. Não são equivalentes a receita nem comprovam, sozinhas, o resultado comercial da participação.\n\nUma resposta educada pode ser apenas uma resposta educada. Uma reunião marcada pode ainda ser exploratória. Nomear cada situação com precisão permite discutir prioridades sem inflar o que aconteceu.\n\nTambém observe os desencontros. A equipe prometeu informações que não estavam prontas? O material deixou uma dúvida recorrente? Houve dificuldade para identificar quem deveria responder? Esses pontos oferecem tarefas concretas para preparar a próxima participação.\n\nO evento coloca pessoas em contato. A continuidade depende de uma organização capaz de lembrar o que foi ouvido e cumprir o que foi combinado. Antes de disparar a apresentação para toda a lista, recupere uma conversa: qual pergunta ficou aberta, quem cuida dela e qual retorno ajudaria a pessoa a avançar?",
+        "sources": "[Agência Sebrae de Notícias, cobertura da Mercopar publicada em 23/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/mercopar-2026-grandes-industrias-do-rs-revelam-estrategias-de-competitividade/)\n\nA fonte contextualiza relações industriais com pequenos negócios. Recomendações de acompanhamento são análise editorial da Tweed; a PME e os contatos apresentados são hipotéticos. Sem promessa de conversão ou receita.",
+        "prompt": "Conceptual editorial photograph with no people, a long flexible braided cord emerging from a dismantled unbranded exhibition structure and continuing across a warm concrete floor to a carefully joined metal connector in the foreground, scattered disconnected short cords remain softly out of focus in the distance, tactile fabric and brushed metal, low ground-level diagonal composition with generous negative space, soft neutral key light and a restrained teal ambient reflection inspired by #08ffb1 along the connector edge, controlled contrast, no papers, desk, laptop, cubes, prisms, labyrinths, readable text or logos --ar 3:2",
+        "imageAlt": "Cabo trançado se estende de uma estrutura desmontada até um conector metálico no chão, com reflexo teal discreto.",
+        "keyword": "acompanhamento após uma feira",
+        "slug": "acompanhamento-apos-feira-proximo-passo",
+        "meta": "O acompanhamento após uma feira começa pelo contexto da conversa. Organize o retorno prometido, o responsável e um próximo passo pertinente.",
+        "date": "2026-11-04",
+        "faq": "O que registrar depois de uma conversa em uma feira?\nRegistre o assunto tratado, a informação solicitada, o retorno combinado e quem acompanha a pendência, usando apenas dados necessários.\n\nTodo contato de feira precisa receber a mesma apresentação?\nNão. O retorno deve considerar a pergunta e o momento de cada conversa; uma reunião ou apresentação extensa pode ser desnecessária.\n\nContatos coletados equivalem a negócios concluídos?\nNão. Contatos, respostas e reuniões exploratórias são situações diferentes de receita ou de uma contratação confirmada.",
+        "url": "https://www.agenciatweed.com.br/acompanhamento-apos-feira-proximo-passo/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-29-6a074ff5ad21/imagens/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+        "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_with_no_peop_7f48c5ae-ad3e-4f10-8798-0d7b35f79749_2.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-10-30T07:24:11.334Z"
+        }
+      },
+      "createdAt": "2026-10-30T07:24:11.339Z"
     }
   ]
 }

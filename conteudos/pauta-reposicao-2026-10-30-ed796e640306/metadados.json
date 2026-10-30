@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-10-30-ed796e640306",
+  "title": "A apresentação está pronta. Quem vai atualizar a próxima versão?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado: Google Workspace anunciou em 29/10/2026 criação, prévia e edição de arquivos no Gemini, incluindo apresentações e exportação para formatos como PPTX e PDF. Acesso direto à página confirmado; data e conteúdo lidos no arquivo oficial de 2026. Usar como contexto de facilidade de gerar e editar entregáveis, sem recomendar adoção, presumir acesso ou prometer fidelidade de exportação. Tese: um material de comunicação pensado para continuar em uso precisa de uma entrega combinada com quem o manterá: fonte de edição, versão aprovada, componentes que podem mudar e responsável por conferir a próxima alteração. Exemplo hipotético de PME que recebe apresentação comercial e precisa trocar uma informação semanas depois; distinguir arquivo de distribuição e base de edição, organizar versão corrente e critérios de revisão sem prometer compatibilidade automática. Não instruir edição indiscriminada de dados de clientes nem expor arquivos reais. Diferenciar de adoção de IA: foco na continuidade do entregável, inclusive quando feito sem IA, não no treinamento geral da equipe. Diferenciar de informações atualizadas nos canais: foco na estrutura do arquivo e passagem de responsabilidade na entrega. Diferenciar de feedback de campanha: foco na manutenção posterior ao aceite, não em acelerar aprovação inicial. Não afirmar que a Tweed entrega formatos ou práticas específicas sem confirmação.",
+  "audience": "Donos de PMEs e responsáveis por marketing e vendas que encomendam apresentações comerciais e precisam mantê-las utilizáveis depois da entrega.",
+  "goal": "De “receber o PDF encerra o trabalho” para “preciso combinar como a apresentação será mantida, qual é a versão corrente e quem revisa as próximas alterações sem perder decisões aprovadas”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-30",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Google Workspace Updates, Create, preview, and edit files directly in the Gemini app",
+        "url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html",
+        "publishedAt": "2026-10-29"
+      }
+    ]
+  }
+}
