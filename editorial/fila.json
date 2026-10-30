@@ -6283,6 +6283,142 @@
         }
       },
       "createdAt": "2026-10-30T07:24:11.339Z"
+    },
+    {
+      "id": "ef2f02d5-1f85-4aa6-adf8-2bf2b40d3c86",
+      "itemId": "pauta-reposicao-2026-10-29-48c5e0483de5",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "b94b6739964250b86100df0017dfd8dc2b25154668362aff33f2798e1c14126a",
+      "snapshot": "74ea4d01761947fbdb85b37df6089103e52897385d159a8bd0711985607bcf8b",
+      "input": {
+        "id": "pauta-reposicao-2026-10-29-48c5e0483de5",
+        "title": "Quando sua venda promete apoiar uma causa, o cliente entende como?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: comunicado do Airbnb de 28/10/2026 anuncia financiamento ao Airbnb.org associado às estadias e explicita em nota o valor por estadia, a origem na receita da empresa e exclusões como cancelamentos antes do check-in, experiências e serviços. Usar como referência de explicação de mecanismo, atribuindo as informações à empresa. Não apresentar metas plurianuais como impacto realizado nem misturar aporte global e contribuição por transação. Tese: uma campanha que associa compra a apoio social precisa tornar compreensíveis o mecanismo, o período, os critérios e a forma de acompanhar o que foi efetivamente realizado; a frase “parte das vendas ajuda” não explica tudo. Exemplo hipotético de PME que prepara ação com organização parceira e confere previamente o que pode prometer, quem executa a contribuição e quais informações de prestação de contas pode divulgar. Não inventar parceiro, beneficiários reais, valores realizados ou resultado social. Não oferecer parecer jurídico, tributário ou financeiro; confirmar condições aplicáveis antes da execução. Diferenciar de produto e causa: foco no mecanismo concreto de apoio ligado à transação, não na ordem de apresentação de atributos de marca. Diferenciar de alegações ambientais: foco em compromisso de repasse e informação de acompanhamento, sem presumir equivalência entre valor doado e impacto social. Diferenciar de parceria entre logotipos: foco em regras da campanha e continuidade da informação ao comprador.",
+        "audience": "Donos de PMEs e responsáveis por marketing que pretendem comunicar uma ação de apoio social associada à venda de produtos ou serviços.",
+        "goal": "De “basta anunciar que a compra ajuda uma causa” para “preciso explicar como o apoio funciona, o que entra na ação, quem responde por ela e como o compromisso será acompanhado sem prometer impacto que não foi demonstrado”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-29",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Airbnb, Starting today, every home booked on Airbnb will help house people in crisis",
+              "url": "https://news.airbnb.com/every-home-booked-on-airbnb-helps-house-people-in-crisis",
+              "publishedAt": "2026-10-28"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "c6e98e70-489b-49be-9b4b-918bfa225270",
+          "completedAt": "2026-10-30T07:35:54.258Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A campanha diz que cada compra ajuda uma causa. A frase mobiliza uma intenção, mas deixa perguntas abertas. O apoio sai da receita da empresa ou é acrescentado ao que o cliente paga? Todas as compras participam? Há um período definido? Onde será possível saber o que aconteceu depois?\n\nUma ação de apoio social associada à venda precisa explicar seu funcionamento. A força da mensagem não depende apenas da causa escolhida. Depende também de o compromisso anunciado ser compreensível e corresponder ao que a empresa se preparou para realizar.\n\nEm comunicado de 28 de outubro de 2026, o Airbnb anunciou um modelo de financiamento ao Airbnb.org ligado às estadias. A nota detalha uma contribuição de US$ 0,10 da receita da empresa por estadia e informa exclusões, como cancelamentos antes do check-in, experiências e serviços. O anúncio distingue esse mecanismo das metas de financiamento apresentadas para os anos seguintes. Metas futuras não são resultados já realizados.\n\nPara uma PME, o ponto não é reproduzir a escala da iniciativa. É observar quanto a explicação do mecanismo importa quando uma compra participa da mensagem de apoio.\n\n## Defina o compromisso antes de escrever a chamada\n\nImagine uma pequena loja que pretende realizar uma campanha com uma organização parceira. É um exemplo hipotético. A equipe começa pela arte e escreve que parte das vendas será destinada à ação. Só depois percebe que ainda não definiu quais produtos entram e como a contribuição será apurada.\n\nEsse caminho deixa a comunicação à frente de decisões que deveriam sustentá-la. Antes do anúncio, confirme o que será feito e quem responde por cada etapa.\n\nQual é a contribuição prevista? A que operações se aplica? Em que período? Há condições ou limites? Quem executa o repasse? Que informação poderá ser divulgada depois?\n\nEssas perguntas não constituem um modelo jurídico ou financeiro. A execução pode exigir orientação específica. Editorialmente, ajudam a localizar o que ainda não está pronto para virar promessa pública.\n\n## Explique o que a compra faz, sem ampliar seu efeito\n\nUma compra pode participar de um mecanismo de contribuição. Isso não significa que cada unidade vendida produza, por si só, um resultado social específico.\n\nNa loja hipotética, a equipe pode explicar uma regra previamente confirmada de contribuição vinculada aos produtos participantes. Não deveria converter essa regra em uma promessa sobre o número de pessoas atendidas se não houver base para estabelecer essa relação.\n\nDistingua o que a empresa fará do que a organização parceira pretende realizar. Um valor repassado, uma atividade apoiada e uma mudança na vida de alguém são informações diferentes. Uma não comprova automaticamente a outra.\n\nTambém confira a imagem escolhida. Uma fotografia pode sugerir um alcance que a descrição não sustenta. A apresentação precisa ser coerente com a ação, sem usar histórias ou imagens de pessoas como recurso emocional sem condições adequadas de divulgação.\n\n## Deixe as condições perto da decisão\n\nSe apenas determinados produtos participam, a informação não deveria aparecer somente depois da compra. Se a ação tem um período, esse período precisa ser encontrado por quem vê a campanha.\n\nO mesmo vale para condições que mudam a compreensão da contribuição. Uma chamada ampla acompanhada de uma explicação difícil de localizar pode criar uma expectativa diferente do compromisso real.\n\nNa PME hipotética, anúncio, página e atendimento devem apresentar informações compatíveis. O post pode resumir a proposta e indicar onde estão os detalhes. A página pode explicar o funcionamento com maior precisão. A equipe precisa saber responder sem improvisar regras.\n\nNão é necessário colocar toda a documentação na primeira frase. É necessário que a síntese seja verdadeira e que os elementos relevantes estejam acessíveis antes da decisão.\n\n## Alinhe a apresentação com a organização parceira\n\nA marca não deve presumir que pode usar qualquer nome, símbolo, imagem ou relato por ter intenção de apoiar uma causa. Confirme como a parceria pode ser apresentada e quais informações representam corretamente o trabalho da organização.\n\nNo exemplo, a loja pode combinar quem revisa a descrição da ação e quem fornecerá as informações de acompanhamento. Se houver uma dúvida sobre o papel de cada participante, esclareça antes de publicar.\n\nEsse alinhamento ajuda a evitar que a campanha prometa uma atuação que a organização não desenvolve ou sugira um endosso mais amplo do que o acordado.\n\nPreserve também os limites de exposição. Prestar contas de uma contribuição não exige publicar informações pessoais de quem recebe apoio. Escolha evidências adequadas ao que precisa ser demonstrado, sem transformar a divulgação em condição para reconhecer a ação.\n\n## Prepare a informação que virá depois da campanha\n\nO trabalho editorial não termina quando a arte deixa de circular. Se a comunicação criou uma expectativa de acompanhamento, é preciso definir como ela será atendida.\n\nQue período será informado? O que foi apurado? O que foi efetivamente realizado? Existe alguma etapa ainda em andamento? Quem confirma os dados antes da publicação?\n\nNa loja hipotética, uma atualização pode distinguir o encerramento das vendas participantes do momento em que a contribuição foi executada. Se os prazos forem diferentes, a explicação precisa preservar essa diferença.\n\nEvite anunciar como concluído aquilo que continua sendo uma intenção. Se houver uma mudança relevante nas condições, trate a informação com clareza nos canais apropriados, em vez de deixar materiais antigos sustentarem uma expectativa desatualizada.\n\n## Confira se a promessa continua sendo a mesma em todos os materiais\n\nAntes de lançar, peça que alguém que não participou do planejamento leia a campanha e explique o que entendeu. A pessoa consegue dizer como a compra se relaciona com o apoio? Sabe quais operações participam e onde encontrar detalhes?\n\nEssa leitura pode revelar ambiguidades. Não substitui as verificações necessárias à execução nem comprova a compreensão de todo o público, mas ajuda a identificar uma frase que promete mais do que deveria.\n\nAo revisar a mensagem, preserve a proporção entre intenção, compromisso e resultado. Uma ação delimitada pode ser comunicada com dignidade, sem receber uma dimensão maior para parecer relevante.\n\nQuando uma venda se associa a uma causa, a clareza também faz parte do cuidado. Antes de perguntar se a chamada emociona, confira se a empresa consegue explicar o que fará e acompanhar aquilo que anunciou.",
+        "sources": "[Airbnb, financiamento ao Airbnb.org associado às estadias, 28/10/2026](https://news.airbnb.com/every-home-booked-on-airbnb-helps-house-people-in-crisis)\n\nInformações atribuídas ao comunicado da empresa. Metas futuras não são tratadas como resultados realizados. A loja e a parceria são hipotéticas; critérios de comunicação são análise editorial, sem orientação jurídica, tributária ou financeira.",
+        "prompt": "Conceptual editorial still life without people, a simple brushed metal grain dispenser with a clearly visible small measuring scoop separating one modest portion from a larger supply, a short open wooden channel carries that portion toward a separate plain ceramic bowl, every stage of the physical path visible in a side-on close composition, warm tactile grain and believable practical construction, soft neutral key light with a restrained teal ambient reflection inspired by #08ffb1 along the scoop edge, controlled shadows and generous negative space, no coins, hearts, charity icons, papers, laptop, cubes, prisms, readable markings, text or logos --ar 3:2",
+        "imageAlt": "Pequena medida metálica separa grãos de um recipiente maior e os conduz por uma canaleta até uma tigela de cerâmica."
+      },
+      "createdAt": "2026-10-30T07:37:55.347Z",
+      "startedAt": "2026-10-30T08:19:15.241Z",
+      "completedAt": "2026-10-30T08:19:38.095Z"
+    },
+    {
+      "id": "9782b167-09ad-4753-9c02-6a325d1e8b8e",
+      "itemId": "pauta-diaria-2026-10-30",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "b9529d5f21880f8c5a30d28c5e2020582c1efd0deb5d67b10bf97fd773bb2022",
+      "snapshot": "63cffe076827f1d814a3668717818677513af16befd89307dd345144a2e1a44e",
+      "input": {
+        "id": "pauta-diaria-2026-10-30",
+        "title": "Quem cuida da comunidade depois que sua marca abre o grupo?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: Meta publicou em 23/10/2026 (article:published_time confirmado) anúncio de ferramentas de administração do Forum, com apoio à triagem de posts, regras de moderação e calendário compartilhado. O comunicado informa disponibilidade do app nos EUA; não presumir acesso no Brasil nem recomendar migração. Usar o anúncio como contexto para o trabalho de administração, sem prometer crescimento ou tratar IA como substituta de julgamento. Tese: criar um grupo de marca implica combinar propósito, regras compreensíveis e responsabilidades de acompanhamento; a comunidade não se sustenta apenas com calendário de conteúdo. Exemplo hipotético de PME que reúne usuários para trocar experiências e define quem recebe dúvidas, qual assunto pertence ao grupo, quando encaminhar atendimento privado e como lidar com uma mensagem fora das regras sem expor dados do participante. Diferenciar de microcomunidades: foco na rotina de cuidado e moderação após a abertura, não no tamanho da audiência ou no potencial de alcance. Diferenciar de comentários como experiência: foco num espaço mantido pela marca com participantes recorrentes e regras próprias. Não usar casos identificáveis nem ensinar automação indiscriminada, vigilância ou coleta de dados pessoais. Não oferecer parecer jurídico.",
+        "audience": "Donos de PMEs e responsáveis por marketing ou relacionamento que mantêm ou planejam grupos de clientes e usuários.",
+        "goal": "De “abrir um grupo e programar posts cria uma comunidade” para “preciso estabelecer finalidade, regras e pessoas responsáveis pela continuidade, com limites entre conversa coletiva e atendimento individual”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Meta, New Tools for the Admins Who Build Communities on Forum",
+              "url": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+              "publishedAt": "2026-10-23"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "ec7a6337-fc57-4026-91b6-d5f4628b58f4",
+          "completedAt": "2026-10-30T07:34:40.847Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O grupo começa com um convite animado. Clientes entram, a marca publica as primeiras novidades e as conversas aparecem. Depois surgem uma dúvida de uso, uma reclamação com dados pessoais e uma oferta de outra empresa. O calendário de posts continua preenchido. A equipe, porém, ainda não combinou quem decide o que fazer com cada situação.\n\nCuidar de uma comunidade de marca envolve mais do que manter publicações no ar. O espaço cria expectativas sobre conversa, atenção e convivência. Essas expectativas precisam encontrar responsáveis e limites que as pessoas consigam entender.\n\nEm comunicado publicado em 23 de outubro de 2026, a Meta apresentou ferramentas de administração do Forum, incluindo apoio à triagem de mensagens conforme regras e um calendário compartilhado entre administradores. O texto informa disponibilidade do aplicativo nos Estados Unidos. O anúncio não permite presumir acesso no Brasil nem comprova que uma ferramenta produza uma comunidade bem cuidada.\n\nA referência ajuda a trazer uma pergunta para a rotina da PME: quem acompanha o espaço depois do convite para participar?\n\n## Diga para que o grupo existe\n\nImagine uma pequena empresa de equipamentos para produção artesanal que reúne usuários para trocar experiências. É um exemplo hipotético. O convite promete aprendizado entre participantes, mas os primeiros posts da empresa são apenas ofertas. Aos poucos, ninguém sabe se o grupo é um canal de promoção, uma central de suporte ou um lugar de troca.\n\nDefinir a finalidade ajuda a orientar escolhas. Que conversa a marca pretende viabilizar? Que contribuição faz sentido ali? O que precisa ser encaminhado para outro canal?\n\nEssa descrição deve ser compreensível para quem acabou de chegar. Uma frase interna sobre fortalecer relacionamento não explica, sozinha, o que a pessoa poderá fazer no grupo.\n\nNo exemplo, a empresa pode explicar que o espaço serve à troca de experiências gerais de uso e que questões individuais de atendimento têm um canal próprio. A definição não elimina dúvidas, mas oferece uma referência para lidar com elas.\n\n## Transforme a finalidade em regras que possam ser aplicadas\n\nUma lista extensa de proibições pode ser difícil de compreender e de manter. Regras vagas, por outro lado, deixam decisões importantes dependentes da impressão de quem estiver disponível.\n\nEscolha situações pertinentes ao espaço. Que tipo de divulgação é permitido? Como evitar a exposição de dados pessoais? Como participantes podem discordar sem atacar outras pessoas? O que acontece quando uma mensagem exige revisão?\n\nAs regras precisam orientar também a própria marca. Se a empresa interrompe toda conversa para inserir uma oferta, não basta pedir que os participantes mantenham o foco na troca.\n\nNo grupo hipotético, uma orientação sobre informações pessoais pode explicar que números de pedido, documentos e dados de contato não devem ser publicados. Um problema individual pode ser acolhido sem permanecer exposto para todos. A forma de encaminhar precisa estar preparada antes de a situação aparecer.\n\n## Defina quem acompanha e quem pode decidir\n\nTer várias pessoas com acesso administrativo não garante que alguém esteja acompanhando o espaço. Pode até criar uma zona em que todos presumem que outra pessoa responderá.\n\nCombine uma rotina compatível com a capacidade da equipe. Quem observa novas mensagens? Quem recebe uma dúvida sobre as regras? Quem pode revisar uma decisão quando o caso não estiver claro? Como uma ausência é coberta?\n\nEvite anunciar disponibilidade que a operação não consegue sustentar. Um grupo acompanhado em determinados períodos não deveria ser apresentado como suporte imediato a qualquer hora.\n\nNa PME hipotética, uma pessoa pode acompanhar as conversas e outra oferecer apoio em questões técnicas. O importante é que as responsabilidades sejam conhecidas e que o participante encontre uma orientação coerente, em vez de respostas contraditórias conforme quem leu primeiro.\n\n## Diferencie discordância, dúvida e problema individual\n\nUma crítica não é automaticamente uma quebra de regra. Uma pergunta repetida pode revelar uma informação difícil de encontrar. Uma mensagem com dados pessoais exige um cuidado diferente de uma discussão geral sobre o produto.\n\nAvalie o conteúdo e o contexto antes de agir. A decisão deve poder ser relacionada às regras do espaço, e não apenas ao desconforto que uma opinião causou à marca.\n\nNo exemplo, alguém pode relatar que teve dificuldade numa etapa de montagem. A conversa pode ser útil a outros usuários. Se o caso passar a exigir dados do pedido ou uma análise específica, a equipe pode explicar o encaminhamento ao atendimento individual.\n\nIsso evita transformar o grupo em uma fila pública de casos e também evita usar o canal privado como maneira de esconder toda crítica. O critério é o que a situação precisa para receber um tratamento adequado, com respeito às pessoas envolvidas.\n\n## Automatize lembretes sem abandonar o julgamento\n\nRecursos de administração podem ajudar a organizar tarefas repetitivas e destacar mensagens que merecem atenção. Essa utilidade depende de critérios definidos e de alguém capaz de conferir o resultado.\n\nUma regra automática pode interpretar de forma inadequada uma mensagem legítima. Uma sugestão de resposta pode ignorar o histórico da conversa. A aparência de organização não substitui a responsabilidade por uma decisão.\n\nAntes de ativar um recurso, compreenda o que ele faz, quais informações utiliza e como a equipe poderá revisar seus efeitos. Não é necessário adotar toda novidade para manter um grupo útil.\n\nSe um participante tiver uma mensagem retida por engano, deve existir um caminho compreensível para pedir revisão. A comunidade precisa encontrar pessoas responsáveis também quando a ferramenta falha.\n\n## Observe o que a rotina está ensinando à marca\n\nPerguntas recorrentes podem indicar uma explicação ausente. Conversas que nunca recebem retorno podem mostrar uma promessa maior que a capacidade disponível. Assuntos que ocupam o espaço sem ligação com sua finalidade podem exigir uma orientação mais clara.\n\nUse essas observações para revisar o funcionamento, sem transformar cada interação em oportunidade de venda ou tratar volume de mensagens como prova suficiente de qualidade.\n\nUma comunidade pode ser pequena e exigir acompanhamento consistente. Pode ter poucos posts da marca e ainda oferecer trocas pertinentes. O critério precisa considerar o propósito anunciado e o que os participantes realmente conseguem fazer ali.\n\nAntes de convidar mais pessoas, percorra o caminho de quem chega hoje. A finalidade está clara? As regras ajudam? Existe alguém responsável pelas situações difíceis? O cuidado começa quando a marca consegue responder a essas perguntas depois de abrir o grupo.",
+        "sources": "[Meta, ferramentas para administradores do Forum, 23/10/2026](https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/)\n\nAnúncio da plataforma, com disponibilidade informada nos EUA; sem recomendação de migração nem promessa de crescimento. A empresa e as situações são hipotéticas. Critérios de cuidado e organização são análise editorial da Tweed.",
+        "prompt": "Natural cinematic editorial photograph of a small neighborhood gardening group arriving at a sunlit community garden, one adult coordinator holding an open wooden gate while greeting a newcomer carrying a simple watering can, two other participants already tending separate planting beds farther away, spontaneous everyday gestures and an open path between distinct activities, wide outdoor composition, soft neutral morning key light preserving natural skin tones, restrained teal ambient accent inspired by #08ffb1 reflected on the shaded gate frame, controlled contrast, no meeting table, papers, laptop, readable signs, text or logos --ar 3:2",
+        "imageAlt": "Pessoa segura o portão de uma horta comunitária ao receber alguém com regador; outras duas cuidam de canteiros ao fundo."
+      },
+      "createdAt": "2026-10-30T07:38:24.944Z",
+      "startedAt": "2026-10-30T08:19:15.334Z",
+      "completedAt": "2026-10-30T08:19:38.250Z"
+    },
+    {
+      "id": "df91c3c8-29b6-46cd-bf62-96b9dd2a3f10",
+      "itemId": "pauta-reposicao-2026-10-30-ed796e640306",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "a07912c580b94487dfe4560a6b60511caae217b9fd3c765822d9696e0a4fc13d",
+      "snapshot": "7fcc9ce67d30d516e95db891a14f0ffd775a5c8a47aff3712d02f886dbfa4f91",
+      "input": {
+        "id": "pauta-reposicao-2026-10-30-ed796e640306",
+        "title": "A apresentação está pronta. Quem vai atualizar a próxima versão?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: Google Workspace anunciou em 29/10/2026 criação, prévia e edição de arquivos no Gemini, incluindo apresentações e exportação para formatos como PPTX e PDF. Acesso direto à página confirmado; data e conteúdo lidos no arquivo oficial de 2026. Usar como contexto de facilidade de gerar e editar entregáveis, sem recomendar adoção, presumir acesso ou prometer fidelidade de exportação. Tese: um material de comunicação pensado para continuar em uso precisa de uma entrega combinada com quem o manterá: fonte de edição, versão aprovada, componentes que podem mudar e responsável por conferir a próxima alteração. Exemplo hipotético de PME que recebe apresentação comercial e precisa trocar uma informação semanas depois; distinguir arquivo de distribuição e base de edição, organizar versão corrente e critérios de revisão sem prometer compatibilidade automática. Não instruir edição indiscriminada de dados de clientes nem expor arquivos reais. Diferenciar de adoção de IA: foco na continuidade do entregável, inclusive quando feito sem IA, não no treinamento geral da equipe. Diferenciar de informações atualizadas nos canais: foco na estrutura do arquivo e passagem de responsabilidade na entrega. Diferenciar de feedback de campanha: foco na manutenção posterior ao aceite, não em acelerar aprovação inicial. Não afirmar que a Tweed entrega formatos ou práticas específicas sem confirmação.",
+        "audience": "Donos de PMEs e responsáveis por marketing e vendas que encomendam apresentações comerciais e precisam mantê-las utilizáveis depois da entrega.",
+        "goal": "De “receber o PDF encerra o trabalho” para “preciso combinar como a apresentação será mantida, qual é a versão corrente e quem revisa as próximas alterações sem perder decisões aprovadas”.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Create, preview, and edit files directly in the Gemini app",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html",
+              "publishedAt": "2026-10-29"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-10-30T07:52:56.519Z",
+      "startedAt": "2026-10-30T08:19:15.440Z",
+      "completedAt": "2026-10-30T08:20:40.630Z"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-10-30-62a28f54d0aa",
+  "title": "Quem fica de fora quando sua empresa testa a experiência só com a própria equipe?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado: Meta e CNIB anunciaram em 29/10/2026 uma parceria no Canadá que inclui escuta de pessoas cegas, surdocegas e com baixa visão e retorno de experiências às equipes de produto. Tratar como desenho anunciado de participação, sem comprovar resultados ou recomendar óculos de IA. Tese: uma avaliação feita apenas por pessoas que conhecem a empresa pode deixar barreiras fora do campo de observação; quem vive condições diferentes de acesso deve participar do entendimento do problema. Exemplo hipotético de PME que avalia a tarefa de encontrar uma informação e solicitar contato no site: convidar participantes pertinentes com consentimento e condições adequadas, observar sem conduzir cada ação, registrar barreiras e priorizar correções com apoio especializado quando necessário. Não simular deficiência como substituto da participação real, não expor dados ou histórias pessoais e não tratar um pequeno teste como representativo de todas as pessoas. Não oferecer diagnóstico médico, parecer jurídico ou certificação de acessibilidade. Antes de redigir qualquer recomendação técnica de web, consultar fonte W3C/WAI atual pertinente; anúncio de parceria não comprova requisitos de interface. Diferenciar de redesign: foco em quem participa da avaliação e nos limites do olhar interno, não na transição de uma versão antiga. Diferenciar de design de embalagem: foco em participação e acesso numa tarefa digital, não no gesto físico de abrir um produto. Diferenciar de interpretar referências: foco em barreiras observadas no uso, não em preferências estéticas do cliente.",
+  "audience": "Donos de PMEs e responsáveis por marketing e sites que avaliam a experiência digital principalmente com a própria equipe.",
+  "goal": "De “se a equipe conseguiu usar, a experiência está resolvida” para “preciso observar pessoas pertinentes em condições diferentes de acesso e reconhecer o que minha avaliação interna ainda não permite concluir”.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-10-30",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Meta e CNIB, parceria para participação de pessoas cegas, surdocegas e com baixa visão no desenvolvimento de tecnologia",
+        "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+        "publishedAt": "2026-10-29"
+      }
+    ]
+  }
+}
