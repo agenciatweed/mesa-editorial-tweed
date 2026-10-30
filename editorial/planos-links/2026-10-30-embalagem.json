@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "design-embalagem-gesto-uso",
+  "contentSha256": "5102cb07a6fa053a2320b1ac265d59141f7126fa6f767d10ff8720baad4b6540",
+  "modifiedAt": "2026-10-30",
+  "links": [
+    {
+      "from": "design-embalagem-gesto-uso",
+      "to": "da-embalagem-ao-pos-venda",
+      "anchor": "experiência inteira de abertura",
+      "context": "Uma aba pequena demais pode ser interpretada como um problema pontual. Se a pessoa não consegue identificá-la ou segurá-la, a dificuldade participa da experiência inteira de abertura.",
+      "reason": "Amplia a experiência de abertura para a coerência de marca na entrega e no pós-venda."
+    }
+  ]
+}

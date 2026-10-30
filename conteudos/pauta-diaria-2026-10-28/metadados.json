@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em publicação de 20/10/2026, o Pentawards apresentou os vencedores de 2026, anunciados em cerimônia de 16/10. Entre eles, Heinz Dipper integra um compartimento para molho à embalagem de batatas, segundo a descrição do organizador. Usar somente essa solução estrutural como exemplo descrito, sem repetir alegações de aumento comercial, superioridade universal, validação técnica independente ou disponibilidade no Brasil. Pesquisa ampliada a até 30 dias, pois a fonte pertinente foi publicada há oito dias. Tese: o design da embalagem deve considerar a sequência real de uso, não apenas a aparência na prateleira ou na foto; abrir, apoiar, segurar e acessar o produto fazem parte da experiência. Aplicar a PMEs de alimentação ou produtos físicos com exemplo hipotético de consumidor que precisa equilibrar embalagem, produto e acessório enquanto usa: observar o gesto, identificar um esforço evitável e testar uma alternativa com protótipo seguro e condições plausíveis. Não recomendar materiais, aquecimento ou contato alimentar sem validação técnica apropriada; não fazer alegações ambientais nem dar parecer regulatório. Distinguir de embalagem e pós-venda: foco específico na ergonomia e na estrutura durante o consumo, não no encantamento da entrega. Distinguir de experiência sensorial: foco no gesto e na função, não em acrescentar estímulos. Distinguir de redesign digital: interação física com a embalagem, sem repetir navegação ou mudança de versões.",
   "audience": "Donos de PMEs de alimentação e produtos físicos, responsáveis por marca e desenvolvimento de embalagem que precisam conciliar apresentação, operação e facilidade de uso.",
   "goal": "De “a embalagem está bonita e protege o produto, então o projeto está resolvido” para “preciso observar o que a pessoa faz com ela durante o uso e verificar onde a estrutura ajuda ou atrapalha”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "design de embalagem",
   "slug": "design-embalagem-gesto-uso",
   "meta": "O design de embalagem precisa acompanhar abertura, apoio e consumo. Observe os gestos do cliente e teste a estrutura junto da operação.",
-  "date": "",
+  "date": "2026-10-30",
   "faq": "O que observar no uso de uma embalagem?\nAcompanhe como a pessoa abre, segura, retira, apoia e guarda o produto nas condições previstas.\n\nUm protótipo comprova a segurança do material final?\nNão. Um modelo pode esclarecer forma e sequência de uso, mas resistência, contato alimentar e outras exigências precisam de validação técnica apropriada.\n\nPor que envolver a operação no projeto?\nPorque a embalagem também precisa ser montada, preenchida, fechada e transportada de maneira consistente.",
-  "url": "https://www.agenciatweed.com.br/design-embalagem-gesto-uso/"
+  "url": "https://www.agenciatweed.com.br/design-embalagem-gesto-uso/",
+  "imageFile": "conteudos/pauta-diaria-2026-10-28/imagens/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+  "imageName": "Lanche de rua no mercado molhado.png",
+  "imageWidth": 1536,
+  "imageHeight": 1024,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/design-embalagem-gesto-uso/",
+    "publishedAt": "2026-10-30T03:20:43.122976+00:00",
+    "job": "4011b0d2-2ffd-489c-9d91-f17e0a743ca7",
+    "files": [
+      "assets/artigos-editoriais/e85a2d9d5460e72e1a3b5abd210ae26b6d246ae62d658714c36e2ee88a0daadf.png",
+      "design-embalagem-gesto-uso/index.html",
+      "blog/index.html",
+      "blog-branding-na-marra/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

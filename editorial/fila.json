@@ -5580,7 +5580,7 @@
       "id": "4011b0d2-2ffd-489c-9d91-f17e0a743ca7",
       "itemId": "pauta-diaria-2026-10-28",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "897e2128d0b40637a3c518cc50d61cada35000006382ad840ead8f0c925c64e3",
       "snapshot": "897e2128d0b40637a3c518cc50d61cada35000006382ad840ead8f0c925c64e3",
       "input": {
@@ -5642,7 +5642,8 @@
           "approvedAt": "2026-10-29T08:45:26.540Z"
         }
       },
-      "createdAt": "2026-10-29T08:45:26.544Z"
+      "createdAt": "2026-10-29T08:45:26.544Z",
+      "completedAt": "2026-10-30T03:20:43.128472+00:00"
     },
     {
       "id": "ecf044a5-4ab1-44ce-b080-8bd08913b36c",
