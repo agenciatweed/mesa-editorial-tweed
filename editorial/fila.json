@@ -5717,7 +5717,7 @@
       "id": "a1af1fda-a11c-4efd-8d50-38bd742c9189",
       "itemId": "pauta-reposicao-2026-10-28-b6546ae763a3",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "b11b36787eafcc849fa9aa36fe5208bb3d8e47f5c05e1ab162d347bcf94db483",
       "snapshot": "b11b36787eafcc849fa9aa36fe5208bb3d8e47f5c05e1ab162d347bcf94db483",
       "input": {
@@ -5779,7 +5779,8 @@
           "approvedAt": "2026-10-29T08:45:46.667Z"
         }
       },
-      "createdAt": "2026-10-29T08:45:46.671Z"
+      "createdAt": "2026-10-29T08:45:46.671Z",
+      "completedAt": "2026-10-31T04:23:26.957128+00:00"
     },
     {
       "id": "8d9059f9-52b7-4eae-9fb1-3f47157a7ea9",

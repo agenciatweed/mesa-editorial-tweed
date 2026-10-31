@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "comunicar-melhoria-ambiental-escopo-evidencia",
+  "contentSha256": "ce3e19007ceba6d825e443edda758bb9cf48d917d554055a654a80fca63a11f5",
+  "modifiedAt": "2026-10-31",
+  "links": [
+    {
+      "from": "comunicar-melhoria-ambiental-escopo-evidencia",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "A solução visual",
+      "context": "No exemplo, mostrar o componente alterado e explicar sua função pode ser uma escolha mais informativa que cobrir toda a apresentação com uma linguagem ambiental genérica. A solução visual deve ajudar a compreender, não ampliar silenciosamente a afirmação.",
+      "reason": "Aprofunda a distinção entre representação visual e evidência da entrega, pertinente à apresentação de melhorias ambientais."
+    }
+  ]
+}

@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 13/10/2026, IKEA anunciou atualização da bolsa FRAKTA e especificou a participação de material reciclado em dois tamanhos, junto de informações sobre material e fabricação. Tratar os dados como declarações da fabricante sobre aquele produto e versões, sem afirmar avaliação independente de ciclo de vida, superioridade ambiental global ou disponibilidade brasileira. A janela foi ampliada a até 30 dias para selecionar tema ainda não coberto. Tese: uma melhoria delimitada precisa ser comunicada com objeto, escopo, referência e limites; chamar toda a oferta de sustentável pode sugerir uma conclusão mais ampla que a evidência disponível. Exemplo hipotético de PME que altera um componente de um produto: confirmar documentação com fornecedor, distinguir componente de produto inteiro, explicar o que mudou e não extrapolar para impacto total, reciclabilidade local ou neutralidade. Não dar parecer jurídico, criar selo ou orientar certificações sem base; alegações públicas reais exigem verificação técnica apropriada. Diferenciar de embalagem funcional: foco na precisão da afirmação ambiental, não no gesto de uso. Diferenciar de imagem e prova de entrega: foco no alcance de uma declaração sobre materiais e mudanças, não na natureza documental da imagem. Diferenciar de redesign: foco em comunicação verificável de melhoria ambiental, não em preservar navegação.",
   "audience": "Donos de PMEs e responsáveis por marca que precisam comunicar mudanças em materiais, fornecedores ou processos sem transformar uma melhoria específica em promessa ambiental genérica.",
   "goal": "De “mudamos um material, então podemos chamar a oferta de sustentável” para “preciso explicar exatamente o que foi alterado, a que parte se aplica e o que a documentação permite afirmar”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -46,5 +51,19 @@
   "imageHeight": 544,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
   "faq": "O que conferir antes de comunicar uma melhoria ambiental?\nIdentifique o que mudou, as versões abrangidas e a documentação pertinente, buscando confirmação técnica quando necessária.\n\nUma mudança de componente permite classificar todo o produto como sustentável?\nUma informação sobre um componente não comprova, sozinha, uma conclusão sobre o impacto ambiental de toda a oferta.\n\nPor que revisar imagens e legendas junto da chamada?\nPorque a apresentação visual pode sugerir uma transformação mais ampla que a informação delimitada no texto.",
-  "url": "https://www.agenciatweed.com.br/comunicar-melhoria-ambiental-escopo-evidencia/"
+  "url": "https://www.agenciatweed.com.br/comunicar-melhoria-ambiental-escopo-evidencia/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/comunicar-melhoria-ambiental-escopo-evidencia/",
+    "publishedAt": "2026-10-31T04:23:26.951460+00:00",
+    "job": "a1af1fda-a11c-4efd-8d50-38bd742c9189",
+    "files": [
+      "assets/artigos-editoriais/5b2c8363f249a2e63f2c0ba3ec02ff8f2685a2b0176f005ba421d5924749b4a2.jpg",
+      "comunicar-melhoria-ambiental-escopo-evidencia/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
