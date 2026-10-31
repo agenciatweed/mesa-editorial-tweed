@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "comunicar-melhoria-ambiental-escopo-evidencia",
+  "contentSha256": "ce3e19007ceba6d825e443edda758bb9cf48d917d554055a654a80fca63a11f5",
+  "modifiedAt": "2026-10-31",
+  "links": [
+    {
+      "from": "design-embalagem-gesto-uso",
+      "to": "comunicar-melhoria-ambiental-escopo-evidencia",
+      "anchor": "Afirmações ambientais",
+      "context": "Não transforme essa intenção em alegação que o projeto não sustenta. Afirmações ambientais, de proteção ou de facilidade precisam de base adequada. Acrescentar um símbolo ou uma frase não substitui verificar o que a embalagem faz.",
+      "reason": "Detalha como delimitar e sustentar afirmações ambientais sobre componentes e embalagens."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "design-embalagem-gesto-uso",
+  "contentSha256": "5102cb07a6fa053a2320b1ac265d59141f7126fa6f767d10ff8720baad4b6540",
+  "modifiedAt": "2026-10-31",
+  "links": [
+    {
+      "from": "da-embalagem-ao-pos-venda",
+      "to": "design-embalagem-gesto-uso",
+      "anchor": "abre a caixa",
+      "context": "A promessa de uma marca não se cumpre na propaganda. Ela se confirma quando o cliente abre a caixa.",
+      "reason": "Aprofunda o gesto de abertura e uso da embalagem, além da aparência."
+    }
+  ]
+}
