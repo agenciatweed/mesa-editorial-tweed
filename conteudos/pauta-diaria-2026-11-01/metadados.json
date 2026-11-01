@@ -1,0 +1,27 @@
+{
+  "id": "pauta-diaria-2026-11-01",
+  "title": "Sua marca sabe ao lado de que conteúdo seus anúncios aparecem?",
+  "edition": 4,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado em 28/10/2026: TikTok anunciou seu Brand Safety Center no APAC Responsible Media Forum, em Singapura. O comunicado descreve controles de inventário e exclusões que marcas podem selecionar conforme suas necessidades. Usar apenas o anúncio como contexto, sem repetir estatísticas promocionais, prometer segurança total ou presumir disponibilidade e configuração iguais no Brasil. Tese editorial: aprovar a peça e o público não encerra as escolhas de mídia; a marca precisa definir que contextos de veiculação são compatíveis com sua comunicação e quem acompanha possíveis desencontros. Exemplo hipotético de PME de serviços que combina com seu parceiro de mídia os critérios para avaliar a proximidade do anúncio com conteúdos incompatíveis, verifica quais controles existem de fato na conta e registra quem deve analisar e decidir ajustes quando surge um caso. Não criar lista universal de categorias proibidas nem estigmatizar pessoas, comunidades ou opiniões; distinguir preferência de contexto da marca de afirmação sobre ilegalidade de um conteúdo. Não orientar vigilância de usuários ou decisões automáticas baseadas em denúncia isolada. Diferenciar do plano de mídia: foco na adequação do entorno de veiculação, não na distribuição de orçamento entre canais. Diferenciar de tendências: trata de onde uma peça paga é exibida, não de participar de conversas culturais. Diferenciar de prova de entrega/IA: não discute a veracidade da imagem criada. Não oferecer tutorial técnico de controles sem verificar documentação vigente, nem prometer resultado ou conformidade.",
+  "audience": "Donos de PMEs e responsáveis por marketing que aprovam campanhas pagas e precisam alinhar critérios de veiculação com a equipe ou agência.",
+  "goal": "De considerar a aprovação de peça e público suficiente para perceber que o contexto de exibição também precisa de critérios, controles disponíveis e acompanhamento responsável, sem garantia de risco zero.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-01",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "TikTok, Introducing the TikTok Brand Safety Center at APAC Responsible Media Forum 2026",
+        "url": "https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU",
+        "publishedAt": "2026-10-28"
+      }
+    ]
+  }
+}

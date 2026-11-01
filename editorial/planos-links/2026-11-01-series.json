@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "serie-conteudo-continuidade-episodios",
+  "contentSha256": "79aba21e79c5b152b9ee5fd60bf84237d341f3a50a56bb17d4e89888b8ab0f8f",
+  "modifiedAt": "2026-11-01",
+  "links": [
+    {
+      "from": "serie-conteudo-continuidade-episodios",
+      "to": "reaproveitamento-video-adaptacao-criativa",
+      "anchor": "adaptar o mesmo vídeo entre canais",
+      "context": "Esse trabalho é diferente de adaptar o mesmo vídeo entre canais. Aqui, a questão é permitir acompanhar conteúdos distintos que foram pensados para se relacionar.",
+      "reason": "Distingue arquitetura de uma série da adaptação criativa de um material entre plataformas."
+    }
+  ]
+}
