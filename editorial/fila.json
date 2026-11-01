@@ -7000,6 +7000,353 @@
       "createdAt": "2026-10-31T20:16:02.230Z",
       "startedAt": "2026-11-01T11:48:30.803Z",
       "completedAt": "2026-11-01T11:51:16.594Z"
+    },
+    {
+      "id": "d514eb65-00e6-4ac0-a848-dba3ef5d052a",
+      "itemId": "pauta-reposicao-2026-10-30-ed796e640306",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "130117dbf67fa934f3e2ab6b6959085c20ef7df40c5060c959a89efc28f13f19",
+      "snapshot": "130117dbf67fa934f3e2ab6b6959085c20ef7df40c5060c959a89efc28f13f19",
+      "input": {
+        "id": "pauta-reposicao-2026-10-30-ed796e640306",
+        "title": "A apresentação está pronta. Quem vai atualizar a próxima versão?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: Google Workspace anunciou em 29/10/2026 criação, prévia e edição de arquivos no Gemini, incluindo apresentações e exportação para formatos como PPTX e PDF. Acesso direto à página confirmado; data e conteúdo lidos no arquivo oficial de 2026. Usar como contexto de facilidade de gerar e editar entregáveis, sem recomendar adoção, presumir acesso ou prometer fidelidade de exportação. Tese: um material de comunicação pensado para continuar em uso precisa de uma entrega combinada com quem o manterá: fonte de edição, versão aprovada, componentes que podem mudar e responsável por conferir a próxima alteração. Exemplo hipotético de PME que recebe apresentação comercial e precisa trocar uma informação semanas depois; distinguir arquivo de distribuição e base de edição, organizar versão corrente e critérios de revisão sem prometer compatibilidade automática. Não instruir edição indiscriminada de dados de clientes nem expor arquivos reais. Diferenciar de adoção de IA: foco na continuidade do entregável, inclusive quando feito sem IA, não no treinamento geral da equipe. Diferenciar de informações atualizadas nos canais: foco na estrutura do arquivo e passagem de responsabilidade na entrega. Diferenciar de feedback de campanha: foco na manutenção posterior ao aceite, não em acelerar aprovação inicial. Não afirmar que a Tweed entrega formatos ou práticas específicas sem confirmação.",
+        "audience": "Donos de PMEs e responsáveis por marketing e vendas que encomendam apresentações comerciais e precisam mantê-las utilizáveis depois da entrega.",
+        "goal": "De “receber o PDF encerra o trabalho” para “preciso combinar como a apresentação será mantida, qual é a versão corrente e quem revisa as próximas alterações sem perder decisões aprovadas”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Create, preview, and edit files directly in the Gemini app",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html",
+              "publishedAt": "2026-10-29"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "a71196e4-a775-4eec-b0c5-284cb96c838e",
+          "completedAt": "2026-10-30T13:22:29.476Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "9bc0b6b4e19053d109ab305356bca888719cf29878a9415f2470b957d647c71e"
+        },
+        "body": "A apresentação foi aprovada. O PDF está bonito, o comercial começou a usar o material e o projeto parece encerrado. Algumas semanas depois, uma informação muda. Ninguém sabe onde está o arquivo de edição, qual cópia contém a última revisão ou quem pode alterar aquele trecho sem desfazer outras decisões.\n\nA manutenção de uma apresentação comercial precisa entrar na conversa antes da entrega. O material pode continuar em uso muito depois do primeiro envio. Para isso, a equipe precisa compreender como atualizar o que muda e preservar o que continua válido.\n\nEm anúncio de 29 de outubro de 2026, o Google Workspace apresentou recursos de criação, prévia e edição de arquivos no Gemini, incluindo apresentações e opções de exportação. A facilidade de gerar e modificar arquivos oferece um contexto para essa discussão. Não garante, por si só, que a empresa tenha uma versão corrente, responsáveis definidos ou uma passagem de trabalho bem organizada.\n\nA questão prática não depende de utilizar IA: quem vai cuidar da próxima versão depois que a primeira estiver pronta?\n\n## Combine o uso que continua depois da entrega\n\nImagine uma pequena empresa de serviços que encomenda uma apresentação comercial. É um exemplo hipotético. O material apresenta a proposta, explica o processo e reúne informações que a equipe consulta em conversas com prospects.\n\nParte desse conteúdo pode permanecer válida por bastante tempo. Outra parte pode exigir revisão quando uma condição de atendimento muda. Se ninguém discutiu essa diferença, a próxima alteração tende a ser tratada como uma urgência isolada.\n\nAntes de concluir o trabalho, identifique o uso previsto. O material será enviado por mensagem? Apresentado numa reunião? Adaptado para públicos distintos? Quem precisa atualizá-lo e com que tipo de alteração?\n\nEssas perguntas ajudam a definir a entrega adequada. Não significam que todo arquivo precisa ser editável por qualquer pessoa nem que qualquer formato funcione da mesma maneira em todas as ferramentas.\n\n## Diferencie a base de edição da versão de distribuição\n\nUm PDF pode ser apropriado para compartilhar uma apresentação. Isso não o transforma automaticamente numa base conveniente para manter sua estrutura. Um arquivo editável, por sua vez, pode depender de fontes, recursos ou configurações que outra pessoa não possui.\n\nNa empresa hipotética, a entrega precisa deixar claro qual arquivo é usado para apresentar e qual é a referência para as próximas alterações. Também é necessário conferir se a equipe consegue abrir e trabalhar na base combinada.\n\nEvite presumir que exportar para outro formato preserve todo o comportamento. Confira o que acontece com imagens, proporções, fontes e elementos que precisam continuar funcionando. Uma visualização correta em uma máquina não comprova que todas as condições de uso foram atendidas.\n\nQuando houver limitações, explique-as. A clareza sobre o que foi combinado ajuda a evitar uma entrega que parece completa, mas não permite o trabalho esperado.\n\n## Identifique o que pode mudar sem reabrir toda a estrutura\n\nNa apresentação hipotética, uma informação de contato pode exigir atualização simples. Uma mudança na promessa do serviço pode afetar abertura, argumentos e próximos passos. As duas situações não pedem necessariamente a mesma revisão.\n\nOrganize os componentes de modo que mudanças recorrentes possam ser localizadas. Isso não exige um sistema complexo. Pode começar por uma estrutura compreensível e por orientações breves sobre os trechos mais sensíveis.\n\nExplique também o que precisa de avaliação antes de ser alterado. Uma frase curta pode sustentar uma distinção importante de posicionamento. Um exemplo pode ter sido escolhido para esclarecer um limite da oferta. Sem contexto, uma edição aparentemente pequena pode mudar a interpretação.\n\nA função dessas orientações é permitir julgamento. Uma lista rígida de partes intocáveis pode dificultar atualizações necessárias; a ausência de qualquer critério deixa decisões relevantes ao acaso.\n\n## Mantenha uma referência corrente que a equipe encontre\n\nUma pasta com arquivos chamados final, final novo e final atualizado conta a história de tentativas, mas não orienta quem precisa enviar a apresentação hoje.\n\nDefina onde fica a referência corrente e como ela é identificada. Combine o que acontece com versões anteriores, preservando o histórico necessário sem deixá-las competir com o material em uso.\n\nNa PME hipotética, a pessoa do comercial deve conseguir localizar a apresentação vigente sem perguntar num grupo qual anexo é o certo. Quem mantém a base precisa saber qual arquivo corresponde à versão de distribuição.\n\nTambém confira o acesso. Uma referência central não ajuda se depende de uma conta que ficará indisponível ou se quem precisa atualizar não tem a permissão adequada. Organize isso conforme os acordos e as condições de uso dos materiais, sem presumir direitos ou acessos que não foram combinados.\n\n## Dê um responsável à próxima alteração\n\nA possibilidade de editar não responde quem deve conferir. Um texto atualizado pode estar correto no conteúdo e ainda quebrar a leitura. Um ajuste visual pode ficar bonito e remover uma condição importante.\n\nDefina quem solicita a mudança, quem confirma a informação e quem revisa a apresentação antes de voltar a circular. Numa equipe pequena, uma pessoa pode acumular funções; os critérios ainda precisam ser reconhecíveis.\n\nNo exemplo, uma alteração no serviço pede confirmação de quem responde pela oferta. Depois, a versão revisada precisa ser conferida no formato em que será apresentada ou enviada.\n\nQuando houver apoio de uma ferramenta de IA, aplique o mesmo cuidado. A velocidade de uma edição não elimina a necessidade de conferir se o argumento, o layout e os limites continuam corretos.\n\n## Faça uma atualização pequena antes de encerrar a passagem\n\nUma maneira prática de conferir a entrega é acompanhar uma alteração plausível com quem ficará responsável pelo material. A pessoa encontra a base? Entende qual trecho deve mudar? Consegue gerar uma versão de distribuição e verificar o resultado?\n\nEsse exercício pode revelar uma dependência que ainda não estava visível. Não precisa virar uma promessa de autonomia irrestrita. Serve para esclarecer o que a equipe consegue manter e quando precisará de apoio.\n\nA apresentação está pronta para continuar em uso quando sua próxima revisão tem um caminho compreensível. Antes de encerrar a entrega, combine onde está a referência, quem cuida dela e o que precisa ser conferido quando algo mudar. O arquivo aprovado é uma parte do trabalho; a continuidade também merece projeto.",
+        "sources": "[Google Workspace Updates, criação, prévia e edição de arquivos no Gemini, 29/10/2026](https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html)\n\nAnúncio usado como contexto de geração e edição de arquivos, sem promessa de fidelidade de exportação ou recomendação de ferramenta. Empresa e situações hipotéticas. Critérios de entrega e manutenção são análise editorial, sem afirmação de práticas específicas da Tweed.",
+        "prompt": "Natural cinematic editorial photograph of one adult stage technician in a small empty auditorium carefully adjusting a single removable fabric panel within a larger reusable display frame, the surrounding panels remain in place and a plain storage case stands nearby, medium side view emphasizing the precise everyday maintenance gesture and the complete structure, soft neutral window key light preserving natural skin tones, restrained teal ambient accent inspired by #08ffb1 on one frame edge, controlled contrast and generous negative space, no meeting, papers, desk, laptop, screen interface, readable text or logos --ar 3:2",
+        "imageAlt": "Pessoa ajusta um painel removível numa estrutura de exposição em um auditório vazio, com acento teal na borda da armação.",
+        "date": "2026-11-09",
+        "keyword": "manutenção de uma apresentação comercial",
+        "slug": "apresentacao-comercial-manutencao-proxima-versao",
+        "meta": "A manutenção de uma apresentação comercial começa na entrega. Combine base de edição, versão corrente e responsáveis pelas próximas alterações.",
+        "faq": "O que combinar na entrega de uma apresentação comercial?\nDefina o uso previsto, a base de edição, a versão de distribuição, onde fica a referência corrente e quem revisa futuras alterações.\n\nUm PDF substitui a base de edição?\nNão automaticamente. Ele pode servir à distribuição, enquanto a manutenção exige conferir formatos, recursos e condições de acesso combinados.\n\nQuem deve conferir a próxima alteração?\nCombine quem confirma a informação, quem faz a mudança e quem verifica o material no formato em que será usado.",
+        "url": "https://www.agenciatweed.com.br/apresentacao-comercial-manutencao-proxima-versao/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-30-ed796e640306/imagens/fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c.png",
+        "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_on_4639c00c-d515-48a5-876e-75ade350136f_2.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-01T13:26:32.149Z"
+        }
+      },
+      "createdAt": "2026-11-01T13:26:32.154Z"
+    },
+    {
+      "id": "5c05d7ea-1106-412e-aa59-a1ccc0dafe70",
+      "itemId": "pauta-reposicao-2026-10-30-62a28f54d0aa",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "9146016c62762dc5546bd9897b50a6cc93f30ed0169adb529e016a887ec03514",
+      "snapshot": "9146016c62762dc5546bd9897b50a6cc93f30ed0169adb529e016a887ec03514",
+      "input": {
+        "id": "pauta-reposicao-2026-10-30-62a28f54d0aa",
+        "title": "Quem fica de fora quando sua empresa testa a experiência só com a própria equipe?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: Meta e CNIB anunciaram em 29/10/2026 uma parceria no Canadá que inclui escuta de pessoas cegas, surdocegas e com baixa visão e retorno de experiências às equipes de produto. Tratar como desenho anunciado de participação, sem comprovar resultados ou recomendar óculos de IA. Tese: uma avaliação feita apenas por pessoas que conhecem a empresa pode deixar barreiras fora do campo de observação; quem vive condições diferentes de acesso deve participar do entendimento do problema. Exemplo hipotético de PME que avalia a tarefa de encontrar uma informação e solicitar contato no site: convidar participantes pertinentes com consentimento e condições adequadas, observar sem conduzir cada ação, registrar barreiras e priorizar correções com apoio especializado quando necessário. Não simular deficiência como substituto da participação real, não expor dados ou histórias pessoais e não tratar um pequeno teste como representativo de todas as pessoas. Não oferecer diagnóstico médico, parecer jurídico ou certificação de acessibilidade. Antes de redigir qualquer recomendação técnica de web, consultar fonte W3C/WAI atual pertinente; anúncio de parceria não comprova requisitos de interface. Diferenciar de redesign: foco em quem participa da avaliação e nos limites do olhar interno, não na transição de uma versão antiga. Diferenciar de design de embalagem: foco em participação e acesso numa tarefa digital, não no gesto físico de abrir um produto. Diferenciar de interpretar referências: foco em barreiras observadas no uso, não em preferências estéticas do cliente.",
+        "audience": "Donos de PMEs e responsáveis por marketing e sites que avaliam a experiência digital principalmente com a própria equipe.",
+        "goal": "De “se a equipe conseguiu usar, a experiência está resolvida” para “preciso observar pessoas pertinentes em condições diferentes de acesso e reconhecer o que minha avaliação interna ainda não permite concluir”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta e CNIB, parceria para participação de pessoas cegas, surdocegas e com baixa visão no desenvolvimento de tecnologia",
+              "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+              "publishedAt": "2026-10-29"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "749223bc-c9f1-419b-8bba-90bdef58c7b6",
+          "completedAt": "2026-10-30T23:20:18.753Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "a382769945eba5691d8023f033315e5193ab19955ecc45b5f87c7c73d3f1981c"
+        },
+        "body": "A equipe abre o site, encontra o serviço e envia o formulário. Todos conhecem o nome usado no menu, sabem quais campos serão pedidos e já viram a mensagem de confirmação. A tarefa termina sem dificuldade. A avaliação parece suficiente, mas aconteceu com pessoas que conhecem as respostas antes de começar.\n\nTestar a experiência só com a própria equipe deixa perguntas importantes de fora. Quem chega pela primeira vez pode interpretar os termos de outra maneira. Quem usa recursos ou estratégias diferentes de acesso pode encontrar uma barreira que ninguém naquele grupo percebeu.\n\nEm anúncio de 29 de outubro de 2026, Meta e CNIB apresentaram uma parceria no Canadá que inclui escuta de pessoas cegas, surdocegas e com baixa visão e retorno dessas experiências às equipes de produto. O comunicado descreve uma iniciativa planejada, sem demonstrar seus resultados. A referência pertinente é a participação de quem vive condições de acesso diferentes, não a adoção de óculos de IA por uma PME.\n\nNo site de uma pequena empresa, essa discussão pode começar por uma tarefa concreta: encontrar uma informação e conseguir solicitar contato.\n\n## O conhecimento interno também esconde dificuldades\n\nImagine uma PME de serviços que quer revisar a página de solicitação comercial. É um exemplo hipotético. A equipe identifica rapidamente uma categoria porque utiliza aquele nome todos os dias. Uma pessoa de fora pode não saber que sua necessidade corresponde à expressão escolhida.\n\nO caminho pode continuar simples para quem já conhece o formulário e pouco claro para quem tenta entender o que acontecerá depois do envio. O teste interno confirmou que a tarefa foi possível para aquele grupo. Não demonstrou que a experiência funciona para todas as pessoas.\n\nEssa distinção não diminui a utilidade da primeira conferência. Ela ajuda a definir o próximo passo. Em vez de concluir que o site está resolvido, registre quem participou, o que foi observado e quais condições ainda não foram examinadas.\n\n## Escolha a tarefa antes de escolher a opinião que deseja ouvir\n\nPedir uma avaliação geral sobre um site pode gerar comentários sobre cores e preferências. Para entender uma dificuldade de uso, vale delimitar o que a pessoa precisa conseguir fazer.\n\nNa PME hipotética, a tarefa pode ser localizar se determinado serviço atende à necessidade apresentada e encontrar como pedir uma conversa. Não é necessário orientar antecipadamente qual menu abrir ou qual palavra procurar.\n\nObserve o percurso e as dúvidas. A pessoa compreendeu o nome do serviço? Encontrou a informação de que precisava? Identificou o próximo passo? Alguma etapa exigiu uma ajuda que não estaria disponível no uso cotidiano?\n\nSe o exercício depende de uma explicação contínua de quem criou a página, essa explicação precisa entrar na análise. Ela pode estar substituindo uma orientação que falta no próprio site.\n\n## Inclua quem usa outras condições de acesso\n\nA orientação da W3C WAI sobre avaliação com usuários destaca a participação de pessoas com deficiência e a diversidade de experiências e habilidades. Também recomenda combinar essa participação com avaliação de padrões de acessibilidade. Uma sessão com usuários não substitui uma verificação técnica completa.\n\nPara a empresa hipotética, isso significa não limitar a seleção a colegas disponíveis ou a pessoas que usam o mesmo dispositivo da equipe. Identifique quais condições de acesso precisam ser consideradas e busque apoio para organizar uma participação adequada.\n\nNão trate uma pessoa como representante de todas as outras. Uma experiência observada pode revelar uma barreira concreta sem descrever toda a diversidade de quem acessará o site.\n\nO objetivo é aprender com formas reais de uso. Simular uma condição por alguns minutos dentro da equipe não substitui a experiência de quem utiliza recursos e estratégias próprios no cotidiano.\n\n## Prepare uma participação respeitosa e viável\n\nExplique a finalidade da atividade, como as observações serão utilizadas e o que será registrado. Combine condições e recursos para que a pessoa consiga participar. Preserve informações pessoais e não transforme uma dificuldade observada numa exposição pública.\n\nNo exemplo hipotético, a equipe pode usar um cenário e dados de teste para acompanhar a tarefa, evitando pedir documentos, informações de saúde ou dados de um atendimento real. O exercício deve esclarecer o funcionamento da página, não criar uma coleta desnecessária sobre quem participa.\n\nTambém considere o ritmo da sessão. Interromper cada ação para corrigir o caminho pode esconder o problema; insistir numa tarefa que está produzindo desconforto não é requisito para obter um aprendizado útil.\n\nQuando a equipe não tiver conhecimento para organizar a avaliação, busque apoio especializado. Reconhecer esse limite pode tornar o processo mais cuidadoso do que improvisar uma investigação e anunciar conclusões amplas.\n\n## Registre a barreira e a situação em que ela apareceu\n\nUma anotação útil descreve o que aconteceu. A pessoa não encontrou determinada informação? Não compreendeu uma instrução? Não conseguiu concluir uma etapa nas condições utilizadas?\n\nEvite resumir tudo como falta de atenção ou dificuldade do participante. A tarefa da avaliação é investigar a experiência oferecida, não julgar a pessoa que encontrou um obstáculo.\n\nNa PME hipotética, a equipe pode registrar uma mensagem de erro que não explica como continuar. A correção precisa ser discutida com quem desenvolve o site e conferida depois. Uma alteração visual isolada pode não resolver a questão observada.\n\nDiferencie ainda observação e hipótese. Ter percebido uma interrupção não esclarece automaticamente toda a sua causa. Preserve o contexto necessário para que a equipe técnica possa investigar sem receber uma conclusão inventada.\n\n## Faça a descoberta chegar ao projeto\n\nUma avaliação perde força quando gera apenas uma apresentação interna de aprendizados. As barreiras identificadas precisam encontrar responsáveis, prioridades e uma forma de verificar as correções.\n\nComece pelo que impede a tarefa e discuta os demais pontos conforme seu efeito e alcance. Depois de alterar, volte à situação que revelou o problema. Confira se a dificuldade foi resolvida ou apenas mudou de lugar.\n\nEsse acompanhamento não autoriza declarar o site acessível a todas as pessoas. A conclusão deve corresponder ao que foi efetivamente avaliado, em conjunto com as verificações técnicas pertinentes.\n\nNa próxima conferência do site, pergunte quem ainda não participou da avaliação. O fato de a equipe conseguir usar é um começo. Uma experiência de marca mais cuidadosa exige reconhecer o que esse olhar interno ainda não consegue mostrar.",
+        "sources": "[Meta e CNIB, anúncio de parceria com participação de usuários, 29/10/2026](https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/)\n[W3C WAI, Involving Users in Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/involving-users/)\n[W3C WAI, Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/)\n\nO anúncio da parceria não comprova resultados. A PME e a avaliação são hipotéticas. Participação de usuários e avaliação técnica são complementares; o artigo não certifica acessibilidade nem oferece diagnóstico médico ou parecer jurídico.",
+        "prompt": "Conceptual editorial photograph without people, a freestanding practical wooden viewing frame in a quiet gallery with several openings at clearly different heights, a small tactile ceramic detail visible through the lowest opening while a wider horizontal opening frames another part of the same installation, angled side view revealing how each viewpoint exposes a different real detail, warm plaster and timber textures, soft neutral key light and restrained teal ambient accent inspired by #08ffb1 grazing the inner edge, controlled contrast, no maze, cubes, prisms, light beams, disability simulation props, readable text or logos --ar 3:2",
+        "imageAlt": "Estrutura de madeira tem aberturas em alturas diferentes, revelando detalhes distintos de uma instalação de cerâmica em uma galeria.",
+        "date": "2026-11-10",
+        "keyword": "testar a experiência",
+        "slug": "testar-experiencia-alem-equipe-interna",
+        "meta": "Testar a experiência só com a equipe deixa condições de acesso fora da avaliação. Inclua participantes pertinentes e combine observação com verificação técnica.",
+        "faq": "O teste interno comprova que um site funciona para todos?\nNão. Ele mostra o que foi possível para aquele grupo e nas condições observadas, deixando outras formas de acesso por avaliar.\n\nA participação de usuários substitui a avaliação técnica de acessibilidade?\nNão. A observação de uso e as verificações técnicas são complementares, conforme as orientações da W3C WAI.\n\nO que registrar ao encontrar uma barreira de uso?\nDescreva a tarefa, as condições e o que ocorreu, distinguindo observação e hipótese, sem julgar nem expor o participante.",
+        "url": "https://www.agenciatweed.com.br/testar-experiencia-alem-equipe-interna/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-30-62a28f54d0aa/imagens/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+        "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_bd9d95db-849d-4c8d-96db-38e37ca59bdd_3.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-01T13:26:58.070Z"
+        }
+      },
+      "createdAt": "2026-11-01T13:26:58.075Z"
+    },
+    {
+      "id": "92b1b5a4-820d-426f-bd50-4e4344d32028",
+      "itemId": "pauta-reposicao-2026-10-30-46adeabc99e9",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "427faf2dfcac5957ee0f9f4ed327fb80b752c991f20610c4d0df356810a52868",
+      "snapshot": "427faf2dfcac5957ee0f9f4ed327fb80b752c991f20610c4d0df356810a52868",
+      "input": {
+        "id": "pauta-reposicao-2026-10-30-46adeabc99e9",
+        "title": "O cliente precisa se adaptar à sua ferramenta para conseguir conversar?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: em 14/10/2026 a Meta anunciou participação por convite em chamadas de WhatsApp sem conta para o convidado, via navegador de computador, com admissão pelo anfitrião. Integrações de calendário aparecem como futuras no anúncio; não descrevê-las como já disponíveis. Pesquisa ampliada a até 30 dias após triagem de fontes recentes para buscar tema distinto. Tese: a ferramenta escolhida internamente para uma conversa comercial também cria exigências para quem vem de fora; avaliar o caminho do convite até a entrada ajuda a distinguir uma necessidade real de uma barreira evitável. Exemplo hipotético de PME de serviços que convida um prospect para uma primeira conversa e confere instruções, necessidade de conta ou instalação, responsável pela admissão e alternativa combinada se a entrada falhar. Não recomendar WhatsApp como ferramenta universal nem presumir disponibilidade, conformidade ou compatibilidade em todos os ambientes. Não orientar desativar controles de acesso ou compartilhar links publicamente. Diferenciar de acessibilidade e avaliação inclusiva: foco no atrito operacional do convite entre empresas com ferramentas diferentes, não na seleção de participantes ou auditoria técnica. Diferenciar de pós-feira: foco no acesso à conversa já combinada, não no primeiro retorno ao contato. Diferenciar de comunidade: conversa comercial pontual, não grupo de participantes recorrentes. Sem promessa de conversão, economia de tempo mensurada ou práticas específicas da Tweed.",
+        "audience": "Donos de PMEs e equipes comerciais que convidam prospects, clientes e parceiros externos para conversas online.",
+        "goal": "De “se a ferramenta funciona para nossa equipe, o convite está resolvido” para “preciso conferir o que o convidado terá de fazer para entrar e oferecer um caminho combinado quando houver impedimento”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, Now You Can Invite Anyone to a WhatsApp Call",
+              "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+              "publishedAt": "2026-10-14"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "85ab709d-e5fa-4a07-9ffc-cd10d3971d35",
+          "completedAt": "2026-11-01T11:51:16.071Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "745b00194ab4d4666afce0aba2d4998d1cfae46798a9842bfd11698f86932bd3"
+        },
+        "body": "A conversa comercial está marcada. O convite chega com um link e a equipe considera o assunto resolvido. No horário combinado, o interessado descobre que precisa instalar um aplicativo, escolher uma conta ou pedir uma permissão que sua empresa não permite. Enquanto tenta entrar, ninguém sabe se ele está atrasado ou parado do lado de fora.\n\nO acesso a uma reunião online também participa da experiência de marca. A ferramenta que funciona para a equipe cria exigências para quem vem de fora. Antes de convidar, vale conferir quais dessas exigências são necessárias e quais podem ser evitadas ou explicadas melhor.\n\nEm anúncio de 14 de outubro de 2026, a Meta apresentou chamadas de WhatsApp com participação de convidados sem conta, pelo navegador do computador e com admissão do anfitrião. O comunicado também descreveu integrações de calendário como futuras. A novidade oferece um exemplo de redução de uma exigência de entrada, sem tornar aquela ferramenta adequada a toda empresa ou situação.\n\nPara uma PME, a pergunta prática é o que o convidado precisa fazer antes de conseguir conversar.\n\n## Percorra o convite pelo lado de quem recebe\n\nImagine uma pequena empresa de serviços que agenda uma primeira conversa com um prospect. É um exemplo hipotético. A equipe usa diariamente uma plataforma e já está conectada às próprias contas. Ao conferir o convite, entra sem perceber etapas que aparecem somente para um participante externo.\n\nO convidado pode utilizar outro navegador, estar num computador administrado pela empresa ou não ter permissão para instalar o aplicativo sugerido. Essas condições não são sinais de desinteresse pelo encontro.\n\nConfira o percurso nas condições pertinentes à conversa. O link abre a reunião ou uma página intermediária? É necessário identificar uma conta? Há uma opção de entrada pelo navegador? A orientação enviada corresponde ao que a pessoa realmente encontrará?\n\nNão é necessário presumir uma dificuldade em toda chamada. É necessário evitar que a familiaridade da equipe seja a única evidência de que o caminho está claro.\n\n## Diferencie um controle necessário de uma etapa dispensável\n\nAlgumas exigências protegem a conversa. Outras resultam de uma configuração que ninguém revisou. Simplificar o acesso não significa desativar controles indiscriminadamente nem distribuir links sem critério.\n\nNa PME hipotética, a equipe pode conferir com quem responde pelo ambiente quais condições são adequadas para receber participantes externos. Talvez seja possível usar um acesso de convidado. Talvez o contexto exija uma autenticação específica.\n\nQuando a exigência for necessária, explique-a com antecedência e confira se o convidado consegue atendê-la. Se houver impedimento, discuta uma alternativa apropriada em vez de improvisar uma maneira de contornar uma política da outra empresa.\n\nA decisão precisa considerar o assunto, as pessoas envolvidas e as condições reais de uso. Um anúncio de funcionalidade não comprova compatibilidade ou adequação para todos os ambientes.\n\n## Envie o contexto junto do link\n\nUm convite útil informa mais que o endereço da chamada. A pessoa precisa reconhecer quem está convidando, qual é a finalidade da conversa e o horário combinado, com indicação clara quando houver diferença de fuso.\n\nNo exemplo, a mensagem pode apresentar o objetivo do encontro e o que será necessário preparar. Se houver uma etapa de acesso relevante, ela deve estar descrita de maneira simples e atual.\n\nEvite instruções extensas copiadas de uma situação que não corresponde àquela chamada. Uma orientação antiga sobre instalar o aplicativo pode criar trabalho desnecessário se a configuração atual permite outro caminho. O contrário também pode acontecer: prometer entrada direta sem conferir as condições.\n\nO link precisa chegar por um canal combinado e reconhecível. Reduzir atrito não exige expor o convite publicamente ou pedir dados que não ajudam a realizar a conversa.\n\n## Alguém precisa acompanhar a chegada\n\nUma sala de espera pode cumprir uma função importante. Ela também cria uma tarefa para o anfitrião: perceber quem chegou e tomar a decisão de admissão.\n\nNa empresa hipotética, uma pessoa abre a reunião e começa a preparar a apresentação. O prospect solicita entrada, mas o aviso fica sem atenção. O recurso funcionou; o acompanhamento falhou.\n\nCombine quem recebe os participantes, como identificar o convidado esperado e o que fazer se alguém informar dificuldade. Se houver mais de uma pessoa da equipe, deixe essa responsabilidade clara antes do horário.\n\nIsso evita interpretar automaticamente uma ausência como desistência. Antes de concluir, confira se a pessoa teve uma condição razoável de entrar e se o caminho de comunicação combinado estava sendo acompanhado.\n\n## Prepare uma alternativa antes de precisar dela\n\nMesmo um convite claro pode encontrar um impedimento técnico. A resposta não precisa ser obrigar a pessoa a experimentar várias ferramentas na hora.\n\nDefina como o contato será retomado se a entrada falhar. Pode haver outro canal previamente aceito ou a necessidade de combinar um novo horário. A alternativa depende da situação e das condições das empresas envolvidas.\n\nNo exemplo, a equipe pode informar por onde o convidado deve avisar uma dificuldade e quem acompanhará esse canal. Isso não exige oferecer atendimento permanente. Exige que a orientação corresponda à capacidade disponível naquele encontro.\n\nDepois, registre o problema necessário para revisar o processo, sem colecionar informações pessoais ou transformar uma dificuldade individual em suposição sobre todo o público.\n\n## Escolha a ferramenta pela conversa que precisa acontecer\n\nA plataforma faz parte de uma decisão de operação e relacionamento. Vale considerar acesso externo, recursos necessários e condições de uso antes de escolher apenas pelo hábito interno.\n\nUma primeira conversa pode ter necessidades diferentes de uma sessão que exige compartilhar materiais ou reunir várias áreas. O que ajuda a equipe a trabalhar também precisa ser compreensível para o participante convidado.\n\nNa próxima reunião, confira o convite como se ainda não conhecesse sua empresa. A finalidade está clara? As etapas estão corretas? Alguém acompanha a chegada? Existe um caminho combinado se houver impedimento?\n\nUma conversa bem preparada começa antes de a câmera ser ligada. Quando o acesso recebe o mesmo cuidado que a apresentação, o interessado não precisa resolver sozinho a ferramenta para começar a conhecer o serviço.",
+        "sources": "[Meta, chamadas de WhatsApp com convidados, 14/10/2026](https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/)\n\nFuncionalidades atribuídas ao anúncio; integrações de calendário não são tratadas como disponíveis. A PME e as situações são hipotéticas. Sem recomendação universal de ferramenta, desativação de controles ou promessa de conversão.",
+        "prompt": "Natural cinematic editorial photograph of one adult professional on a quiet apartment balcony just before a remote conversation, candid side view as they place one wireless earbud in their ear while holding an unbranded smartphone with its screen turned away from camera, relaxed practical gesture and ordinary urban buildings softly out of focus beyond, medium environmental composition with generous negative space, soft neutral late afternoon key light preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected on the shaded balcony door, controlled contrast, no meeting table, papers, laptop, readable interface, text or logos --ar 3:2",
+        "imageAlt": "Pessoa coloca um fone sem fio enquanto segura um celular na varanda, com prédios ao fundo e reflexo teal discreto na porta.",
+        "date": "2026-11-11",
+        "keyword": "acesso a uma reunião online",
+        "slug": "acesso-reuniao-online-convidado",
+        "meta": "O acesso a uma reunião online começa no convite. Confira exigências, instruções, admissão e alternativas para receber participantes externos.",
+        "faq": "Como conferir o acesso de um convidado externo?\nPercorra o convite nas condições pertinentes à conversa e verifique conta, instalação, navegador e instruções antes de enviá-lo.\n\nSimplificar a entrada exige remover controles de acesso?\nNão. Mantenha os controles necessários, explique as exigências e combine alternativas apropriadas quando houver impedimento.\n\nQuem deve acompanhar a chegada à reunião?\nA equipe deve definir previamente quem recebe os participantes e acompanha o canal combinado para dificuldades.",
+        "url": "https://www.agenciatweed.com.br/acesso-reuniao-online-convidado/",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-30-46adeabc99e9/imagens/604cfc8ed3d888e39f959f7f3554879d2033b9800de5fb098a09317bc898c69d.png",
+        "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_on_ae8a5f56-5f72-40bf-beda-20efdc7251aa_0.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/604cfc8ed3d888e39f959f7f3554879d2033b9800de5fb098a09317bc898c69d.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-01T13:27:25.394Z"
+        }
+      },
+      "createdAt": "2026-11-01T13:27:25.398Z"
+    },
+    {
+      "id": "3d11f169-a755-40ec-ae41-6a1291db9646",
+      "itemId": "pauta-reposicao-2026-10-30-dac6a18b8124",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "ee5cd56117b5beea20844d59872107765e66867117af3d8b4153d9c9c55f7e77",
+      "snapshot": "367a7b683f538b7b1526318fddfdfb746b49064eadf65f92aa188f77e0ce5a4a",
+      "input": {
+        "id": "pauta-reposicao-2026-10-30-dac6a18b8124",
+        "title": "O resumo da reunião não pode decidir no lugar da equipe",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: recap oficial do Google Workspace de 23/10/2026 destaca resumos de reunião no Google Chat; a publicação detalhada de 19/10 explica cartões com síntese, decisões e itens de ação, condicionados à anotação no Meet e à conversa associada. Usar como anúncio de ferramenta, sem presumir disponibilidade universal, precisão ou resultado operacional. Pesquisa recente ampliada a 30 dias para uma aplicação distinta. Tese: um resumo organiza o que foi dito, mas sugestões, decisões confirmadas e pendências precisam continuar distinguíveis; um texto fluente não deve transformar uma hipótese em compromisso. Exemplo hipotético de PME que discute campanha com parceiro e, depois da reunião, confere o que foi aprovado, o que aguarda confirmação, quem ficou responsável e qual próximo movimento foi realmente combinado. A validação deve ser possível por quem participou; não inventar aceite pelo silêncio nem orientação contratual. Não divulgar transcrições, informações pessoais ou dados de clientes em ferramentas por conveniência; combinar permissões e condições apropriadas. Diferenciar de feedback de campanha: foco no registro pós-reunião e distinção entre fala e decisão, não nos critérios para julgar uma peça. Diferenciar de apresentação editável: foco no acordo de trabalho, não em arquivos de entrega. Diferenciar de acesso à chamada: foco na continuidade após a conversa, não na entrada na ferramenta. Não atribuir à Tweed um processo ou resultado específico sem confirmação.",
+        "audience": "Donos e gestores de PMEs que participam de reuniões de marketing com equipe e parceiros e usam notas ou resumos automáticos para organizar a continuidade.",
+        "goal": "De “se está no resumo, ficou combinado” para “preciso conferir quais decisões foram confirmadas e separar sugestões, pendências e responsabilidades antes de iniciar o próximo trabalho”.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Weekly Recap de 23/10/2026",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html",
+              "publishedAt": "2026-10-23"
+            },
+            {
+              "title": "Google Workspace Updates, Follow through on your meeting tasks with meeting recaps in Google Chat",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
+              "publishedAt": "2026-10-19"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "01454cde-dc97-4698-aa1e-2bf085cea6da",
+          "completedAt": "2026-11-01T11:51:16.531Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A reunião termina com a sensação de que muita coisa avançou. Pouco depois, chega um resumo organizado, com decisões e próximos passos. Uma ideia que apareceu como possibilidade está escrita como tarefa. Um prazo usado para discutir viabilidade virou data de entrega. A equipe começa a trabalhar a partir de um acordo que ninguém reconhece por inteiro.\n\nO resumo de reunião pode ajudar a organizar a continuidade, mas precisa preservar a diferença entre sugestão, decisão confirmada e pendência. Um texto bem escrito não transforma uma hipótese em compromisso. Antes de distribuir o trabalho, é necessário conferir o que foi realmente combinado.\n\nEm anúncio de 19 de outubro de 2026, destacado no recap de 23 de outubro, o Google Workspace apresentou resumos de reuniões no Google Chat, incluindo síntese, decisões e itens de ação. O recurso foi anunciado para conversas associadas a reuniões com a função de notas habilitada no Meet. Isso descreve uma funcionalidade; não comprova a precisão de cada registro nem sua disponibilidade em qualquer conta.\n\nPara uma PME, a questão prática continua a mesma com ou sem automação: quem pode confirmar que o registro corresponde à conversa?\n\n## Dê nomes diferentes ao que tem situações diferentes\n\nImagine uma pequena empresa discutindo uma campanha com um parceiro. É um exemplo hipotético. Durante a conversa, alguém sugere antecipar uma peça para aproveitar uma oportunidade. Outra pessoa explica que precisa verificar a disponibilidade da equipe. O assunto segue sem uma confirmação final.\n\nSe o resumo registra apenas que a peça será antecipada, ele elimina a condição que impedia a decisão. A frase fica mais simples e menos fiel ao que aconteceu.\n\nUma organização útil distingue o que foi proposto, o que foi confirmado e o que depende de uma resposta. Não é preciso criar um documento complexo. É preciso permitir que o leitor perceba a situação de cada ponto sem reconstruir a reunião inteira.\n\nNo exemplo, a antecipação continua como possibilidade, acompanhada da verificação necessária. Isso é diferente de apresentar uma entrega aprovada e acrescentar uma observação vaga no fim do documento.\n\n## Confira o verbo antes de encaminhar a tarefa\n\nPalavras como avaliar, preparar, aprovar e publicar descrevem movimentos diferentes. Trocar uma pela outra pode fazer o trabalho avançar para uma etapa que ainda não foi autorizada.\n\nNa reunião hipotética, o parceiro pode ter ficado de preparar uma alternativa de chamada. Registrar que ele ficou responsável por publicar a campanha altera o alcance do pedido. Mesmo que o assunto e a pessoa estejam corretos, a responsabilidade foi ampliada.\n\nAo revisar, confira a ação descrita. O próximo passo era estudar uma opção, apresentar uma versão ou executar algo já aprovado? Havia uma condição? Quem deveria responder antes de continuar?\n\nA mesma atenção vale para datas. Um dia citado para discutir possibilidades não deve aparecer automaticamente como prazo confirmado. Quando faltar uma definição, deixe a pendência visível e encaminhe a pergunta à pessoa pertinente.\n\n## Atribua responsabilidades que foram reconhecidas\n\nUm item de ação precisa permitir entender quem acompanha o próximo movimento. Mas um nome colocado pelo redator ou pela ferramenta não substitui o entendimento de quem participou.\n\nNo exemplo, uma pessoa mencionou conhecer um fornecedor. Isso não significa que assumiu a contratação. Talvez tenha oferecido somente uma referência, ou ficado de consultar uma informação preliminar.\n\nConfira se a responsabilidade corresponde ao que foi aceito. Quando a conversa não tiver definido um responsável, registre essa ausência e peça a definição. Preencher o espaço por conveniência pode produzir uma lista aparentemente completa e um trabalho sem acompanhamento real.\n\nTambém não é necessário distribuir cada observação como tarefa. Algumas falas ajudam a contextualizar a discussão e não pedem execução. O resumo deve organizar o trabalho, sem criar obrigações para justificar cada linha da conversa.\n\n## Ofereça uma forma de corrigir o registro\n\nQuem participou precisa conseguir apontar um desencontro entre o resumo e a reunião. Uma mensagem enviada ao grupo pode facilitar isso, desde que o pedido de conferência seja claro e o registro corrigido continue identificável.\n\nNa PME hipotética, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.\n\nEvite tratar a falta de resposta como confirmação automática. O silêncio pode ter diferentes motivos e não resolve uma dúvida sobre o que foi decidido. Se a continuidade depende de um ponto, busque a confirmação apropriada em vez de presumir que todos concordaram.\n\nQuando houver correção, atualize a referência de trabalho e comunique o que mudou às pessoas afetadas. Manter uma versão equivocada em circulação enquanto a explicação fica perdida numa conversa separada obriga cada integrante a descobrir qual registro vale.\n\n## Use a ferramenta dentro das condições combinadas\n\nNotas automáticas podem oferecer um ponto de partida. A revisão continua necessária, especialmente quando há condições, alternativas ou frases que dependem do contexto para fazer sentido.\n\nNão é preciso rejeitar um resumo por ter sido gerado automaticamente nem confiar nele apenas porque apresenta tópicos bem organizados. Confira os trechos que orientam a continuidade: decisões, ações, responsáveis e condições.\n\nAntes de usar gravação, transcrição ou ferramentas de notas, combine as condições apropriadas com os envolvidos e com quem responde pelo ambiente da empresa. Não envie conteúdo de clientes ou informações pessoais para outro serviço apenas porque ele promete organizar melhor a reunião.\n\nO cuidado deve considerar o que será registrado, quem poderá acessar e onde o material será tratado. Uma conveniência operacional não resolve essas decisões por conta própria. O recurso anunciado por uma plataforma também não demonstra que seja adequado a toda conversa.\n\n## Retome as pendências sem reabrir tudo\n\nUm bom registro permite continuar a partir do ponto certo. Para isso, as dúvidas restantes precisam estar delimitadas. Escrever apenas que a campanha será avaliada deixa indefinido o que ainda falta decidir.\n\nNo exemplo hipotético, pode haver duas respostas necessárias: a equipe consegue preparar a alternativa e quem confirma a mudança de data? Enquanto isso, outras tarefas já aprovadas podem seguir, se não dependerem dessas respostas.\n\nEssa separação evita tratar toda a reunião como encerrada ou toda a campanha como suspensa. Ela permite reconhecer o que está definido e o que ainda precisa de um movimento específico.\n\nNa próxima reunião de marketing, escolha os pontos que orientam o trabalho seguinte e compare o registro com o que os participantes reconhecem. A sugestão continua identificada como sugestão? As condições sobreviveram ao resumo? A responsabilidade foi confirmada? A data foi realmente combinada?\n\nA utilidade do documento está em permitir uma continuidade compreensível. Quando ele distingue o que foi dito do que foi decidido, a equipe pode usar a síntese como referência sem entregar a ela uma autoridade que pertence às pessoas envolvidas.",
+        "sources": "[Google Workspace Updates, resumos de reuniões no Google Chat, 19/10/2026](https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html)\n[Google Workspace Updates, recap semanal de 23/10/2026](https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html)\n\nRecursos descritos como anúncio do Google, sem disponibilidade universal ou precisão presumida. A empresa e a campanha são hipotéticas. A distinção entre sugestões, decisões e pendências é análise editorial, sem orientação contratual.",
+        "prompt": "Natural cinematic editorial photograph of one adult bicycle mechanic in a modest open-front repair shop holding a front wheel in position and carefully checking the axle before fastening it, candid close side view centered on hands and the practical pause in the action, part of the mechanic’s face and a quiet street softly visible behind, believable worn tools kept in the background, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected along the shaded bicycle frame, controlled contrast, no meeting, paperwork, laptop, readable text or logos --ar 3:2",
+        "imageAlt": "Mecânico segura a roda dianteira de uma bicicleta e confere o eixo antes de fixá-lo, com reflexo teal discreto no quadro.",
+        "date": "2026-11-12"
+      },
+      "createdAt": "2026-11-01T13:28:05.619Z",
+      "startedAt": "2026-11-01T16:50:15.616Z",
+      "completedAt": "2026-11-01T16:51:27.610Z"
+    },
+    {
+      "id": "169bfbf6-e1f5-4541-a378-780656cb45d6",
+      "itemId": "pauta-diaria-2026-11-01",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "7b8bfbcd0147091c38315e19d3ddcc340e6650554321e4f1d3f50522d2040a65",
+      "snapshot": "e10ffcfdabbc2348b3bf63050e50d0b86d91448868f02c94895a26cfce8a99fc",
+      "input": {
+        "id": "pauta-diaria-2026-11-01",
+        "title": "Sua marca sabe ao lado de que conteúdo seus anúncios aparecem?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 28/10/2026: TikTok anunciou seu Brand Safety Center no APAC Responsible Media Forum, em Singapura. O comunicado descreve controles de inventário e exclusões que marcas podem selecionar conforme suas necessidades. Usar apenas o anúncio como contexto, sem repetir estatísticas promocionais, prometer segurança total ou presumir disponibilidade e configuração iguais no Brasil. Tese editorial: aprovar a peça e o público não encerra as escolhas de mídia; a marca precisa definir que contextos de veiculação são compatíveis com sua comunicação e quem acompanha possíveis desencontros. Exemplo hipotético de PME de serviços que combina com seu parceiro de mídia os critérios para avaliar a proximidade do anúncio com conteúdos incompatíveis, verifica quais controles existem de fato na conta e registra quem deve analisar e decidir ajustes quando surge um caso. Não criar lista universal de categorias proibidas nem estigmatizar pessoas, comunidades ou opiniões; distinguir preferência de contexto da marca de afirmação sobre ilegalidade de um conteúdo. Não orientar vigilância de usuários ou decisões automáticas baseadas em denúncia isolada. Diferenciar do plano de mídia: foco na adequação do entorno de veiculação, não na distribuição de orçamento entre canais. Diferenciar de tendências: trata de onde uma peça paga é exibida, não de participar de conversas culturais. Diferenciar de prova de entrega/IA: não discute a veracidade da imagem criada. Não oferecer tutorial técnico de controles sem verificar documentação vigente, nem prometer resultado ou conformidade.",
+        "audience": "Donos de PMEs e responsáveis por marketing que aprovam campanhas pagas e precisam alinhar critérios de veiculação com a equipe ou agência.",
+        "goal": "De considerar a aprovação de peça e público suficiente para perceber que o contexto de exibição também precisa de critérios, controles disponíveis e acompanhamento responsável, sem garantia de risco zero.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-01",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "TikTok, Introducing the TikTok Brand Safety Center at APAC Responsible Media Forum 2026",
+              "url": "https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU",
+              "publishedAt": "2026-10-28"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-01T13:28:19.319Z",
+      "startedAt": "2026-11-01T16:50:15.810Z",
+      "completedAt": "2026-11-01T16:51:27.949Z"
+    },
+    {
+      "id": "247c0937-7d8d-4187-a3c0-98882162e734",
+      "itemId": "pauta-diaria-2026-10-31",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "30322832e2319d4d605eeba235b49e5c2ed9f02bf9c2488b270dc8e31aa145a8",
+      "snapshot": "f5ae0ba2221a54e0512e55fd4a6f684bf8cab3fd51f9c7092caa5e7cd61507b6",
+      "input": {
+        "id": "pauta-diaria-2026-10-31",
+        "title": "Seu site ajuda quem precisa cadastrar sua empresa como fornecedora?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: em 30/10/2026, o Sebrae publicou notícia sobre o Programa Fortalecer, realizado com a Petrobras, incluindo formação em marketing e vendas e orientação para cadastro de fornecedores. Usar apenas esse contexto verificado, sem reproduzir indicadores financeiros, prometer contratos ou explicar regras de elegibilidade. Tese editorial própria: no B2B, o site também precisa ajudar uma pessoa de compras a identificar o que a empresa fornece, quais capacidades públicas ela consegue comprovar e com quem falar. Exemplo explicitamente hipotético de pequena fornecedora cujo site tem linguagem genérica, mas não explica categorias de fornecimento nem informa contato comercial responsável. Mostrar como organizar oferta, abrangência real de atendimento, evidências autorizadas e um caminho de contato para solicitar documentos pelo canal adequado. Separar apresentação pública de documentos restritos de homologação; não publicar documentos fiscais, financeiros, dados pessoais ou materiais internos de clientes. Cada comprador define seus critérios: confirmar exigências diretamente com ele, sem tratar o site como substituto de cadastro ou homologação. Diferenciar da pauta de propostas comparáveis: aqui o foco é a identificação inicial de fornecedor por compras, antes de uma proposta. Diferenciar de UX e informações atualizadas: foco na tarefa específica de qualificação B2B, sem checklist genérico de navegação. Não atribuir as recomendações próprias ao Sebrae nem inventar casos da Tweed.",
+        "audience": "Donos de pequenas empresas B2B e responsáveis comerciais e de marketing que desejam apresentar seus serviços ou produtos a compradores de outras empresas.",
+        "goal": "De ver o site apenas como vitrine para gerar interesse para perceber que ele deve facilitar a identificação do fornecedor e o encaminhamento comercial, com informações públicas verificáveis e documentos restritos tratados no canal correto.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-31",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Sebrae, Pequenas empresas conquistam espaço na cadeia de fornecedores da Petrobras",
+              "url": "https://agenciasebrae.com.br/cultura-empreendedora/pequenas-empresas-conquistam-espaco-na-cadeia-de-fornecedores-da-petrobras/",
+              "publishedAt": "2026-10-30"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "f4eb3e57-722b-46bb-afa3-fe37b7f2721b",
+          "completedAt": "2026-11-01T11:51:16.368Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A empresa recebe uma indicação. Alguém da área de compras abre seu site para descobrir se ela fornece o que procura. Encontra uma apresentação sobre excelência, compromisso e soluções completas, mas não consegue identificar quais produtos ou serviços estão disponíveis. A página desperta uma impressão; a tarefa de reconhecer o fornecedor continua sem resposta.\n\nUm site para fornecedores B2B também precisa atender a essa consulta inicial. Quem pesquisa pode precisar entender a categoria de fornecimento, a abrangência do atendimento e o caminho para falar com uma pessoa responsável. Essas informações ajudam a começar uma conversa, sem substituir os critérios de cadastro definidos por cada comprador.\n\nEm notícia de 30 de outubro de 2026, o Sebrae apresentou o Programa Fortalecer, realizado com a Petrobras. O relato inclui formação em marketing e vendas e orientação para cadastramento de fornecedores. Esse contexto permite uma reflexão editorial: a preparação comercial também passa por tornar a empresa compreensível para quem ainda não conhece sua operação.\n\nNão se trata de reproduzir procedimentos da Petrobras nem de prometer aprovação. A pergunta é mais próxima da rotina: seu site permite reconhecer o que sua empresa pode fornecer?\n\n## Escreva a oferta para quem precisa identificá-la\n\nImagine uma pequena empresa que fornece componentes e realiza manutenção para outras empresas. É um exemplo hipotético. Seu site se apresenta como parceiro de soluções industriais, mas não explica quais componentes comercializa nem que tipo de manutenção executa.\n\nUma pessoa de compras pode entender que existe uma relação com sua necessidade e ainda assim não encontrar informação suficiente para encaminhar o contato. Talvez tenha recebido apenas o nome comercial. Talvez precise compartilhar a referência com uma área técnica antes de continuar.\n\nRevise a descrição a partir dessa tarefa. Nomeie as categorias reais de produtos ou serviços e explique o que está incluído. Quando uma expressão técnica for necessária, acrescente contexto para que a pessoa responsável pelo encaminhamento reconheça o assunto.\n\nIsso não exige transformar a página institucional num catálogo de cada peça existente. Exige estabelecer uma ligação clara entre a apresentação da empresa e aquilo que ela efetivamente oferece. Uma organização por categorias pode orientar a primeira consulta e indicar onde solicitar detalhes.\n\n## Mostre o alcance sem fazer a empresa parecer ilimitada\n\nNo exemplo hipotético, a fornecedora atende determinadas regiões e depende de avaliação para alguns serviços. Esconder essas condições sob uma promessa de atendimento completo cria uma expectativa que o primeiro contato terá de corrigir.\n\nInforme o alcance que consegue sustentar. Se a execução depende de uma visita ou análise técnica, explique essa necessidade de maneira simples. Se determinados produtos precisam ser consultados, não apresente sua disponibilidade como garantida.\n\nO objetivo é dar contorno à oferta, e não publicar toda a rotina operacional. Uma pessoa de compras precisa reconhecer se vale encaminhar aquela referência para a próxima conversa. A informação deve ajudá-la a fazer isso sem deduzir capacidades que não foram demonstradas.\n\nLimites claros também orientam a equipe comercial. Quando a página e a conversa partem da mesma descrição, existe uma referência comum para esclarecer pedidos e avaliar possibilidades.\n\n## Escolha evidências que possam ser apresentadas publicamente\n\nAfirmações sobre capacidade precisam de uma base adequada. Uma fotografia de uma instalação, uma descrição de serviço ou uma informação técnica pode ajudar, desde que corresponda à atividade real e possa ser divulgada.\n\nNa pequena fornecedora imaginada, a equipe pode organizar uma apresentação autorizada das categorias atendidas e de como os serviços são executados. Isso é diferente de usar o nome de um cliente como prova de experiência sem conferir a permissão ou o alcance do trabalho realizado.\n\nAntes de publicar uma referência, confira o que ela permite afirmar. A empresa forneceu um item ou participou de um projeto inteiro? O registro mostra uma atividade própria? A informação continua válida? Uma certificação, quando mencionada, corresponde ao escopo efetivamente documentado?\n\nNão acrescente selos ilustrativos para preencher a falta de evidência. Também não transforme uma conversa comercial em autorização para expor informações de terceiros. O site deve apresentar aquilo que a empresa consegue explicar e sustentar no contexto público.\n\n## Separe apresentação de documentação restrita\n\nFacilitar a identificação do fornecedor não significa colocar todos os documentos da empresa numa página aberta. Dados financeiros, documentos pessoais e materiais internos de clientes não devem ser publicados apenas para tornar uma consulta mais rápida.\n\nA página pode indicar um canal para solicitações de cadastro ou qualificação. A equipe responsável avalia o pedido e combina o encaminhamento apropriado, conforme as exigências do comprador e as condições de compartilhamento.\n\nNo exemplo, uma pessoa encontra a oferta no site e pede informações para iniciar um cadastro. O próximo passo é entender quais documentos foram solicitados e por qual canal devem ser enviados. Não é oferecer uma pasta pública com tudo o que algum comprador já pediu no passado.\n\nCada organização estabelece seus procedimentos. O conteúdo institucional ajuda a apresentar a empresa; não substitui a confirmação das exigências com quem conduz aquela contratação. Evite frases que sugiram homologação automática ou atendimento universal a requisitos de grandes compradores.\n\n## Dê um destino reconhecível ao contato\n\nUm endereço de atendimento genérico pode receber a mensagem e ainda assim deixar o pedido sem encaminhamento. A informação pública precisa conversar com a capacidade de resposta da equipe.\n\nIndique onde tratar solicitações comerciais e o contexto necessário para começar. A pessoa consegue informar a categoria procurada e explicar o pedido sem preencher um formulário desproporcional? Quem recebe sabe distinguir uma consulta de produto de uma solicitação de cadastro?\n\nNa fornecedora hipotética, pode bastar um caminho comercial bem identificado, com uma orientação breve sobre o assunto. Não é necessário publicar o contato pessoal de cada integrante da operação nem prometer uma resposta imediata que a equipe não consegue manter.\n\nConfira também o que acontece depois do envio. Uma confirmação compreensível e uma responsabilidade interna definida ajudam a manter a continuidade. Não anuncie etapas ou prazos apenas porque parecem profissionais: descreva o processo que existe.\n\n## Faça uma leitura com uma pergunta concreta\n\nEscolha uma categoria que sua empresa realmente fornece e percorra o site como alguém que recebeu somente seu nome. É possível reconhecer a oferta? O alcance está compreensível? As evidências correspondem ao que foi feito? Existe um caminho apropriado para pedir informações adicionais?\n\nEssa leitura não comprova que todos os compradores encontrarão tudo de que precisam. Ela permite localizar ambiguidades antes que outra pessoa tenha de resolvê-las por conta própria.\n\nUm site pode comunicar posicionamento e ajudar numa tarefa comercial específica ao mesmo tempo. Quando a apresentação torna a oferta reconhecível, a conversa começa com uma base mais clara. A qualidade do fornecedor continuará dependendo da operação e da avaliação do comprador; o conteúdo pode facilitar o primeiro entendimento sem prometer o que não lhe cabe decidir.",
+        "sources": "[Agência Sebrae de Notícias, pequenas empresas na cadeia de fornecedores da Petrobras, 30/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/pequenas-empresas-conquistam-espaco-na-cadeia-de-fornecedores-da-petrobras/)\n\nO programa é contexto noticiado pelo Sebrae. As recomendações sobre apresentação pública são análise editorial da Tweed; não descrevem regras de cadastro de um comprador específico. A fornecedora e as situações apresentadas são hipotéticas.",
+        "prompt": "Conceptual editorial photograph without people, a long wall of closed warm timber storage drawers with one open shallow drawer revealing a neatly fitted unbranded metal coupling and its matching empty recess, oblique close view with the specific component immediately recognizable against the otherwise quiet uniform surface, tactile wood grain and brushed metal, asymmetric negative space, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 reflected inside the open drawer, controlled contrast, no office desk, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Gaveta de madeira aberta revela uma conexão metálica e um encaixe vazio ao lado, com reflexo teal discreto no interior.",
+        "date": "2026-11-13"
+      },
+      "createdAt": "2026-11-01T13:28:37.706Z",
+      "startedAt": "2026-11-01T16:50:15.706Z",
+      "completedAt": "2026-11-01T16:51:27.785Z"
     }
   ]
 }
