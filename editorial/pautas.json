@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-11-01T13:28:45.630Z",
+  "exportedAt": "2026-11-01T21:19:23.876Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-11-01-7a2405ffb7ee",
+      "title": "A origem regional do seu produto é argumento ou só decoração?",
+      "edition": 1,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário verificado: notícia do Sebrae de 30/10/2026 sobre o Move+ inclui valorização da origem e das identidades territoriais de produtos de alimentos e bebidas. Usar somente esse contexto, como perspectiva declarada pelo Sebrae, sem repetir cifras de negócios, expectativas de vendas ou prometer valorização comercial. Tese editorial própria: citar uma região e acrescentar elementos visuais locais não explica, sozinho, o que a origem muda no produto; uma marca regional pode comunicar relações concretas entre lugar, materiais, processo e oferta, com fatos verificáveis e sem estereótipos. Exemplo explicitamente hipotético de pequena marca de alimentos que troca uma descrição genérica de tradição por informações confirmadas sobre onde produz, qual etapa ocorre ali e o que consegue mostrar de seu processo, sem inventar características sensoriais, história centenária ou superioridade. Não usar casos de clientes nem afirmações específicas da Tweed. A notícia menciona Indicação Geográfica, mas não tratar origem regional como sinônimo de IG, não sugerir direito a selo ou denominação protegida e não orientar requisitos de registro sem fontes oficiais específicas; o artigo pode limitar-se à clareza da apresentação e encaminhar dúvidas técnicas ou de uso de denominações para avaliação apropriada. Diferenciar da pauta de autoria: foco na relação factual entre território e produto, não nos créditos de quem o fez. Diferenciar da escuta de retratados: não é processo de revisão de depoimento. Diferenciar de sustentabilidade: origem não prova impacto ambiental, qualidade superior ou apoio social. Não reduzir região a cenário decorativo nem tomar um produto como representante de toda a cultura local.",
+      "audience": "Donos de pequenas marcas de alimentos, bebidas e produtos regionais que querem explicar o valor da origem sem depender de símbolos genéricos.",
+      "goal": "De acreditar que citar uma região e usar sua estética já diferencia a oferta para perceber que a comunicação precisa mostrar qual relação concreta e verificável existe entre o lugar e o produto.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-01",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Agência Sebrae de Notícias, Move+ e valorização territorial de produtos regionais",
+            "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/move-abre-oportunidade-de-mais-de-r-76-milhoes-em-negocios-para-pequenas-empresas/",
+            "publishedAt": "2026-10-30"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-reposicao-2026-11-01-bd6c4516c74e",
       "title": "Quem sua marca retrata participa da escolha da história?",
@@ -11,8 +38,8 @@
       "angle": "Gancho primário verificado: em 29/10/2026, o Sebrae noticiou a posse de representantes de cooperativas no comitê de governança do Coopera+ Amazônia, destacando a participação das cooperativas na compreensão da realidade local. Usar somente esse fato como contexto de participação; não equiparar governança do programa a aprovação de campanhas, não reproduzir valores financeiros divergentes no próprio comunicado e não alegar impacto realizado. Tese editorial própria: quando uma marca conta uma história sobre pessoas, trabalhadores ou parceiros, ouvir quem é retratado antes de fechar o enquadramento pode revelar omissões e interpretações que a equipe criativa não percebeu. Exemplo explicitamente hipotético de pequena marca que prepara uma peça sobre seu processo de produção e combina uma conversa com participantes para conferir o contexto, quais falas podem ser utilizadas e como apresentar a participação real, preservando espaço para correções e recusa. Não atribuir essa prática à Tweed nem oferecer parecer jurídico sobre uso de imagem. Não explorar grupos tradicionais como cenário, criar personagem que represente toda uma comunidade, inventar depoimentos ou presumir autorização pelo vínculo comercial. Diferenciar da pauta sobre quem fez o produto: aquela trata de reconhecer e creditar contribuições; esta trata de participação na escolha e revisão do enquadramento antes da publicação. Diferenciar da pauta sobre testar experiência: não é pesquisa de usabilidade, mas escuta de quem terá sua história apresentada. Diferenciar de comunidade de marca: não é moderação de grupo nem continuidade de calendário. Não transformar consulta em transferência de toda a responsabilidade editorial nem em promessa de consenso.",
       "audience": "Donos de pequenas marcas e responsáveis por conteúdo que apresentam histórias de pessoas, equipes de produção e parceiros em materiais públicos.",
       "goal": "De considerar que uma boa intenção e uma história atraente bastam para perceber que quem é retratado deve poder esclarecer contexto, apontar omissões e discutir os limites do uso antes de a peça ser concluída.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-29"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "9d6f789f-074f-4619-9e25-806994f866de",
+        "completedAt": "2026-11-01T21:49:31.924Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A equipe encontra uma boa história para a campanha. Há pessoas, um processo de produção e detalhes que parecem traduzir o propósito da marca. O roteiro fica pronto antes de alguém perguntar a quem aparece nele se aquela é uma maneira reconhecível de contar o que vive. A intenção era valorizar; o enquadramento foi escolhido sem essa conversa.\n\nA participação de quem é retratado pode começar antes de a peça estar concluída. Ouvir essas pessoas permite conferir contexto, descobrir omissões e discutir os limites do uso de suas falas. Não basta uma história parecer positiva para a equipe que a está produzindo.\n\nEm notícia de 29 de outubro de 2026, o Sebrae relatou a posse de representantes de cooperativas no comitê de governança do Coopera+ Amazônia. A publicação destaca a contribuição das cooperativas para compreender a realidade local. Trata-se da participação num programa, e não de um procedimento de aprovação de campanhas.\n\nA reflexão editorial para uma pequena marca está em reconhecer que quem vive uma realidade pode perceber algo que o olhar de fora não alcança. Na comunicação, essa conversa precisa acontecer enquanto ainda existe espaço para ajustar a história.\n\n## Apresente a intenção antes de pedir a fala\n\nImagine uma pequena marca que prepara um vídeo sobre seu processo de produção com parceiros. É um exemplo hipotético. A equipe quer mostrar cuidado e proximidade, mas chega à gravação com uma narrativa pronta sobre o que aquelas pessoas representam.\n\nAntes de escolher depoimentos, explique a intenção do material. Qual assunto será apresentado? Em quais peças ele poderá aparecer? O que a equipe pretende mostrar e o que ainda está em discussão?\n\nEssa apresentação permite que a conversa trate de uma situação concreta. A pessoa pode reconhecer uma parte importante de sua experiência e apontar outra que ficou de fora. Pode também não querer participar daquele recorte.\n\nOuvir não significa pedir uma frase que confirme o roteiro. Uma resposta inesperada pode indicar que o enquadramento precisa ser revisto, em vez de simplesmente buscar outra pessoa que diga o que a campanha esperava ouvir.\n\n## Confira se o recorte muda o sentido\n\nUma história pública exige seleção. Não cabe tudo numa peça curta. O problema aparece quando a escolha transforma uma experiência particular em algo diferente do que foi contado.\n\nNo exemplo hipotético, um parceiro pode descrever um aprendizado acompanhado de dificuldades. Se o vídeo conserva apenas a frase sobre o aprendizado e apresenta todo o processo como simples, a edição muda a leitura da experiência.\n\nConverse sobre o contexto necessário para compreender a fala. Há uma condição importante? O depoimento descreve uma etapa ou a trajetória inteira? A pessoa está falando por si ou foi apresentada como representante de um grupo maior sem ter assumido esse papel?\n\nUma redução de duração pode ser necessária. Ela não autoriza atribuir à pessoa uma conclusão que não reconhece. Se o trecho não funciona sem uma explicação que a peça não comporta, procure outro modo de apresentar a história.\n\n## Não peça a uma pessoa que represente todas as outras\n\nUma participação individual não descreve automaticamente uma equipe, um território ou uma comunidade. A marca precisa ter cuidado com frases que ampliam um relato pessoal para uma experiência coletiva.\n\nNa pequena produção imaginada, dois participantes podem perceber o mesmo processo de maneiras diferentes. Não é preciso apagar a diferença para construir uma comunicação clara. É preciso entender o alcance de cada relato e apresentá-lo com precisão.\n\nPergunte qual participação está sendo mostrada. Uma pessoa conta sua experiência? Explica uma tarefa que realiza? Fala numa condição de representação efetivamente combinada? Essas situações não devem se confundir apenas porque uma legenda mais ampla parece conveniente.\n\nTambém não use pessoas como cenário para sustentar adjetivos da empresa. Quando uma imagem é escolhida só para sugerir autenticidade ou pertencimento, vale conferir se existe uma relação compreensível entre quem aparece, a atividade mostrada e a história contada.\n\n## Combine o que pode ser utilizado\n\nUma conversa sobre o processo de produção não significa que todo comentário pode virar uma chamada pública. O vínculo comercial também não resolve, por si só, as condições de uso de falas e imagens.\n\nCombine quais materiais serão utilizados e em que contexto. Se a intenção mudar, retome a conversa apropriada. Uma explicação pensada para um vídeo de apresentação pode ganhar outro sentido quando isolada num anúncio.\n\nNo exemplo hipotético, a equipe pode separar o que foi dito para orientar a produção do que foi combinado para aparecer na peça. Essa distinção evita tratar todo o material coletado como um arquivo livre para qualquer uso futuro.\n\nQuestões específicas sobre direitos e autorizações exigem avaliação adequada. O cuidado editorial começa por não presumir uma permissão que ninguém confirmou e por respeitar a possibilidade de recusa sem inventar pressão ou consenso.\n\n## Abra espaço para conferir enquanto ainda é possível corrigir\n\nPedir uma opinião quando a peça já está fechada e a publicação é iminente reduz a utilidade da escuta. A revisão precisa acontecer num momento em que um desencontro possa ser tratado.\n\nApresente o trecho pertinente junto do contexto em que será usado. Uma fala isolada pode parecer correta, enquanto o título ou a sequência de imagens acrescenta uma interpretação que a pessoa não reconhece.\n\nNo vídeo hipotético, alguém pode perceber que a legenda sugere uma responsabilidade maior que sua participação real. Outra pessoa pode apontar que uma etapa mostrada fora de ordem muda a compreensão do trabalho. São informações úteis para ajustar a peça.\n\nDefina como as observações serão recebidas e quem vai cuidar das correções. Não prometa que qualquer preferência será adotada automaticamente, nem transforme a consulta numa transferência de toda a responsabilidade editorial. A equipe continua responsável pelo material que prepara.\n\n## Faça a revisão alcançar as versões derivadas\n\nUma história pode começar num vídeo mais longo e depois aparecer em cortes, legendas e apresentações. O contexto que foi conferido precisa continuar reconhecível nessas versões.\n\nAntes de reaproveitar uma fala, veja o que mudou ao redor dela. A pessoa continua apresentada com o mesmo alcance? A chamada acrescenta uma promessa? O corte remove uma condição que fazia diferença?\n\nSe o novo uso ultrapassar o que foi combinado, procure o encaminhamento apropriado antes de publicar. A existência de um arquivo aprovado anteriormente não responde, sozinha, a qualquer uso posterior.\n\nNa próxima história sobre pessoas e parceiros, reserve a conversa antes de encerrar o enquadramento. Explique a intenção, escute o contexto e ofereça uma forma real de apontar desencontros. Valorizar quem aparece na comunicação inclui permitir que essas pessoas participem da maneira como sua experiência será apresentada.",
+      "sources": "[Agência Sebrae de Notícias, cooperativas no Coopera+ Amazônia, 29/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/cooperativas-extrativistas-assumem-protagonismo-no-coopera-amazonia/)\n\nA notícia trata da participação de representantes na governança de um programa, sem estabelecer procedimentos de campanha. A aplicação à comunicação é análise editorial. A marca, o vídeo e seus participantes são hipotéticos; o texto não oferece parecer jurídico sobre uso de imagem.",
+      "prompt": "Natural cinematic editorial photograph of two adult craft workers beside the open doorway of a small textile workshop, one worker gesturing toward a hanging garment while explaining a specific detail and the other listening attentively with an unbranded camera resting lowered at their side, spontaneous conversation before photographing rather than a posed portrait, medium wide side composition with a courtyard visible beyond, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected on the shaded door edge, controlled contrast, no meeting table, papers, laptop, readable text or logos --ar 3:2",
+      "imageAlt": "Duas pessoas conversam junto à porta de uma oficina têxtil; uma aponta para uma peça pendurada e a outra mantém uma câmera abaixada ao lado do corpo."
     },
     {
       "id": "pauta-diaria-2026-11-01",
@@ -38,7 +76,7 @@
       "angle": "Gancho primário verificado em 28/10/2026: TikTok anunciou seu Brand Safety Center no APAC Responsible Media Forum, em Singapura. O comunicado descreve controles de inventário e exclusões que marcas podem selecionar conforme suas necessidades. Usar apenas o anúncio como contexto, sem repetir estatísticas promocionais, prometer segurança total ou presumir disponibilidade e configuração iguais no Brasil. Tese editorial: aprovar a peça e o público não encerra as escolhas de mídia; a marca precisa definir que contextos de veiculação são compatíveis com sua comunicação e quem acompanha possíveis desencontros. Exemplo hipotético de PME de serviços que combina com seu parceiro de mídia os critérios para avaliar a proximidade do anúncio com conteúdos incompatíveis, verifica quais controles existem de fato na conta e registra quem deve analisar e decidir ajustes quando surge um caso. Não criar lista universal de categorias proibidas nem estigmatizar pessoas, comunidades ou opiniões; distinguir preferência de contexto da marca de afirmação sobre ilegalidade de um conteúdo. Não orientar vigilância de usuários ou decisões automáticas baseadas em denúncia isolada. Diferenciar do plano de mídia: foco na adequação do entorno de veiculação, não na distribuição de orçamento entre canais. Diferenciar de tendências: trata de onde uma peça paga é exibida, não de participar de conversas culturais. Diferenciar de prova de entrega/IA: não discute a veracidade da imagem criada. Não oferecer tutorial técnico de controles sem verificar documentação vigente, nem prometer resultado ou conformidade.",
       "audience": "Donos de PMEs e responsáveis por marketing que aprovam campanhas pagas e precisam alinhar critérios de veiculação com a equipe ou agência.",
       "goal": "De considerar a aprovação de peça e público suficiente para perceber que o contexto de exibição também precisa de critérios, controles disponíveis e acompanhamento responsável, sem garantia de risco zero.",
-      "status": "Redação",
+      "status": "Revisão",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
@@ -57,16 +95,28 @@
         ]
       },
       "automation": {
-        "stage": "Redação",
+        "stage": "Revisão",
         "state": "done",
-        "lastJob": "169bfbf6-e1f5-4541-a378-780656cb45d6",
-        "completedAt": "2026-11-01T16:51:27.878Z",
-        "message": "Redação e prompt prontos para edição."
+        "lastJob": "1011b587-ab9b-4839-8a4d-fd7a280ea85a",
+        "completedAt": "2026-11-01T21:49:31.753Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "ecbd83f28c60f1ab0db9c152aa341bb1530669b90a320f10e7b39c74003a705f"
       },
       "body": "A peça foi aprovada. A mensagem está clara, a identidade está correta e o público foi definido. Quando a campanha começa a circular, porém, alguém encontra o anúncio perto de um conteúdo que a empresa não gostaria de ter como companhia. A discussão muda de assunto: além do que a marca diz, passa a importar onde sua mensagem aparece.\n\nO contexto de veiculação dos anúncios também faz parte das escolhas de comunicação. Aprovar a criação e o público não encerra o planejamento. A empresa precisa entender quais condições de exibição consegue configurar, que limites fazem sentido para sua proposta e quem acompanha possíveis desencontros.\n\nEm anúncio de 28 de outubro de 2026, feito no APAC Responsible Media Forum, em Singapura, o TikTok apresentou seu Brand Safety Center. O comunicado descreve controles de inventário e exclusões que marcas podem escolher conforme suas necessidades. É uma descrição da plataforma, sem garantir risco zero ou disponibilidade idêntica em todas as contas e mercados.\n\nA reflexão para uma PME vai além de conhecer o nome de uma ferramenta. Antes de começar, vale combinar quais situações merecem atenção e como serão avaliadas.\n\n## Transforme uma preocupação vaga em critérios compreensíveis\n\nImagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. É um exemplo hipotético. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.\n\nUma orientação assim pode produzir interpretações diferentes. A equipe precisa traduzir a preocupação em critérios que possam ser discutidos e relacionados aos recursos disponíveis.\n\nQue proximidades seriam incompatíveis com o assunto da campanha? Existe alguma condição específica da oferta que exige cuidado adicional? A preocupação diz respeito ao conteúdo próximo do anúncio, ao formato de exibição ou a outro aspecto da veiculação?\n\nEssas perguntas não pedem uma lista universal de lugares proibidos. Pedem uma definição contextual, ligada à proposta da empresa e à mensagem que será divulgada. Um critério útil precisa ser explicado sem depender apenas do gosto de quem está aprovando.\n\n## Diferencie adequação de contexto de julgamento sobre pessoas\n\nUma marca pode considerar determinada associação inadequada à sua campanha sem concluir que as pessoas envolvidas são inadequadas ou que um conteúdo é ilegal. São questões distintas, que não devem se misturar numa orientação de mídia.\n\nNa empresa hipotética, uma comunicação sobre um serviço pode pedir um ambiente de apresentação diferente de uma peça de entretenimento. Isso não autoriza estigmatizar comunidades, identidades ou opiniões como um atalho para decidir onde aparecer.\n\nDescreva a relação que está sendo avaliada. O problema é uma combinação que cria uma leitura indesejada da oferta? Uma condição de exibição que prejudica o entendimento? Há uma dúvida que precisa de análise específica, em vez de uma classificação automática?\n\nQuanto mais preciso for o critério, mais fácil será discutir uma ocorrência sem transformar desconforto individual numa regra absoluta. A marca continua responsável pelas suas escolhas e pelos motivos que utiliza para justificá-las.\n\n## Confira o que pode ser configurado naquela campanha\n\nO nome de um controle num comunicado não demonstra que ele está disponível ou funciona da mesma maneira em qualquer ambiente. Antes de prometer uma condição de veiculação, confirme o que existe na conta, no formato e no mercado envolvidos.\n\nA conversa com o parceiro de mídia pode começar por uma apresentação dos recursos pertinentes. O que cada configuração permite escolher? Que situações ficam fora do seu alcance? A equipe consegue explicar a diferença entre uma preferência definida e uma garantia que a ferramenta não oferece?\n\nNo exemplo hipotético, a empresa registra quais escolhas foram efetivamente aplicadas e quais limitações continuam presentes. Não basta incluir no planejamento uma frase sobre proteção da marca sem conferir como ela se relaciona à execução.\n\nEssa verificação precisa respeitar a documentação vigente da plataforma. Não é necessário improvisar um tutorial com base num anúncio de novidade, nem supor que selecionar todas as restrições disponíveis seja uma solução adequada a qualquer objetivo.\n\n## Combine quem analisa um possível desencontro\n\nMesmo com critérios definidos, pode surgir uma situação que peça avaliação. A resposta fica mais organizada quando existe um caminho combinado para encaminhá-la.\n\nQuem recebe o relato? Quem consegue verificar as informações da campanha? Quem decide se é necessário ajustar a veiculação? Essas responsabilidades podem ser simples, mas precisam ser reconhecidas pelas pessoas envolvidas.\n\nUma imagem isolada pode motivar uma conferência, sem permitir concluir tudo o que aconteceu. Procure entender o contexto antes de transformar o registro numa afirmação sobre toda a campanha ou numa acusação pública.\n\nNa PME imaginada, a equipe encaminha o material disponível ao responsável pela análise e verifica o que é possível confirmar. Se houver um desencontro com os critérios combinados, discute o ajuste pertinente. Se faltarem informações, registra a dúvida sem inventar certeza.\n\nO acompanhamento não exige vigiar usuários ou reunir dados pessoais sobre quem encontrou o anúncio. O foco está nas condições da veiculação e no que a equipe precisa conhecer para avaliar aquela ocorrência.\n\n## Registre a decisão para não recomeçar a discussão\n\nUma orientação de mídia pode se perder quando muda a pessoa responsável pela campanha. Por isso, vale manter uma referência curta com os critérios, as escolhas aplicadas e quem acompanha dúvidas.\n\nSe a equipe decidir alterar uma configuração, registre o motivo e o alcance da mudança. Ela vale para uma campanha específica ou indica um critério que merece revisão mais ampla? O que foi confirmado e o que continua dependendo de acompanhamento?\n\nNo exemplo, a empresa pode descobrir que uma orientação inicial estava genérica demais. A correção útil será esclarecer o critério e verificar como aplicá-lo. Não é necessário transformar cada ocorrência numa proibição permanente ou ampliar uma conclusão para ambientes que não foram examinados.\n\nO registro também ajuda a preservar o contexto de decisões anteriores. Uma mudança posterior pode ser apropriada sem apagar a razão pela qual outra escolha foi feita naquele momento.\n\n## Inclua o entorno na aprovação da campanha\n\nNa próxima aprovação, acrescente uma conversa sobre as condições de exibição. A mensagem e o público continuam importantes. Junto deles, confira quais critérios de contexto foram definidos, quais controles estão disponíveis e como a equipe vai tratar dúvidas.\n\nEssa preparação não promete eliminar todos os riscos. Ela evita que uma parte relevante da comunicação fique entregue a uma expectativa vaga de que a plataforma ou o parceiro já tenha decidido tudo pela marca.\n\nUma campanha não termina na borda do arquivo aprovado. Quando o planejamento considera o entorno e reconhece os limites de controle, a empresa consegue discutir suas escolhas de mídia com mais clareza e avaliar possíveis ajustes sem depender apenas de reação.",
       "sources": "[TikTok, Brand Safety Center no APAC Responsible Media Forum, 28/10/2026](https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU)\n\nO comunicado descreve recursos da plataforma, sem comprovar segurança total ou disponibilidade igual em todas as contas e mercados. A empresa e a campanha são hipotéticas. As recomendações de alinhamento e análise são editoriais, sem lista universal de exclusões ou parecer de conformidade.",
       "prompt": "Conceptual editorial photograph without people, a single plain ivory fabric banner suspended freely in a narrow architectural passage, one side of the passage finished in smooth pale plaster and the opposite side covered in rough dark cork, their contrasting textures and shadows visibly changing the atmosphere around the same unmarked banner, wide oblique composition with realistic spatial depth and generous negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 grazing the lower edge of the fabric, controlled contrast, no office, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
-      "imageAlt": "Faixa de tecido claro suspensa entre uma parede de reboco liso e outra de cortiça escura, com acento teal na borda inferior."
+      "imageAlt": "Faixa de tecido claro suspensa entre uma parede de reboco liso e outra de cortiça escura, com acento teal na borda inferior.",
+      "date": "2026-11-14",
+      "keyword": "contexto de veiculação dos anúncios",
+      "slug": "contexto-veiculacao-anuncios-marca",
+      "meta": "O contexto de veiculação dos anúncios também exige escolhas. Defina critérios, confira os controles disponíveis e combine quem acompanha possíveis desencontros.",
+      "imageFile": "conteudos/pauta-diaria-2026-11-01/imagens/4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503.png",
+      "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_8adfdaf7-7d6f-4126-a5a3-e8f3a4bce8be_0.png",
+      "imageWidth": 1344,
+      "imageHeight": 896,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503.png",
+      "faq": "Aprovar a peça e o público encerra as escolhas de mídia?\nNão. O planejamento também precisa considerar as condições de exibição, os critérios de contexto e os limites dos controles disponíveis.\n\nUma ferramenta de proteção garante risco zero?\nNão. É necessário confirmar os recursos da conta e do mercado e reconhecer as situações que ficam fora de seu alcance.\n\nComo avaliar um possível desencontro de veiculação?\nEncaminhe o contexto disponível ao responsável pela análise, confira o que pode ser confirmado e discuta ajustes conforme os critérios combinados.",
+      "url": "https://www.agenciatweed.com.br/contexto-veiculacao-anuncios-marca/"
     },
     {
       "id": "pauta-diaria-2026-10-31",
@@ -76,11 +126,16 @@
       "angle": "Gancho primário: em 30/10/2026, o Sebrae publicou notícia sobre o Programa Fortalecer, realizado com a Petrobras, incluindo formação em marketing e vendas e orientação para cadastro de fornecedores. Usar apenas esse contexto verificado, sem reproduzir indicadores financeiros, prometer contratos ou explicar regras de elegibilidade. Tese editorial própria: no B2B, o site também precisa ajudar uma pessoa de compras a identificar o que a empresa fornece, quais capacidades públicas ela consegue comprovar e com quem falar. Exemplo explicitamente hipotético de pequena fornecedora cujo site tem linguagem genérica, mas não explica categorias de fornecimento nem informa contato comercial responsável. Mostrar como organizar oferta, abrangência real de atendimento, evidências autorizadas e um caminho de contato para solicitar documentos pelo canal adequado. Separar apresentação pública de documentos restritos de homologação; não publicar documentos fiscais, financeiros, dados pessoais ou materiais internos de clientes. Cada comprador define seus critérios: confirmar exigências diretamente com ele, sem tratar o site como substituto de cadastro ou homologação. Diferenciar da pauta de propostas comparáveis: aqui o foco é a identificação inicial de fornecedor por compras, antes de uma proposta. Diferenciar de UX e informações atualizadas: foco na tarefa específica de qualificação B2B, sem checklist genérico de navegação. Não atribuir as recomendações próprias ao Sebrae nem inventar casos da Tweed.",
       "audience": "Donos de pequenas empresas B2B e responsáveis comerciais e de marketing que desejam apresentar seus serviços ou produtos a compradores de outras empresas.",
       "goal": "De ver o site apenas como vitrine para gerar interesse para perceber que ele deve facilitar a identificação do fornecedor e o encaminhamento comercial, com informações públicas verificáveis e documentos restritos tratados no canal correto.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -116,7 +171,11 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
       "faq": "O site substitui o cadastro exigido pelo comprador?\nNão. O site apresenta a empresa; cada comprador define seus procedimentos, que precisam ser confirmados diretamente com ele.\n\nQuais informações ajudam na identificação do fornecedor?\nCategorias reais de produtos ou serviços, abrangência do atendimento, evidências públicas autorizadas e um caminho comercial reconhecível.\n\nTodos os documentos de qualificação devem ficar públicos?\nNão. A apresentação pública deve ser separada dos documentos restritos, cujo compartilhamento exige avaliação do pedido e um canal apropriado.",
-      "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/"
+      "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-11-01T21:12:22.002Z"
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-30-dac6a18b8124",
@@ -126,11 +185,16 @@
       "angle": "Gancho primário verificado: recap oficial do Google Workspace de 23/10/2026 destaca resumos de reunião no Google Chat; a publicação detalhada de 19/10 explica cartões com síntese, decisões e itens de ação, condicionados à anotação no Meet e à conversa associada. Usar como anúncio de ferramenta, sem presumir disponibilidade universal, precisão ou resultado operacional. Pesquisa recente ampliada a 30 dias para uma aplicação distinta. Tese: um resumo organiza o que foi dito, mas sugestões, decisões confirmadas e pendências precisam continuar distinguíveis; um texto fluente não deve transformar uma hipótese em compromisso. Exemplo hipotético de PME que discute campanha com parceiro e, depois da reunião, confere o que foi aprovado, o que aguarda confirmação, quem ficou responsável e qual próximo movimento foi realmente combinado. A validação deve ser possível por quem participou; não inventar aceite pelo silêncio nem orientação contratual. Não divulgar transcrições, informações pessoais ou dados de clientes em ferramentas por conveniência; combinar permissões e condições apropriadas. Diferenciar de feedback de campanha: foco no registro pós-reunião e distinção entre fala e decisão, não nos critérios para julgar uma peça. Diferenciar de apresentação editável: foco no acordo de trabalho, não em arquivos de entrega. Diferenciar de acesso à chamada: foco na continuidade após a conversa, não na entrada na ferramenta. Não atribuir à Tweed um processo ou resultado específico sem confirmação.",
       "audience": "Donos e gestores de PMEs que participam de reuniões de marketing com equipe e parceiros e usam notas ou resumos automáticos para organizar a continuidade.",
       "goal": "De “se está no resumo, ficou combinado” para “preciso conferir quais decisões foram confirmadas e separar sugestões, pendências e responsabilidades antes de iniciar o próximo trabalho”.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -171,7 +235,11 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
       "faq": "Uma sugestão citada na reunião já deve virar tarefa?\nNão. O registro deve distinguir uma possibilidade de uma ação confirmada e preservar as condições que ainda precisam ser verificadas.\n\nComo revisar um resumo automático?\nConfira as decisões, as ações, os responsáveis e as condições com quem participou, sem presumir precisão por causa da organização do texto.\n\nA falta de resposta confirma o resumo?\nNão se deve presumir confirmação pelo silêncio. Se o próximo trabalho depende de um ponto, busque o esclarecimento apropriado.",
-      "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/"
+      "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-11-01T21:12:15.351Z"
+      }
     },
     {
       "id": "pauta-reposicao-2026-10-30-46adeabc99e9",

@@ -7347,6 +7347,235 @@
       "createdAt": "2026-11-01T13:28:37.706Z",
       "startedAt": "2026-11-01T16:50:15.706Z",
       "completedAt": "2026-11-01T16:51:27.785Z"
+    },
+    {
+      "id": "8ca1f9f5-3c6f-46e9-b02c-abdca936f4f5",
+      "itemId": "pauta-reposicao-2026-10-30-dac6a18b8124",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "c332cc4de0327e2337d96c3c0b91b8255b7f3db3404f8c27532145e787e60e54",
+      "snapshot": "c332cc4de0327e2337d96c3c0b91b8255b7f3db3404f8c27532145e787e60e54",
+      "input": {
+        "id": "pauta-reposicao-2026-10-30-dac6a18b8124",
+        "title": "O resumo da reunião não pode decidir no lugar da equipe",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: recap oficial do Google Workspace de 23/10/2026 destaca resumos de reunião no Google Chat; a publicação detalhada de 19/10 explica cartões com síntese, decisões e itens de ação, condicionados à anotação no Meet e à conversa associada. Usar como anúncio de ferramenta, sem presumir disponibilidade universal, precisão ou resultado operacional. Pesquisa recente ampliada a 30 dias para uma aplicação distinta. Tese: um resumo organiza o que foi dito, mas sugestões, decisões confirmadas e pendências precisam continuar distinguíveis; um texto fluente não deve transformar uma hipótese em compromisso. Exemplo hipotético de PME que discute campanha com parceiro e, depois da reunião, confere o que foi aprovado, o que aguarda confirmação, quem ficou responsável e qual próximo movimento foi realmente combinado. A validação deve ser possível por quem participou; não inventar aceite pelo silêncio nem orientação contratual. Não divulgar transcrições, informações pessoais ou dados de clientes em ferramentas por conveniência; combinar permissões e condições apropriadas. Diferenciar de feedback de campanha: foco no registro pós-reunião e distinção entre fala e decisão, não nos critérios para julgar uma peça. Diferenciar de apresentação editável: foco no acordo de trabalho, não em arquivos de entrega. Diferenciar de acesso à chamada: foco na continuidade após a conversa, não na entrada na ferramenta. Não atribuir à Tweed um processo ou resultado específico sem confirmação.",
+        "audience": "Donos e gestores de PMEs que participam de reuniões de marketing com equipe e parceiros e usam notas ou resumos automáticos para organizar a continuidade.",
+        "goal": "De “se está no resumo, ficou combinado” para “preciso conferir quais decisões foram confirmadas e separar sugestões, pendências e responsabilidades antes de iniciar o próximo trabalho”.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-30",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Weekly Recap de 23/10/2026",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html",
+              "publishedAt": "2026-10-23"
+            },
+            {
+              "title": "Google Workspace Updates, Follow through on your meeting tasks with meeting recaps in Google Chat",
+              "url": "https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
+              "publishedAt": "2026-10-19"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "3d11f169-a755-40ec-ae41-6a1291db9646",
+          "completedAt": "2026-11-01T16:51:27.541Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "ee5cd56117b5beea20844d59872107765e66867117af3d8b4153d9c9c55f7e77"
+        },
+        "body": "A reunião termina com a sensação de que muita coisa avançou. Pouco depois, chega um resumo organizado, com decisões e próximos passos. Uma ideia que apareceu como possibilidade está escrita como tarefa. Um prazo usado para discutir viabilidade virou data de entrega. A equipe começa a trabalhar a partir de um acordo que ninguém reconhece por inteiro.\n\nO resumo de reunião pode ajudar a organizar a continuidade, mas precisa preservar a diferença entre sugestão, decisão confirmada e pendência. Um texto bem escrito não transforma uma hipótese em compromisso. Antes de distribuir o trabalho, é necessário conferir o que foi realmente combinado.\n\nEm anúncio de 19 de outubro de 2026, destacado no recap de 23 de outubro, o Google Workspace apresentou resumos de reuniões no Google Chat, incluindo síntese, decisões e itens de ação. O recurso foi anunciado para conversas associadas a reuniões com a função de notas habilitada no Meet. Isso descreve uma funcionalidade; não comprova a precisão de cada registro nem sua disponibilidade em qualquer conta.\n\nPara uma PME, a questão prática continua a mesma com ou sem automação: quem pode confirmar que o registro corresponde à conversa?\n\n## Dê nomes diferentes ao que tem situações diferentes\n\nImagine uma pequena empresa discutindo uma campanha com um parceiro. É um exemplo hipotético. Durante a conversa, alguém sugere antecipar uma peça para aproveitar uma oportunidade. Outra pessoa explica que precisa verificar a disponibilidade da equipe. O assunto segue sem uma confirmação final.\n\nSe o resumo registra apenas que a peça será antecipada, ele elimina a condição que impedia a decisão. A frase fica mais simples e menos fiel ao que aconteceu.\n\nUma organização útil distingue o que foi proposto, o que foi confirmado e o que depende de uma resposta. Não é preciso criar um documento complexo. É preciso permitir que o leitor perceba a situação de cada ponto sem reconstruir a reunião inteira.\n\nNo exemplo, a antecipação continua como possibilidade, acompanhada da verificação necessária. Isso é diferente de apresentar uma entrega aprovada e acrescentar uma observação vaga no fim do documento.\n\n## Confira o verbo antes de encaminhar a tarefa\n\nPalavras como avaliar, preparar, aprovar e publicar descrevem movimentos diferentes. Trocar uma pela outra pode fazer o trabalho avançar para uma etapa que ainda não foi autorizada.\n\nNa reunião hipotética, o parceiro pode ter ficado de preparar uma alternativa de chamada. Registrar que ele ficou responsável por publicar a campanha altera o alcance do pedido. Mesmo que o assunto e a pessoa estejam corretos, a responsabilidade foi ampliada.\n\nAo revisar, confira a ação descrita. O próximo passo era estudar uma opção, apresentar uma versão ou executar algo já aprovado? Havia uma condição? Quem deveria responder antes de continuar?\n\nA mesma atenção vale para datas. Um dia citado para discutir possibilidades não deve aparecer automaticamente como prazo confirmado. Quando faltar uma definição, deixe a pendência visível e encaminhe a pergunta à pessoa pertinente.\n\n## Atribua responsabilidades que foram reconhecidas\n\nUm item de ação precisa permitir entender quem acompanha o próximo movimento. Mas um nome colocado pelo redator ou pela ferramenta não substitui o entendimento de quem participou.\n\nNo exemplo, uma pessoa mencionou conhecer um fornecedor. Isso não significa que assumiu a contratação. Talvez tenha oferecido somente uma referência, ou ficado de consultar uma informação preliminar.\n\nConfira se a responsabilidade corresponde ao que foi aceito. Quando a conversa não tiver definido um responsável, registre essa ausência e peça a definição. Preencher o espaço por conveniência pode produzir uma lista aparentemente completa e um trabalho sem acompanhamento real.\n\nTambém não é necessário distribuir cada observação como tarefa. Algumas falas ajudam a contextualizar a discussão e não pedem execução. O resumo deve organizar o trabalho, sem criar obrigações para justificar cada linha da conversa.\n\n## Ofereça uma forma de corrigir o registro\n\nQuem participou precisa conseguir apontar um desencontro entre o resumo e a reunião. Uma mensagem enviada ao grupo pode facilitar isso, desde que o pedido de conferência seja claro e o registro corrigido continue identificável.\n\nNa PME hipotética, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.\n\nEvite tratar a falta de resposta como confirmação automática. O silêncio pode ter diferentes motivos e não resolve uma dúvida sobre o que foi decidido. Se a continuidade depende de um ponto, busque a confirmação apropriada em vez de presumir que todos concordaram.\n\nQuando houver correção, atualize a referência de trabalho e comunique o que mudou às pessoas afetadas. Manter uma versão equivocada em circulação enquanto a explicação fica perdida numa conversa separada obriga cada integrante a descobrir qual registro vale.\n\n## Use a ferramenta dentro das condições combinadas\n\nNotas automáticas podem oferecer um ponto de partida. A revisão continua necessária, especialmente quando há condições, alternativas ou frases que dependem do contexto para fazer sentido.\n\nNão é preciso rejeitar um resumo por ter sido gerado automaticamente nem confiar nele apenas porque apresenta tópicos bem organizados. Confira os trechos que orientam a continuidade: decisões, ações, responsáveis e condições.\n\nAntes de usar gravação, transcrição ou ferramentas de notas, combine as condições apropriadas com os envolvidos e com quem responde pelo ambiente da empresa. Não envie conteúdo de clientes ou informações pessoais para outro serviço apenas porque ele promete organizar melhor a reunião.\n\nO cuidado deve considerar o que será registrado, quem poderá acessar e onde o material será tratado. Uma conveniência operacional não resolve essas decisões por conta própria. O recurso anunciado por uma plataforma também não demonstra que seja adequado a toda conversa.\n\n## Retome as pendências sem reabrir tudo\n\nUm bom registro permite continuar a partir do ponto certo. Para isso, as dúvidas restantes precisam estar delimitadas. Escrever apenas que a campanha será avaliada deixa indefinido o que ainda falta decidir.\n\nNo exemplo hipotético, pode haver duas respostas necessárias: a equipe consegue preparar a alternativa e quem confirma a mudança de data? Enquanto isso, outras tarefas já aprovadas podem seguir, se não dependerem dessas respostas.\n\nEssa separação evita tratar toda a reunião como encerrada ou toda a campanha como suspensa. Ela permite reconhecer o que está definido e o que ainda precisa de um movimento específico.\n\nNa próxima reunião de marketing, escolha os pontos que orientam o trabalho seguinte e compare o registro com o que os participantes reconhecem. A sugestão continua identificada como sugestão? As condições sobreviveram ao resumo? A responsabilidade foi confirmada? A data foi realmente combinada?\n\nA utilidade do documento está em permitir uma continuidade compreensível. Quando ele distingue o que foi dito do que foi decidido, a equipe pode usar a síntese como referência sem entregar a ela uma autoridade que pertence às pessoas envolvidas.",
+        "sources": "[Google Workspace Updates, resumos de reuniões no Google Chat, 19/10/2026](https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html)\n[Google Workspace Updates, recap semanal de 23/10/2026](https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html)\n\nRecursos descritos como anúncio do Google, sem disponibilidade universal ou precisão presumida. A empresa e a campanha são hipotéticas. A distinção entre sugestões, decisões e pendências é análise editorial, sem orientação contratual.",
+        "prompt": "Natural cinematic editorial photograph of one adult bicycle mechanic in a modest open-front repair shop holding a front wheel in position and carefully checking the axle before fastening it, candid close side view centered on hands and the practical pause in the action, part of the mechanic’s face and a quiet street softly visible behind, believable worn tools kept in the background, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected along the shaded bicycle frame, controlled contrast, no meeting, paperwork, laptop, readable text or logos --ar 3:2",
+        "imageAlt": "Mecânico segura a roda dianteira de uma bicicleta e confere o eixo antes de fixá-lo, com reflexo teal discreto no quadro.",
+        "date": "2026-11-12",
+        "keyword": "resumo de reunião",
+        "slug": "resumo-reuniao-decisoes-pendencias",
+        "meta": "O resumo de reunião precisa separar sugestões, decisões e pendências. Confira ações, responsáveis e condições antes de encaminhar o próximo trabalho.",
+        "imageFile": "conteudos/pauta-reposicao-2026-10-30-dac6a18b8124/imagens/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
+        "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_on_b3be2d85-b337-4316-a9c0-c958fa1310a0_1.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
+        "faq": "Uma sugestão citada na reunião já deve virar tarefa?\nNão. O registro deve distinguir uma possibilidade de uma ação confirmada e preservar as condições que ainda precisam ser verificadas.\n\nComo revisar um resumo automático?\nConfira as decisões, as ações, os responsáveis e as condições com quem participou, sem presumir precisão por causa da organização do texto.\n\nA falta de resposta confirma o resumo?\nNão se deve presumir confirmação pelo silêncio. Se o próximo trabalho depende de um ponto, busque o esclarecimento apropriado.",
+        "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-01T21:12:15.351Z"
+        }
+      },
+      "createdAt": "2026-11-01T21:12:15.358Z"
+    },
+    {
+      "id": "0d1f8027-365c-4bfa-904b-4913ea57acac",
+      "itemId": "pauta-diaria-2026-10-31",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "c92ab828000ae23d115cca1a23fd15343c8f7089c805c6ee4f97031a187e9200",
+      "snapshot": "c92ab828000ae23d115cca1a23fd15343c8f7089c805c6ee4f97031a187e9200",
+      "input": {
+        "id": "pauta-diaria-2026-10-31",
+        "title": "Seu site ajuda quem precisa cadastrar sua empresa como fornecedora?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: em 30/10/2026, o Sebrae publicou notícia sobre o Programa Fortalecer, realizado com a Petrobras, incluindo formação em marketing e vendas e orientação para cadastro de fornecedores. Usar apenas esse contexto verificado, sem reproduzir indicadores financeiros, prometer contratos ou explicar regras de elegibilidade. Tese editorial própria: no B2B, o site também precisa ajudar uma pessoa de compras a identificar o que a empresa fornece, quais capacidades públicas ela consegue comprovar e com quem falar. Exemplo explicitamente hipotético de pequena fornecedora cujo site tem linguagem genérica, mas não explica categorias de fornecimento nem informa contato comercial responsável. Mostrar como organizar oferta, abrangência real de atendimento, evidências autorizadas e um caminho de contato para solicitar documentos pelo canal adequado. Separar apresentação pública de documentos restritos de homologação; não publicar documentos fiscais, financeiros, dados pessoais ou materiais internos de clientes. Cada comprador define seus critérios: confirmar exigências diretamente com ele, sem tratar o site como substituto de cadastro ou homologação. Diferenciar da pauta de propostas comparáveis: aqui o foco é a identificação inicial de fornecedor por compras, antes de uma proposta. Diferenciar de UX e informações atualizadas: foco na tarefa específica de qualificação B2B, sem checklist genérico de navegação. Não atribuir as recomendações próprias ao Sebrae nem inventar casos da Tweed.",
+        "audience": "Donos de pequenas empresas B2B e responsáveis comerciais e de marketing que desejam apresentar seus serviços ou produtos a compradores de outras empresas.",
+        "goal": "De ver o site apenas como vitrine para gerar interesse para perceber que ele deve facilitar a identificação do fornecedor e o encaminhamento comercial, com informações públicas verificáveis e documentos restritos tratados no canal correto.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-10-31",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Sebrae, Pequenas empresas conquistam espaço na cadeia de fornecedores da Petrobras",
+              "url": "https://agenciasebrae.com.br/cultura-empreendedora/pequenas-empresas-conquistam-espaco-na-cadeia-de-fornecedores-da-petrobras/",
+              "publishedAt": "2026-10-30"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "247c0937-7d8d-4187-a3c0-98882162e734",
+          "completedAt": "2026-11-01T16:51:27.710Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "30322832e2319d4d605eeba235b49e5c2ed9f02bf9c2488b270dc8e31aa145a8"
+        },
+        "body": "A empresa recebe uma indicação. Alguém da área de compras abre seu site para descobrir se ela fornece o que procura. Encontra uma apresentação sobre excelência, compromisso e soluções completas, mas não consegue identificar quais produtos ou serviços estão disponíveis. A página desperta uma impressão; a tarefa de reconhecer o fornecedor continua sem resposta.\n\nUm site para fornecedores B2B também precisa atender a essa consulta inicial. Quem pesquisa pode precisar entender a categoria de fornecimento, a abrangência do atendimento e o caminho para falar com uma pessoa responsável. Essas informações ajudam a começar uma conversa, sem substituir os critérios de cadastro definidos por cada comprador.\n\nEm notícia de 30 de outubro de 2026, o Sebrae apresentou o Programa Fortalecer, realizado com a Petrobras. O relato inclui formação em marketing e vendas e orientação para cadastramento de fornecedores. Esse contexto permite uma reflexão editorial: a preparação comercial também passa por tornar a empresa compreensível para quem ainda não conhece sua operação.\n\nNão se trata de reproduzir procedimentos da Petrobras nem de prometer aprovação. A pergunta é mais próxima da rotina: seu site permite reconhecer o que sua empresa pode fornecer?\n\n## Escreva a oferta para quem precisa identificá-la\n\nImagine uma pequena empresa que fornece componentes e realiza manutenção para outras empresas. É um exemplo hipotético. Seu site se apresenta como parceiro de soluções industriais, mas não explica quais componentes comercializa nem que tipo de manutenção executa.\n\nUma pessoa de compras pode entender que existe uma relação com sua necessidade e ainda assim não encontrar informação suficiente para encaminhar o contato. Talvez tenha recebido apenas o nome comercial. Talvez precise compartilhar a referência com uma área técnica antes de continuar.\n\nRevise a descrição a partir dessa tarefa. Nomeie as categorias reais de produtos ou serviços e explique o que está incluído. Quando uma expressão técnica for necessária, acrescente contexto para que a pessoa responsável pelo encaminhamento reconheça o assunto.\n\nIsso não exige transformar a página institucional num catálogo de cada peça existente. Exige estabelecer uma ligação clara entre a apresentação da empresa e aquilo que ela efetivamente oferece. Uma organização por categorias pode orientar a primeira consulta e indicar onde solicitar detalhes.\n\n## Mostre o alcance sem fazer a empresa parecer ilimitada\n\nNo exemplo hipotético, a fornecedora atende determinadas regiões e depende de avaliação para alguns serviços. Esconder essas condições sob uma promessa de atendimento completo cria uma expectativa que o primeiro contato terá de corrigir.\n\nInforme o alcance que consegue sustentar. Se a execução depende de uma visita ou análise técnica, explique essa necessidade de maneira simples. Se determinados produtos precisam ser consultados, não apresente sua disponibilidade como garantida.\n\nO objetivo é dar contorno à oferta, e não publicar toda a rotina operacional. Uma pessoa de compras precisa reconhecer se vale encaminhar aquela referência para a próxima conversa. A informação deve ajudá-la a fazer isso sem deduzir capacidades que não foram demonstradas.\n\nLimites claros também orientam a equipe comercial. Quando a página e a conversa partem da mesma descrição, existe uma referência comum para esclarecer pedidos e avaliar possibilidades.\n\n## Escolha evidências que possam ser apresentadas publicamente\n\nAfirmações sobre capacidade precisam de uma base adequada. Uma fotografia de uma instalação, uma descrição de serviço ou uma informação técnica pode ajudar, desde que corresponda à atividade real e possa ser divulgada.\n\nNa pequena fornecedora imaginada, a equipe pode organizar uma apresentação autorizada das categorias atendidas e de como os serviços são executados. Isso é diferente de usar o nome de um cliente como prova de experiência sem conferir a permissão ou o alcance do trabalho realizado.\n\nAntes de publicar uma referência, confira o que ela permite afirmar. A empresa forneceu um item ou participou de um projeto inteiro? O registro mostra uma atividade própria? A informação continua válida? Uma certificação, quando mencionada, corresponde ao escopo efetivamente documentado?\n\nNão acrescente selos ilustrativos para preencher a falta de evidência. Também não transforme uma conversa comercial em autorização para expor informações de terceiros. O site deve apresentar aquilo que a empresa consegue explicar e sustentar no contexto público.\n\n## Separe apresentação de documentação restrita\n\nFacilitar a identificação do fornecedor não significa colocar todos os documentos da empresa numa página aberta. Dados financeiros, documentos pessoais e materiais internos de clientes não devem ser publicados apenas para tornar uma consulta mais rápida.\n\nA página pode indicar um canal para solicitações de cadastro ou qualificação. A equipe responsável avalia o pedido e combina o encaminhamento apropriado, conforme as exigências do comprador e as condições de compartilhamento.\n\nNo exemplo, uma pessoa encontra a oferta no site e pede informações para iniciar um cadastro. O próximo passo é entender quais documentos foram solicitados e por qual canal devem ser enviados. Não é oferecer uma pasta pública com tudo o que algum comprador já pediu no passado.\n\nCada organização estabelece seus procedimentos. O conteúdo institucional ajuda a apresentar a empresa; não substitui a confirmação das exigências com quem conduz aquela contratação. Evite frases que sugiram homologação automática ou atendimento universal a requisitos de grandes compradores.\n\n## Dê um destino reconhecível ao contato\n\nUm endereço de atendimento genérico pode receber a mensagem e ainda assim deixar o pedido sem encaminhamento. A informação pública precisa conversar com a capacidade de resposta da equipe.\n\nIndique onde tratar solicitações comerciais e o contexto necessário para começar. A pessoa consegue informar a categoria procurada e explicar o pedido sem preencher um formulário desproporcional? Quem recebe sabe distinguir uma consulta de produto de uma solicitação de cadastro?\n\nNa fornecedora hipotética, pode bastar um caminho comercial bem identificado, com uma orientação breve sobre o assunto. Não é necessário publicar o contato pessoal de cada integrante da operação nem prometer uma resposta imediata que a equipe não consegue manter.\n\nConfira também o que acontece depois do envio. Uma confirmação compreensível e uma responsabilidade interna definida ajudam a manter a continuidade. Não anuncie etapas ou prazos apenas porque parecem profissionais: descreva o processo que existe.\n\n## Faça uma leitura com uma pergunta concreta\n\nEscolha uma categoria que sua empresa realmente fornece e percorra o site como alguém que recebeu somente seu nome. É possível reconhecer a oferta? O alcance está compreensível? As evidências correspondem ao que foi feito? Existe um caminho apropriado para pedir informações adicionais?\n\nEssa leitura não comprova que todos os compradores encontrarão tudo de que precisam. Ela permite localizar ambiguidades antes que outra pessoa tenha de resolvê-las por conta própria.\n\nUm site pode comunicar posicionamento e ajudar numa tarefa comercial específica ao mesmo tempo. Quando a apresentação torna a oferta reconhecível, a conversa começa com uma base mais clara. A qualidade do fornecedor continuará dependendo da operação e da avaliação do comprador; o conteúdo pode facilitar o primeiro entendimento sem prometer o que não lhe cabe decidir.",
+        "sources": "[Agência Sebrae de Notícias, pequenas empresas na cadeia de fornecedores da Petrobras, 30/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/pequenas-empresas-conquistam-espaco-na-cadeia-de-fornecedores-da-petrobras/)\n\nO programa é contexto noticiado pelo Sebrae. As recomendações sobre apresentação pública são análise editorial da Tweed; não descrevem regras de cadastro de um comprador específico. A fornecedora e as situações apresentadas são hipotéticas.",
+        "prompt": "Conceptual editorial photograph without people, a long wall of closed warm timber storage drawers with one open shallow drawer revealing a neatly fitted unbranded metal coupling and its matching empty recess, oblique close view with the specific component immediately recognizable against the otherwise quiet uniform surface, tactile wood grain and brushed metal, asymmetric negative space, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 reflected inside the open drawer, controlled contrast, no office desk, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Gaveta de madeira aberta revela uma conexão metálica e um encaixe vazio ao lado, com reflexo teal discreto no interior.",
+        "date": "2026-11-13",
+        "keyword": "site para fornecedores B2B",
+        "slug": "site-fornecedores-b2b-identificar-oferta",
+        "meta": "Um site para fornecedores B2B deve tornar a oferta reconhecível, apresentar evidências autorizadas e orientar o contato sem substituir a homologação.",
+        "imageFile": "conteudos/pauta-diaria-2026-10-31/imagens/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
+        "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_f6c42a35-24c3-4059-b741-2da085d9e6dd_3.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
+        "faq": "O site substitui o cadastro exigido pelo comprador?\nNão. O site apresenta a empresa; cada comprador define seus procedimentos, que precisam ser confirmados diretamente com ele.\n\nQuais informações ajudam na identificação do fornecedor?\nCategorias reais de produtos ou serviços, abrangência do atendimento, evidências públicas autorizadas e um caminho comercial reconhecível.\n\nTodos os documentos de qualificação devem ficar públicos?\nNão. A apresentação pública deve ser separada dos documentos restritos, cujo compartilhamento exige avaliação do pedido e um canal apropriado.",
+        "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-01T21:12:22.002Z"
+        }
+      },
+      "createdAt": "2026-11-01T21:12:22.008Z"
+    },
+    {
+      "id": "1011b587-ab9b-4839-8a4d-fd7a280ea85a",
+      "itemId": "pauta-diaria-2026-11-01",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "ecbd83f28c60f1ab0db9c152aa341bb1530669b90a320f10e7b39c74003a705f",
+      "snapshot": "92a71864bbae65bd8f21dad17e9197ee03eeeedd3aff0f7969113b2ac0d84909",
+      "input": {
+        "id": "pauta-diaria-2026-11-01",
+        "title": "Sua marca sabe ao lado de que conteúdo seus anúncios aparecem?",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 28/10/2026: TikTok anunciou seu Brand Safety Center no APAC Responsible Media Forum, em Singapura. O comunicado descreve controles de inventário e exclusões que marcas podem selecionar conforme suas necessidades. Usar apenas o anúncio como contexto, sem repetir estatísticas promocionais, prometer segurança total ou presumir disponibilidade e configuração iguais no Brasil. Tese editorial: aprovar a peça e o público não encerra as escolhas de mídia; a marca precisa definir que contextos de veiculação são compatíveis com sua comunicação e quem acompanha possíveis desencontros. Exemplo hipotético de PME de serviços que combina com seu parceiro de mídia os critérios para avaliar a proximidade do anúncio com conteúdos incompatíveis, verifica quais controles existem de fato na conta e registra quem deve analisar e decidir ajustes quando surge um caso. Não criar lista universal de categorias proibidas nem estigmatizar pessoas, comunidades ou opiniões; distinguir preferência de contexto da marca de afirmação sobre ilegalidade de um conteúdo. Não orientar vigilância de usuários ou decisões automáticas baseadas em denúncia isolada. Diferenciar do plano de mídia: foco na adequação do entorno de veiculação, não na distribuição de orçamento entre canais. Diferenciar de tendências: trata de onde uma peça paga é exibida, não de participar de conversas culturais. Diferenciar de prova de entrega/IA: não discute a veracidade da imagem criada. Não oferecer tutorial técnico de controles sem verificar documentação vigente, nem prometer resultado ou conformidade.",
+        "audience": "Donos de PMEs e responsáveis por marketing que aprovam campanhas pagas e precisam alinhar critérios de veiculação com a equipe ou agência.",
+        "goal": "De considerar a aprovação de peça e público suficiente para perceber que o contexto de exibição também precisa de critérios, controles disponíveis e acompanhamento responsável, sem garantia de risco zero.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-01",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "TikTok, Introducing the TikTok Brand Safety Center at APAC Responsible Media Forum 2026",
+              "url": "https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU",
+              "publishedAt": "2026-10-28"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "169bfbf6-e1f5-4541-a378-780656cb45d6",
+          "completedAt": "2026-11-01T16:51:27.878Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A peça foi aprovada. A mensagem está clara, a identidade está correta e o público foi definido. Quando a campanha começa a circular, porém, alguém encontra o anúncio perto de um conteúdo que a empresa não gostaria de ter como companhia. A discussão muda de assunto: além do que a marca diz, passa a importar onde sua mensagem aparece.\n\nO contexto de veiculação dos anúncios também faz parte das escolhas de comunicação. Aprovar a criação e o público não encerra o planejamento. A empresa precisa entender quais condições de exibição consegue configurar, que limites fazem sentido para sua proposta e quem acompanha possíveis desencontros.\n\nEm anúncio de 28 de outubro de 2026, feito no APAC Responsible Media Forum, em Singapura, o TikTok apresentou seu Brand Safety Center. O comunicado descreve controles de inventário e exclusões que marcas podem escolher conforme suas necessidades. É uma descrição da plataforma, sem garantir risco zero ou disponibilidade idêntica em todas as contas e mercados.\n\nA reflexão para uma PME vai além de conhecer o nome de uma ferramenta. Antes de começar, vale combinar quais situações merecem atenção e como serão avaliadas.\n\n## Transforme uma preocupação vaga em critérios compreensíveis\n\nImagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. É um exemplo hipotético. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.\n\nUma orientação assim pode produzir interpretações diferentes. A equipe precisa traduzir a preocupação em critérios que possam ser discutidos e relacionados aos recursos disponíveis.\n\nQue proximidades seriam incompatíveis com o assunto da campanha? Existe alguma condição específica da oferta que exige cuidado adicional? A preocupação diz respeito ao conteúdo próximo do anúncio, ao formato de exibição ou a outro aspecto da veiculação?\n\nEssas perguntas não pedem uma lista universal de lugares proibidos. Pedem uma definição contextual, ligada à proposta da empresa e à mensagem que será divulgada. Um critério útil precisa ser explicado sem depender apenas do gosto de quem está aprovando.\n\n## Diferencie adequação de contexto de julgamento sobre pessoas\n\nUma marca pode considerar determinada associação inadequada à sua campanha sem concluir que as pessoas envolvidas são inadequadas ou que um conteúdo é ilegal. São questões distintas, que não devem se misturar numa orientação de mídia.\n\nNa empresa hipotética, uma comunicação sobre um serviço pode pedir um ambiente de apresentação diferente de uma peça de entretenimento. Isso não autoriza estigmatizar comunidades, identidades ou opiniões como um atalho para decidir onde aparecer.\n\nDescreva a relação que está sendo avaliada. O problema é uma combinação que cria uma leitura indesejada da oferta? Uma condição de exibição que prejudica o entendimento? Há uma dúvida que precisa de análise específica, em vez de uma classificação automática?\n\nQuanto mais preciso for o critério, mais fácil será discutir uma ocorrência sem transformar desconforto individual numa regra absoluta. A marca continua responsável pelas suas escolhas e pelos motivos que utiliza para justificá-las.\n\n## Confira o que pode ser configurado naquela campanha\n\nO nome de um controle num comunicado não demonstra que ele está disponível ou funciona da mesma maneira em qualquer ambiente. Antes de prometer uma condição de veiculação, confirme o que existe na conta, no formato e no mercado envolvidos.\n\nA conversa com o parceiro de mídia pode começar por uma apresentação dos recursos pertinentes. O que cada configuração permite escolher? Que situações ficam fora do seu alcance? A equipe consegue explicar a diferença entre uma preferência definida e uma garantia que a ferramenta não oferece?\n\nNo exemplo hipotético, a empresa registra quais escolhas foram efetivamente aplicadas e quais limitações continuam presentes. Não basta incluir no planejamento uma frase sobre proteção da marca sem conferir como ela se relaciona à execução.\n\nEssa verificação precisa respeitar a documentação vigente da plataforma. Não é necessário improvisar um tutorial com base num anúncio de novidade, nem supor que selecionar todas as restrições disponíveis seja uma solução adequada a qualquer objetivo.\n\n## Combine quem analisa um possível desencontro\n\nMesmo com critérios definidos, pode surgir uma situação que peça avaliação. A resposta fica mais organizada quando existe um caminho combinado para encaminhá-la.\n\nQuem recebe o relato? Quem consegue verificar as informações da campanha? Quem decide se é necessário ajustar a veiculação? Essas responsabilidades podem ser simples, mas precisam ser reconhecidas pelas pessoas envolvidas.\n\nUma imagem isolada pode motivar uma conferência, sem permitir concluir tudo o que aconteceu. Procure entender o contexto antes de transformar o registro numa afirmação sobre toda a campanha ou numa acusação pública.\n\nNa PME imaginada, a equipe encaminha o material disponível ao responsável pela análise e verifica o que é possível confirmar. Se houver um desencontro com os critérios combinados, discute o ajuste pertinente. Se faltarem informações, registra a dúvida sem inventar certeza.\n\nO acompanhamento não exige vigiar usuários ou reunir dados pessoais sobre quem encontrou o anúncio. O foco está nas condições da veiculação e no que a equipe precisa conhecer para avaliar aquela ocorrência.\n\n## Registre a decisão para não recomeçar a discussão\n\nUma orientação de mídia pode se perder quando muda a pessoa responsável pela campanha. Por isso, vale manter uma referência curta com os critérios, as escolhas aplicadas e quem acompanha dúvidas.\n\nSe a equipe decidir alterar uma configuração, registre o motivo e o alcance da mudança. Ela vale para uma campanha específica ou indica um critério que merece revisão mais ampla? O que foi confirmado e o que continua dependendo de acompanhamento?\n\nNo exemplo, a empresa pode descobrir que uma orientação inicial estava genérica demais. A correção útil será esclarecer o critério e verificar como aplicá-lo. Não é necessário transformar cada ocorrência numa proibição permanente ou ampliar uma conclusão para ambientes que não foram examinados.\n\nO registro também ajuda a preservar o contexto de decisões anteriores. Uma mudança posterior pode ser apropriada sem apagar a razão pela qual outra escolha foi feita naquele momento.\n\n## Inclua o entorno na aprovação da campanha\n\nNa próxima aprovação, acrescente uma conversa sobre as condições de exibição. A mensagem e o público continuam importantes. Junto deles, confira quais critérios de contexto foram definidos, quais controles estão disponíveis e como a equipe vai tratar dúvidas.\n\nEssa preparação não promete eliminar todos os riscos. Ela evita que uma parte relevante da comunicação fique entregue a uma expectativa vaga de que a plataforma ou o parceiro já tenha decidido tudo pela marca.\n\nUma campanha não termina na borda do arquivo aprovado. Quando o planejamento considera o entorno e reconhece os limites de controle, a empresa consegue discutir suas escolhas de mídia com mais clareza e avaliar possíveis ajustes sem depender apenas de reação.",
+        "sources": "[TikTok, Brand Safety Center no APAC Responsible Media Forum, 28/10/2026](https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU)\n\nO comunicado descreve recursos da plataforma, sem comprovar segurança total ou disponibilidade igual em todas as contas e mercados. A empresa e a campanha são hipotéticas. As recomendações de alinhamento e análise são editoriais, sem lista universal de exclusões ou parecer de conformidade.",
+        "prompt": "Conceptual editorial photograph without people, a single plain ivory fabric banner suspended freely in a narrow architectural passage, one side of the passage finished in smooth pale plaster and the opposite side covered in rough dark cork, their contrasting textures and shadows visibly changing the atmosphere around the same unmarked banner, wide oblique composition with realistic spatial depth and generous negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 grazing the lower edge of the fabric, controlled contrast, no office, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Faixa de tecido claro suspensa entre uma parede de reboco liso e outra de cortiça escura, com acento teal na borda inferior.",
+        "date": "2026-11-14"
+      },
+      "createdAt": "2026-11-01T21:12:42.625Z",
+      "startedAt": "2026-11-01T21:48:27.157Z",
+      "completedAt": "2026-11-01T21:49:31.823Z"
+    },
+    {
+      "id": "9d6f789f-074f-4619-9e25-806994f866de",
+      "itemId": "pauta-reposicao-2026-11-01-bd6c4516c74e",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "1e752cc7a6c645b03bc998e19376a40e2a3333b0499f62f5fb8a0017b91bb32a",
+      "snapshot": "cfe31083a92d8dd4b2eeedfa82bea795cdac25769ee975d2f96e1ce10f916db6",
+      "input": {
+        "id": "pauta-reposicao-2026-11-01-bd6c4516c74e",
+        "title": "Quem sua marca retrata participa da escolha da história?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: em 29/10/2026, o Sebrae noticiou a posse de representantes de cooperativas no comitê de governança do Coopera+ Amazônia, destacando a participação das cooperativas na compreensão da realidade local. Usar somente esse fato como contexto de participação; não equiparar governança do programa a aprovação de campanhas, não reproduzir valores financeiros divergentes no próprio comunicado e não alegar impacto realizado. Tese editorial própria: quando uma marca conta uma história sobre pessoas, trabalhadores ou parceiros, ouvir quem é retratado antes de fechar o enquadramento pode revelar omissões e interpretações que a equipe criativa não percebeu. Exemplo explicitamente hipotético de pequena marca que prepara uma peça sobre seu processo de produção e combina uma conversa com participantes para conferir o contexto, quais falas podem ser utilizadas e como apresentar a participação real, preservando espaço para correções e recusa. Não atribuir essa prática à Tweed nem oferecer parecer jurídico sobre uso de imagem. Não explorar grupos tradicionais como cenário, criar personagem que represente toda uma comunidade, inventar depoimentos ou presumir autorização pelo vínculo comercial. Diferenciar da pauta sobre quem fez o produto: aquela trata de reconhecer e creditar contribuições; esta trata de participação na escolha e revisão do enquadramento antes da publicação. Diferenciar da pauta sobre testar experiência: não é pesquisa de usabilidade, mas escuta de quem terá sua história apresentada. Diferenciar de comunidade de marca: não é moderação de grupo nem continuidade de calendário. Não transformar consulta em transferência de toda a responsabilidade editorial nem em promessa de consenso.",
+        "audience": "Donos de pequenas marcas e responsáveis por conteúdo que apresentam histórias de pessoas, equipes de produção e parceiros em materiais públicos.",
+        "goal": "De considerar que uma boa intenção e uma história atraente bastam para perceber que quem é retratado deve poder esclarecer contexto, apontar omissões e discutir os limites do uso antes de a peça ser concluída.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-01",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Agência Sebrae de Notícias, Cooperativas extrativistas assumem protagonismo no Coopera+ Amazônia",
+              "url": "https://agenciasebrae.com.br/cultura-empreendedora/cooperativas-extrativistas-assumem-protagonismo-no-coopera-amazonia/",
+              "publishedAt": "2026-10-29"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-01T21:19:23.937Z",
+      "startedAt": "2026-11-01T21:48:27.256Z",
+      "completedAt": "2026-11-01T21:49:32.022Z"
     }
   ]
 }
