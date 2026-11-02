@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "pesquisa-consumidor-aplicabilidade-clientes",
+  "contentSha256": "4148b411a7ca0bc69a7fbac9cb8472575bfde18807d37e480e0d7e6a3440aeff",
+  "modifiedAt": "2026-11-02",
+  "links": [
+    {
+      "from": "pesquisa-consumidor-aplicabilidade-clientes",
+      "to": "atribuicao-vendas-efeito-campanha",
+      "anchor": "prova automática",
+      "context": "Se decidir mudar uma mensagem, registre a alteração e o motivo. Acompanhe o que as pessoas compreendem e as dúvidas que aparecem, sem tratar uma melhora posterior como prova automática de toda a hipótese.",
+      "reason": "Aprofunda por que um resultado posterior não demonstra sozinho efeito causal de uma mudança."
+    }
+  ]
+}

@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: Ipsos publicou em 19/10/2026 o índice LSEG/Ipsos de sentimento do consumidor americano de outubro, com nota metodológica que informa público e período de coleta: 1.000 americanos de 18 a 74 anos, entrevistados entre 25/09 e 01/10. Usar o recorte metodológico como exemplo de leitura, sem transferir resultados para o Brasil, clientes de uma PME ou mercado B2B; não interpretar o índice como previsão de vendas ou orientação financeira. Pesquisa ampliada a até 30 dias para buscar tema distinto do acervo. Tese: uma notícia de pesquisa pode orientar perguntas, mas sua aplicabilidade depende de quem respondeu, onde, quando e sobre o quê; a categoria genérica consumidores não equivale automaticamente à carteira da empresa. Exemplo hipotético de PME que quer alterar uma mensagem porque viu uma manchete internacional: localizar a fonte original e a metodologia, formular uma hipótese limitada e confrontá-la com dúvidas comerciais e observações locais, sem inventar validação estatística nem tratar poucos relatos como amostra representativa. Não ensinar desenho amostral avançado nem desacreditar pesquisas em geral. Diferenciar de dados de campanha: foco no alcance de evidências externas, não em rastreamento e eventos. Diferenciar de atribuição: foco no público e no recorte de pesquisa, não na causalidade de vendas. Diferenciar de tendências culturais: foco na leitura metodológica de levantamento, não em participação em assuntos virais.",
   "audience": "Donos de PMEs e responsáveis por estratégia e conteúdo que utilizam pesquisas de comportamento para decidir mensagens e precisam distinguir contexto de mercado e evidência sobre seu próprio público.",
   "goal": "De “a pesquisa diz que o consumidor mudou, então precisamos mudar a comunicação” para “preciso entender o recorte do levantamento e verificar que hipótese ele permite formular sobre quem atendemos”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -46,5 +51,19 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a.png",
   "faq": "O que conferir antes de usar uma pesquisa na comunicação?\nConsulte a fonte e a metodologia, incluindo público, lugar, período de coleta e pergunta investigada.\n\nUma pesquisa estrangeira descreve os clientes de uma PME brasileira?\nEla pode oferecer contexto e sugerir hipóteses, mas não descreve automaticamente outro público ou situação de compra.\n\nConversas comerciais equivalem a uma pesquisa representativa?\nNão. Podem revelar dúvidas relevantes, mas não representam automaticamente toda a carteira nem quem não entrou em contato.",
-  "url": "https://www.agenciatweed.com.br/pesquisa-consumidor-aplicabilidade-clientes/"
+  "url": "https://www.agenciatweed.com.br/pesquisa-consumidor-aplicabilidade-clientes/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/pesquisa-consumidor-aplicabilidade-clientes/",
+    "publishedAt": "2026-11-02T07:57:31.609772+00:00",
+    "job": "eabdc68e-a48f-447c-8e5b-d3944c938f38",
+    "files": [
+      "assets/artigos-editoriais/4436afd164a5e80ab75b39bf235153289783263c87a2ab75a5535a6af432157a.png",
+      "pesquisa-consumidor-aplicabilidade-clientes/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
