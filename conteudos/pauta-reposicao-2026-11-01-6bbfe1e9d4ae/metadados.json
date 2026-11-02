@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-01-6bbfe1e9d4ae",
+  "title": "Sua marca está anunciando um resultado ou uma expectativa?",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário: notícia do Sebrae de 30/10/2026 sobre o Move+ distingue negócios fechados no evento de expectativas de vendas futuras para os próximos 12 meses, embora apresente também a soma como oportunidades. Usar essa distinção explícita sem repetir valores ou transformar projeções em resultados realizados. Tese editorial própria: antes de publicar números de campanhas, eventos ou projetos, uma PME precisa nomear o estágio do que está comunicando: realização confirmada, oportunidade em negociação ou expectativa futura, com período e base claros. Exemplo hipotético de empresa que prepara um post de balanço e separa pedidos confirmados de conversas em andamento, sem somá-los sob a palavra vendas nem inventar probabilidade de conversão. Não oferecer método contábil, financeiro ou jurídico e não usar métricas ou casos internos da Tweed ou clientes. Diferenciar de atribuição de campanha: não investigar causalidade da venda; foco no estado e no tempo da informação publicada. Diferenciar de métricas sem vaidade: não propor indicadores ou dashboard; foco na redação de uma afirmação pública de resultado. Diferenciar de pós-feira: não ensinar acompanhamento de contatos, mas apresentar com precisão o que aconteceu e o que ainda é uma possibilidade. Diferenciar de origem regional: a mesma fonte traz diversos assuntos; esta pauta utiliza apenas a separação entre realizado e esperado, sem discutir território. Não desqualificar expectativas como inúteis; explicar que podem ser comunicadas com identificação e limites, sem aparência de fato consumado.",
+  "audience": "Donos de PMEs e equipes de marketing que divulgam balanços de campanhas, eventos e projetos em posts, apresentações e materiais comerciais.",
+  "goal": "De reunir números sob uma chamada atraente para perceber que a confiança depende de distinguir o realizado do que ainda é oportunidade ou expectativa, mantendo período e contexto visíveis.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-01",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Agência Sebrae de Notícias, Move+ distingue negócios realizados e expectativas futuras",
+        "url": "https://agenciasebrae.com.br/inovacao-e-tecnologia/move-abre-oportunidade-de-mais-de-r-76-milhoes-em-negocios-para-pequenas-empresas/",
+        "publishedAt": "2026-10-30"
+      }
+    ]
+  }
+}
