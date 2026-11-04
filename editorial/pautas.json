@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-11-03T09:07:12.172Z",
+  "exportedAt": "2026-11-04T12:20:31.628Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-11-04-8d2dbb9e48ca",
+      "title": "O cliente sabe o que acontece com seu pedido quando a empresa faz uma pausa?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Partir da orientação publicada pelo Sebrae-SP em 03/11/2026 sobre comunicar férias e organizar entregas antes da pausa. Tese: um aviso de fechamento precisa separar novos pedidos, compromissos em andamento e a data de retomada, para que o cliente não precise adivinhar o que está mantido. Exemplo hipotético de ateliê com encomendas já confirmadas que ajusta página, resposta automática e contatos diretos com a mesma informação. Diferenciar de atualização genérica de canais: foco no efeito temporário da pausa sobre compromissos existentes. Sem reproduzir estatísticas ou histórias individuais da fonte e sem orientação financeira ou trabalhista.",
+      "audience": "Donos de pequenos negócios e equipes de atendimento que planejam férias, recesso ou uma pausa temporária.",
+      "goal": "Criar um aviso de pausa que permita ao cliente entender o que acontece com pedidos em andamento, novas solicitações e retomada do atendimento.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-04",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Sebrae-SP, Seu negócio pode tirar férias?",
+            "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/seu-negocio-pode-tirar-ferias-sebrae-sp-orienta-pequenos-empreendedores-a-planejar-o-descanso/",
+            "publishedAt": "2026-11-03"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-diaria-2026-11-04",
       "title": "Sua promoção termina antes de o cliente conseguir aproveitar?",
@@ -11,8 +38,8 @@
       "angle": "Gancho primário: em 15/10/2026, o Google publicou um guia de compras sazonais baseado em padrões históricos de descontos e busca entre varejistas dos EUA, distinguindo categorias e lembrando os prazos de envio. Ampliar a janela a 30 dias para este recorte. Não transferir datas, comportamento ou descontos ao Brasil nem prever vendas. Tese: a janela útil de uma promoção depende de o comprador poder entender, decidir e receber a oferta a tempo, e não apenas da data escolhida para o anúncio. Exemplo hipotético de loja que confronta prazo do desconto com estoque, retirada e entrega; comunica datas e condições próximas da oferta. Não recomendar urgência artificial ou aconselhamento de preços. Diferenciar de escassez (foco na janela operacional real), de contexto da mensagem (foco na execução da oferta), e de pesquisa de consumidores (foco no desenho da janela, não na metodologia).",
       "audience": "Pequenos varejistas e equipes de marketing que planejam campanhas sazonais.",
       "goal": "Planejar a promoção considerando o tempo disponível ao comprador e a capacidade real de cumprir entrega ou retirada.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-10-15"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "0b0f47df-2b01-4480-8d33-001f26fc07c7",
+        "completedAt": "2026-11-04T16:17:13.074Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "O anúncio diz que a oferta termina no domingo. Uma pessoa escolhe o produto no sábado, descobre que não há entrega a tempo e tenta retirá-lo. A loja só abre na segunda, quando o desconto já acabou. A promoção esteve disponível no calendário, mas o caminho para aproveitá-la terminou antes.\n\nA janela de uma promoção precisa considerar o tempo de quem compra e a capacidade de quem vende. Informar a data final ajuda, mas não responde sozinho se o cliente consegue entender a oferta, decidir e combinar a entrega ou retirada.\n\nEm 15 de outubro de 2026, o Google publicou um guia de compras sazonais baseado em dados históricos de busca e descontos entre varejistas dos Estados Unidos. O guia distingue categorias e chama atenção para prazos de envio. O recorte não estabelece as melhores datas para uma loja brasileira. Ele ajuda a fazer uma pergunta mais útil: que tempo o cliente realmente tem para concluir a compra nas condições anunciadas?\n\n## Conte a partir do uso, não só da data da campanha\n\nImagine uma pequena loja de presentes que oferece desconto numa linha de produtos para uma data comemorativa. É um exemplo hipotético. A equipe define o fim da promoção olhando o calendário de divulgação, sem considerar quando cada modalidade de entrega deixa de atender quem precisa do presente naquela data.\n\nComece pelo compromisso que a comunicação permite entender. A oferta termina em determinado dia. Até quando a entrega é possível na região atendida? Em que horários a retirada funciona? O que acontece se a pessoa comprar depois do último prazo para receber a tempo?\n\nUma loja pode manter uma oferta depois que a entrega antes da data comemorativa já não é possível. Nesse caso, precisa deixar a diferença clara. Quem compra para usar mais tarde pode continuar interessado. Quem precisa receber naquele dia tem informação para decidir.\n\n## Separe prazo de compra e prazo de recebimento\n\nUma mesma campanha pode ter condições diferentes para entrega, retirada e compra presencial. A informação fica mais útil quando essas condições aparecem perto do preço e do caminho de compra, em vez de surgir só depois de a pessoa preencher seus dados.\n\nNa loja hipotética, a equipe pode informar até quando recebe pedidos para entrega em cada área que consegue atender e indicar a retirada apenas onde ela existe. Se a previsão depende do endereço, ofereça uma forma de consultar antes de prometer a data.\n\nTambém vale conferir os horários do atendimento. Se uma dúvida exige resposta humana e ninguém estará disponível até o encerramento, explique onde consultar as condições ou considere uma janela que permita a resposta. Uma oferta curta não precisa criar uma corrida contra etapas que a própria empresa controla.\n\n## Dê ao comprador tempo para entender as condições\n\nA pessoa pode precisar conferir uma medida, perguntar se um item é compatível ou combinar a retirada com outra pessoa. Essas tarefas fazem parte da compra. Um anúncio que dá destaque apenas ao relógio pode deixar dúvidas importantes sem resposta.\n\nAntes de lançar, escolha as informações que ajudam a decidir sem abrir outra conversa. O desconto vale para quais itens? Há estoque no canal anunciado? Como a pessoa identifica a modalidade que consegue usar? Existe uma condição que muda o prazo?\n\nNo exemplo, uma página pode indicar o que está disponível, explicar as diferenças de entrega e orientar o próximo passo. A solução não é adicionar um parágrafo longo de ressalvas. É colocar cada informação onde a pessoa precisa dela.\n\n## Faça o calendário conversar com a operação\n\nO prazo comunicado precisa corresponder ao que a equipe pode cumprir. Para isso, marketing, vendas e quem prepara os pedidos precisam compartilhar a mesma referência.\n\nConfirme o estoque que entra na oferta, o horário de corte e quem atualiza a disponibilidade. Se a capacidade de entrega mudar, revise o anúncio e a página de destino. Deixar a comunicação antiga circular pode aumentar os pedidos justamente na modalidade que a loja deixou de oferecer.\n\nNa pequena loja do exemplo, talvez seja possível preparar mais pedidos para retirada do que para envio. A escolha pode aparecer na comunicação desde o início, com clareza sobre horários e locais. Não é preciso prometer o mesmo percurso para todo comprador.\n\n## Revise os últimos dias sem inventar urgência\n\nUm lembrete perto do encerramento pode ajudar quem já considera a oferta. Para ser útil, precisa refletir o tempo e as condições que restam.\n\nConfira se o estoque, o prazo de entrega e o horário informados ainda valem. Se apenas a retirada estiver disponível para determinada data, diga isso. Evite reiniciar uma contagem regressiva ou chamar de última chance algo cujo encerramento a empresa não definiu.\n\nTambém não transforme um caso isolado em regra para toda campanha. Se houve dificuldade, procure saber onde a pessoa perdeu tempo: na busca de informação, na resposta ou na execução do pedido. Cada situação pede uma correção diferente.\n\nNa próxima promoção, faça o percurso como alguém que só encontrou a oferta perto do fim. Confira o que a pessoa ainda consegue escolher, comprar e receber. A janela útil começa quando a oferta pode ser compreendida e termina quando as condições anunciadas deixam de ser realizáveis para aquela compra.",
+      "sources": "[Google, Data-backed secrets to smarter holiday shopping, 15/10/2026](https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/)\n\nO guia usa dados históricos de varejistas dos Estados Unidos. O artigo não transfere seus resultados ao Brasil nem recomenda datas ou preços. A loja e a campanha são hipotéticas.",
+      "prompt": "Natural editorial photograph at the open pickup window of a small neighborhood gift shop, one adult shopkeeper handing a neatly wrapped unmarked parcel to an adult customer standing outside, candid hands mid-transfer, the open doorway and a quiet street visible in a wide side composition, soft neutral afternoon light preserving natural skin tones, a restrained teal accent inspired by #08ffb1 reflected along the inside edge of the pickup window, no readable text or logos --ar 3:2",
+      "imageAlt": "Pessoa entrega um pacote embrulhado a outra pela janela de retirada de uma loja, com a rua ao fundo e um reflexo teal na moldura."
     },
     {
       "id": "pauta-diaria-2026-11-02",
@@ -38,7 +76,7 @@
       "angle": "Gancho primário verificado: em 29/10/2026, o Google Workspace publicou seu resumo de atualizações de outubro, incluindo tradução de fala em reuniões do Meet. Usar o anúncio apenas como contexto de ferramentas que podem reduzir uma barreira de idioma, sem repetir quantidade de idiomas, presumir disponibilidade universal, precisão ou recomendar produto. Tese editorial própria: apresentar uma oferta em outro idioma cria uma expectativa de continuidade; antes de ampliar a comunicação, a PME precisa conferir como esclarecer dúvidas, explicar limites da oferta e encaminhar atendimento naquele idioma. Exemplo hipotético de pequena empresa que prepara uma página em outro idioma e percebe que formulário, resposta inicial e conversa comercial continuam sem um caminho combinado. Avaliar escopo do que pode oferecer, revisão por pessoa competente, termos essenciais da oferta, encaminhamento e comunicação transparente das limitações, sem prometer domínio de idioma ou cobertura que não existe. Não transformar em tutorial de tradução nem afirmar que tradução automática substitui revisão humana ou competência técnica. Não oferecer orientação jurídica, contratual ou de exportação. Diferenciar de acesso à reunião: foco na continuidade linguística e compreensão da oferta, não em conta, aplicativo ou admissão. Diferenciar de personalização: foco no idioma de apresentação e atendimento, não em perfis de cliente. Diferenciar de resumo de reunião: não trata de converter falas em decisões. Não usar dados privados em ferramentas por conveniência nem casos de clientes da Tweed.",
       "audience": "Donos de PMEs e responsáveis por sites e atendimento que planejam apresentar sua oferta em outro idioma a clientes ou parceiros.",
       "goal": "De considerar que traduzir uma página encerra a preparação para perceber que a experiência precisa permitir continuar a conversa e esclarecer a oferta no idioma anunciado, com limites transparentes.",
-      "status": "Redação",
+      "status": "Revisão",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
@@ -57,16 +95,23 @@
         ]
       },
       "automation": {
-        "stage": "Redação",
+        "stage": "Revisão",
         "state": "done",
-        "lastJob": "ecf4d3aa-27eb-4e9f-88d8-6ac9d457285f",
-        "completedAt": "2026-11-04T12:13:47.007Z",
-        "message": "Redação e prompt prontos para edição."
+        "lastJob": "3945baf9-b8da-451d-8d40-f1dca3104725",
+        "completedAt": "2026-11-04T16:17:12.911Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "fc1e1c1391758b85c0e294c757f4b5c2e6b7b6f1be0f6ec380537f84f470a7c1"
       },
       "body": "Uma empresa publica uma página em outro idioma. O visitante entende a apresentação e decide perguntar sobre o serviço. O formulário abre em português, a confirmação chega com instruções que ele não consegue seguir e ninguém sabe quem deve responder. A oferta atravessou a fronteira do idioma; o restante da conversa ficou para trás.\n\nApresentar uma oferta em outro idioma cria uma expectativa de continuidade. Antes de traduzir a página inteira, vale conferir como o interessado poderá esclarecer dúvidas, reconhecer os limites do serviço e combinar um próximo passo.\n\nEm 29 de outubro de 2026, o Google Workspace incluiu a tradução de fala em reuniões do Meet entre suas atualizações de outubro. O anúncio exemplifica como uma ferramenta pode ajudar a reduzir uma barreira durante uma conversa. Ele não garante disponibilidade em qualquer conta nem resolve a preparação comercial da empresa.\n\n## Percorra o caminho que começa na página\n\nImagine uma pequena empresa de manutenção de equipamentos que quer apresentar seu serviço em espanhol. É um exemplo hipotético. A equipe prepara uma página clara, mas o botão leva a um formulário que pede ao visitante escolher categorias que só aparecem em português.\n\nO primeiro teste é seguir a mesma sequência que o interessado encontrará. Ele entende qual canal usar? Consegue descrever a necessidade? A resposta automática informa o que acontece depois? Alguém consegue continuar a conversa naquele idioma?\n\nEssa revisão pode revelar que o problema não está na tradução da página. Está na passagem de uma etapa para outra. Se o visitante precisa recomeçar a busca para descobrir como ser atendido, o trabalho de comunicação ficou incompleto.\n\n## Confira o sentido dos termos que definem a oferta\n\nUma tradução pode soar fluente e ainda dar outra dimensão ao que a empresa vende. No exemplo, uma visita para avaliar um equipamento pode aparecer como manutenção incluída. Uma previsão de retorno pode ser entendida como prazo de execução.\n\nFaça uma lista curta dos pontos em que uma diferença de interpretação criaria uma expectativa importante. O que está incluído? Em que condições a empresa atende? O que depende de avaliação? Qual parte do processo pode ser explicada no primeiro contato?\n\nPeça a uma pessoa competente no idioma e familiarizada com a oferta que confira esses trechos. A revisão precisa tratar do sentido que chega ao leitor, além da gramática. Quem conhece a operação também deve poder apontar quando a frase promete mais do que a equipe consegue entregar.\n\n## Combine como responder antes de divulgar o canal\n\nNa empresa hipotética, talvez uma pessoa consiga cuidar das primeiras perguntas em espanhol, mas as dúvidas técnicas exijam apoio. Isso não impede necessariamente a apresentação da oferta. Exige decidir como o contato será encaminhado e o que pode ser informado com segurança.\n\nA equipe pode combinar quais mensagens precisam de revisão, quem recebe solicitações e quando será necessário marcar uma conversa com suporte apropriado. Essas decisões devem corresponder à capacidade disponível, sem depender de alguém que talvez esteja livre no momento.\n\nSe a operação só oferece atendimento escrito naquele idioma, apresente a condição com clareza antes do contato. Uma indicação precisa permite que o visitante escolha se aquele caminho serve. Uma promessa ampla que precisa ser corrigida depois cria um problema para ambos.\n\n## Trate a ferramenta como apoio à conversa\n\nUma ferramenta de tradução pode ser útil para preparar um rascunho ou apoiar uma interação. A escolha depende da tarefa, da qualidade necessária e das condições de uso. Uma dúvida simples sobre onde encontrar um catálogo é diferente de uma explicação técnica que pode orientar uma decisão importante.\n\nNo exemplo, a equipe pode usar um recurso para entender o tema inicial e encaminhar o esclarecimento a quem tem condições de confirmá-lo. Se um termo continuar ambíguo, é preferível pedir esclarecimento a responder com uma frase que apenas pareça correta.\n\nTambém é preciso decidir que informações podem circular na ferramenta. Dados de clientes e materiais internos não devem ser compartilhados por conveniência. Não presuma que um anúncio de funcionalidade responda pelas permissões ou condições do seu ambiente.\n\n## Mantenha as versões alinhadas quando algo mudar\n\nA empresa altera uma condição de atendimento e atualiza a página em português. A página em espanhol continua com a descrição anterior. Nesse caso, o problema não está em encontrar uma palavra melhor. Está em saber quem acompanha a mudança nos materiais que apresentam a mesma oferta.\n\nCombine quais informações devem ser revistas em conjunto e quem confirma cada versão. O formulário, a resposta inicial e a apresentação comercial também podem precisar de ajuste. Manter uma referência sobre a oferta ajuda a equipe a localizar o que precisa ser corrigido.\n\nAntes de divulgar a próxima versão, faça um percurso completo com uma pergunta concreta. Comece na página, envie uma solicitação de teste e confira até onde a conversa consegue seguir. Se houver um limite, veja se ele está claro para quem chega. Uma comunicação em outro idioma ganha utilidade quando abre um caminho que a empresa consegue acompanhar.",
       "sources": "[Google Workspace, atualizações de outubro com tradução de fala no Meet, 29/10/2026](https://workspace.google.com/blog/product-announcements/october-workspace-drops-edit-markdown-talk-to-gmail-and-docs-translate-meetings-and-more)\n\nO anúncio é contexto, sem garantia de precisão ou disponibilidade universal. A empresa e o percurso são hipotéticos.",
       "prompt": "Conceptual editorial photograph without people, a single continuous piece of ivory woven cord threaded through two differently shaped ceramic eyelets mounted on adjacent pale stone surfaces, both ends clearly visible and the cord remaining unbroken across the seam, tactile close composition, soft neutral key light and a restrained teal reflection inspired by #08ffb1 on one ceramic edge, generous negative space, no cubes, beams, readable text or logos --ar 3:2",
-      "imageAlt": "Cordão claro atravessa duas passagens de cerâmica de formatos diferentes sobre pedra, com reflexo teal em uma das bordas."
+      "imageAlt": "Cordão claro atravessa duas passagens de cerâmica de formatos diferentes sobre pedra, com reflexo teal em uma das bordas.",
+      "date": "2026-11-18",
+      "keyword": "oferta em outro idioma",
+      "slug": "oferta-outro-idioma-continuidade-atendimento",
+      "meta": "Ao apresentar uma oferta em outro idioma, confira se formulários, respostas e atendimento permitem continuar a conversa com clareza.",
+      "faq": "O que conferir antes de publicar uma página em outro idioma?\nPercorra a página, o formulário e a resposta inicial. Confirme se a pessoa pode esclarecer dúvidas e entender o próximo passo.\n\nComo comunicar um limite de atendimento?\nInforme antes do contato quais canais e etapas a equipe consegue atender naquele idioma.\n\nO que revisar quando a oferta muda?\nConfira as condições da oferta nas páginas, formulários, respostas iniciais e apresentações afetadas.",
+      "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/"
     },
     {
       "id": "pauta-reposicao-2026-11-01-6bbfe1e9d4ae",

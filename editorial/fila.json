@@ -8115,6 +8115,94 @@
       "createdAt": "2026-11-02T20:45:37.579Z",
       "startedAt": "2026-11-04T12:13:46.911Z",
       "completedAt": "2026-11-04T12:13:47.194Z"
+    },
+    {
+      "id": "3945baf9-b8da-451d-8d40-f1dca3104725",
+      "itemId": "pauta-diaria-2026-11-02",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "fc1e1c1391758b85c0e294c757f4b5c2e6b7b6f1be0f6ec380537f84f470a7c1",
+      "snapshot": "77bbda0b5ef0b1b49ea6f03b8363c24f280a5a0ca61896c69f00159e4948f2f7",
+      "input": {
+        "id": "pauta-diaria-2026-11-02",
+        "title": "Sua marca consegue continuar a conversa no idioma em que se apresenta?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: em 29/10/2026, o Google Workspace publicou seu resumo de atualizações de outubro, incluindo tradução de fala em reuniões do Meet. Usar o anúncio apenas como contexto de ferramentas que podem reduzir uma barreira de idioma, sem repetir quantidade de idiomas, presumir disponibilidade universal, precisão ou recomendar produto. Tese editorial própria: apresentar uma oferta em outro idioma cria uma expectativa de continuidade; antes de ampliar a comunicação, a PME precisa conferir como esclarecer dúvidas, explicar limites da oferta e encaminhar atendimento naquele idioma. Exemplo hipotético de pequena empresa que prepara uma página em outro idioma e percebe que formulário, resposta inicial e conversa comercial continuam sem um caminho combinado. Avaliar escopo do que pode oferecer, revisão por pessoa competente, termos essenciais da oferta, encaminhamento e comunicação transparente das limitações, sem prometer domínio de idioma ou cobertura que não existe. Não transformar em tutorial de tradução nem afirmar que tradução automática substitui revisão humana ou competência técnica. Não oferecer orientação jurídica, contratual ou de exportação. Diferenciar de acesso à reunião: foco na continuidade linguística e compreensão da oferta, não em conta, aplicativo ou admissão. Diferenciar de personalização: foco no idioma de apresentação e atendimento, não em perfis de cliente. Diferenciar de resumo de reunião: não trata de converter falas em decisões. Não usar dados privados em ferramentas por conveniência nem casos de clientes da Tweed.",
+        "audience": "Donos de PMEs e responsáveis por sites e atendimento que planejam apresentar sua oferta em outro idioma a clientes ou parceiros.",
+        "goal": "De considerar que traduzir uma página encerra a preparação para perceber que a experiência precisa permitir continuar a conversa e esclarecer a oferta no idioma anunciado, com limites transparentes.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-02",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Google Workspace, October Workspace Drops: Edit Markdown, talk to Gmail and Docs, translate meetings, and more",
+              "url": "https://workspace.google.com/blog/product-announcements/october-workspace-drops-edit-markdown-talk-to-gmail-and-docs-translate-meetings-and-more",
+              "publishedAt": "2026-10-29"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "ecf4d3aa-27eb-4e9f-88d8-6ac9d457285f",
+          "completedAt": "2026-11-04T12:13:47.007Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Uma empresa publica uma página em outro idioma. O visitante entende a apresentação e decide perguntar sobre o serviço. O formulário abre em português, a confirmação chega com instruções que ele não consegue seguir e ninguém sabe quem deve responder. A oferta atravessou a fronteira do idioma; o restante da conversa ficou para trás.\n\nApresentar uma oferta em outro idioma cria uma expectativa de continuidade. Antes de traduzir a página inteira, vale conferir como o interessado poderá esclarecer dúvidas, reconhecer os limites do serviço e combinar um próximo passo.\n\nEm 29 de outubro de 2026, o Google Workspace incluiu a tradução de fala em reuniões do Meet entre suas atualizações de outubro. O anúncio exemplifica como uma ferramenta pode ajudar a reduzir uma barreira durante uma conversa. Ele não garante disponibilidade em qualquer conta nem resolve a preparação comercial da empresa.\n\n## Percorra o caminho que começa na página\n\nImagine uma pequena empresa de manutenção de equipamentos que quer apresentar seu serviço em espanhol. É um exemplo hipotético. A equipe prepara uma página clara, mas o botão leva a um formulário que pede ao visitante escolher categorias que só aparecem em português.\n\nO primeiro teste é seguir a mesma sequência que o interessado encontrará. Ele entende qual canal usar? Consegue descrever a necessidade? A resposta automática informa o que acontece depois? Alguém consegue continuar a conversa naquele idioma?\n\nEssa revisão pode revelar que o problema não está na tradução da página. Está na passagem de uma etapa para outra. Se o visitante precisa recomeçar a busca para descobrir como ser atendido, o trabalho de comunicação ficou incompleto.\n\n## Confira o sentido dos termos que definem a oferta\n\nUma tradução pode soar fluente e ainda dar outra dimensão ao que a empresa vende. No exemplo, uma visita para avaliar um equipamento pode aparecer como manutenção incluída. Uma previsão de retorno pode ser entendida como prazo de execução.\n\nFaça uma lista curta dos pontos em que uma diferença de interpretação criaria uma expectativa importante. O que está incluído? Em que condições a empresa atende? O que depende de avaliação? Qual parte do processo pode ser explicada no primeiro contato?\n\nPeça a uma pessoa competente no idioma e familiarizada com a oferta que confira esses trechos. A revisão precisa tratar do sentido que chega ao leitor, além da gramática. Quem conhece a operação também deve poder apontar quando a frase promete mais do que a equipe consegue entregar.\n\n## Combine como responder antes de divulgar o canal\n\nNa empresa hipotética, talvez uma pessoa consiga cuidar das primeiras perguntas em espanhol, mas as dúvidas técnicas exijam apoio. Isso não impede necessariamente a apresentação da oferta. Exige decidir como o contato será encaminhado e o que pode ser informado com segurança.\n\nA equipe pode combinar quais mensagens precisam de revisão, quem recebe solicitações e quando será necessário marcar uma conversa com suporte apropriado. Essas decisões devem corresponder à capacidade disponível, sem depender de alguém que talvez esteja livre no momento.\n\nSe a operação só oferece atendimento escrito naquele idioma, apresente a condição com clareza antes do contato. Uma indicação precisa permite que o visitante escolha se aquele caminho serve. Uma promessa ampla que precisa ser corrigida depois cria um problema para ambos.\n\n## Trate a ferramenta como apoio à conversa\n\nUma ferramenta de tradução pode ser útil para preparar um rascunho ou apoiar uma interação. A escolha depende da tarefa, da qualidade necessária e das condições de uso. Uma dúvida simples sobre onde encontrar um catálogo é diferente de uma explicação técnica que pode orientar uma decisão importante.\n\nNo exemplo, a equipe pode usar um recurso para entender o tema inicial e encaminhar o esclarecimento a quem tem condições de confirmá-lo. Se um termo continuar ambíguo, é preferível pedir esclarecimento a responder com uma frase que apenas pareça correta.\n\nTambém é preciso decidir que informações podem circular na ferramenta. Dados de clientes e materiais internos não devem ser compartilhados por conveniência. Não presuma que um anúncio de funcionalidade responda pelas permissões ou condições do seu ambiente.\n\n## Mantenha as versões alinhadas quando algo mudar\n\nA empresa altera uma condição de atendimento e atualiza a página em português. A página em espanhol continua com a descrição anterior. Nesse caso, o problema não está em encontrar uma palavra melhor. Está em saber quem acompanha a mudança nos materiais que apresentam a mesma oferta.\n\nCombine quais informações devem ser revistas em conjunto e quem confirma cada versão. O formulário, a resposta inicial e a apresentação comercial também podem precisar de ajuste. Manter uma referência sobre a oferta ajuda a equipe a localizar o que precisa ser corrigido.\n\nAntes de divulgar a próxima versão, faça um percurso completo com uma pergunta concreta. Comece na página, envie uma solicitação de teste e confira até onde a conversa consegue seguir. Se houver um limite, veja se ele está claro para quem chega. Uma comunicação em outro idioma ganha utilidade quando abre um caminho que a empresa consegue acompanhar.",
+        "sources": "[Google Workspace, atualizações de outubro com tradução de fala no Meet, 29/10/2026](https://workspace.google.com/blog/product-announcements/october-workspace-drops-edit-markdown-talk-to-gmail-and-docs-translate-meetings-and-more)\n\nO anúncio é contexto, sem garantia de precisão ou disponibilidade universal. A empresa e o percurso são hipotéticos.",
+        "prompt": "Conceptual editorial photograph without people, a single continuous piece of ivory woven cord threaded through two differently shaped ceramic eyelets mounted on adjacent pale stone surfaces, both ends clearly visible and the cord remaining unbroken across the seam, tactile close composition, soft neutral key light and a restrained teal reflection inspired by #08ffb1 on one ceramic edge, generous negative space, no cubes, beams, readable text or logos --ar 3:2",
+        "imageAlt": "Cordão claro atravessa duas passagens de cerâmica de formatos diferentes sobre pedra, com reflexo teal em uma das bordas.",
+        "date": "2026-11-18"
+      },
+      "createdAt": "2026-11-04T12:20:26.267Z",
+      "startedAt": "2026-11-04T16:16:15.068Z",
+      "completedAt": "2026-11-04T16:17:12.980Z"
+    },
+    {
+      "id": "0b0f47df-2b01-4480-8d33-001f26fc07c7",
+      "itemId": "pauta-diaria-2026-11-04",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "43ac32d91e75ae686aab488b9623c7c3a2e004d0315c75588efeaeb064cc4c7f",
+      "snapshot": "35e6142cc510154f069d98ef4249f688897b8b1ec935ac872a0459b29db765db",
+      "input": {
+        "id": "pauta-diaria-2026-11-04",
+        "title": "Sua promoção termina antes de o cliente conseguir aproveitar?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho primário: em 15/10/2026, o Google publicou um guia de compras sazonais baseado em padrões históricos de descontos e busca entre varejistas dos EUA, distinguindo categorias e lembrando os prazos de envio. Ampliar a janela a 30 dias para este recorte. Não transferir datas, comportamento ou descontos ao Brasil nem prever vendas. Tese: a janela útil de uma promoção depende de o comprador poder entender, decidir e receber a oferta a tempo, e não apenas da data escolhida para o anúncio. Exemplo hipotético de loja que confronta prazo do desconto com estoque, retirada e entrega; comunica datas e condições próximas da oferta. Não recomendar urgência artificial ou aconselhamento de preços. Diferenciar de escassez (foco na janela operacional real), de contexto da mensagem (foco na execução da oferta), e de pesquisa de consumidores (foco no desenho da janela, não na metodologia).",
+        "audience": "Pequenos varejistas e equipes de marketing que planejam campanhas sazonais.",
+        "goal": "Planejar a promoção considerando o tempo disponível ao comprador e a capacidade real de cumprir entrega ou retirada.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-04",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Google, Data-backed secrets to smarter holiday shopping",
+              "url": "https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/",
+              "publishedAt": "2026-10-15"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-04T12:20:31.689Z",
+      "startedAt": "2026-11-04T16:16:15.159Z",
+      "completedAt": "2026-11-04T16:17:13.141Z"
     }
   ]
 }

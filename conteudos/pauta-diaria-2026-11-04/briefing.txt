@@ -1,9 +1,7 @@
 TÍTULO: Sua promoção termina antes de o cliente conseguir aproveitar?
 EDITORIA: 5
-VOZ: Mauro
 ÂNGULO: Gancho primário: em 15/10/2026, o Google publicou um guia de compras sazonais baseado em padrões históricos de descontos e busca entre varejistas dos EUA, distinguindo categorias e lembrando os prazos de envio. Ampliar a janela a 30 dias para este recorte. Não transferir datas, comportamento ou descontos ao Brasil nem prever vendas. Tese: a janela útil de uma promoção depende de o comprador poder entender, decidir e receber a oferta a tempo, e não apenas da data escolhida para o anúncio. Exemplo hipotético de loja que confronta prazo do desconto com estoque, retirada e entrega; comunica datas e condições próximas da oferta. Não recomendar urgência artificial ou aconselhamento de preços. Diferenciar de escassez (foco na janela operacional real), de contexto da mensagem (foco na execução da oferta), e de pesquisa de consumidores (foco no desenho da janela, não na metodologia).
 LEITOR: Pequenos varejistas e equipes de marketing que planejam campanhas sazonais.
 OBJETIVO: Planejar a promoção considerando o tempo disponível ao comprador e a capacidade real de cumprir entrega ou retirada.
 
-FONTES DA PESQUISA:
-2026-10-15 | Google, Data-backed secrets to smarter holiday shopping | https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
