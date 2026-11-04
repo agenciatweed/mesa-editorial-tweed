@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "pesquisa-consumidor-aplicabilidade-clientes",
+  "contentSha256": "4148b411a7ca0bc69a7fbac9cb8472575bfde18807d37e480e0d7e6a3440aeff",
+  "modifiedAt": "2026-11-04",
+  "links": [
+    {
+      "from": "o-que-voce-ve-e-tudo-o-que-existe",
+      "to": "pesquisa-consumidor-aplicabilidade-clientes",
+      "anchor": "decisões precipitadas baseadas em pequenas amostras",
+      "context": "Marcas que compreendem isso operam com mais humildade diante da complexidade. E, paradoxalmente, tornam-se mais assertivas. Elas evitam decisões precipitadas baseadas em pequenas amostras, campanhas moldadas apenas por feedbacks anedóticos, ou análises centradas demais no que está no campo de visão e de menos no que acontece nos bastidores da escolha.",
+      "reason": "Aprofunda como interpretar o recorte e os limites de uma amostra antes de decidir."
+    }
+  ]
+}

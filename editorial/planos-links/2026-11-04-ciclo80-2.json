@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "marca-tendencias-criterio-participacao",
+  "contentSha256": "cc6b173efb10501527e160b6c77e2bb42336a61781ad0244b060c5ec3d42b07f",
+  "modifiedAt": "2026-11-04",
+  "links": [
+    {
+      "from": "humor-marca-cliente-alvo-piada",
+      "to": "marca-tendencias-criterio-participacao",
+      "anchor": "Nem toda tendência precisa virar conteúdo da marca",
+      "context": "Decida se vale mudar o personagem, deslocar a graça para a situação, acrescentar contexto ou abandonar aquela ideia. Nem toda tendência precisa virar conteúdo da marca. Nem toda peça precisa ensinar alguma coisa, mas ela precisa ser compatível com a relação que a empresa deseja sustentar.",
+      "reason": "Aprofunda os critérios para decidir se uma tendência merece participação."
+    }
+  ]
+}
