@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: cobertura oficial do Sebrae de 23/10/2026 sobre a Mercopar em Caxias do Sul registra um painel de 22/10 com grandes indústrias e discussão sobre relações com pequenos negócios e fornecedores. Usar apenas como contexto regional de encontros B2B, sem afirmar resultados fechados, reproduzir faturamentos ou atribuir orientações de acompanhamento ao painel. Tese editorial: coletar contatos em um evento não substitui preservar o contexto da conversa e combinar uma continuidade pertinente; um envio genérico pode apagar justamente a necessidade que levou as pessoas a conversar. Exemplo hipotético de PME industrial que volta de uma feira com contatos: registrar assunto tratado, informação que ficou de ser enviada, responsável e próximo movimento combinado, utilizando somente dados necessários e canais apropriados, sem cadastros indiscriminados ou insistência. Não prometer conversão nem apresentar contatos como negócios concluídos. Distinguir de integração marketing-vendas: foco na passagem concreta entre encontro presencial e continuidade, não na arquitetura geral de geração de leads. Distinguir de proposta comparável: foco no contexto do primeiro retorno, antes de elaborar orçamento. Distinguir de pós-venda e trocas: relação comercial ainda em avaliação, não atendimento de compra realizada.",
   "audience": "Donos de PMEs B2B e equipes comerciais que participam de feiras, rodadas ou encontros de negócios e precisam dar continuidade às conversas sem mensagens genéricas.",
   "goal": "De “voltamos com muitos contatos, então a participação deu resultado” para “preciso preservar o que foi conversado e oferecer o próximo passo pertinente antes de avaliar o que avançou”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -41,5 +46,24 @@
   "meta": "O acompanhamento após uma feira começa pelo contexto da conversa. Organize o retorno prometido, o responsável e um próximo passo pertinente.",
   "date": "2026-11-04",
   "faq": "O que registrar depois de uma conversa em uma feira?\nRegistre o assunto tratado, a informação solicitada, o retorno combinado e quem acompanha a pendência, usando apenas dados necessários.\n\nTodo contato de feira precisa receber a mesma apresentação?\nNão. O retorno deve considerar a pergunta e o momento de cada conversa; uma reunião ou apresentação extensa pode ser desnecessária.\n\nContatos coletados equivalem a negócios concluídos?\nNão. Contatos, respostas e reuniões exploratórias são situações diferentes de receita ou de uma contratação confirmada.",
-  "url": "https://www.agenciatweed.com.br/acompanhamento-apos-feira-proximo-passo/"
+  "url": "https://www.agenciatweed.com.br/acompanhamento-apos-feira-proximo-passo/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-29-6a074ff5ad21/imagens/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_with_no_peop_7f48c5ae-ad3e-4f10-8798-0d7b35f79749_2.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/acompanhamento-apos-feira-proximo-passo/",
+    "publishedAt": "2026-11-04T12:12:45.830070+00:00",
+    "job": "0f813eed-6feb-4e75-a31e-6c2804bea96a",
+    "files": [
+      "assets/artigos-editoriais/678684b81437d3be4efce00051656a330dc2b618666c8ae870be1f0f9701fe70.png",
+      "acompanhamento-apos-feira-proximo-passo/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

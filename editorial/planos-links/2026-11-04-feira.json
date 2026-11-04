@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "acompanhamento-apos-feira-proximo-passo",
+  "contentSha256": "bf1e115b61eafc10a12c471fcd79b8641fc8051a50c1df742e63bb8b4938d541",
+  "modifiedAt": "2026-11-04",
+  "links": [
+    {
+      "from": "acompanhamento-apos-feira-proximo-passo",
+      "to": "mensagem-contexto-momento-cliente",
+      "anchor": "a mesma resposta, no mesmo momento",
+      "context": "Os três encontros podem merecer continuidade. Não pedem necessariamente a mesma resposta, no mesmo momento. Uma mensagem que ignora essas diferenças obriga o destinatário a refazer o contexto que já explicou pessoalmente.",
+      "reason": "Explica como adequar o contato à situação em que o cliente recebe a mensagem."
+    }
+  ]
+}

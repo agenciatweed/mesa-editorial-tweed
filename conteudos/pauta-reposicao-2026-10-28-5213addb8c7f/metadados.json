@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: episódio do Marketing Vanguard publicado pelo Adweek em 27/10/2026, com Cheryl Guerin, é apresentado na página oficial do programa como conversa sobre diferenciação e agilidade de marca, incluindo a importância de dizer não e identificar oportunidades culturais. Usar apenas a apresentação editorial acessível do episódio; não alegar audição ou transcrição integral, não inventar falas nem casos. A perspectiva da executiva não comprova resultados universais. Tese: agilidade também envolve decidir quais conversas não merecem uma ação da marca; oportunidade cultural precisa de pertinência ao público, papel legítimo, tempo e capacidade de execução. Exemplo hipotético de PME pressionada a entrar em um meme ou assunto viral sem relação com sua oferta: conferir o que tem a acrescentar, quem precisa aprovar e se ainda existe contexto quando a peça estiver pronta; decidir participar, adaptar ou deixar passar, sem transformar silêncio em regra universal. Evitar comentários sobre crises reais, exploração de sofrimento ou promessas de alcance. Diferenciar de humor de marca: foco em escolher a oportunidade e o papel da empresa, não no alvo de uma piada. Diferenciar de restrição criativa: foco em triagem de demandas externas e oportunidade cultural, não em criação a partir de limites. Diferenciar de aprovação: foco no critério anterior de participação, não em acelerar feedback.",
   "audience": "Donos de PMEs e responsáveis por conteúdo que recebem pedidos para reagir a tendências, memes e conversas culturais e precisam selecionar ações pertinentes à marca.",
   "goal": "De “se está em alta, precisamos publicar antes que passe” para “preciso decidir se temos algo pertinente a acrescentar e condições de participar no tempo e no contexto certos”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -39,7 +44,26 @@
   "keyword": "participar de tendências",
   "slug": "marca-tendencias-criterio-participacao",
   "meta": "Participar de tendências pede critério: avalie pertinência ao público, contribuição da marca e capacidade de agir enquanto o contexto faz sentido.",
-  "date": "",
+  "date": "2026-11-03",
   "faq": "Como decidir se uma tendência merece uma ação da marca?\nConfira o contexto, a relação com o público, a contribuição possível e as condições de produzir uma peça adequada no tempo disponível.\n\nA marca precisa repetir o formato que está em alta?\nNão. Uma observação pertinente pode virar um material próprio quando o formato viral não combina com a empresa.\n\nComo avaliar a participação além do alcance?\nObserve o que o público compreendeu, a associação com a marca, as conversas geradas e o esforço exigido da equipe.",
-  "url": "https://www.agenciatweed.com.br/marca-tendencias-criterio-participacao/"
+  "url": "https://www.agenciatweed.com.br/marca-tendencias-criterio-participacao/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-28-5213addb8c7f/imagens/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+  "imageName": "Metais Dourados e Fitas ao Vento.png",
+  "imageWidth": 1536,
+  "imageHeight": 1024,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/marca-tendencias-criterio-participacao/",
+    "publishedAt": "2026-11-04T12:11:55.888864+00:00",
+    "job": "ecf044a5-4ab1-44ce-b080-8bd08913b36c",
+    "files": [
+      "assets/artigos-editoriais/a683c2b239cab9af8d9ae7819279628f208f2a4d712ea16c472cf7c76166036a.png",
+      "marca-tendencias-criterio-participacao/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

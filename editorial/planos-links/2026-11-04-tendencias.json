@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "marca-tendencias-criterio-participacao",
+  "contentSha256": "cc6b173efb10501527e160b6c77e2bb42336a61781ad0244b060c5ec3d42b07f",
+  "modifiedAt": "2026-11-04",
+  "links": [
+    {
+      "from": "marca-tendencias-criterio-participacao",
+      "to": "mensagem-contexto-momento-cliente",
+      "anchor": "enquanto o contexto ainda faz sentido",
+      "context": "Participar de tendências pode fazer sentido quando existe uma relação compreensível com o público e algo pertinente a acrescentar. O fato de uma conversa estar em alta não responde essas duas questões. Também não garante que a empresa consiga produzir uma peça adequada enquanto o contexto ainda faz sentido.",
+      "reason": "Aprofunda a adequação da mensagem ao momento em que ela chega ao público."
+    }
+  ]
+}
