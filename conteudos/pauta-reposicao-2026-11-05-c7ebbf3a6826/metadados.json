@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-05-c7ebbf3a6826",
+  "title": "Seu cliente entende onde a sua solução faz sentido e onde ela não serve?",
+  "edition": 4,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 04/11/2026: a Agência Estadual de Notícias do Paraná anunciou seleção de empresas para apresentar soluções no Sanepar Impulsiona, esclarecendo que a ação não é processo de compra nem promessa de contratação. Usar o anúncio como contexto para a tradução de uma solução técnica em aplicação compreensível, sem recomendar inscrição ou alegar resultados do encontro. Tese editorial: uma apresentação B2B precisa permitir que o interlocutor reconheça a situação de uso, as condições necessárias e os limites de adequação, em vez de depender de adjetivos sobre inovação. Exemplo inteiramente hipotético de uma empresa que oferece monitoramento e explica para que tipo de instalação sua solução foi concebida, quais condições exigem avaliação e quando ela não resolve o problema. Não ensinar tecnologia de saneamento nem fornecer especificações inventadas. Diferenciar de cadastro de fornecedores: foco na compreensão da aplicação, não em localizar dados para homologação. Diferenciar de demonstração de produto: foco nos limites de encaixe antes de uma demonstração. Diferenciar de resultados versus expectativas: não concentrar a tese na classificação de indicadores.",
+  "audience": "Donos de empresas B2B e equipes comerciais e de marketing que precisam apresentar soluções técnicas a interlocutores de áreas diferentes.",
+  "goal": "De descrever uma solução com adjetivos amplos para explicar situações de uso e limites que permitam ao cliente avaliar se vale continuar a conversa.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-05",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Agência Estadual de Notícias do Paraná, Sanepar e Senai selecionam empresas para apresentar soluções inovadoras",
+        "url": "https://www.parana.pr.gov.br/aen/Noticia/Sanepar-e-Senai-selecionam-empresas-para-apresentar-solucoes-inovadoras",
+        "publishedAt": "2026-11-04"
+      }
+    ]
+  }
+}

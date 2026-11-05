@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-11-05T08:55:59.004Z",
+  "exportedAt": "2026-11-05T09:07:18.445Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-11-05-c7ebbf3a6826",
+      "title": "Seu cliente entende onde a sua solução faz sentido e onde ela não serve?",
+      "edition": 4,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário de 04/11/2026: a Agência Estadual de Notícias do Paraná anunciou seleção de empresas para apresentar soluções no Sanepar Impulsiona, esclarecendo que a ação não é processo de compra nem promessa de contratação. Usar o anúncio como contexto para a tradução de uma solução técnica em aplicação compreensível, sem recomendar inscrição ou alegar resultados do encontro. Tese editorial: uma apresentação B2B precisa permitir que o interlocutor reconheça a situação de uso, as condições necessárias e os limites de adequação, em vez de depender de adjetivos sobre inovação. Exemplo inteiramente hipotético de uma empresa que oferece monitoramento e explica para que tipo de instalação sua solução foi concebida, quais condições exigem avaliação e quando ela não resolve o problema. Não ensinar tecnologia de saneamento nem fornecer especificações inventadas. Diferenciar de cadastro de fornecedores: foco na compreensão da aplicação, não em localizar dados para homologação. Diferenciar de demonstração de produto: foco nos limites de encaixe antes de uma demonstração. Diferenciar de resultados versus expectativas: não concentrar a tese na classificação de indicadores.",
+      "audience": "Donos de empresas B2B e equipes comerciais e de marketing que precisam apresentar soluções técnicas a interlocutores de áreas diferentes.",
+      "goal": "De descrever uma solução com adjetivos amplos para explicar situações de uso e limites que permitam ao cliente avaliar se vale continuar a conversa.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-05",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Agência Estadual de Notícias do Paraná, Sanepar e Senai selecionam empresas para apresentar soluções inovadoras",
+            "url": "https://www.parana.pr.gov.br/aen/Noticia/Sanepar-e-Senai-selecionam-empresas-para-apresentar-solucoes-inovadoras",
+            "publishedAt": "2026-11-04"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-diaria-2026-11-05",
       "title": "Depois do curso, qual decisão de marketing sua empresa vai colocar em prática?",
@@ -11,7 +38,7 @@
       "angle": "Gancho primário: em 03/11/2026, com atualização em 04/11, o Sebrae Sergipe anunciou a programação futura do Reload 2026 com palestras e oficinas de ferramentas digitais. Usar apenas como contexto de oferta de aprendizagem, sem alegar resultados do evento ainda não realizado nem recomendar ingresso. Tese editorial própria: participar de cursos e eventos só se conecta à rotina quando a empresa escolhe uma aplicação delimitada, atribui responsabilidade e define o que pretende observar; acumular referências não substitui decidir. Exemplo hipotético de PME que volta de uma oficina e escolhe testar uma melhoria na explicação de uma oferta antes de trocar todas as ferramentas e canais. Separar conteúdo aprendido, hipótese de aplicação e decisão real; não inventar consenso ou efeito causal. Diferenciar da pauta de capacitação em IA: esta trata de transferência de aprendizagem de marketing em geral para uma mudança delimitada, não de dependência tecnológica. Diferenciar de resumo de reunião: não é registro de acordos. Diferenciar de pós-feira: não trata de retomar contatos comerciais. Sem promessa de vendas ou método científico formal.",
       "audience": "Donos de PMEs e equipes de marketing que participam de cursos e eventos e querem transformar repertório em uma ação viável.",
       "goal": "De acumular ideias após uma formação para selecionar uma aplicação concreta e acompanhar seu entendimento e execução antes de ampliar mudanças.",
-      "status": "Pauta",
+      "status": "Revisão",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
@@ -30,9 +57,28 @@
         ]
       },
       "automation": {
-        "stage": "Pauta",
-        "state": "pending"
-      }
+        "stage": "Revisão",
+        "state": "done",
+        "lastJob": "4daee7c8-8aba-4c83-8508-3dd5f0505ef2",
+        "completedAt": "2026-11-05T09:08:24.320Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "ddee902d0e6338f5c6519ba4b34327659cf480c00534ca0028558ca48301ba96"
+      },
+      "body": "A pessoa volta do curso com anotações, referências e vontade de mudar tudo. Na segunda-feira, apresenta uma ferramenta nova, sugere outro formato de conteúdo e lembra de uma ideia para o site. A equipe concorda que há coisas interessantes ali. Uma semana depois, ninguém sabe qual delas virou trabalho.\n\nAplicar o aprendizado de marketing exige uma passagem que a programação do curso não consegue fazer pela empresa: escolher qual problema merece atenção e o que pode ser colocado em prática nas condições reais do negócio. O repertório amplia possibilidades. A decisão continua precisando de contexto, tempo e alguém responsável.\n\nEm anúncio publicado em 3 de novembro de 2026, atualizado no dia seguinte, o Sebrae Sergipe apresentou palestras e oficinas previstas para o Reload, em 27 e 28 de novembro. Entre os assuntos estão marketing e ferramentas digitais. O evento ainda não aconteceu; a programação não comprova resultados. Ela oferece um ponto de partida para uma pergunta que vale para qualquer formação: qual aplicação caberá na rotina depois?\n\n## Comece por uma dificuldade que já existe\n\nImagine uma pequena empresa que produz móveis sob encomenda. É um exemplo hipotético. Depois de uma oficina de comunicação digital, a responsável pelo marketing quer experimentar vídeos, trocar o sistema de mensagens e refazer a página dos produtos. Ao mesmo tempo, o atendimento recebe perguntas recorrentes sobre o que está incluído no orçamento.\n\nEssa dúvida oferece um começo mais concreto que a lista de ferramentas. O problema pode estar na explicação da oferta, no caminho até ela ou numa condição que a própria equipe ainda não definiu. Cada possibilidade pede uma intervenção diferente.\n\nAntes de escolher uma aplicação, descreva a dificuldade sem antecipar a solução. “Precisamos usar vídeos” já aponta um formato. “Quem pede orçamento não encontra a diferença entre acabamento padrão e opcional” permite examinar o que a comunicação precisa esclarecer.\n\nO curso pode ter mostrado uma possibilidade útil. A empresa precisa verificar a relação entre essa possibilidade e a situação que pretende mudar. Nem toda ideia interessante merece virar prioridade nesta semana.\n\n## Separe o que foi ensinado do que você pretende fazer\n\nUma orientação pode ter sido apresentada para outro tipo de empresa, outro público ou uma operação com recursos diferentes. Ao trazê-la para a reunião, explique o contexto conhecido e o que ainda precisa ser avaliado.\n\nNa empresa hipotética, a participante pode ter aprendido uma forma de demonstrar características de produtos. Sua hipótese é que uma explicação visual ajude a distinguir os acabamentos. Isso ainda não significa que a equipe decidiu produzir uma série inteira ou que o público compreenderá melhor a oferta.\n\nPreservar essa diferença evita que o entusiasmo transforme uma referência em ordem. Quem conhece a produção pode apontar uma limitação. Quem atende pode mostrar que a dúvida começa antes, no nome das opções. Essas contribuições ajudam a ajustar a aplicação.\n\nNão é preciso defender tudo o que foi aprendido para justificar a participação no curso. Reconhecer que uma ideia não cabe agora também é uma escolha. O repertório permanece disponível sem obrigar a empresa a reorganizar sua operação a cada formação.\n\n## Escolha uma mudança que consiga acompanhar\n\nA primeira aplicação precisa ter limites compreensíveis. Qual informação será alterada? Onde ela aparecerá? Quem precisará usar a nova versão? O que ficará para uma decisão posterior?\n\nNo exemplo, a equipe pode revisar a explicação de dois acabamentos numa página específica, usando imagens que mostrem a diferença pertinente. Antes de produzir, deve confirmar se as imagens representam o que é oferecido e se a descrição corresponde às condições comerciais.\n\nEssa delimitação permite discutir o trabalho com mais precisão. Talvez seja necessário fotografar um detalhe, conferir o texto com a produção e atualizar uma resposta usada no atendimento. São tarefas reconhecíveis, com dependências que podem ser organizadas.\n\nMudar todos os canais ao mesmo tempo dificultaria compreender o que foi feito e manter a coerência das versões. A dimensão da aplicação deve considerar a capacidade de executar, conferir e corrigir, sem transformar uma formação em projeto permanente de troca de ferramentas.\n\n## Dê responsabilidade e espaço na agenda\n\nUma ideia apresentada ao grupo pode terminar sem responsável porque todos demonstraram interesse. A concordância com a possibilidade não equivale à disponibilidade para executá-la.\n\nCombine quem prepara a mudança e quem precisa conferir informações antes de ela ser usada. Verifique também o que será necessário adiar ou reorganizar. Acrescentar uma tarefa a uma agenda já ocupada não cria, por si só, tempo para realizá-la.\n\nNa empresa hipotética, marketing pode organizar a explicação, produção conferir os detalhes e atendimento apontar as dúvidas que precisa resolver. Uma pessoa deve acompanhar a passagem entre essas contribuições, para que a entrega não dependa de todos presumirem que outro deu continuidade.\n\nA responsabilidade precisa vir acompanhada de condições. Se faltam imagens adequadas ou uma decisão sobre a oferta, registre essa dependência. Uma data no calendário não resolve uma informação que ninguém confirmou.\n\n## Defina o que pretende observar\n\nAntes de colocar a mudança em uso, diga que pergunta a equipe deseja responder. No exemplo, interessa verificar se a distinção entre os acabamentos fica compreensível e quais dúvidas continuam aparecendo.\n\nÉ possível conferir a explicação com pessoas do público pertinente, observar conversas de atendimento e registrar pontos que exigiram esclarecimento. Esses sinais ajudam a revisar o material. Não autorizam concluir automaticamente que uma alteração causou aumento de vendas.\n\nEvite transformar qualquer impressão favorável em resultado comprovado. Uma pessoa elogiar a página é diferente de compreender as condições da oferta. Receber menos perguntas também pode ter explicações que a equipe ainda não examinou.\n\nA observação serve para orientar a próxima decisão: manter a explicação, corrigir um trecho, melhorar uma imagem ou reconhecer que a dificuldade estava em outro ponto. O acompanhamento precisa ser proporcional à aplicação, sem inventar precisão que o negócio não tem como sustentar.\n\n## Faça o aprendizado entrar no trabalho que permanece\n\nSe a aplicação for útil, confira onde ela precisa continuar disponível. A explicação pode estar correta na página e desatualizada no material enviado pelo comercial. Uma prática pode funcionar com quem participou do curso e desaparecer quando outra pessoa assume a tarefa.\n\nGuarde o que foi decidido, a versão em uso e os cuidados necessários para atualizá-la. Isso permite compartilhar a aplicação sem exigir que toda a equipe reconstrua o conteúdo da formação.\n\nTambém cabe encerrar uma experiência que não ajudou. Identificar uma limitação pode evitar uma implantação maior e desnecessária. O valor do aprendizado não depende de manter toda novidade em circulação.\n\nAo terminar o próximo curso, escolha uma dificuldade real antes de abrir outra ferramenta. Defina uma aplicação, confira as condições para executá-la e combine quando olhar para o que aconteceu. A empresa passa a ter uma decisão que pode acompanhar, em vez de apenas mais uma coleção de ideias.",
+      "sources": "[Sebrae Sergipe, programação do Reload 2026, 03/11/2026, atualizado em 04/11](https://se.agenciasebrae.com.br/cultura-empreendedora/gil-do-vigor-e-a-nova-atracao-confirmada-do-reload-2026/)\n\nA fonte anuncia programação futura, sem demonstrar resultados. A empresa de móveis e a aplicação descrita são hipotéticas; os critérios de escolha e acompanhamento são análise editorial da Tweed.",
+      "prompt": "Natural cinematic editorial photograph of one adult furniture maker kneeling beside an unfinished wooden cabinet in a modest open workshop, carefully applying a small patch of finish to one drawer edge while the remaining cabinet stays untreated, candid focused gesture, low side view with daylight from an open courtyard, visible wood grain and restrained tools in the background, soft neutral key light and natural skin tones, subtle teal ambient accent inspired by #08ffb1 reflected on the shaded floor, controlled contrast, no papers, meeting, laptop, readable text or logos --ar 3:2",
+      "imageAlt": "Uma mesa com anotações e um crachá do evento Sebrae Reloaded",
+      "date": "2026-11-21",
+      "keyword": "aplicar o aprendizado de marketing",
+      "slug": "aplicar-aprendizado-marketing-rotina",
+      "meta": "Aplicar o aprendizado de marketing exige escolher um problema, definir uma mudança viável e acompanhar o que acontece antes de ampliar a aplicação.",
+      "imageFile": "conteudos/pauta-diaria-2026-11-05/imagens/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
+      "imageName": "Mesa de Trabalho com Foco e Aplicação.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
+      "faq": "Por onde começar a aplicar o aprendizado de marketing?\nEscolha uma dificuldade real da empresa e verifique como uma ideia aprendida pode ajudar a examiná-la, considerando as condições do negócio.\n\nO que definir antes de colocar uma ideia em prática?\nDelimite a mudança, as informações a conferir, quem será responsável e o espaço necessário na agenda.\n\nUma impressão favorável comprova resultado comercial?\nNão. Observe a pergunta definida para a aplicação e reconheça os limites dos sinais disponíveis, sem atribuir vendas automaticamente à mudança.",
+      "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/"
     },
     {
       "id": "pauta-reposicao-2026-11-04-8d2dbb9e48ca",
@@ -42,11 +88,16 @@
       "angle": "Partir da orientação publicada pelo Sebrae-SP em 03/11/2026 sobre comunicar férias e organizar entregas antes da pausa. Tese: um aviso de fechamento precisa separar novos pedidos, compromissos em andamento e a data de retomada, para que o cliente não precise adivinhar o que está mantido. Exemplo hipotético de ateliê com encomendas já confirmadas que ajusta página, resposta automática e contatos diretos com a mesma informação. Diferenciar de atualização genérica de canais: foco no efeito temporário da pausa sobre compromissos existentes. Sem reproduzir estatísticas ou histórias individuais da fonte e sem orientação financeira ou trabalhista.",
       "audience": "Donos de pequenos negócios e equipes de atendimento que planejam férias, recesso ou uma pausa temporária.",
       "goal": "Criar um aviso de pausa que permita ao cliente entender o que acontece com pedidos em andamento, novas solicitações e retomada do atendimento.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -62,16 +113,31 @@
       },
       "automation": {
         "stage": "Revisão",
-        "state": "pending",
-        "lastJob": "a58b2d4f-a6eb-4a2d-bbf5-c000e22e16ea",
-        "completedAt": "2026-11-05T08:55:16.902Z",
-        "message": "Redação e prompt prontos para edição."
+        "state": "done",
+        "lastJob": "5fc95247-f528-46eb-a489-f29ae138ca0e",
+        "completedAt": "2026-11-05T09:06:34.145Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "0081fc739bade8ea7322d9a2d53b81625f3ad3eadfa6a777e4883c9cca7b3645"
       },
       "body": "A empresa anuncia alguns dias de pausa. A publicação informa quando o atendimento volta, mas uma pessoa com pedido confirmado continua sem saber se sua entrega será mantida. Outra envia uma solicitação e recebe uma mensagem que promete retorno em breve. O aviso existe; as consequências da pausa ainda estão pouco claras.\n\nComunicar uma pausa no atendimento exige explicar o que muda para quem já tem um compromisso e para quem pretende iniciar uma conversa. Novos pedidos, entregas em andamento e retomada podem ter condições diferentes. A mensagem precisa ajudar cada pessoa a reconhecer seu caminho.\n\nEm orientação publicada em 3 de novembro de 2026, o Sebrae-SP abordou o planejamento de férias de pequenos negócios, incluindo comunicação antecipada com clientes e organização de atividades antes da ausência. A aplicação editorial está em transformar essa preparação numa informação que o cliente consiga usar.\n\nA empresa pode fazer uma pausa. O cuidado é não deixar que as pessoas tenham de descobrir sozinhas quais compromissos continuam e quais precisam de outro encaminhamento.\n\n## Defina primeiro o que vai acontecer com os pedidos\n\nImagine um pequeno ateliê que fecha por uma semana e tem encomendas com datas já combinadas. É um exemplo hipotético. A equipe prepara um post de recesso antes de conferir quais entregas serão concluídas e quais dependem de uma conversa individual.\n\nComece pela operação. Que pedidos têm compromisso nesse período? O que pode ser finalizado antes? Existe alguma atividade que continuará mesmo com o atendimento suspenso? Quem consegue confirmar as informações?\n\nO aviso público deve refletir essas respostas. Não é preciso divulgar detalhes dos pedidos, mas é preciso saber que condição geral pode ser anunciada e quais situações exigem contato direto.\n\nNa hipótese do ateliê, a equipe pode identificar entregas mantidas e outras que precisam de alinhamento. Uma frase como voltamos em breve não substitui conversar com quem será afetado. A descrição pública também não deve alterar silenciosamente um compromisso já combinado.\n\n## Separe os caminhos de quem já é cliente e de quem chega agora\n\nUma pessoa com encomenda em andamento procura uma confirmação. Quem deseja fazer um novo pedido precisa saber se pode enviar uma solicitação e quando ela será analisada. Os dois públicos podem encontrar a mesma mensagem, mas não precisam receber uma orientação indiferenciada.\n\nO ateliê hipotético pode explicar que novas solicitações serão respondidas após a retomada, enquanto pedidos existentes seguem as condições comunicadas individualmente. Só deve dizer isso se esse acompanhamento tiver sido realmente preparado.\n\nEvite criar uma exceção que ninguém conseguirá atender. Se o aviso oferece um contato para casos específicos, defina quem acompanha o canal e o que ele pode encaminhar. Uma caixa de entrada sem responsável não se torna suporte apenas porque recebeu esse nome na mensagem.\n\nQuando não houver acompanhamento durante a pausa, informe essa condição com clareza. Não prometa respostas imediatas ou monitoramento permanente para fazer o aviso parecer mais acolhedor.\n\n## Escreva datas que a pessoa consiga interpretar\n\nUm aviso útil identifica o início da mudança e a previsão de retomada. Confira se a data anunciada corresponde à volta do atendimento, à reabertura do espaço ou ao início da análise das solicitações acumuladas.\n\nEsses acontecimentos podem não ocorrer ao mesmo tempo. No ateliê hipotético, abrir novamente não significa conseguir responder todas as mensagens na primeira hora. A orientação precisa refletir a capacidade disponível.\n\nSe houver um prazo previsto para o retorno, use uma descrição coerente com ele. Evite uma promessa vaga de contato muito breve quando a própria empresa sabe que ficará vários dias sem acompanhar as solicitações.\n\nRevise também a forma como o aviso envelhece. Uma mensagem que diz amanhã pode continuar circulando depois da data. Datas explícitas ajudam quem encontra a publicação fora do momento imaginado pela equipe.\n\n## Alinhe o aviso aos lugares em que o cliente pede ajuda\n\nUm post de rede social pode não alcançar quem procura informação no site ou envia uma mensagem diretamente. Liste os pontos em que a pausa altera uma expectativa e confira a orientação em cada um.\n\nIsso pode incluir a página de contato, uma resposta automática e o canal comercial. Não é necessário copiar um texto longo em toda parte. Cada ponto precisa apresentar a condição relevante e um caminho compreensível para continuar.\n\nNa empresa hipotética, o site informa o período e a resposta automática explica quando novas solicitações serão avaliadas. A equipe usa a mesma referência para não anunciar datas diferentes em canais distintos.\n\nFaça um teste antes da pausa. Envie uma solicitação pelo percurso habitual e veja o que chega como resposta. O aviso está atualizado? Há uma mensagem antiga prometendo retorno imediato? Algum botão convida a agendar um atendimento que não estará disponível?\n\n## Converse diretamente sobre mudanças que afetam um compromisso\n\nUma atualização geral pode informar o funcionamento, mas uma pessoa cujo pedido será afetado precisa entender sua situação concreta. A equipe deve procurar o encaminhamento apropriado com antecedência, sem usar a publicação como substituto automático dessa conversa.\n\nNo ateliê hipotético, um ajuste de entrega pede clareza sobre o que está sendo proposto e o que ainda precisa ser combinado. O texto não deve apresentar uma alternativa como se já tivesse sido aceita.\n\nTambém é importante preservar a privacidade. O aviso público não precisa mencionar nomes, valores ou detalhes de pedidos para demonstrar organização. Cada conversa deve circular pelo canal adequado ao assunto.\n\nA finalidade é reduzir a dúvida de quem depende de uma resposta, sem transformar toda a operação numa exposição de bastidores ou criar uma obrigação de disponibilidade constante.\n\n## Prepare a retirada do aviso antes de sair\n\nA pausa termina, mas a resposta automática permanece ativa. Ou o post continua destacado enquanto o atendimento já voltou. Nesses casos, o aviso passa a descrever uma condição que deixou de existir.\n\nCombine quem atualiza os canais na retomada e quem organiza as solicitações recebidas durante a ausência. A volta pode exigir uma conferência simples das mensagens e compromissos, em vez de presumir que o funcionamento se restabelece sozinho.\n\nNa próxima pausa, comece pelos efeitos sobre pedidos e atendimento. Depois escreva a mensagem pública. Quando a comunicação acompanha o que foi preparado, o cliente consegue saber o que continua, o que espera e quando poderá retomar a conversa. A empresa faz sua pausa com uma orientação que permanece útil para quem está do outro lado.",
       "sources": "[Sebrae-SP, planejamento de férias e comunicação com clientes, 03/11/2026](https://sp.agenciasebrae.com.br/cultura-empreendedora/seu-negocio-pode-tirar-ferias-sebrae-sp-orienta-pequenos-empreendedores-a-planejar-o-descanso/)\n\nO texto aplica editorialmente a orientação de comunicação antecipada. O ateliê é hipotético; não foram reproduzidos dados do levantamento nem histórias individuais.",
       "prompt": "Conceptual editorial photograph without people, a small wooden shop doorway closed with a simple removable linen panel while a narrow separate pickup niche beside it remains visibly open containing one neatly wrapped unmarked parcel, realistic architectural detail and clear distinction between the two openings, warm textured plaster, soft neutral key light and a restrained teal reflection inspired by #08ffb1 along the inner edge of the niche, asymmetric negative space, no clocks, papers, laptop, cubes, prisms, readable signs, text or logos --ar 3:2",
       "imageAlt": "Porta de madeira fechada com um painel de linho ao lado de um nicho aberto com um pacote, com reflexo teal discreto na borda do nicho.",
-      "date": "2026-11-20"
+      "date": "2026-11-20",
+      "keyword": "pausa no atendimento",
+      "slug": "pausa-atendimento-pedidos-retomada",
+      "meta": "Uma pausa no atendimento precisa esclarecer pedidos em andamento, novas solicitações e retomada. Prepare avisos coerentes com os compromissos da empresa.",
+      "imageFile": "conteudos/pauta-reposicao-2026-11-04-8d2dbb9e48ca/imagens/9c2ca19b96eb78aab063a2d231b75ae3cbe8a44655c35f50a4d42a706ff6b097.png",
+      "imageName": "Fachada Serena com Nicho de Retirada.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/9c2ca19b96eb78aab063a2d231b75ae3cbe8a44655c35f50a4d42a706ff6b097.png",
+      "faq": "O que comunicar antes de uma pausa no atendimento?\nInforme o período, a retomada e as condições para novos pedidos e compromissos em andamento, conforme o funcionamento preparado.\n\nUm aviso público substitui o contato sobre um pedido afetado?\nNão automaticamente. Quem terá um compromisso alterado precisa de um encaminhamento adequado à sua situação, sem presumir aceite de uma alternativa.\n\nO que conferir quando o atendimento voltar?\nAtualize avisos e respostas automáticas e organize as solicitações recebidas, com responsáveis pela retomada.",
+      "url": "https://www.agenciatweed.com.br/pausa-atendimento-pedidos-retomada/",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-11-05T09:07:18.512Z"
+      }
     },
     {
       "id": "pauta-diaria-2026-11-04",
