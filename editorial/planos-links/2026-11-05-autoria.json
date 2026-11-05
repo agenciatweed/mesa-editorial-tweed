@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "reconhecer-contribuicoes-criacao-produto",
+  "contentSha256": "a134abb45b1b0bacda8dd4556b71e2ef23a0f416256376250db874325b362cc8",
+  "modifiedAt": "2026-11-05",
+  "links": [
+    {
+      "from": "reconhecer-contribuicoes-criacao-produto",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "descrição compatível dos papéis",
+      "context": "Confira os pontos de contato relevantes: página, catálogo, apresentação e materiais de lançamento. Eles não precisam repetir exatamente o mesmo texto, mas devem sustentar uma descrição compatível dos papéis.",
+      "reason": "Aprofunda a coerência e atualização das informações nos diferentes canais."
+    }
+  ]
+}

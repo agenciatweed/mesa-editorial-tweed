@@ -1,0 +1,31 @@
+{
+  "id": "pauta-diaria-2026-11-05",
+  "title": "Depois do curso, qual decisão de marketing sua empresa vai colocar em prática?",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário: em 03/11/2026, com atualização em 04/11, o Sebrae Sergipe anunciou a programação futura do Reload 2026 com palestras e oficinas de ferramentas digitais. Usar apenas como contexto de oferta de aprendizagem, sem alegar resultados do evento ainda não realizado nem recomendar ingresso. Tese editorial própria: participar de cursos e eventos só se conecta à rotina quando a empresa escolhe uma aplicação delimitada, atribui responsabilidade e define o que pretende observar; acumular referências não substitui decidir. Exemplo hipotético de PME que volta de uma oficina e escolhe testar uma melhoria na explicação de uma oferta antes de trocar todas as ferramentas e canais. Separar conteúdo aprendido, hipótese de aplicação e decisão real; não inventar consenso ou efeito causal. Diferenciar da pauta de capacitação em IA: esta trata de transferência de aprendizagem de marketing em geral para uma mudança delimitada, não de dependência tecnológica. Diferenciar de resumo de reunião: não é registro de acordos. Diferenciar de pós-feira: não trata de retomar contatos comerciais. Sem promessa de vendas ou método científico formal.",
+  "audience": "Donos de PMEs e equipes de marketing que participam de cursos e eventos e querem transformar repertório em uma ação viável.",
+  "goal": "De acumular ideias após uma formação para selecionar uma aplicação concreta e acompanhar seu entendimento e execução antes de ampliar mudanças.",
+  "status": "Pauta",
+  "submitted": true,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-05",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Sebrae Sergipe, programação de palestras e oficinas do Reload 2026",
+        "url": "https://se.agenciasebrae.com.br/cultura-empreendedora/gil-do-vigor-e-a-nova-atracao-confirmada-do-reload-2026/",
+        "publishedAt": "2026-11-03"
+      }
+    ]
+  },
+  "automation": {
+    "stage": "Pauta",
+    "state": "pending"
+  }
+}

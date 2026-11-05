@@ -1,8 +1,39 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-11-04T12:20:31.628Z",
+  "exportedAt": "2026-11-05T08:55:59.004Z",
   "items": [
+    {
+      "id": "pauta-diaria-2026-11-05",
+      "title": "Depois do curso, qual decisão de marketing sua empresa vai colocar em prática?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário: em 03/11/2026, com atualização em 04/11, o Sebrae Sergipe anunciou a programação futura do Reload 2026 com palestras e oficinas de ferramentas digitais. Usar apenas como contexto de oferta de aprendizagem, sem alegar resultados do evento ainda não realizado nem recomendar ingresso. Tese editorial própria: participar de cursos e eventos só se conecta à rotina quando a empresa escolhe uma aplicação delimitada, atribui responsabilidade e define o que pretende observar; acumular referências não substitui decidir. Exemplo hipotético de PME que volta de uma oficina e escolhe testar uma melhoria na explicação de uma oferta antes de trocar todas as ferramentas e canais. Separar conteúdo aprendido, hipótese de aplicação e decisão real; não inventar consenso ou efeito causal. Diferenciar da pauta de capacitação em IA: esta trata de transferência de aprendizagem de marketing em geral para uma mudança delimitada, não de dependência tecnológica. Diferenciar de resumo de reunião: não é registro de acordos. Diferenciar de pós-feira: não trata de retomar contatos comerciais. Sem promessa de vendas ou método científico formal.",
+      "audience": "Donos de PMEs e equipes de marketing que participam de cursos e eventos e querem transformar repertório em uma ação viável.",
+      "goal": "De acumular ideias após uma formação para selecionar uma aplicação concreta e acompanhar seu entendimento e execução antes de ampliar mudanças.",
+      "status": "Pauta",
+      "submitted": true,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-05",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Sebrae Sergipe, programação de palestras e oficinas do Reload 2026",
+            "url": "https://se.agenciasebrae.com.br/cultura-empreendedora/gil-do-vigor-e-a-nova-atracao-confirmada-do-reload-2026/",
+            "publishedAt": "2026-11-03"
+          }
+        ]
+      },
+      "automation": {
+        "stage": "Pauta",
+        "state": "pending"
+      }
+    },
     {
       "id": "pauta-reposicao-2026-11-04-8d2dbb9e48ca",
       "title": "O cliente sabe o que acontece com seu pedido quando a empresa faz uma pausa?",
@@ -11,8 +42,8 @@
       "angle": "Partir da orientação publicada pelo Sebrae-SP em 03/11/2026 sobre comunicar férias e organizar entregas antes da pausa. Tese: um aviso de fechamento precisa separar novos pedidos, compromissos em andamento e a data de retomada, para que o cliente não precise adivinhar o que está mantido. Exemplo hipotético de ateliê com encomendas já confirmadas que ajusta página, resposta automática e contatos diretos com a mesma informação. Diferenciar de atualização genérica de canais: foco no efeito temporário da pausa sobre compromissos existentes. Sem reproduzir estatísticas ou histórias individuais da fonte e sem orientação financeira ou trabalhista.",
       "audience": "Donos de pequenos negócios e equipes de atendimento que planejam férias, recesso ou uma pausa temporária.",
       "goal": "Criar um aviso de pausa que permita ao cliente entender o que acontece com pedidos em andamento, novas solicitações e retomada do atendimento.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Revisão",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +59,19 @@
             "publishedAt": "2026-11-03"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Revisão",
+        "state": "pending",
+        "lastJob": "a58b2d4f-a6eb-4a2d-bbf5-c000e22e16ea",
+        "completedAt": "2026-11-05T08:55:16.902Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A empresa anuncia alguns dias de pausa. A publicação informa quando o atendimento volta, mas uma pessoa com pedido confirmado continua sem saber se sua entrega será mantida. Outra envia uma solicitação e recebe uma mensagem que promete retorno em breve. O aviso existe; as consequências da pausa ainda estão pouco claras.\n\nComunicar uma pausa no atendimento exige explicar o que muda para quem já tem um compromisso e para quem pretende iniciar uma conversa. Novos pedidos, entregas em andamento e retomada podem ter condições diferentes. A mensagem precisa ajudar cada pessoa a reconhecer seu caminho.\n\nEm orientação publicada em 3 de novembro de 2026, o Sebrae-SP abordou o planejamento de férias de pequenos negócios, incluindo comunicação antecipada com clientes e organização de atividades antes da ausência. A aplicação editorial está em transformar essa preparação numa informação que o cliente consiga usar.\n\nA empresa pode fazer uma pausa. O cuidado é não deixar que as pessoas tenham de descobrir sozinhas quais compromissos continuam e quais precisam de outro encaminhamento.\n\n## Defina primeiro o que vai acontecer com os pedidos\n\nImagine um pequeno ateliê que fecha por uma semana e tem encomendas com datas já combinadas. É um exemplo hipotético. A equipe prepara um post de recesso antes de conferir quais entregas serão concluídas e quais dependem de uma conversa individual.\n\nComece pela operação. Que pedidos têm compromisso nesse período? O que pode ser finalizado antes? Existe alguma atividade que continuará mesmo com o atendimento suspenso? Quem consegue confirmar as informações?\n\nO aviso público deve refletir essas respostas. Não é preciso divulgar detalhes dos pedidos, mas é preciso saber que condição geral pode ser anunciada e quais situações exigem contato direto.\n\nNa hipótese do ateliê, a equipe pode identificar entregas mantidas e outras que precisam de alinhamento. Uma frase como voltamos em breve não substitui conversar com quem será afetado. A descrição pública também não deve alterar silenciosamente um compromisso já combinado.\n\n## Separe os caminhos de quem já é cliente e de quem chega agora\n\nUma pessoa com encomenda em andamento procura uma confirmação. Quem deseja fazer um novo pedido precisa saber se pode enviar uma solicitação e quando ela será analisada. Os dois públicos podem encontrar a mesma mensagem, mas não precisam receber uma orientação indiferenciada.\n\nO ateliê hipotético pode explicar que novas solicitações serão respondidas após a retomada, enquanto pedidos existentes seguem as condições comunicadas individualmente. Só deve dizer isso se esse acompanhamento tiver sido realmente preparado.\n\nEvite criar uma exceção que ninguém conseguirá atender. Se o aviso oferece um contato para casos específicos, defina quem acompanha o canal e o que ele pode encaminhar. Uma caixa de entrada sem responsável não se torna suporte apenas porque recebeu esse nome na mensagem.\n\nQuando não houver acompanhamento durante a pausa, informe essa condição com clareza. Não prometa respostas imediatas ou monitoramento permanente para fazer o aviso parecer mais acolhedor.\n\n## Escreva datas que a pessoa consiga interpretar\n\nUm aviso útil identifica o início da mudança e a previsão de retomada. Confira se a data anunciada corresponde à volta do atendimento, à reabertura do espaço ou ao início da análise das solicitações acumuladas.\n\nEsses acontecimentos podem não ocorrer ao mesmo tempo. No ateliê hipotético, abrir novamente não significa conseguir responder todas as mensagens na primeira hora. A orientação precisa refletir a capacidade disponível.\n\nSe houver um prazo previsto para o retorno, use uma descrição coerente com ele. Evite uma promessa vaga de contato muito breve quando a própria empresa sabe que ficará vários dias sem acompanhar as solicitações.\n\nRevise também a forma como o aviso envelhece. Uma mensagem que diz amanhã pode continuar circulando depois da data. Datas explícitas ajudam quem encontra a publicação fora do momento imaginado pela equipe.\n\n## Alinhe o aviso aos lugares em que o cliente pede ajuda\n\nUm post de rede social pode não alcançar quem procura informação no site ou envia uma mensagem diretamente. Liste os pontos em que a pausa altera uma expectativa e confira a orientação em cada um.\n\nIsso pode incluir a página de contato, uma resposta automática e o canal comercial. Não é necessário copiar um texto longo em toda parte. Cada ponto precisa apresentar a condição relevante e um caminho compreensível para continuar.\n\nNa empresa hipotética, o site informa o período e a resposta automática explica quando novas solicitações serão avaliadas. A equipe usa a mesma referência para não anunciar datas diferentes em canais distintos.\n\nFaça um teste antes da pausa. Envie uma solicitação pelo percurso habitual e veja o que chega como resposta. O aviso está atualizado? Há uma mensagem antiga prometendo retorno imediato? Algum botão convida a agendar um atendimento que não estará disponível?\n\n## Converse diretamente sobre mudanças que afetam um compromisso\n\nUma atualização geral pode informar o funcionamento, mas uma pessoa cujo pedido será afetado precisa entender sua situação concreta. A equipe deve procurar o encaminhamento apropriado com antecedência, sem usar a publicação como substituto automático dessa conversa.\n\nNo ateliê hipotético, um ajuste de entrega pede clareza sobre o que está sendo proposto e o que ainda precisa ser combinado. O texto não deve apresentar uma alternativa como se já tivesse sido aceita.\n\nTambém é importante preservar a privacidade. O aviso público não precisa mencionar nomes, valores ou detalhes de pedidos para demonstrar organização. Cada conversa deve circular pelo canal adequado ao assunto.\n\nA finalidade é reduzir a dúvida de quem depende de uma resposta, sem transformar toda a operação numa exposição de bastidores ou criar uma obrigação de disponibilidade constante.\n\n## Prepare a retirada do aviso antes de sair\n\nA pausa termina, mas a resposta automática permanece ativa. Ou o post continua destacado enquanto o atendimento já voltou. Nesses casos, o aviso passa a descrever uma condição que deixou de existir.\n\nCombine quem atualiza os canais na retomada e quem organiza as solicitações recebidas durante a ausência. A volta pode exigir uma conferência simples das mensagens e compromissos, em vez de presumir que o funcionamento se restabelece sozinho.\n\nNa próxima pausa, comece pelos efeitos sobre pedidos e atendimento. Depois escreva a mensagem pública. Quando a comunicação acompanha o que foi preparado, o cliente consegue saber o que continua, o que espera e quando poderá retomar a conversa. A empresa faz sua pausa com uma orientação que permanece útil para quem está do outro lado.",
+      "sources": "[Sebrae-SP, planejamento de férias e comunicação com clientes, 03/11/2026](https://sp.agenciasebrae.com.br/cultura-empreendedora/seu-negocio-pode-tirar-ferias-sebrae-sp-orienta-pequenos-empreendedores-a-planejar-o-descanso/)\n\nO texto aplica editorialmente a orientação de comunicação antecipada. O ateliê é hipotético; não foram reproduzidos dados do levantamento nem histórias individuais.",
+      "prompt": "Conceptual editorial photograph without people, a small wooden shop doorway closed with a simple removable linen panel while a narrow separate pickup niche beside it remains visibly open containing one neatly wrapped unmarked parcel, realistic architectural detail and clear distinction between the two openings, warm textured plaster, soft neutral key light and a restrained teal reflection inspired by #08ffb1 along the inner edge of the niche, asymmetric negative space, no clocks, papers, laptop, cubes, prisms, readable signs, text or logos --ar 3:2",
+      "imageAlt": "Porta de madeira fechada com um painel de linho ao lado de um nicho aberto com um pacote, com reflexo teal discreto na borda do nicho.",
+      "date": "2026-11-20"
     },
     {
       "id": "pauta-diaria-2026-11-04",
@@ -38,11 +81,16 @@
       "angle": "Gancho primário: em 15/10/2026, o Google publicou um guia de compras sazonais baseado em padrões históricos de descontos e busca entre varejistas dos EUA, distinguindo categorias e lembrando os prazos de envio. Ampliar a janela a 30 dias para este recorte. Não transferir datas, comportamento ou descontos ao Brasil nem prever vendas. Tese: a janela útil de uma promoção depende de o comprador poder entender, decidir e receber a oferta a tempo, e não apenas da data escolhida para o anúncio. Exemplo hipotético de loja que confronta prazo do desconto com estoque, retirada e entrega; comunica datas e condições próximas da oferta. Não recomendar urgência artificial ou aconselhamento de preços. Diferenciar de escassez (foco na janela operacional real), de contexto da mensagem (foco na execução da oferta), e de pesquisa de consumidores (foco no desenho da janela, não na metodologia).",
       "audience": "Pequenos varejistas e equipes de marketing que planejam campanhas sazonais.",
       "goal": "Planejar a promoção considerando o tempo disponível ao comprador e a capacidade real de cumprir entrega ou retirada.",
-      "status": "Redação",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -57,16 +105,32 @@
         ]
       },
       "automation": {
-        "stage": "Redação",
+        "stage": "Revisão",
         "state": "done",
-        "lastJob": "0b0f47df-2b01-4480-8d33-001f26fc07c7",
-        "completedAt": "2026-11-04T16:17:13.074Z",
-        "message": "Redação e prompt prontos para edição."
+        "lastJob": "be12c69f-c7e6-4b38-80d2-8037f33d8c2e",
+        "completedAt": "2026-11-05T08:55:16.718Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "16a86542c15ef72c335c6e8c8a4bd91bd0731e771c6b47c26c8d70fdf727e521"
       },
       "body": "O anúncio diz que a oferta termina no domingo. Uma pessoa escolhe o produto no sábado, descobre que não há entrega a tempo e tenta retirá-lo. A loja só abre na segunda, quando o desconto já acabou. A promoção esteve disponível no calendário, mas o caminho para aproveitá-la terminou antes.\n\nA janela de uma promoção precisa considerar o tempo de quem compra e a capacidade de quem vende. Informar a data final ajuda, mas não responde sozinho se o cliente consegue entender a oferta, decidir e combinar a entrega ou retirada.\n\nEm 15 de outubro de 2026, o Google publicou um guia de compras sazonais baseado em dados históricos de busca e descontos entre varejistas dos Estados Unidos. O guia distingue categorias e chama atenção para prazos de envio. O recorte não estabelece as melhores datas para uma loja brasileira. Ele ajuda a fazer uma pergunta mais útil: que tempo o cliente realmente tem para concluir a compra nas condições anunciadas?\n\n## Conte a partir do uso, não só da data da campanha\n\nImagine uma pequena loja de presentes que oferece desconto numa linha de produtos para uma data comemorativa. É um exemplo hipotético. A equipe define o fim da promoção olhando o calendário de divulgação, sem considerar quando cada modalidade de entrega deixa de atender quem precisa do presente naquela data.\n\nComece pelo compromisso que a comunicação permite entender. A oferta termina em determinado dia. Até quando a entrega é possível na região atendida? Em que horários a retirada funciona? O que acontece se a pessoa comprar depois do último prazo para receber a tempo?\n\nUma loja pode manter uma oferta depois que a entrega antes da data comemorativa já não é possível. Nesse caso, precisa deixar a diferença clara. Quem compra para usar mais tarde pode continuar interessado. Quem precisa receber naquele dia tem informação para decidir.\n\n## Separe prazo de compra e prazo de recebimento\n\nUma mesma campanha pode ter condições diferentes para entrega, retirada e compra presencial. A informação fica mais útil quando essas condições aparecem perto do preço e do caminho de compra, em vez de surgir só depois de a pessoa preencher seus dados.\n\nNa loja hipotética, a equipe pode informar até quando recebe pedidos para entrega em cada área que consegue atender e indicar a retirada apenas onde ela existe. Se a previsão depende do endereço, ofereça uma forma de consultar antes de prometer a data.\n\nTambém vale conferir os horários do atendimento. Se uma dúvida exige resposta humana e ninguém estará disponível até o encerramento, explique onde consultar as condições ou considere uma janela que permita a resposta. Uma oferta curta não precisa criar uma corrida contra etapas que a própria empresa controla.\n\n## Dê ao comprador tempo para entender as condições\n\nA pessoa pode precisar conferir uma medida, perguntar se um item é compatível ou combinar a retirada com outra pessoa. Essas tarefas fazem parte da compra. Um anúncio que dá destaque apenas ao relógio pode deixar dúvidas importantes sem resposta.\n\nAntes de lançar, escolha as informações que ajudam a decidir sem abrir outra conversa. O desconto vale para quais itens? Há estoque no canal anunciado? Como a pessoa identifica a modalidade que consegue usar? Existe uma condição que muda o prazo?\n\nNo exemplo, uma página pode indicar o que está disponível, explicar as diferenças de entrega e orientar o próximo passo. A solução não é adicionar um parágrafo longo de ressalvas. É colocar cada informação onde a pessoa precisa dela.\n\n## Faça o calendário conversar com a operação\n\nO prazo comunicado precisa corresponder ao que a equipe pode cumprir. Para isso, marketing, vendas e quem prepara os pedidos precisam compartilhar a mesma referência.\n\nConfirme o estoque que entra na oferta, o horário de corte e quem atualiza a disponibilidade. Se a capacidade de entrega mudar, revise o anúncio e a página de destino. Deixar a comunicação antiga circular pode aumentar os pedidos justamente na modalidade que a loja deixou de oferecer.\n\nNa pequena loja do exemplo, talvez seja possível preparar mais pedidos para retirada do que para envio. A escolha pode aparecer na comunicação desde o início, com clareza sobre horários e locais. Não é preciso prometer o mesmo percurso para todo comprador.\n\n## Revise os últimos dias sem inventar urgência\n\nUm lembrete perto do encerramento pode ajudar quem já considera a oferta. Para ser útil, precisa refletir o tempo e as condições que restam.\n\nConfira se o estoque, o prazo de entrega e o horário informados ainda valem. Se apenas a retirada estiver disponível para determinada data, diga isso. Evite reiniciar uma contagem regressiva ou chamar de última chance algo cujo encerramento a empresa não definiu.\n\nTambém não transforme um caso isolado em regra para toda campanha. Se houve dificuldade, procure saber onde a pessoa perdeu tempo: na busca de informação, na resposta ou na execução do pedido. Cada situação pede uma correção diferente.\n\nNa próxima promoção, faça o percurso como alguém que só encontrou a oferta perto do fim. Confira o que a pessoa ainda consegue escolher, comprar e receber. A janela útil começa quando a oferta pode ser compreendida e termina quando as condições anunciadas deixam de ser realizáveis para aquela compra.",
       "sources": "[Google, Data-backed secrets to smarter holiday shopping, 15/10/2026](https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/)\n\nO guia usa dados históricos de varejistas dos Estados Unidos. O artigo não transfere seus resultados ao Brasil nem recomenda datas ou preços. A loja e a campanha são hipotéticas.",
       "prompt": "Natural editorial photograph at the open pickup window of a small neighborhood gift shop, one adult shopkeeper handing a neatly wrapped unmarked parcel to an adult customer standing outside, candid hands mid-transfer, the open doorway and a quiet street visible in a wide side composition, soft neutral afternoon light preserving natural skin tones, a restrained teal accent inspired by #08ffb1 reflected along the inside edge of the pickup window, no readable text or logos --ar 3:2",
-      "imageAlt": "Pessoa entrega um pacote embrulhado a outra pela janela de retirada de uma loja, com a rua ao fundo e um reflexo teal na moldura."
+      "imageAlt": "Pessoa entrega um pacote embrulhado a outra pela janela de retirada de uma loja, com a rua ao fundo e um reflexo teal na moldura.",
+      "date": "2026-11-19",
+      "keyword": "janela de uma promoção",
+      "slug": "janela-promocao-prazo-compra-entrega",
+      "meta": "A janela de uma promoção precisa combinar tempo de decisão e capacidade de entrega. Confira prazos, estoque, retirada e condições antes de anunciar.",
+      "faq": "Prazo de compra e prazo de recebimento são iguais?\nNão. A comunicação deve distinguir o encerramento da oferta das condições de entrega ou retirada.\n\nO que conferir antes de divulgar uma promoção?\nVerifique estoque, horários de atendimento, prazos de entrega, modalidades de retirada e as informações necessárias para decidir.\n\nO que revisar nos últimos dias da campanha?\nConfira se estoque e condições continuam válidos e explique quais opções ainda podem ser cumpridas, sem inventar urgência.",
+      "url": "https://www.agenciatweed.com.br/janela-promocao-prazo-compra-entrega/",
+      "imageFile": "conteudos/pauta-diaria-2026-11-04/imagens/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
+      "imageName": "Imagem do ChatGPT 5 de nov. de 2026, 05_55_11-2.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-11-05T08:55:51.237Z"
+      }
     },
     {
       "id": "pauta-diaria-2026-11-02",
@@ -76,11 +140,16 @@
       "angle": "Gancho primário verificado: em 29/10/2026, o Google Workspace publicou seu resumo de atualizações de outubro, incluindo tradução de fala em reuniões do Meet. Usar o anúncio apenas como contexto de ferramentas que podem reduzir uma barreira de idioma, sem repetir quantidade de idiomas, presumir disponibilidade universal, precisão ou recomendar produto. Tese editorial própria: apresentar uma oferta em outro idioma cria uma expectativa de continuidade; antes de ampliar a comunicação, a PME precisa conferir como esclarecer dúvidas, explicar limites da oferta e encaminhar atendimento naquele idioma. Exemplo hipotético de pequena empresa que prepara uma página em outro idioma e percebe que formulário, resposta inicial e conversa comercial continuam sem um caminho combinado. Avaliar escopo do que pode oferecer, revisão por pessoa competente, termos essenciais da oferta, encaminhamento e comunicação transparente das limitações, sem prometer domínio de idioma ou cobertura que não existe. Não transformar em tutorial de tradução nem afirmar que tradução automática substitui revisão humana ou competência técnica. Não oferecer orientação jurídica, contratual ou de exportação. Diferenciar de acesso à reunião: foco na continuidade linguística e compreensão da oferta, não em conta, aplicativo ou admissão. Diferenciar de personalização: foco no idioma de apresentação e atendimento, não em perfis de cliente. Diferenciar de resumo de reunião: não trata de converter falas em decisões. Não usar dados privados em ferramentas por conveniência nem casos de clientes da Tweed.",
       "audience": "Donos de PMEs e responsáveis por sites e atendimento que planejam apresentar sua oferta em outro idioma a clientes ou parceiros.",
       "goal": "De considerar que traduzir uma página encerra a preparação para perceber que a experiência precisa permitir continuar a conversa e esclarecer a oferta no idioma anunciado, com limites transparentes.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -111,7 +180,16 @@
       "slug": "oferta-outro-idioma-continuidade-atendimento",
       "meta": "Ao apresentar uma oferta em outro idioma, confira se formulários, respostas e atendimento permitem continuar a conversa com clareza.",
       "faq": "O que conferir antes de publicar uma página em outro idioma?\nPercorra a página, o formulário e a resposta inicial. Confirme se a pessoa pode esclarecer dúvidas e entender o próximo passo.\n\nComo comunicar um limite de atendimento?\nInforme antes do contato quais canais e etapas a equipe consegue atender naquele idioma.\n\nO que revisar quando a oferta muda?\nConfira as condições da oferta nas páginas, formulários, respostas iniciais e apresentações afetadas.",
-      "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/"
+      "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/",
+      "imageFile": "conteudos/pauta-diaria-2026-11-02/imagens/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+      "imageName": "Imagem do ChatGPT 5 de nov. de 2026, 05_55_11-1.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-11-05T08:55:27.082Z"
+      }
     },
     {
       "id": "pauta-reposicao-2026-11-01-6bbfe1e9d4ae",
@@ -881,8 +959,18 @@
       "faq": "Como começar a reconhecer as contribuições num produto?\nConfira quem concebeu, desenvolveu e executou o trabalho, incluindo decisões compartilhadas, antes de resumir os papéis na comunicação.\n\nUm nome na legenda explica toda a participação?\nNem sempre. Uma descrição breve e confirmada do papel pode ajudar o público a compreender a contribuição.\n\nO que combinar antes de divulgar pessoas e imagens de produção?\nAlinhe a identificação, a descrição da participação e o uso das imagens com as pessoas envolvidas, conferindo as condições aplicáveis ao trabalho.",
       "url": "https://www.agenciatweed.com.br/reconhecer-contribuicoes-criacao-produto/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-10-30T08:25:45.997Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/reconhecer-contribuicoes-criacao-produto/",
+        "publishedAt": "2026-11-05T08:53:57.944236+00:00",
+        "job": "9988aea8-6650-47d3-ad67-4be1c4949e76",
+        "files": [
+          "assets/artigos-editoriais/f155fbec0d49b0511e1ce8cf54363b488843b9830f15fcae8a33e9bd9f5a4b02.png",
+          "reconhecer-contribuicoes-criacao-produto/index.html",
+          "blog/index.html",
+          "blog-marcas-com-alma/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {

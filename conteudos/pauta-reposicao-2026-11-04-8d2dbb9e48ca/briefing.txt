@@ -1,9 +1,7 @@
 TÍTULO: O cliente sabe o que acontece com seu pedido quando a empresa faz uma pausa?
 EDITORIA: 0
-VOZ: Lorenzo
 ÂNGULO: Partir da orientação publicada pelo Sebrae-SP em 03/11/2026 sobre comunicar férias e organizar entregas antes da pausa. Tese: um aviso de fechamento precisa separar novos pedidos, compromissos em andamento e a data de retomada, para que o cliente não precise adivinhar o que está mantido. Exemplo hipotético de ateliê com encomendas já confirmadas que ajusta página, resposta automática e contatos diretos com a mesma informação. Diferenciar de atualização genérica de canais: foco no efeito temporário da pausa sobre compromissos existentes. Sem reproduzir estatísticas ou histórias individuais da fonte e sem orientação financeira ou trabalhista.
 LEITOR: Donos de pequenos negócios e equipes de atendimento que planejam férias, recesso ou uma pausa temporária.
 OBJETIVO: Criar um aviso de pausa que permita ao cliente entender o que acontece com pedidos em andamento, novas solicitações e retomada do atendimento.
 
-FONTES DA PESQUISA:
-2026-11-03 | Sebrae-SP, Seu negócio pode tirar férias? | https://sp.agenciasebrae.com.br/cultura-empreendedora/seu-negocio-pode-tirar-ferias-sebrae-sp-orienta-pequenos-empreendedores-a-planejar-o-descanso/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

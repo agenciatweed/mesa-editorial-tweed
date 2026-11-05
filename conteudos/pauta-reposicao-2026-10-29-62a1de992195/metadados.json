@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: em 13/10/2026 o Sebrae-RN anunciou a participação de marcas autorais e da Coleção Poti no SPFW, identificando grupos de artesãs e a mentoria que participaram do desenvolvimento. Usar somente o anúncio e as atribuições explícitas, sem afirmar resultados comerciais ou confirmar retrospectivamente toda a participação. Após triagem da última semana, pesquisa ampliada a 30 dias para um tema distinto. Tese: quando o saber-fazer de parceiros integra a proposta de uma marca, apresentar sua contribuição com precisão e autorização ajuda o público a compreender a origem do trabalho; não basta usar o artesanato como decoração narrativa. Exemplo hipotético de pequena marca que decide como creditar autoria, desenvolvimento e execução de uma peça, combinando previamente nomes, imagens e descrição de papéis com as pessoas envolvidas. Não usar dados de clientes da Tweed nem presumir direitos contratuais. Não fazer parecer jurídico, nem prometer venda, preço premium ou impacto social mensurado. Diferenciar de textura e tendências visuais: foco no reconhecimento das contribuições humanas e na precisão dos créditos. Diferenciar de storytelling mítico: descrever responsabilidades reais, sem inventar uma história heroica de origem.",
   "audience": "Donos de pequenas marcas e responsáveis por comunicação de produtos desenvolvidos com artesãos, designers e parceiros de produção.",
   "goal": "De “a história do produto é só a história da nossa marca” para “preciso tornar compreensível quem contribuiu, em qual papel e como essa contribuição pode ser apresentada de maneira acordada e precisa”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/f155fbec0d49b0511e1ce8cf54363b488843b9830f15fcae8a33e9bd9f5a4b02.png",
   "faq": "Como começar a reconhecer as contribuições num produto?\nConfira quem concebeu, desenvolveu e executou o trabalho, incluindo decisões compartilhadas, antes de resumir os papéis na comunicação.\n\nUm nome na legenda explica toda a participação?\nNem sempre. Uma descrição breve e confirmada do papel pode ajudar o público a compreender a contribuição.\n\nO que combinar antes de divulgar pessoas e imagens de produção?\nAlinhe a identificação, a descrição da participação e o uso das imagens com as pessoas envolvidas, conferindo as condições aplicáveis ao trabalho.",
-  "url": "https://www.agenciatweed.com.br/reconhecer-contribuicoes-criacao-produto/"
+  "url": "https://www.agenciatweed.com.br/reconhecer-contribuicoes-criacao-produto/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/reconhecer-contribuicoes-criacao-produto/",
+    "publishedAt": "2026-11-05T08:53:57.944236+00:00",
+    "job": "9988aea8-6650-47d3-ad67-4be1c4949e76",
+    "files": [
+      "assets/artigos-editoriais/f155fbec0d49b0511e1ce8cf54363b488843b9830f15fcae8a33e9bd9f5a4b02.png",
+      "reconhecer-contribuicoes-criacao-produto/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
