@@ -1,8 +1,35 @@
 {
   "version": 1,
   "editorialVersion": 2,
-  "exportedAt": "2026-11-05T09:07:18.445Z",
+  "exportedAt": "2026-11-05T13:00:26.652Z",
   "items": [
+    {
+      "id": "pauta-reposicao-2026-11-05-794367db439b",
+      "title": "Quem respondeu à sua pesquisa sabe o que aconteceu depois?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário verificado em 05/11/2026: Google Workspace anunciou análise assistida de respostas no Forms, com resumos e sugestões de próximos passos; disponibilidade depende de conta e implantação gradual. Usar como contexto, sem afirmar acesso universal nem comprovar precisão ou resultado. Tese editorial própria: resumir feedback internamente não encerra a conversa com quem participou; a empresa precisa decidir quando e como comunicar o que foi considerado, o que mudou e o que permanece sem decisão, sem prometer adotar toda sugestão. Exemplo hipotético de uma PME que pede avaliação após uma experiência e prepara um retorno agregado sobre uma melhoria viável, sem expor respostas individuais. Diferenciar de aplicabilidade de pesquisas externas: foco na devolutiva aos próprios participantes, não em generalizar amostras. Diferenciar de comentários como experiência e atendimento de reclamações: não tratar resposta pública a caso individual, mas fechamento de um convite organizado à escuta. Não apresentar correlação como causa, oferecer parecer de privacidade ou enviar respostas identificáveis a ferramentas.",
+      "audience": "Donos de PMEs e equipes de marketing e relacionamento que solicitam avaliações de clientes e participantes.",
+      "goal": "De considerar a pesquisa concluída quando o relatório fica pronto para planejar uma devolutiva honesta sobre o encaminhamento das contribuições, sem prometer mudanças que não foram decididas.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-05",
+        "mode": "replenishment",
+        "sources": [
+          {
+            "title": "Google Workspace Updates, Get actionable insights with Gemini in Google Forms",
+            "url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+            "publishedAt": "2026-11-05"
+          }
+        ]
+      }
+    },
     {
       "id": "pauta-reposicao-2026-11-05-c7ebbf3a6826",
       "title": "Seu cliente entende onde a sua solução faz sentido e onde ela não serve?",
@@ -11,8 +38,8 @@
       "angle": "Gancho primário de 04/11/2026: a Agência Estadual de Notícias do Paraná anunciou seleção de empresas para apresentar soluções no Sanepar Impulsiona, esclarecendo que a ação não é processo de compra nem promessa de contratação. Usar o anúncio como contexto para a tradução de uma solução técnica em aplicação compreensível, sem recomendar inscrição ou alegar resultados do encontro. Tese editorial: uma apresentação B2B precisa permitir que o interlocutor reconheça a situação de uso, as condições necessárias e os limites de adequação, em vez de depender de adjetivos sobre inovação. Exemplo inteiramente hipotético de uma empresa que oferece monitoramento e explica para que tipo de instalação sua solução foi concebida, quais condições exigem avaliação e quando ela não resolve o problema. Não ensinar tecnologia de saneamento nem fornecer especificações inventadas. Diferenciar de cadastro de fornecedores: foco na compreensão da aplicação, não em localizar dados para homologação. Diferenciar de demonstração de produto: foco nos limites de encaixe antes de uma demonstração. Diferenciar de resultados versus expectativas: não concentrar a tese na classificação de indicadores.",
       "audience": "Donos de empresas B2B e equipes comerciais e de marketing que precisam apresentar soluções técnicas a interlocutores de áreas diferentes.",
       "goal": "De descrever uma solução com adjetivos amplos para explicar situações de uso e limites que permitam ao cliente avaliar se vale continuar a conversa.",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -28,7 +55,18 @@
             "publishedAt": "2026-11-04"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "cd627afe-5128-4cae-b6ad-a6980dc11f0f",
+        "completedAt": "2026-11-05T20:53:31.198Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A apresentação diz que a solução é inteligente, integrada e inovadora. Mostra recursos, telas e uma lista de vantagens. Ao final, o possível cliente ainda precisa perguntar: isso funciona numa operação como a minha?\n\nExplicar a aplicação de uma solução técnica exige aproximar o que ela faz das condições em que pode ser útil. O interlocutor precisa reconhecer uma situação de uso e compreender o que ainda depende de avaliação. Sem essa passagem, a conversa pode avançar com expectativas diferentes de cada lado.\n\nEm notícia publicada em 4 de novembro de 2026, a Agência Estadual de Notícias do Paraná anunciou uma seleção de empresas para apresentar soluções no Sanepar Impulsiona. O comunicado pede uma descrição sintética dos diferenciais e esclarece que a iniciativa não constitui processo de compra nem promessa de contratação. É um contexto de apresentação, sem resultado comercial comprovado.\n\nPara uma empresa B2B, a pergunta editorial vai além desse evento: seu material permite entender quando vale continuar a conversa e quando a solução não corresponde ao problema?\n\n## Comece pela situação, antes do recurso\n\nImagine uma empresa que oferece monitoramento para instalações comerciais. É um exemplo inteiramente hipotético, sem especificações de um produto real. Sua apresentação começa com uma sequência de funcionalidades, mas não explica qual situação motivaria alguém a procurar aquele serviço.\n\nUma pessoa responsável pela operação pode tentar relacionar os recursos ao próprio cotidiano. Outra, da área administrativa, pode não conhecer os termos usados. Ambas precisam de uma referência concreta para avaliar a pertinência.\n\nA apresentação pode começar descrevendo a situação de uso para a qual a solução foi concebida. Que acompanhamento ela permite? Que informação ajuda a reunir? Que dificuldade permanece fora de seu alcance? As respostas devem vir de quem conhece o produto e suas condições reais.\n\nNão se trata de inventar uma dor para encaixar uma oferta. Se a empresa não consegue explicar a aplicação sem recorrer a uma promessa ampla, precisa esclarecer a proposta antes de produzir mais peças de divulgação.\n\n## Mostre as condições que mudam a adequação\n\nDuas empresas podem reconhecer uma dificuldade parecida e ter condições de uso distintas. A estrutura existente, a disponibilidade de informações e a forma de acompanhar o serviço podem exigir avaliações diferentes.\n\nNo exemplo hipotético, a empresa de monitoramento deve identificar quais condições precisam ser conhecidas antes de confirmar a aplicação. O material inicial não precisa reproduzir um manual, mas deve evitar transmitir a impressão de que qualquer instalação está automaticamente atendida.\n\nSepare aquilo que pode ser explicado publicamente do que exige uma conversa técnica. Se a adequação depende de uma avaliação, diga isso de modo compreensível e indique o próximo passo. Não apresente a necessidade de diagnóstico como um detalhe que só aparecerá depois do aceite.\n\nTambém é importante distinguir uma configuração disponível de uma adaptação ainda não desenvolvida. Uma possibilidade discutida comercialmente não deveria circular no site como capacidade estabelecida.\n\n## Diga o que a solução não substitui\n\nUm limite útil ajuda a compreender a função do produto. Não precisa ser escondido no fim de uma apresentação nem transformado numa longa lista defensiva.\n\nNa empresa hipotética, o monitoramento pode oferecer informações para acompanhamento sem executar, por si só, todas as ações necessárias diante de uma ocorrência. A descrição exata dependeria do produto real. O exemplo serve para mostrar uma distinção de comunicação: receber uma informação e resolver a situação não são necessariamente a mesma entrega.\n\nConfira se o material permite separar o papel da solução das responsabilidades que continuam com o cliente ou com outros profissionais. Um vídeo pode mostrar um painel funcionando e, ainda assim, deixar ambíguo quem interpreta um aviso ou decide o encaminhamento.\n\nEvite limites formulados de maneira tão vaga que não orientem ninguém. “Depende de cada caso” pode ser verdadeiro, mas a equipe deve conseguir explicar quais informações permitem começar essa avaliação, sem prometer uma resposta antes de conhecê-las.\n\n## Traduza para o interlocutor sem apagar a precisão\n\nUma apresentação B2B pode circular entre pessoas que não participaram da primeira conversa. Quem recebeu o material talvez precise explicá-lo a alguém de outra área.\n\nPor isso, conferir a clareza não significa apenas perguntar se o texto parece simples. Verifique o que uma pessoa consegue reconstruir depois da leitura: para que serve, em qual situação pode fazer sentido e o que precisa ser confirmado.\n\nTermos técnicos podem ser necessários. Quando forem, ofereça uma explicação ligada à decisão do interlocutor. Trocar todo termo por uma expressão genérica como tecnologia de ponta pode eliminar justamente a informação que diferencia a oferta.\n\nNa empresa hipotética, a versão inicial pode apresentar a aplicação e os limites, com um aprofundamento separado para quem avaliará os requisitos técnicos. As duas versões precisam contar a mesma história, em níveis de detalhe diferentes.\n\n## Prepare o encaminhamento para um caso sem encaixe\n\nNem toda conversa deveria terminar numa demonstração ou proposta. Quando a situação descrita está fora da aplicação conhecida, a equipe precisa conseguir reconhecer essa condição.\n\nIsso exige alinhamento entre marketing, comercial e responsáveis técnicos. Que perguntas ajudam a identificar o contexto? Quem confere uma dúvida? Em que momento a equipe deve explicar que ainda não consegue confirmar a adequação?\n\nUm formulário pode apoiar a coleta inicial, mas não deve substituir julgamento por uma aparência de precisão. Também não convém pedir informações que ninguém usará para orientar o encaminhamento.\n\nNo exemplo, uma demanda fora das condições conhecidas pode ser encaminhada para avaliação antes de qualquer compromisso. Se não houver solução apropriada, a comunicação deve refletir esse limite. A transparência precisa acompanhar o que a empresa efetivamente consegue oferecer.\n\n## Confira se os materiais ajudam a reconhecer o encaixe\n\nPercorra a página, a apresentação e a conversa comercial com a mesma pergunta: o cliente consegue identificar a aplicação ou precisa completar a explicação com suposições?\n\nObserve também o que a equipe precisa corrigir repetidamente nas conversas. Uma dúvida recorrente sobre o alcance da solução pode revelar uma omissão no material. Não prova, sozinha, que o público não entende tecnologia.\n\nAo revisar sua próxima apresentação, selecione uma aplicação concreta e confira suas condições com quem responde pelo produto. Mostre o problema ao qual ela se dirige, o que precisa ser avaliado e o que permanece fora da entrega. O possível cliente ganha uma base para decidir se vale avançar. A marca passa a sustentar sua especialização com uma explicação que pode ser examinada.",
+      "sources": "[Agência Estadual de Notícias do Paraná, seleção para o Sanepar Impulsiona, 04/11/2026](https://www.parana.pr.gov.br/aen/Noticia/Sanepar-e-Senai-selecionam-empresas-para-apresentar-solucoes-inovadoras/)\n\nO comunicado é contexto de apresentação de soluções, sem promessa de contratação. A empresa de monitoramento é hipotética e não representa especificações técnicas reais. Os critérios de comunicação são análise editorial da Tweed.",
+      "prompt": "Conceptual editorial photograph without people, a precisely shaped wooden inlay resting flush inside one matching curved recess in a broad pale stone surface, a second adjacent recess visibly different in shape and left empty, tactile material contrast and clear imperfect compatibility between the two openings, close oblique composition with generous negative space, soft neutral key light, restrained teal ambient accent inspired by #08ffb1 reflected inside the unmatched recess, controlled contrast, no cubes, prisms, maze, light beams, papers, laptop, readable text or logos --ar 3:2",
+      "imageAlt": "Peça de madeira encaixada em uma cavidade curva de pedra, ao lado de outra cavidade vazia de formato diferente com reflexo teal discreto."
     },
     {
       "id": "pauta-diaria-2026-11-05",
@@ -38,11 +76,16 @@
       "angle": "Gancho primário: em 03/11/2026, com atualização em 04/11, o Sebrae Sergipe anunciou a programação futura do Reload 2026 com palestras e oficinas de ferramentas digitais. Usar apenas como contexto de oferta de aprendizagem, sem alegar resultados do evento ainda não realizado nem recomendar ingresso. Tese editorial própria: participar de cursos e eventos só se conecta à rotina quando a empresa escolhe uma aplicação delimitada, atribui responsabilidade e define o que pretende observar; acumular referências não substitui decidir. Exemplo hipotético de PME que volta de uma oficina e escolhe testar uma melhoria na explicação de uma oferta antes de trocar todas as ferramentas e canais. Separar conteúdo aprendido, hipótese de aplicação e decisão real; não inventar consenso ou efeito causal. Diferenciar da pauta de capacitação em IA: esta trata de transferência de aprendizagem de marketing em geral para uma mudança delimitada, não de dependência tecnológica. Diferenciar de resumo de reunião: não é registro de acordos. Diferenciar de pós-feira: não trata de retomar contatos comerciais. Sem promessa de vendas ou método científico formal.",
       "audience": "Donos de PMEs e equipes de marketing que participam de cursos e eventos e querem transformar repertório em uma ação viável.",
       "goal": "De acumular ideias após uma formação para selecionar uma aplicação concreta e acompanhar seu entendimento e execução antes de ampliar mudanças.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -78,7 +121,11 @@
       "imageHeight": 1024,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
       "faq": "Por onde começar a aplicar o aprendizado de marketing?\nEscolha uma dificuldade real da empresa e verifique como uma ideia aprendida pode ajudar a examiná-la, considerando as condições do negócio.\n\nO que definir antes de colocar uma ideia em prática?\nDelimite a mudança, as informações a conferir, quem será responsável e o espaço necessário na agenda.\n\nUma impressão favorável comprova resultado comercial?\nNão. Observe a pergunta definida para a aplicação e reconheça os limites dos sinais disponíveis, sem atribuir vendas automaticamente à mudança.",
-      "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/"
+      "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/",
+      "publication": {
+        "state": "queued",
+        "approvedAt": "2026-11-05T09:17:31.187Z"
+      }
     },
     {
       "id": "pauta-reposicao-2026-11-04-8d2dbb9e48ca",

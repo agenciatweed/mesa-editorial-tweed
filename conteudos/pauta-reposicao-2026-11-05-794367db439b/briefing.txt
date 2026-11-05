@@ -1,0 +1,9 @@
+TÍTULO: Quem respondeu à sua pesquisa sabe o que aconteceu depois?
+EDITORIA: 3
+VOZ: Lorenzo
+ÂNGULO: Gancho primário verificado em 05/11/2026: Google Workspace anunciou análise assistida de respostas no Forms, com resumos e sugestões de próximos passos; disponibilidade depende de conta e implantação gradual. Usar como contexto, sem afirmar acesso universal nem comprovar precisão ou resultado. Tese editorial própria: resumir feedback internamente não encerra a conversa com quem participou; a empresa precisa decidir quando e como comunicar o que foi considerado, o que mudou e o que permanece sem decisão, sem prometer adotar toda sugestão. Exemplo hipotético de uma PME que pede avaliação após uma experiência e prepara um retorno agregado sobre uma melhoria viável, sem expor respostas individuais. Diferenciar de aplicabilidade de pesquisas externas: foco na devolutiva aos próprios participantes, não em generalizar amostras. Diferenciar de comentários como experiência e atendimento de reclamações: não tratar resposta pública a caso individual, mas fechamento de um convite organizado à escuta. Não apresentar correlação como causa, oferecer parecer de privacidade ou enviar respostas identificáveis a ferramentas.
+LEITOR: Donos de PMEs e equipes de marketing e relacionamento que solicitam avaliações de clientes e participantes.
+OBJETIVO: De considerar a pesquisa concluída quando o relatório fica pronto para planejar uma devolutiva honesta sobre o encaminhamento das contribuições, sem prometer mudanças que não foram decididas.
+
+FONTES DA PESQUISA:
+2026-11-05 | Google Workspace Updates, Get actionable insights with Gemini in Google Forms | https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html

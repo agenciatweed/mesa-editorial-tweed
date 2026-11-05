@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-05-794367db439b",
+  "title": "Quem respondeu à sua pesquisa sabe o que aconteceu depois?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado em 05/11/2026: Google Workspace anunciou análise assistida de respostas no Forms, com resumos e sugestões de próximos passos; disponibilidade depende de conta e implantação gradual. Usar como contexto, sem afirmar acesso universal nem comprovar precisão ou resultado. Tese editorial própria: resumir feedback internamente não encerra a conversa com quem participou; a empresa precisa decidir quando e como comunicar o que foi considerado, o que mudou e o que permanece sem decisão, sem prometer adotar toda sugestão. Exemplo hipotético de uma PME que pede avaliação após uma experiência e prepara um retorno agregado sobre uma melhoria viável, sem expor respostas individuais. Diferenciar de aplicabilidade de pesquisas externas: foco na devolutiva aos próprios participantes, não em generalizar amostras. Diferenciar de comentários como experiência e atendimento de reclamações: não tratar resposta pública a caso individual, mas fechamento de um convite organizado à escuta. Não apresentar correlação como causa, oferecer parecer de privacidade ou enviar respostas identificáveis a ferramentas.",
+  "audience": "Donos de PMEs e equipes de marketing e relacionamento que solicitam avaliações de clientes e participantes.",
+  "goal": "De considerar a pesquisa concluída quando o relatório fica pronto para planejar uma devolutiva honesta sobre o encaminhamento das contribuições, sem prometer mudanças que não foram decididas.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-05",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Google Workspace Updates, Get actionable insights with Gemini in Google Forms",
+        "url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+        "publishedAt": "2026-11-05"
+      }
+    ]
+  }
+}
