@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "marca-causa-explicar-produto-novos-publicos",
+  "contentSha256": "0f94bd577d4a3c5335d752c92cfc76440b8cbd11673c1fc185f38bec62f3edf2",
+  "modifiedAt": "2026-11-06",
+  "links": [
+    {
+      "from": "marca-causa-explicar-produto-novos-publicos",
+      "to": "comunicar-melhoria-ambiental-escopo-evidencia",
+      "anchor": "a que parte da produção eles se aplicam",
+      "context": "Na marca hipotética, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.",
+      "reason": "Aprofunda a delimitação de compromissos e afirmações ambientais sem ampliar seu alcance."
+    }
+  ]
+}

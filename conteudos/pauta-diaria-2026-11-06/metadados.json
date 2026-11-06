@@ -1,0 +1,27 @@
+{
+  "id": "pauta-diaria-2026-11-06",
+  "title": "Seu personagem de marca continua sendo o mesmo em cada peça?",
+  "edition": 1,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 05/11/2026: Google Workspace anunciou atualização de geração de vídeos no Vids e declara melhorias de consistência de personagens e produtos a partir de referências. Tratar como anúncio de fornecedor, sem comprovar desempenho universal ou recomendar assinatura. Tese editorial: uma marca que usa um personagem recorrente precisa definir o que o torna reconhecível entre cenas, além de conferir sua aparência; gestos, papel na história e modo de agir não deveriam mudar sem critério só porque cada imagem parece boa isoladamente. Exemplo hipotético de um mascote ilustrado próprio de uma PME que aparece numa embalagem e em vídeos curtos, com comparação de silhueta, proporções e comportamento. Não usar pessoas reais ou personagens protegidos nem sugerir imitação de artistas. Diferenciar de IA que conhece a marca: foco na continuidade de um personagem específico, não em briefing geral ou paleta. Diferenciar de série de conteúdo: foco no reconhecimento visual e comportamental, não em sequência de episódios. Sem alegar que consistência garante lembrança, afinidade ou venda.",
+  "audience": "Donos de PMEs e equipes de criação que usam mascotes ou personagens próprios em materiais recorrentes, com ou sem IA.",
+  "goal": "De aprovar cada peça pela beleza isolada para conferir se o personagem permanece reconhecível e coerente nas diferentes situações da marca.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-06",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Google Workspace Updates, Gemini Omni 1.2 Flash now in Vids with 15-second generations and improved quality",
+        "url": "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html",
+        "publishedAt": "2026-11-05"
+      }
+    ]
+  }
+}

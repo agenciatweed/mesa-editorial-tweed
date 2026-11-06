@@ -6,11 +6,16 @@
   "angle": "Gancho verificado: reportagem do Sebrae de 28/10/2026 sobre veganismo inclui relato da fundadora da Maduu sobre apresentar design e funcionalidade para alcançar pessoas que não necessariamente são veganas. Usar esse depoimento como visão da empreendedora, sem tratá-lo como experimento ou prova causal de crescimento. Não reproduzir estatísticas de consumo sem acessar o levantamento original. Tese: uma marca orientada por valores pode criar portas de entrada pelo uso e pelo projeto do produto sem esconder nem diluir seus compromissos; não é preciso presumir adesão prévia do comprador à causa para explicar a oferta. Exemplo hipotético de pequena marca de acessórios que apresenta primeiro uma situação de uso e detalhes verificáveis de construção, mantendo acessível a explicação de seus compromissos e materiais. Comparar modos de organizar uma página de produto para diferentes dúvidas, sem estabelecer fórmula universal ou recomendar omissão. Não equiparar sintético, vegano e sustentável, nem prometer durabilidade, benefício ambiental ou desempenho sem evidência. Diferenciar de valor de serviço já contratado: foco na entrada de novos públicos em uma marca orientada por valores. Diferenciar de nicho: ampliar compreensão sem mudar indiscriminadamente o público ou abandonar posicionamento. Diferenciar de melhoria ambiental: foco na hierarquia de apresentação do produto e da causa, não na validação de alegações ambientais.",
   "audience": "Donos de pequenas marcas de produtos orientadas por valores e responsáveis por páginas de produto e comunicação de lançamento.",
   "goal": "De “o comprador precisa aderir primeiro à nossa causa” para “posso explicar uma utilidade concreta e manter meus compromissos claros, sem exigir uma identidade prévia do público nem esconder informações relevantes”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/c679887877335fd24a7bdda111789e6434afdac334e2da89b0bcbab39e41d257.png",
   "faq": "Explicar a utilidade do produto enfraquece a causa da marca?\nNão necessariamente. A comunicação pode apresentar uma situação de uso e manter os compromissos claros e acessíveis.\n\nO produto deve ser apresentado da mesma forma a todo público?\nÉ possível variar a porta de entrada conforme a dúvida, preservando os fatos, os limites e a coerência da oferta.\n\nUm material sintético comprova sustentabilidade?\nNão. Uma característica de composição não comprova, sozinha, o impacto de todo o produto; as alegações exigem base adequada.",
-  "url": "https://www.agenciatweed.com.br/marca-causa-explicar-produto-novos-publicos/"
+  "url": "https://www.agenciatweed.com.br/marca-causa-explicar-produto-novos-publicos/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/marca-causa-explicar-produto-novos-publicos/",
+    "publishedAt": "2026-11-06T08:51:25.967667+00:00",
+    "job": "41d379fd-685f-40d0-a70c-76c8c1fee0c7",
+    "files": [
+      "assets/artigos-editoriais/c679887877335fd24a7bdda111789e6434afdac334e2da89b0bcbab39e41d257.png",
+      "marca-causa-explicar-produto-novos-publicos/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }
