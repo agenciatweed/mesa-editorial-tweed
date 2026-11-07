@@ -1,0 +1,27 @@
+{
+  "id": "pauta-diaria-2026-11-07",
+  "title": "Antes de contratar um influenciador, sua marca sabe que conversa quer abrir?",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 05/11/2026: Sebrae divulgou pesquisa com a FGV sobre a percepção de pequenos negócios a respeito de parcerias com influenciadores. Usar apenas como contexto de interesse empresarial, sem repetir percentuais, atribuir causalidade ou prometer resultados. Tese editorial: escolher um criador deve começar pela conversa que a empresa precisa estabelecer com um público pertinente e pela contribuição que aquele criador pode oferecer, em vez de selecionar apenas por volume de seguidores. Exemplo hipotético de PME que precisa esclarecer uma situação de uso e compara a pertinência do conteúdo e das interações de possíveis parceiros, sem critérios numéricos inventados. Diferenciar de parceria entre marcas: foco na relação com um criador e no papel editorial do conteúdo, não na soma de logotipos. Diferenciar de microcomunidades: foco na escolha e no briefing da colaboração, não no tamanho de audiência. Não oferecer modelo contratual, regras jurídicas de publicidade ou garantia de conversão.",
+  "audience": "Donos de PMEs e responsáveis por marketing que avaliam a primeira colaboração com criadores de conteúdo.",
+  "goal": "De contratar uma audiência pela quantidade de seguidores para definir a conversa, o público e a contribuição editorial antes de escolher o parceiro.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-07",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Agência Sebrae de Notícias, pesquisa sobre influenciadores nas estratégias de pequenos negócios",
+        "url": "https://agenciasebrae.com.br/dados/dois-em-cada-tres-pequenos-negocios-que-contratam-influenciadores-alcancam-resultados-positivos/",
+        "publishedAt": "2026-11-05"
+      }
+    ]
+  }
+}

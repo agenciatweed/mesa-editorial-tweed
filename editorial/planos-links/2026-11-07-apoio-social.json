@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "acao-apoio-social-venda-mecanismo",
+  "contentSha256": "200291e6985d10a13dfa21bf6101fcfe3cc583381c794a1aa5787e1cb371d98f",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "acao-apoio-social-venda-mecanismo",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "Uma fotografia pode sugerir um alcance que a descrição não sustenta",
+      "context": "Também confira a imagem escolhida. Uma fotografia pode sugerir um alcance que a descrição não sustenta. A apresentação precisa ser coerente com a ação, sem usar histórias ou imagens de pessoas como recurso emocional sem condições adequadas de divulgação.",
+      "reason": "Aprofunda os limites entre imagem ilustrativa e evidência da entrega."
+    }
+  ]
+}

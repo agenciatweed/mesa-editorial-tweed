@@ -6547,7 +6547,7 @@
       "id": "4cd47f73-ffc3-4846-a8ab-293ae0fcaa11",
       "itemId": "pauta-reposicao-2026-10-29-48c5e0483de5",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "5e93fe74a1f7dafa7597257cd069c4889ff7e60b04043bb27164bcbf0a1c9438",
       "snapshot": "5e93fe74a1f7dafa7597257cd069c4889ff7e60b04043bb27164bcbf0a1c9438",
       "input": {
@@ -6609,7 +6609,8 @@
           "approvedAt": "2026-10-30T08:25:19.302Z"
         }
       },
-      "createdAt": "2026-10-30T08:25:19.307Z"
+      "createdAt": "2026-10-30T08:25:19.307Z",
+      "completedAt": "2026-11-07T07:33:04.262605+00:00"
     },
     {
       "id": "b36aef19-f976-46e9-906d-adfd10db288e",
@@ -8947,6 +8948,112 @@
       "createdAt": "2026-11-06T12:06:24.708Z",
       "startedAt": "2026-11-06T20:56:05.756Z",
       "completedAt": "2026-11-06T20:56:29.204Z"
+    },
+    {
+      "id": "f2f7db01-2ff3-4bfb-9adb-2835bd37dd21",
+      "itemId": "pauta-diaria-2026-11-06",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "75e3db243108bfba23f1274a1f71f307de9cc039d397ca7e4c91c46cc1e67f50",
+      "snapshot": "c270f95b6157d4d92744ea46c1c69bd35ffb0d7bdee57b0b200630edc587f82a",
+      "input": {
+        "id": "pauta-diaria-2026-11-06",
+        "title": "Seu personagem de marca continua sendo o mesmo em cada peça?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 05/11/2026: Google Workspace anunciou atualização de geração de vídeos no Vids e declara melhorias de consistência de personagens e produtos a partir de referências. Tratar como anúncio de fornecedor, sem comprovar desempenho universal ou recomendar assinatura. Tese editorial: uma marca que usa um personagem recorrente precisa definir o que o torna reconhecível entre cenas, além de conferir sua aparência; gestos, papel na história e modo de agir não deveriam mudar sem critério só porque cada imagem parece boa isoladamente. Exemplo hipotético de um mascote ilustrado próprio de uma PME que aparece numa embalagem e em vídeos curtos, com comparação de silhueta, proporções e comportamento. Não usar pessoas reais ou personagens protegidos nem sugerir imitação de artistas. Diferenciar de IA que conhece a marca: foco na continuidade de um personagem específico, não em briefing geral ou paleta. Diferenciar de série de conteúdo: foco no reconhecimento visual e comportamental, não em sequência de episódios. Sem alegar que consistência garante lembrança, afinidade ou venda.",
+        "audience": "Donos de PMEs e equipes de criação que usam mascotes ou personagens próprios em materiais recorrentes, com ou sem IA.",
+        "goal": "De aprovar cada peça pela beleza isolada para conferir se o personagem permanece reconhecível e coerente nas diferentes situações da marca.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-06",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Gemini Omni 1.2 Flash now in Vids with 15-second generations and improved quality",
+              "url": "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-06T22:54:09.204Z",
+      "startedAt": "2026-11-07T07:32:02.813Z",
+      "completedAt": "2026-11-07T07:34:04.709Z"
+    },
+    {
+      "id": "ef0daf35-5de1-478a-b01e-41b069f17eed",
+      "itemId": "pauta-reposicao-2026-11-05-794367db439b",
+      "action": "publicar",
+      "state": "pending",
+      "workKey": "d01aecb23bf34a94132e6ad23b92e8bfa3500e37ed3df25e8d185b0634e55b1f",
+      "snapshot": "d01aecb23bf34a94132e6ad23b92e8bfa3500e37ed3df25e8d185b0634e55b1f",
+      "input": {
+        "id": "pauta-reposicao-2026-11-05-794367db439b",
+        "title": "Quem respondeu à sua pesquisa sabe o que aconteceu depois?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 05/11/2026: Google Workspace anunciou análise assistida de respostas no Forms, com resumos e sugestões de próximos passos; disponibilidade depende de conta e implantação gradual. Usar como contexto, sem afirmar acesso universal nem comprovar precisão ou resultado. Tese editorial própria: resumir feedback internamente não encerra a conversa com quem participou; a empresa precisa decidir quando e como comunicar o que foi considerado, o que mudou e o que permanece sem decisão, sem prometer adotar toda sugestão. Exemplo hipotético de uma PME que pede avaliação após uma experiência e prepara um retorno agregado sobre uma melhoria viável, sem expor respostas individuais. Diferenciar de aplicabilidade de pesquisas externas: foco na devolutiva aos próprios participantes, não em generalizar amostras. Diferenciar de comentários como experiência e atendimento de reclamações: não tratar resposta pública a caso individual, mas fechamento de um convite organizado à escuta. Não apresentar correlação como causa, oferecer parecer de privacidade ou enviar respostas identificáveis a ferramentas.",
+        "audience": "Donos de PMEs e equipes de marketing e relacionamento que solicitam avaliações de clientes e participantes.",
+        "goal": "De considerar a pesquisa concluída quando o relatório fica pronto para planejar uma devolutiva honesta sobre o encaminhamento das contribuições, sem prometer mudanças que não foram decididas.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-05",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Get actionable insights with Gemini in Google Forms",
+              "url": "https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "7ae87938-9248-487f-8865-a37c5927a3e3",
+          "completedAt": "2026-11-06T20:56:29.096Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "549184a1d4926cd51800efe52e6b72bc6acf25c3b603886328e8ba7f690e525a"
+        },
+        "body": "O convite pede dois minutos para avaliar a experiência. A pessoa responde, aponta uma dificuldade e talvez sugira uma melhoria. A empresa recebe as respostas, prepara um relatório e discute os próximos passos. Para quem participou, porém, a conversa termina na mensagem automática de agradecimento.\n\nDar uma devolutiva de pesquisa exige pensar no que será comunicado depois da coleta. Isso não significa prometer que toda sugestão será adotada. Significa decidir como explicar os encaminhamentos que a empresa consegue sustentar, sem confundir escuta, análise e mudança realizada.\n\nEm anúncio de 5 de novembro de 2026, o Google Workspace apresentou análise assistida de respostas no Forms, incluindo resumos e sugestões de próximos passos. A disponibilidade depende das contas e do cronograma de implantação. O anúncio descreve funções de uma ferramenta; não demonstra que um resumo esteja correto em qualquer situação nem que uma recomendação deva ser executada automaticamente.\n\nA facilidade de organizar respostas torna ainda mais pertinente uma pergunta de relacionamento: quem dedicou tempo à avaliação encontra algum retorno sobre o que aconteceu com aquelas contribuições?\n\n## O compromisso começa no convite\n\nImagine uma pequena empresa que oferece oficinas presenciais e envia uma avaliação aos participantes. É um exemplo hipotético. O formulário diz que todas as sugestões serão transformadas em melhorias na próxima edição. A equipe ainda não sabe quais mudanças seriam possíveis.\n\nA promessa já criou uma expectativa maior que a capacidade de decisão. Uma pessoa pode sugerir outro horário, outra pedir um formato incompatível com o espaço e uma terceira apontar uma dificuldade que precisa ser examinada antes de qualquer mudança.\n\nUm convite mais cuidadoso explica a finalidade da coleta e o uso previsto das contribuições, conforme o que a empresa realmente preparou. Se haverá uma devolutiva, combine um formato e um prazo que possam ser cumpridos. Não use uma promessa ampla apenas para tornar o pedido mais atraente.\n\nTambém não apresente a participação como garantia de que a preferência individual será atendida. Ouvir pessoas com necessidades diferentes pode exigir escolhas. Essa possibilidade precisa caber na maneira como a empresa se apresenta.\n\n## Analise antes de transformar uma resposta em decisão\n\nUma sugestão pode apontar uma dificuldade sem oferecer a solução mais adequada. Outra pode depender de uma condição que não ficou clara no formulário. Antes de comunicar uma mudança, confira o que foi entendido e quem pode avaliar o encaminhamento.\n\nNa empresa hipotética, vários participantes mencionam que não conseguiram acompanhar uma etapa prática. Isso pode levar a examinar a explicação, o tempo disponível ou a organização do espaço. Não autoriza concluir imediatamente que basta aumentar a duração de toda a oficina.\n\nUm resumo automático pode apoiar a leitura, mas a equipe precisa verificar se ele preserva o sentido das respostas. Uma frase recorrente e uma situação grave relatada por uma única pessoa não devem ser avaliadas apenas pela quantidade de vezes em que aparecem.\n\nO retorno ao grupo deve refletir uma decisão real. Uma proposta ainda em discussão pode ser apresentada como assunto em avaliação, quando for pertinente, sem receber a aparência de melhoria aprovada.\n\n## Separe o que mudou do que ainda está aberto\n\nA devolutiva pode ser breve e, mesmo assim, precisa distinguir os encaminhamentos. O que já foi alterado? O que foi decidido, mas ainda depende de execução? O que continua sendo examinado? Há alguma sugestão que a empresa não pretende adotar?\n\nNo exemplo, a equipe pode ter preparado uma explicação adicional para uma atividade, decidido reorganizar uma etapa e mantido o horário porque ainda não encontrou uma alternativa viável. Cada situação pede uma descrição diferente.\n\nEvite anunciar que a experiência foi totalmente redesenhada quando houve um ajuste pontual. Também não é necessário transformar cada consideração interna em comunicado. Selecione o que ajuda os participantes a compreender a relação entre a escuta e o funcionamento que encontrarão.\n\nQuando uma escolha não puder ser atendida, explique o limite conhecido sem desqualificar a contribuição. Uma preferência pode ser legítima e continuar incompatível com as condições disponíveis. A clareza dessa resposta depende de não inventar uma justificativa para encerrar o assunto.\n\n## Escolha uma forma de retorno proporcional\n\nNem toda pesquisa exige uma apresentação extensa ou uma campanha pública sobre a capacidade de ouvir. Uma mensagem aos participantes, uma atualização no canal usado no convite ou uma explicação na próxima edição podem ser suficientes, conforme o contexto e o que foi combinado.\n\nNa empresa hipotética, um retorno agregado pode mostrar os principais assuntos considerados e as mudanças confirmadas. Ele não precisa reproduzir respostas individuais nem identificar quem apontou uma dificuldade.\n\nConfira o conteúdo antes de divulgar. Um detalhe pode permitir reconhecer uma pessoa mesmo sem seu nome. A equipe deve tratar as contribuições com o cuidado adequado e buscar orientação específica quando necessário. Este é um critério editorial de prudência, não um parecer sobre regras de privacidade.\n\nTambém não convém aproveitar a devolutiva para acrescentar uma oferta que ocupe o lugar da resposta. Quem foi convidado a avaliar a experiência merece encontrar o encaminhamento anunciado, sem precisar atravessar um novo discurso de venda para entendê-lo.\n\n## Não use a média para encerrar um problema individual\n\nUma avaliação agregada e uma demanda de atendimento têm funções diferentes. Uma pessoa pode relatar uma situação que exige conversa direta, mesmo quando o conjunto das respostas é favorável.\n\nNo exemplo, uma dúvida sobre uma condição específica da inscrição não deve ser dissolvida numa mensagem sobre o bom desempenho geral da oficina. A equipe precisa reconhecer o caminho adequado para tratar aquele caso, com as informações necessárias e sem exposição pública.\n\nDa mesma forma, uma devolutiva coletiva não precisa assumir que todos tiveram a mesma experiência. Expressões como todo mundo adorou podem apagar dificuldades que a própria pesquisa recebeu. Descreva o que foi observado com os limites que os dados permitem.\n\nA finalidade do retorno é esclarecer os encaminhamentos. Ele não deve transformar a participação em prova de satisfação universal nem usar uma leitura conveniente para evitar assuntos que merecem atenção.\n\n## Confira a entrega depois do anúncio\n\nComunicar uma melhoria não substitui colocá-la em prática. Se a equipe informou que determinada orientação estará disponível, alguém precisa conferir onde ela aparece e se está coerente com a experiência seguinte.\n\nQuando uma decisão mudar ou uma execução atrasar, avalie a necessidade de atualizar o retorno. A mensagem anterior não deveria continuar circulando como uma condição realizada apenas porque o assunto saiu da pauta interna.\n\nAntes de enviar a próxima pesquisa, desenhe também o caminho de volta. Defina quem lê, quem decide e quem comunica aquilo que puder ser informado. O relatório pode ser uma etapa importante para a empresa. Para o participante, a escuta fica mais compreensível quando existe uma resposta honesta sobre o que veio depois.",
+        "sources": "[Google Workspace Updates, análise de respostas no Google Forms, 05/11/2026](https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html)\n\nA fonte descreve um lançamento com disponibilidade e implantação específicas, sem comprovar resultados universais. A empresa de oficinas é hipotética; os critérios de devolutiva são análise editorial da Tweed.",
+        "prompt": "Natural cinematic editorial photograph of one adult workshop instructor rearranging a low pottery demonstration shelf before participants arrive, moving one finished clay vessel to a clearly visible lower position while empty stools face the work area, candid side view from the back of the room, believable sunlit neighborhood studio, soft neutral key light preserving natural skin tones, restrained teal ambient accent inspired by #08ffb1 on a distant wall, varied depth and controlled contrast, no papers, laptop, meeting table, readable text or logos --ar 3:2",
+        "imageAlt": "Uma pessoa reorganiza uma prateleira de peças de cerâmica diante de bancos vazios em uma oficina, com acento teal discreto na parede.",
+        "date": "2026-11-23",
+        "keyword": "devolutiva de pesquisa",
+        "slug": "devolutiva-pesquisa-retorno-participantes",
+        "meta": "Uma devolutiva de pesquisa esclarece o que foi considerado, o que mudou e o que segue em avaliação, sem prometer adotar toda sugestão recebida.",
+        "faq": "O que deve aparecer na devolutiva de uma pesquisa?\nExplique os encaminhamentos pertinentes, distinguindo mudanças realizadas, decisões que aguardam execução e assuntos ainda em avaliação.\n\nDar retorno significa adotar todas as sugestões?\nNão. A empresa pode explicar limites e escolhas sem desqualificar as contribuições nem apresentar propostas como decisões confirmadas.\n\nUm retorno coletivo substitui o atendimento de um caso individual?\nNão. Situações que exigem conversa específica precisam de encaminhamento adequado, sem serem diluídas na avaliação agregada ou expostas publicamente.",
+        "url": "https://www.agenciatweed.com.br/devolutiva-pesquisa-retorno-participantes/",
+        "imageFile": "conteudos/pauta-reposicao-2026-11-05-794367db439b/imagens/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+        "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_on_52787921-3c87-4c7c-a877-233b1509b4fe_2.png",
+        "imageWidth": 1344,
+        "imageHeight": 896,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-07T07:31:18.905Z"
+        }
+      },
+      "createdAt": "2026-11-07T07:31:18.912Z"
     }
   ]
 }
