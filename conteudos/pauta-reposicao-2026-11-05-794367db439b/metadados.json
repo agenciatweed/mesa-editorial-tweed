@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado em 05/11/2026: Google Workspace anunciou análise assistida de respostas no Forms, com resumos e sugestões de próximos passos; disponibilidade depende de conta e implantação gradual. Usar como contexto, sem afirmar acesso universal nem comprovar precisão ou resultado. Tese editorial própria: resumir feedback internamente não encerra a conversa com quem participou; a empresa precisa decidir quando e como comunicar o que foi considerado, o que mudou e o que permanece sem decisão, sem prometer adotar toda sugestão. Exemplo hipotético de uma PME que pede avaliação após uma experiência e prepara um retorno agregado sobre uma melhoria viável, sem expor respostas individuais. Diferenciar de aplicabilidade de pesquisas externas: foco na devolutiva aos próprios participantes, não em generalizar amostras. Diferenciar de comentários como experiência e atendimento de reclamações: não tratar resposta pública a caso individual, mas fechamento de um convite organizado à escuta. Não apresentar correlação como causa, oferecer parecer de privacidade ou enviar respostas identificáveis a ferramentas.",
   "audience": "Donos de PMEs e equipes de marketing e relacionamento que solicitam avaliações de clientes e participantes.",
   "goal": "De considerar a pesquisa concluída quando o relatório fica pronto para planejar uma devolutiva honesta sobre o encaminhamento das contribuições, sem prometer mudanças que não foram decididas.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,10 +41,29 @@
   "sources": "[Google Workspace Updates, análise de respostas no Google Forms, 05/11/2026](https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html)\n\nA fonte descreve um lançamento com disponibilidade e implantação específicas, sem comprovar resultados universais. A empresa de oficinas é hipotética; os critérios de devolutiva são análise editorial da Tweed.",
   "prompt": "Natural cinematic editorial photograph of one adult workshop instructor rearranging a low pottery demonstration shelf before participants arrive, moving one finished clay vessel to a clearly visible lower position while empty stools face the work area, candid side view from the back of the room, believable sunlit neighborhood studio, soft neutral key light preserving natural skin tones, restrained teal ambient accent inspired by #08ffb1 on a distant wall, varied depth and controlled contrast, no papers, laptop, meeting table, readable text or logos --ar 3:2",
   "imageAlt": "Uma pessoa reorganiza uma prateleira de peças de cerâmica diante de bancos vazios em uma oficina, com acento teal discreto na parede.",
-  "date": "2026-11-23",
+  "date": "2026-11-07",
   "keyword": "devolutiva de pesquisa",
   "slug": "devolutiva-pesquisa-retorno-participantes",
   "meta": "Uma devolutiva de pesquisa esclarece o que foi considerado, o que mudou e o que segue em avaliação, sem prometer adotar toda sugestão recebida.",
   "faq": "O que deve aparecer na devolutiva de uma pesquisa?\nExplique os encaminhamentos pertinentes, distinguindo mudanças realizadas, decisões que aguardam execução e assuntos ainda em avaliação.\n\nDar retorno significa adotar todas as sugestões?\nNão. A empresa pode explicar limites e escolhas sem desqualificar as contribuições nem apresentar propostas como decisões confirmadas.\n\nUm retorno coletivo substitui o atendimento de um caso individual?\nNão. Situações que exigem conversa específica precisam de encaminhamento adequado, sem serem diluídas na avaliação agregada ou expostas publicamente.",
-  "url": "https://www.agenciatweed.com.br/devolutiva-pesquisa-retorno-participantes/"
+  "url": "https://www.agenciatweed.com.br/devolutiva-pesquisa-retorno-participantes/",
+  "imageFile": "conteudos/pauta-reposicao-2026-11-05-794367db439b/imagens/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+  "imageName": "vitriolicnaivety_Natural_cinematic_editorial_photograph_of_on_52787921-3c87-4c7c-a877-233b1509b4fe_2.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/devolutiva-pesquisa-retorno-participantes/",
+    "publishedAt": "2026-11-07T07:39:28.429193+00:00",
+    "job": "de7c59ca-0d02-4eaf-8a73-2a13521ac0fb",
+    "files": [
+      "assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+      "devolutiva-pesquisa-retorno-participantes/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

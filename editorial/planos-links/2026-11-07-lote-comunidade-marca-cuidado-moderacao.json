@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "comunidade-marca-cuidado-moderacao",
+  "contentSha256": "fec9ed856820c8989b7224b7845d7d9dd172a21c6c309369649d16d21b294d15",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "comunidade-marca-cuidado-moderacao",
+      "to": "comentarios-parte-do-produto-experiencia-de-marca",
+      "anchor": "Uma crítica não é automaticamente uma quebra de regra",
+      "context": "Uma crítica não é automaticamente uma quebra de regra. Uma pergunta repetida pode revelar uma informação difícil de encontrar. Uma mensagem com dados pessoais exige um cuidado diferente de uma discussão geral sobre o produto.",
+      "reason": "Aprofunda cuidado nas interações e pertinência de comunidades menores."
+    }
+  ]
+}

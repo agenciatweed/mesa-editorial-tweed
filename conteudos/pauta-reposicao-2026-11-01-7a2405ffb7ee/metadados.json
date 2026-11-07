@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado: notícia do Sebrae de 30/10/2026 sobre o Move+ inclui valorização da origem e das identidades territoriais de produtos de alimentos e bebidas. Usar somente esse contexto, como perspectiva declarada pelo Sebrae, sem repetir cifras de negócios, expectativas de vendas ou prometer valorização comercial. Tese editorial própria: citar uma região e acrescentar elementos visuais locais não explica, sozinho, o que a origem muda no produto; uma marca regional pode comunicar relações concretas entre lugar, materiais, processo e oferta, com fatos verificáveis e sem estereótipos. Exemplo explicitamente hipotético de pequena marca de alimentos que troca uma descrição genérica de tradição por informações confirmadas sobre onde produz, qual etapa ocorre ali e o que consegue mostrar de seu processo, sem inventar características sensoriais, história centenária ou superioridade. Não usar casos de clientes nem afirmações específicas da Tweed. A notícia menciona Indicação Geográfica, mas não tratar origem regional como sinônimo de IG, não sugerir direito a selo ou denominação protegida e não orientar requisitos de registro sem fontes oficiais específicas; o artigo pode limitar-se à clareza da apresentação e encaminhar dúvidas técnicas ou de uso de denominações para avaliação apropriada. Diferenciar da pauta de autoria: foco na relação factual entre território e produto, não nos créditos de quem o fez. Diferenciar da escuta de retratados: não é processo de revisão de depoimento. Diferenciar de sustentabilidade: origem não prova impacto ambiental, qualidade superior ou apoio social. Não reduzir região a cenário decorativo nem tomar um produto como representante de toda a cultura local.",
   "audience": "Donos de pequenas marcas de alimentos, bebidas e produtos regionais que querem explicar o valor da origem sem depender de símbolos genéricos.",
   "goal": "De acreditar que citar uma região e usar sua estética já diferencia a oferta para perceber que a comunicação precisa mostrar qual relação concreta e verificável existe entre o lugar e o produto.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,7 +41,7 @@
   "sources": "[Agência Sebrae de Notícias, Move+ e valorização territorial de produtos regionais, 30/10/2026](https://agenciasebrae.com.br/inovacao-e-tecnologia/move-abre-oportunidade-de-mais-de-r-76-milhoes-em-negocios-para-pequenas-empresas/)\n\nA valorização territorial é apresentada como perspectiva do Sebrae, sem promessa de resultado. A marca de alimentos é hipotética. O texto trata de clareza editorial; não orienta registro ou uso de Indicação Geográfica e não presume atributos ambientais ou sociais a partir da origem.",
   "prompt": "Conceptual editorial still life without people, a single handmade unmarked ceramic bowl resting beside a freshly cut slab of raw clay, the bowl has a deliberately unglazed lower edge showing the same earthy tone and tactile grain as the clay, both objects on a simple broad stone ledge with soft countryside shapes beyond an open window, close low angle emphasizing material continuity rather than decorative regional symbols, soft neutral key light and restrained teal ambient reflection inspired by #08ffb1 along one glazed rim, controlled contrast and generous negative space, no map, flags, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
   "imageAlt": "Tigela de cerâmica com base sem esmalte ao lado de um bloco de argila crua sobre pedra, com reflexo teal discreto na borda.",
-  "date": "2026-11-16",
+  "date": "2026-11-07",
   "keyword": "origem regional de um produto",
   "slug": "origem-regional-produto-comunicacao",
   "meta": "Comunicar a origem regional de um produto exige explicar a relação entre lugar, materiais e processo, com fatos verificáveis e sem promessas implícitas.",
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/71eb2091987dab2048ac49096bf80bb619f7d34c47e783c99d789ac87e4ce8a6.png",
   "faq": "Citar uma região já explica o valor do produto?\nNão. A comunicação precisa mostrar qual relação concreta e verificável existe entre o lugar e a oferta.\n\nOrigem regional comprova atributos ambientais ou qualidade superior?\nNão automaticamente. Cada afirmação exige sua própria base e o contexto adequado.\n\nO que revisar quando muda o local de produção ou um fornecedor?\nConfira se a narrativa pública ainda corresponde à oferta e atualize os materiais afetados, preservando o alcance das informações confirmadas.",
-  "url": "https://www.agenciatweed.com.br/origem-regional-produto-comunicacao/"
+  "url": "https://www.agenciatweed.com.br/origem-regional-produto-comunicacao/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/origem-regional-produto-comunicacao/",
+    "publishedAt": "2026-11-07T07:43:49.579018+00:00",
+    "job": "b7e019bc-c0d1-454b-864e-d9262ac5908f",
+    "files": [
+      "assets/artigos-editoriais/71eb2091987dab2048ac49096bf80bb619f7d34c47e783c99d789ac87e4ce8a6.png",
+      "origem-regional-produto-comunicacao/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

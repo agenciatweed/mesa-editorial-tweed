@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "oferta-outro-idioma-continuidade-atendimento",
+  "contentSha256": "e7ab4a595cc344f350ae0d1dabdfa183ab873ddeb496dfbc86e39067cbe05b9e",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "oferta-outro-idioma-continuidade-atendimento",
+      "to": "jornada-compra-antes-da-campanha",
+      "anchor": "passagem de uma etapa para outra",
+      "context": "Essa revisão pode revelar que o problema não está na tradução da página. Está na passagem de uma etapa para outra. Se o visitante precisa recomeçar a busca para descobrir como ser atendido, o trabalho de comunicação ficou incompleto.",
+      "reason": "Aprofunda continuidade da jornada e adequação da mensagem ao contexto."
+    }
+  ]
+}

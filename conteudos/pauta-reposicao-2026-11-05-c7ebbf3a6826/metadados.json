@@ -6,11 +6,16 @@
   "angle": "Gancho primário de 04/11/2026: a Agência Estadual de Notícias do Paraná anunciou seleção de empresas para apresentar soluções no Sanepar Impulsiona, esclarecendo que a ação não é processo de compra nem promessa de contratação. Usar o anúncio como contexto para a tradução de uma solução técnica em aplicação compreensível, sem recomendar inscrição ou alegar resultados do encontro. Tese editorial: uma apresentação B2B precisa permitir que o interlocutor reconheça a situação de uso, as condições necessárias e os limites de adequação, em vez de depender de adjetivos sobre inovação. Exemplo inteiramente hipotético de uma empresa que oferece monitoramento e explica para que tipo de instalação sua solução foi concebida, quais condições exigem avaliação e quando ela não resolve o problema. Não ensinar tecnologia de saneamento nem fornecer especificações inventadas. Diferenciar de cadastro de fornecedores: foco na compreensão da aplicação, não em localizar dados para homologação. Diferenciar de demonstração de produto: foco nos limites de encaixe antes de uma demonstração. Diferenciar de resultados versus expectativas: não concentrar a tese na classificação de indicadores.",
   "audience": "Donos de empresas B2B e equipes comerciais e de marketing que precisam apresentar soluções técnicas a interlocutores de áreas diferentes.",
   "goal": "De descrever uma solução com adjetivos amplos para explicar situações de uso e limites que permitam ao cliente avaliar se vale continuar a conversa.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,7 +41,7 @@
   "sources": "[Agência Estadual de Notícias do Paraná, seleção para o Sanepar Impulsiona, 04/11/2026](https://www.parana.pr.gov.br/aen/Noticia/Sanepar-e-Senai-selecionam-empresas-para-apresentar-solucoes-inovadoras/)\n\nO comunicado é contexto de apresentação de soluções, sem promessa de contratação. A empresa de monitoramento é hipotética e não representa especificações técnicas reais. Os critérios de comunicação são análise editorial da Tweed.",
   "prompt": "Conceptual editorial photograph without people, a precisely shaped wooden inlay resting flush inside one matching curved recess in a broad pale stone surface, a second adjacent recess visibly different in shape and left empty, tactile material contrast and clear imperfect compatibility between the two openings, close oblique composition with generous negative space, soft neutral key light, restrained teal ambient accent inspired by #08ffb1 reflected inside the unmatched recess, controlled contrast, no cubes, prisms, maze, light beams, papers, laptop, readable text or logos --ar 3:2",
   "imageAlt": "Peça de madeira encaixada em uma cavidade curva de pedra, ao lado de outra cavidade vazia de formato diferente com reflexo teal discreto.",
-  "date": "2026-11-22",
+  "date": "2026-11-07",
   "keyword": "aplicação de uma solução técnica",
   "slug": "solucao-tecnica-aplicacao-limites",
   "meta": "A aplicação de uma solução técnica precisa ficar clara para o cliente. Explique situações de uso, condições necessárias e limites antes de avançar.",
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/29e1a288378f0d849790ae7d49d61f3c8fade226070dfc0ab538c26f3d867e4a.png",
   "faq": "O que explicar na apresentação de uma solução técnica?\nApresente a situação de uso, as condições necessárias e os limites conhecidos, indicando o que ainda exige avaliação.\n\nComo simplificar uma apresentação sem perder precisão?\nRelacione os termos técnicos à decisão do interlocutor e mantenha os detalhes necessários em um aprofundamento coerente com a apresentação inicial.\n\nO que fazer quando não é possível confirmar a adequação?\nExplique a necessidade de avaliação antes de assumir compromissos e reconheça quando a oferta não corresponde ao problema apresentado.",
-  "url": "https://www.agenciatweed.com.br/solucao-tecnica-aplicacao-limites/"
+  "url": "https://www.agenciatweed.com.br/solucao-tecnica-aplicacao-limites/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/solucao-tecnica-aplicacao-limites/",
+    "publishedAt": "2026-11-07T07:40:03.050328+00:00",
+    "job": "0ef955e5-147a-4c22-a62a-4b39b1a8b699",
+    "files": [
+      "assets/artigos-editoriais/29e1a288378f0d849790ae7d49d61f3c8fade226070dfc0ab538c26f3d867e4a.png",
+      "solucao-tecnica-aplicacao-limites/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

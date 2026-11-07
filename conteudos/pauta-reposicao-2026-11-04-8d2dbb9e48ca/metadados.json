@@ -41,7 +41,7 @@
   "sources": "[Sebrae-SP, planejamento de férias e comunicação com clientes, 03/11/2026](https://sp.agenciasebrae.com.br/cultura-empreendedora/seu-negocio-pode-tirar-ferias-sebrae-sp-orienta-pequenos-empreendedores-a-planejar-o-descanso/)\n\nO texto aplica editorialmente a orientação de comunicação antecipada. O ateliê é hipotético; não foram reproduzidos dados do levantamento nem histórias individuais.",
   "prompt": "Conceptual editorial photograph without people, a small wooden shop doorway closed with a simple removable linen panel while a narrow separate pickup niche beside it remains visibly open containing one neatly wrapped unmarked parcel, realistic architectural detail and clear distinction between the two openings, warm textured plaster, soft neutral key light and a restrained teal reflection inspired by #08ffb1 along the inner edge of the niche, asymmetric negative space, no clocks, papers, laptop, cubes, prisms, readable signs, text or logos --ar 3:2",
   "imageAlt": "Porta de madeira fechada com um painel de linho ao lado de um nicho aberto com um pacote, com reflexo teal discreto na borda do nicho.",
-  "date": "2026-11-20",
+  "date": "2026-11-07",
   "keyword": "pausa no atendimento",
   "slug": "pausa-atendimento-pedidos-retomada",
   "meta": "Uma pausa no atendimento precisa esclarecer pedidos em andamento, novas solicitações e retomada. Prepare avisos coerentes com os compromissos da empresa.",
@@ -53,7 +53,17 @@
   "faq": "O que comunicar antes de uma pausa no atendimento?\nInforme o período, a retomada e as condições para novos pedidos e compromissos em andamento, conforme o funcionamento preparado.\n\nUm aviso público substitui o contato sobre um pedido afetado?\nNão automaticamente. Quem terá um compromisso alterado precisa de um encaminhamento adequado à sua situação, sem presumir aceite de uma alternativa.\n\nO que conferir quando o atendimento voltar?\nAtualize avisos e respostas automáticas e organize as solicitações recebidas, com responsáveis pela retomada.",
   "url": "https://www.agenciatweed.com.br/pausa-atendimento-pedidos-retomada/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-05T09:07:18.512Z"
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/pausa-atendimento-pedidos-retomada/",
+    "publishedAt": "2026-11-07T07:41:14.547683+00:00",
+    "job": "d842bb01-86f4-49bf-871f-765c9581d672",
+    "files": [
+      "assets/artigos-editoriais/9c2ca19b96eb78aab063a2d231b75ae3cbe8a44655c35f50a4d42a706ff6b097.png",
+      "pausa-atendimento-pedidos-retomada/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

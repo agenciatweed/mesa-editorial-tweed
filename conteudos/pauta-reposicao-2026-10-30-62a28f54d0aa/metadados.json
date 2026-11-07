@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado: Meta e CNIB anunciaram em 29/10/2026 uma parceria no Canadá que inclui escuta de pessoas cegas, surdocegas e com baixa visão e retorno de experiências às equipes de produto. Tratar como desenho anunciado de participação, sem comprovar resultados ou recomendar óculos de IA. Tese: uma avaliação feita apenas por pessoas que conhecem a empresa pode deixar barreiras fora do campo de observação; quem vive condições diferentes de acesso deve participar do entendimento do problema. Exemplo hipotético de PME que avalia a tarefa de encontrar uma informação e solicitar contato no site: convidar participantes pertinentes com consentimento e condições adequadas, observar sem conduzir cada ação, registrar barreiras e priorizar correções com apoio especializado quando necessário. Não simular deficiência como substituto da participação real, não expor dados ou histórias pessoais e não tratar um pequeno teste como representativo de todas as pessoas. Não oferecer diagnóstico médico, parecer jurídico ou certificação de acessibilidade. Antes de redigir qualquer recomendação técnica de web, consultar fonte W3C/WAI atual pertinente; anúncio de parceria não comprova requisitos de interface. Diferenciar de redesign: foco em quem participa da avaliação e nos limites do olhar interno, não na transição de uma versão antiga. Diferenciar de design de embalagem: foco em participação e acesso numa tarefa digital, não no gesto físico de abrir um produto. Diferenciar de interpretar referências: foco em barreiras observadas no uso, não em preferências estéticas do cliente.",
   "audience": "Donos de PMEs e responsáveis por marketing e sites que avaliam a experiência digital principalmente com a própria equipe.",
   "goal": "De “se a equipe conseguiu usar, a experiência está resolvida” para “preciso observar pessoas pertinentes em condições diferentes de acesso e reconhecer o que minha avaliação interna ainda não permite concluir”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,10 +41,29 @@
   "sources": "[Meta e CNIB, anúncio de parceria com participação de usuários, 29/10/2026](https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/)\n[W3C WAI, Involving Users in Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/involving-users/)\n[W3C WAI, Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/)\n\nO anúncio da parceria não comprova resultados. A PME e a avaliação são hipotéticas. Participação de usuários e avaliação técnica são complementares; o artigo não certifica acessibilidade nem oferece diagnóstico médico ou parecer jurídico.",
   "prompt": "Conceptual editorial photograph without people, a freestanding practical wooden viewing frame in a quiet gallery with several openings at clearly different heights, a small tactile ceramic detail visible through the lowest opening while a wider horizontal opening frames another part of the same installation, angled side view revealing how each viewpoint exposes a different real detail, warm plaster and timber textures, soft neutral key light and restrained teal ambient accent inspired by #08ffb1 grazing the inner edge, controlled contrast, no maze, cubes, prisms, light beams, disability simulation props, readable text or logos --ar 3:2",
   "imageAlt": "Estrutura de madeira tem aberturas em alturas diferentes, revelando detalhes distintos de uma instalação de cerâmica em uma galeria.",
-  "date": "2026-11-10",
+  "date": "2026-11-07",
   "keyword": "testar a experiência",
   "slug": "testar-experiencia-alem-equipe-interna",
   "meta": "Testar a experiência só com a equipe deixa condições de acesso fora da avaliação. Inclua participantes pertinentes e combine observação com verificação técnica.",
   "faq": "O teste interno comprova que um site funciona para todos?\nNão. Ele mostra o que foi possível para aquele grupo e nas condições observadas, deixando outras formas de acesso por avaliar.\n\nA participação de usuários substitui a avaliação técnica de acessibilidade?\nNão. A observação de uso e as verificações técnicas são complementares, conforme as orientações da W3C WAI.\n\nO que registrar ao encontrar uma barreira de uso?\nDescreva a tarefa, as condições e o que ocorreu, distinguindo observação e hipótese, sem julgar nem expor o participante.",
-  "url": "https://www.agenciatweed.com.br/testar-experiencia-alem-equipe-interna/"
+  "url": "https://www.agenciatweed.com.br/testar-experiencia-alem-equipe-interna/",
+  "imageFile": "conteudos/pauta-reposicao-2026-10-30-62a28f54d0aa/imagens/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_bd9d95db-849d-4c8d-96db-38e37ca59bdd_3.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/testar-experiencia-alem-equipe-interna/",
+    "publishedAt": "2026-11-07T07:47:50.464692+00:00",
+    "job": "80469b24-7102-4061-a3bf-473e39eaf243",
+    "files": [
+      "assets/artigos-editoriais/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+      "testar-experiencia-alem-equipe-interna/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

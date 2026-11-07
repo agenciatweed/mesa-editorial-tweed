@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado: em 29/10/2026, o Google Workspace publicou seu resumo de atualizações de outubro, incluindo tradução de fala em reuniões do Meet. Usar o anúncio apenas como contexto de ferramentas que podem reduzir uma barreira de idioma, sem repetir quantidade de idiomas, presumir disponibilidade universal, precisão ou recomendar produto. Tese editorial própria: apresentar uma oferta em outro idioma cria uma expectativa de continuidade; antes de ampliar a comunicação, a PME precisa conferir como esclarecer dúvidas, explicar limites da oferta e encaminhar atendimento naquele idioma. Exemplo hipotético de pequena empresa que prepara uma página em outro idioma e percebe que formulário, resposta inicial e conversa comercial continuam sem um caminho combinado. Avaliar escopo do que pode oferecer, revisão por pessoa competente, termos essenciais da oferta, encaminhamento e comunicação transparente das limitações, sem prometer domínio de idioma ou cobertura que não existe. Não transformar em tutorial de tradução nem afirmar que tradução automática substitui revisão humana ou competência técnica. Não oferecer orientação jurídica, contratual ou de exportação. Diferenciar de acesso à reunião: foco na continuidade linguística e compreensão da oferta, não em conta, aplicativo ou admissão. Diferenciar de personalização: foco no idioma de apresentação e atendimento, não em perfis de cliente. Diferenciar de resumo de reunião: não trata de converter falas em decisões. Não usar dados privados em ferramentas por conveniência nem casos de clientes da Tweed.",
   "audience": "Donos de PMEs e responsáveis por sites e atendimento que planejam apresentar sua oferta em outro idioma a clientes ou parceiros.",
   "goal": "De considerar que traduzir uma página encerra a preparação para perceber que a experiência precisa permitir continuar a conversa e esclarecer a oferta no idioma anunciado, com limites transparentes.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,10 +41,29 @@
   "sources": "[Google Workspace, atualizações de outubro com tradução de fala no Meet, 29/10/2026](https://workspace.google.com/blog/product-announcements/october-workspace-drops-edit-markdown-talk-to-gmail-and-docs-translate-meetings-and-more)\n\nO anúncio é contexto, sem garantia de precisão ou disponibilidade universal. A empresa e o percurso são hipotéticos.",
   "prompt": "Conceptual editorial photograph without people, a single continuous piece of ivory woven cord threaded through two differently shaped ceramic eyelets mounted on adjacent pale stone surfaces, both ends clearly visible and the cord remaining unbroken across the seam, tactile close composition, soft neutral key light and a restrained teal reflection inspired by #08ffb1 on one ceramic edge, generous negative space, no cubes, beams, readable text or logos --ar 3:2",
   "imageAlt": "Cordão claro atravessa duas passagens de cerâmica de formatos diferentes sobre pedra, com reflexo teal em uma das bordas.",
-  "date": "2026-11-18",
+  "date": "2026-11-07",
   "keyword": "oferta em outro idioma",
   "slug": "oferta-outro-idioma-continuidade-atendimento",
   "meta": "Ao apresentar uma oferta em outro idioma, confira se formulários, respostas e atendimento permitem continuar a conversa com clareza.",
   "faq": "O que conferir antes de publicar uma página em outro idioma?\nPercorra a página, o formulário e a resposta inicial. Confirme se a pessoa pode esclarecer dúvidas e entender o próximo passo.\n\nComo comunicar um limite de atendimento?\nInforme antes do contato quais canais e etapas a equipe consegue atender naquele idioma.\n\nO que revisar quando a oferta muda?\nConfira as condições da oferta nas páginas, formulários, respostas iniciais e apresentações afetadas.",
-  "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/"
+  "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/",
+  "imageFile": "conteudos/pauta-diaria-2026-11-02/imagens/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+  "imageName": "Imagem do ChatGPT 5 de nov. de 2026, 05_55_11-1.png",
+  "imageWidth": 1536,
+  "imageHeight": 1024,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/",
+    "publishedAt": "2026-11-07T07:42:29.790398+00:00",
+    "job": "c9c40e44-d7b3-4acd-9538-be911abc006e",
+    "files": [
+      "assets/artigos-editoriais/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+      "oferta-outro-idioma-continuidade-atendimento/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "acesso-reuniao-online-convidado",
+  "contentSha256": "500dc0434c2cc30cb50f2a9594fae13577cd5aed6a582b8886c7307945434bb9",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "acesso-reuniao-online-convidado",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "Confira o percurso nas condições pertinentes à conversa",
+      "context": "Confira o percurso nas condições pertinentes à conversa. O link abre a reunião ou uma página intermediária? É necessário identificar uma conta? Há uma opção de entrada pelo navegador? A orientação enviada corresponde ao que a pessoa realmente encontrará?",
+      "reason": "Relaciona teste do percurso digital às condições reais do interlocutor."
+    }
+  ]
+}

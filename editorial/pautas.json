@@ -111,7 +111,7 @@
       "sources": "[Google Workspace Updates, análise de respostas no Google Forms, 05/11/2026](https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html)\n\nA fonte descreve um lançamento com disponibilidade e implantação específicas, sem comprovar resultados universais. A empresa de oficinas é hipotética; os critérios de devolutiva são análise editorial da Tweed.",
       "prompt": "Natural cinematic editorial photograph of one adult workshop instructor rearranging a low pottery demonstration shelf before participants arrive, moving one finished clay vessel to a clearly visible lower position while empty stools face the work area, candid side view from the back of the room, believable sunlit neighborhood studio, soft neutral key light preserving natural skin tones, restrained teal ambient accent inspired by #08ffb1 on a distant wall, varied depth and controlled contrast, no papers, laptop, meeting table, readable text or logos --ar 3:2",
       "imageAlt": "Uma pessoa reorganiza uma prateleira de peças de cerâmica diante de bancos vazios em uma oficina, com acento teal discreto na parede.",
-      "date": "2026-11-23",
+      "date": "2026-11-07",
       "keyword": "devolutiva de pesquisa",
       "slug": "devolutiva-pesquisa-retorno-participantes",
       "meta": "Uma devolutiva de pesquisa esclarece o que foi considerado, o que mudou e o que segue em avaliação, sem prometer adotar toda sugestão recebida.",
@@ -123,8 +123,18 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-07T07:31:18.905Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/devolutiva-pesquisa-retorno-participantes/",
+        "publishedAt": "2026-11-07T07:39:28.429193+00:00",
+        "job": "de7c59ca-0d02-4eaf-8a73-2a13521ac0fb",
+        "files": [
+          "assets/artigos-editoriais/166a05102b6701087dea3ca849b47eafb178982bc9aa5135caf08e3edf2570bb.png",
+          "devolutiva-pesquisa-retorno-participantes/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -170,7 +180,7 @@
       "sources": "[Agência Estadual de Notícias do Paraná, seleção para o Sanepar Impulsiona, 04/11/2026](https://www.parana.pr.gov.br/aen/Noticia/Sanepar-e-Senai-selecionam-empresas-para-apresentar-solucoes-inovadoras/)\n\nO comunicado é contexto de apresentação de soluções, sem promessa de contratação. A empresa de monitoramento é hipotética e não representa especificações técnicas reais. Os critérios de comunicação são análise editorial da Tweed.",
       "prompt": "Conceptual editorial photograph without people, a precisely shaped wooden inlay resting flush inside one matching curved recess in a broad pale stone surface, a second adjacent recess visibly different in shape and left empty, tactile material contrast and clear imperfect compatibility between the two openings, close oblique composition with generous negative space, soft neutral key light, restrained teal ambient accent inspired by #08ffb1 reflected inside the unmatched recess, controlled contrast, no cubes, prisms, maze, light beams, papers, laptop, readable text or logos --ar 3:2",
       "imageAlt": "Peça de madeira encaixada em uma cavidade curva de pedra, ao lado de outra cavidade vazia de formato diferente com reflexo teal discreto.",
-      "date": "2026-11-22",
+      "date": "2026-11-07",
       "keyword": "aplicação de uma solução técnica",
       "slug": "solucao-tecnica-aplicacao-limites",
       "meta": "A aplicação de uma solução técnica precisa ficar clara para o cliente. Explique situações de uso, condições necessárias e limites antes de avançar.",
@@ -182,8 +192,18 @@
       "faq": "O que explicar na apresentação de uma solução técnica?\nApresente a situação de uso, as condições necessárias e os limites conhecidos, indicando o que ainda exige avaliação.\n\nComo simplificar uma apresentação sem perder precisão?\nRelacione os termos técnicos à decisão do interlocutor e mantenha os detalhes necessários em um aprofundamento coerente com a apresentação inicial.\n\nO que fazer quando não é possível confirmar a adequação?\nExplique a necessidade de avaliação antes de assumir compromissos e reconheça quando a oferta não corresponde ao problema apresentado.",
       "url": "https://www.agenciatweed.com.br/solucao-tecnica-aplicacao-limites/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-06T12:06:20.967Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/solucao-tecnica-aplicacao-limites/",
+        "publishedAt": "2026-11-07T07:40:03.050328+00:00",
+        "job": "0ef955e5-147a-4c22-a62a-4b39b1a8b699",
+        "files": [
+          "assets/artigos-editoriais/29e1a288378f0d849790ae7d49d61f3c8fade226070dfc0ab538c26f3d867e4a.png",
+          "solucao-tecnica-aplicacao-limites/index.html",
+          "blog/index.html",
+          "blog-marcas-em-movimento/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -229,7 +249,7 @@
       "sources": "[Sebrae Sergipe, programação do Reload 2026, 03/11/2026, atualizado em 04/11](https://se.agenciasebrae.com.br/cultura-empreendedora/gil-do-vigor-e-a-nova-atracao-confirmada-do-reload-2026/)\n\nA fonte anuncia programação futura, sem demonstrar resultados. A empresa de móveis e a aplicação descrita são hipotéticas; os critérios de escolha e acompanhamento são análise editorial da Tweed.",
       "prompt": "Natural cinematic editorial photograph of one adult furniture maker kneeling beside an unfinished wooden cabinet in a modest open workshop, carefully applying a small patch of finish to one drawer edge while the remaining cabinet stays untreated, candid focused gesture, low side view with daylight from an open courtyard, visible wood grain and restrained tools in the background, soft neutral key light and natural skin tones, subtle teal ambient accent inspired by #08ffb1 reflected on the shaded floor, controlled contrast, no papers, meeting, laptop, readable text or logos --ar 3:2",
       "imageAlt": "Uma mesa com anotações e um crachá do evento Sebrae Reloaded",
-      "date": "2026-11-21",
+      "date": "2026-11-07",
       "keyword": "aplicar o aprendizado de marketing",
       "slug": "aplicar-aprendizado-marketing-rotina",
       "meta": "Aplicar o aprendizado de marketing exige escolher um problema, definir uma mudança viável e acompanhar o que acontece antes de ampliar a aplicação.",
@@ -241,8 +261,18 @@
       "faq": "Por onde começar a aplicar o aprendizado de marketing?\nEscolha uma dificuldade real da empresa e verifique como uma ideia aprendida pode ajudar a examiná-la, considerando as condições do negócio.\n\nO que definir antes de colocar uma ideia em prática?\nDelimite a mudança, as informações a conferir, quem será responsável e o espaço necessário na agenda.\n\nUma impressão favorável comprova resultado comercial?\nNão. Observe a pergunta definida para a aplicação e reconheça os limites dos sinais disponíveis, sem atribuir vendas automaticamente à mudança.",
       "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-05T09:17:31.187Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/",
+        "publishedAt": "2026-11-07T07:40:36.395784+00:00",
+        "job": "3d062223-7e2d-4530-b742-ff514606afea",
+        "files": [
+          "assets/artigos-editoriais/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
+          "aplicar-aprendizado-marketing-rotina/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -288,7 +318,7 @@
       "sources": "[Sebrae-SP, planejamento de férias e comunicação com clientes, 03/11/2026](https://sp.agenciasebrae.com.br/cultura-empreendedora/seu-negocio-pode-tirar-ferias-sebrae-sp-orienta-pequenos-empreendedores-a-planejar-o-descanso/)\n\nO texto aplica editorialmente a orientação de comunicação antecipada. O ateliê é hipotético; não foram reproduzidos dados do levantamento nem histórias individuais.",
       "prompt": "Conceptual editorial photograph without people, a small wooden shop doorway closed with a simple removable linen panel while a narrow separate pickup niche beside it remains visibly open containing one neatly wrapped unmarked parcel, realistic architectural detail and clear distinction between the two openings, warm textured plaster, soft neutral key light and a restrained teal reflection inspired by #08ffb1 along the inner edge of the niche, asymmetric negative space, no clocks, papers, laptop, cubes, prisms, readable signs, text or logos --ar 3:2",
       "imageAlt": "Porta de madeira fechada com um painel de linho ao lado de um nicho aberto com um pacote, com reflexo teal discreto na borda do nicho.",
-      "date": "2026-11-20",
+      "date": "2026-11-07",
       "keyword": "pausa no atendimento",
       "slug": "pausa-atendimento-pedidos-retomada",
       "meta": "Uma pausa no atendimento precisa esclarecer pedidos em andamento, novas solicitações e retomada. Prepare avisos coerentes com os compromissos da empresa.",
@@ -300,8 +330,18 @@
       "faq": "O que comunicar antes de uma pausa no atendimento?\nInforme o período, a retomada e as condições para novos pedidos e compromissos em andamento, conforme o funcionamento preparado.\n\nUm aviso público substitui o contato sobre um pedido afetado?\nNão automaticamente. Quem terá um compromisso alterado precisa de um encaminhamento adequado à sua situação, sem presumir aceite de uma alternativa.\n\nO que conferir quando o atendimento voltar?\nAtualize avisos e respostas automáticas e organize as solicitações recebidas, com responsáveis pela retomada.",
       "url": "https://www.agenciatweed.com.br/pausa-atendimento-pedidos-retomada/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-05T09:07:18.512Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/pausa-atendimento-pedidos-retomada/",
+        "publishedAt": "2026-11-07T07:41:14.547683+00:00",
+        "job": "d842bb01-86f4-49bf-871f-765c9581d672",
+        "files": [
+          "assets/artigos-editoriais/9c2ca19b96eb78aab063a2d231b75ae3cbe8a44655c35f50a4d42a706ff6b097.png",
+          "pausa-atendimento-pedidos-retomada/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -347,7 +387,7 @@
       "sources": "[Google, Data-backed secrets to smarter holiday shopping, 15/10/2026](https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/)\n\nO guia usa dados históricos de varejistas dos Estados Unidos. O artigo não transfere seus resultados ao Brasil nem recomenda datas ou preços. A loja e a campanha são hipotéticas.",
       "prompt": "Natural editorial photograph at the open pickup window of a small neighborhood gift shop, one adult shopkeeper handing a neatly wrapped unmarked parcel to an adult customer standing outside, candid hands mid-transfer, the open doorway and a quiet street visible in a wide side composition, soft neutral afternoon light preserving natural skin tones, a restrained teal accent inspired by #08ffb1 reflected along the inside edge of the pickup window, no readable text or logos --ar 3:2",
       "imageAlt": "Pessoa entrega um pacote embrulhado a outra pela janela de retirada de uma loja, com a rua ao fundo e um reflexo teal na moldura.",
-      "date": "2026-11-19",
+      "date": "2026-11-07",
       "keyword": "janela de uma promoção",
       "slug": "janela-promocao-prazo-compra-entrega",
       "meta": "A janela de uma promoção precisa combinar tempo de decisão e capacidade de entrega. Confira prazos, estoque, retirada e condições antes de anunciar.",
@@ -359,8 +399,18 @@
       "imageHeight": 1024,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-05T08:55:51.237Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/janela-promocao-prazo-compra-entrega/",
+        "publishedAt": "2026-11-07T07:41:53.069360+00:00",
+        "job": "4cf5dc71-621e-421b-a8c4-178c1da41c2b",
+        "files": [
+          "assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
+          "janela-promocao-prazo-compra-entrega/index.html",
+          "blog/index.html",
+          "blog-marcas-com-alma/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -406,7 +456,7 @@
       "sources": "[Google Workspace, atualizações de outubro com tradução de fala no Meet, 29/10/2026](https://workspace.google.com/blog/product-announcements/october-workspace-drops-edit-markdown-talk-to-gmail-and-docs-translate-meetings-and-more)\n\nO anúncio é contexto, sem garantia de precisão ou disponibilidade universal. A empresa e o percurso são hipotéticos.",
       "prompt": "Conceptual editorial photograph without people, a single continuous piece of ivory woven cord threaded through two differently shaped ceramic eyelets mounted on adjacent pale stone surfaces, both ends clearly visible and the cord remaining unbroken across the seam, tactile close composition, soft neutral key light and a restrained teal reflection inspired by #08ffb1 on one ceramic edge, generous negative space, no cubes, beams, readable text or logos --ar 3:2",
       "imageAlt": "Cordão claro atravessa duas passagens de cerâmica de formatos diferentes sobre pedra, com reflexo teal em uma das bordas.",
-      "date": "2026-11-18",
+      "date": "2026-11-07",
       "keyword": "oferta em outro idioma",
       "slug": "oferta-outro-idioma-continuidade-atendimento",
       "meta": "Ao apresentar uma oferta em outro idioma, confira se formulários, respostas e atendimento permitem continuar a conversa com clareza.",
@@ -418,8 +468,18 @@
       "imageHeight": 1024,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-05T08:55:27.082Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/oferta-outro-idioma-continuidade-atendimento/",
+        "publishedAt": "2026-11-07T07:42:29.790398+00:00",
+        "job": "c9c40e44-d7b3-4acd-9538-be911abc006e",
+        "files": [
+          "assets/artigos-editoriais/541b30638e92cd1c99398b49d8d8631f255d4da223d39172d7852184ef0a45f2.png",
+          "oferta-outro-idioma-continuidade-atendimento/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -465,7 +525,7 @@
       "sources": "[Agência Sebrae de Notícias, Move+ e distinção entre negócios realizados e expectativas futuras, 30/10/2026](https://agenciasebrae.com.br/inovacao-e-tecnologia/move-abre-oportunidade-de-mais-de-r-76-milhoes-em-negocios-para-pequenas-empresas/)\n\nO relato do Sebrae distingue realizações e expectativas; os valores não foram reproduzidos. A empresa e o encontro comercial descritos são hipotéticos. O texto trata da redação de afirmações públicas, sem método contábil, previsão de vendas ou atribuição causal.",
       "prompt": "Natural cinematic editorial photograph of one adult gardener in a small urban nursery carefully separating a ripe tomato from a cluster while several clearly unripe green tomatoes remain attached to the same living plant, candid close environmental view of the hand and the distinct fruit stages with the person partly visible in profile, believable everyday action and leafy background, soft neutral morning key light preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected from the shaded greenhouse structure, controlled contrast, no meeting table, papers, laptop, graphs, readable text or logos --ar 3:2",
       "imageAlt": "Pessoa colhe um tomate maduro numa pequena estufa, enquanto tomates verdes permanecem no mesmo pé, com reflexo teal discreto na estrutura.",
-      "date": "2026-11-17",
+      "date": "2026-11-07",
       "keyword": "comunicar resultados e expectativas",
       "slug": "comunicar-resultados-expectativas",
       "meta": "Comunicar resultados e expectativas exige distinguir o realizado do que ainda pode acontecer. Preserve estágio, período e base dos números publicados.",
@@ -477,8 +537,18 @@
       "faq": "Uma oportunidade em negociação equivale a uma venda realizada?\nNão. A comunicação deve identificar o estágio confirmado, sem apresentar possibilidades futuras como fatos consumados.\n\nComo apresentar expectativas num balanço?\nIdentifique sua natureza, o período e a base utilizada, mantendo essas condições próximas da informação principal.\n\nUma expectativa confirmada depois muda o resultado anterior?\nA realização pode ser comunicada após confirmação, mas não transforma retrospectivamente a previsão em resultado daquele primeiro momento.",
       "url": "https://www.agenciatweed.com.br/comunicar-resultados-expectativas/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-02T20:45:23.675Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/comunicar-resultados-expectativas/",
+        "publishedAt": "2026-11-07T07:43:10.475838+00:00",
+        "job": "02a784ed-6893-49e5-b1a3-26ff8e16c488",
+        "files": [
+          "assets/artigos-editoriais/493424a14725fccc70ccbc4126b3777dafd1e2ac6246e5c01fd9ecfd507bfb10.png",
+          "comunicar-resultados-expectativas/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -524,7 +594,7 @@
       "sources": "[Agência Sebrae de Notícias, Move+ e valorização territorial de produtos regionais, 30/10/2026](https://agenciasebrae.com.br/inovacao-e-tecnologia/move-abre-oportunidade-de-mais-de-r-76-milhoes-em-negocios-para-pequenas-empresas/)\n\nA valorização territorial é apresentada como perspectiva do Sebrae, sem promessa de resultado. A marca de alimentos é hipotética. O texto trata de clareza editorial; não orienta registro ou uso de Indicação Geográfica e não presume atributos ambientais ou sociais a partir da origem.",
       "prompt": "Conceptual editorial still life without people, a single handmade unmarked ceramic bowl resting beside a freshly cut slab of raw clay, the bowl has a deliberately unglazed lower edge showing the same earthy tone and tactile grain as the clay, both objects on a simple broad stone ledge with soft countryside shapes beyond an open window, close low angle emphasizing material continuity rather than decorative regional symbols, soft neutral key light and restrained teal ambient reflection inspired by #08ffb1 along one glazed rim, controlled contrast and generous negative space, no map, flags, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
       "imageAlt": "Tigela de cerâmica com base sem esmalte ao lado de um bloco de argila crua sobre pedra, com reflexo teal discreto na borda.",
-      "date": "2026-11-16",
+      "date": "2026-11-07",
       "keyword": "origem regional de um produto",
       "slug": "origem-regional-produto-comunicacao",
       "meta": "Comunicar a origem regional de um produto exige explicar a relação entre lugar, materiais e processo, com fatos verificáveis e sem promessas implícitas.",
@@ -536,8 +606,18 @@
       "faq": "Citar uma região já explica o valor do produto?\nNão. A comunicação precisa mostrar qual relação concreta e verificável existe entre o lugar e a oferta.\n\nOrigem regional comprova atributos ambientais ou qualidade superior?\nNão automaticamente. Cada afirmação exige sua própria base e o contexto adequado.\n\nO que revisar quando muda o local de produção ou um fornecedor?\nConfira se a narrativa pública ainda corresponde à oferta e atualize os materiais afetados, preservando o alcance das informações confirmadas.",
       "url": "https://www.agenciatweed.com.br/origem-regional-produto-comunicacao/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-02T20:45:19.153Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/origem-regional-produto-comunicacao/",
+        "publishedAt": "2026-11-07T07:43:49.579018+00:00",
+        "job": "b7e019bc-c0d1-454b-864e-d9262ac5908f",
+        "files": [
+          "assets/artigos-editoriais/71eb2091987dab2048ac49096bf80bb619f7d34c47e783c99d789ac87e4ce8a6.png",
+          "origem-regional-produto-comunicacao/index.html",
+          "blog/index.html",
+          "blog-marcas-que-ficam/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -583,7 +663,7 @@
       "sources": "[Agência Sebrae de Notícias, cooperativas no Coopera+ Amazônia, 29/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/cooperativas-extrativistas-assumem-protagonismo-no-coopera-amazonia/)\n\nA notícia trata da participação de representantes na governança de um programa, sem estabelecer procedimentos de campanha. A aplicação à comunicação é análise editorial. A marca, o vídeo e seus participantes são hipotéticos; o texto não oferece parecer jurídico sobre uso de imagem.",
       "prompt": "Natural cinematic editorial photograph of two adult craft workers beside the open doorway of a small textile workshop, one worker gesturing toward a hanging garment while explaining a specific detail and the other listening attentively with an unbranded camera resting lowered at their side, spontaneous conversation before photographing rather than a posed portrait, medium wide side composition with a courtyard visible beyond, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected on the shaded door edge, controlled contrast, no meeting table, papers, laptop, readable text or logos --ar 3:2",
       "imageAlt": "Duas pessoas conversam junto à porta de uma oficina têxtil; uma aponta para uma peça pendurada e a outra mantém uma câmera abaixada ao lado do corpo.",
-      "date": "2026-11-15",
+      "date": "2026-11-07",
       "keyword": "participação de quem é retratado",
       "slug": "participacao-retratados-historia-marca",
       "meta": "A participação de quem é retratado ajuda a conferir contexto e limites de uso. Ouça as pessoas antes de fechar a história que sua marca pretende contar.",
@@ -595,8 +675,18 @@
       "imageHeight": 848,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-02T06:49:04.443Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/participacao-retratados-historia-marca/",
+        "publishedAt": "2026-11-07T07:44:30.066035+00:00",
+        "job": "11ef788b-5f85-4779-98f3-84d5afc03fc3",
+        "files": [
+          "assets/artigos-editoriais/a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600.png",
+          "participacao-retratados-historia-marca/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -642,7 +732,7 @@
       "sources": "[TikTok, Brand Safety Center no APAC Responsible Media Forum, 28/10/2026](https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU)\n\nO comunicado descreve recursos da plataforma, sem comprovar segurança total ou disponibilidade igual em todas as contas e mercados. A empresa e a campanha são hipotéticas. As recomendações de alinhamento e análise são editoriais, sem lista universal de exclusões ou parecer de conformidade.",
       "prompt": "Conceptual editorial photograph without people, a single plain ivory fabric banner suspended freely in a narrow architectural passage, one side of the passage finished in smooth pale plaster and the opposite side covered in rough dark cork, their contrasting textures and shadows visibly changing the atmosphere around the same unmarked banner, wide oblique composition with realistic spatial depth and generous negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 grazing the lower edge of the fabric, controlled contrast, no office, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
       "imageAlt": "Faixa de tecido claro suspensa entre uma parede de reboco liso e outra de cortiça escura, com acento teal na borda inferior.",
-      "date": "2026-11-14",
+      "date": "2026-11-07",
       "keyword": "contexto de veiculação dos anúncios",
       "slug": "contexto-veiculacao-anuncios-marca",
       "meta": "O contexto de veiculação dos anúncios também exige escolhas. Defina critérios, confira os controles disponíveis e combine quem acompanha possíveis desencontros.",
@@ -654,8 +744,18 @@
       "faq": "Aprovar a peça e o público encerra as escolhas de mídia?\nNão. O planejamento também precisa considerar as condições de exibição, os critérios de contexto e os limites dos controles disponíveis.\n\nUma ferramenta de proteção garante risco zero?\nNão. É necessário confirmar os recursos da conta e do mercado e reconhecer as situações que ficam fora de seu alcance.\n\nComo avaliar um possível desencontro de veiculação?\nEncaminhe o contexto disponível ao responsável pela análise, confira o que pode ser confirmado e discuta ajustes conforme os critérios combinados.",
       "url": "https://www.agenciatweed.com.br/contexto-veiculacao-anuncios-marca/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-01T22:03:23.191Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/contexto-veiculacao-anuncios-marca/",
+        "publishedAt": "2026-11-07T07:45:10.691527+00:00",
+        "job": "28d21889-bd06-47c7-a212-43bef18744b6",
+        "files": [
+          "assets/artigos-editoriais/4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503.png",
+          "contexto-veiculacao-anuncios-marca/index.html",
+          "blog/index.html",
+          "blog-marcas-em-movimento/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -701,7 +801,7 @@
       "sources": "[Agência Sebrae de Notícias, pequenas empresas na cadeia de fornecedores da Petrobras, 30/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/pequenas-empresas-conquistam-espaco-na-cadeia-de-fornecedores-da-petrobras/)\n\nO programa é contexto noticiado pelo Sebrae. As recomendações sobre apresentação pública são análise editorial da Tweed; não descrevem regras de cadastro de um comprador específico. A fornecedora e as situações apresentadas são hipotéticas.",
       "prompt": "Conceptual editorial photograph without people, a long wall of closed warm timber storage drawers with one open shallow drawer revealing a neatly fitted unbranded metal coupling and its matching empty recess, oblique close view with the specific component immediately recognizable against the otherwise quiet uniform surface, tactile wood grain and brushed metal, asymmetric negative space, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 reflected inside the open drawer, controlled contrast, no office desk, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
       "imageAlt": "Gaveta de madeira aberta revela uma conexão metálica e um encaixe vazio ao lado, com reflexo teal discreto no interior.",
-      "date": "2026-11-13",
+      "date": "2026-11-07",
       "keyword": "site para fornecedores B2B",
       "slug": "site-fornecedores-b2b-identificar-oferta",
       "meta": "Um site para fornecedores B2B deve tornar a oferta reconhecível, apresentar evidências autorizadas e orientar o contato sem substituir a homologação.",
@@ -713,8 +813,18 @@
       "faq": "O site substitui o cadastro exigido pelo comprador?\nNão. O site apresenta a empresa; cada comprador define seus procedimentos, que precisam ser confirmados diretamente com ele.\n\nQuais informações ajudam na identificação do fornecedor?\nCategorias reais de produtos ou serviços, abrangência do atendimento, evidências públicas autorizadas e um caminho comercial reconhecível.\n\nTodos os documentos de qualificação devem ficar públicos?\nNão. A apresentação pública deve ser separada dos documentos restritos, cujo compartilhamento exige avaliação do pedido e um canal apropriado.",
       "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-01T21:12:22.002Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/",
+        "publishedAt": "2026-11-07T07:45:47.436179+00:00",
+        "job": "c31c501a-48a4-4da9-b82a-0ff86d4ff31b",
+        "files": [
+          "assets/artigos-editoriais/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
+          "site-fornecedores-b2b-identificar-oferta/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -765,7 +875,7 @@
       "sources": "[Google Workspace Updates, resumos de reuniões no Google Chat, 19/10/2026](https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html)\n[Google Workspace Updates, recap semanal de 23/10/2026](https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html)\n\nRecursos descritos como anúncio do Google, sem disponibilidade universal ou precisão presumida. A empresa e a campanha são hipotéticas. A distinção entre sugestões, decisões e pendências é análise editorial, sem orientação contratual.",
       "prompt": "Natural cinematic editorial photograph of one adult bicycle mechanic in a modest open-front repair shop holding a front wheel in position and carefully checking the axle before fastening it, candid close side view centered on hands and the practical pause in the action, part of the mechanic’s face and a quiet street softly visible behind, believable worn tools kept in the background, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected along the shaded bicycle frame, controlled contrast, no meeting, paperwork, laptop, readable text or logos --ar 3:2",
       "imageAlt": "Mecânico segura a roda dianteira de uma bicicleta e confere o eixo antes de fixá-lo, com reflexo teal discreto no quadro.",
-      "date": "2026-11-12",
+      "date": "2026-11-07",
       "keyword": "resumo de reunião",
       "slug": "resumo-reuniao-decisoes-pendencias",
       "meta": "O resumo de reunião precisa separar sugestões, decisões e pendências. Confira ações, responsáveis e condições antes de encaminhar o próximo trabalho.",
@@ -777,8 +887,18 @@
       "faq": "Uma sugestão citada na reunião já deve virar tarefa?\nNão. O registro deve distinguir uma possibilidade de uma ação confirmada e preservar as condições que ainda precisam ser verificadas.\n\nComo revisar um resumo automático?\nConfira as decisões, as ações, os responsáveis e as condições com quem participou, sem presumir precisão por causa da organização do texto.\n\nA falta de resposta confirma o resumo?\nNão se deve presumir confirmação pelo silêncio. Se o próximo trabalho depende de um ponto, busque o esclarecimento apropriado.",
       "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-01T21:12:15.351Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/",
+        "publishedAt": "2026-11-07T07:46:25.712881+00:00",
+        "job": "efb0cec7-66bd-4530-9804-3bcfbb8188d9",
+        "files": [
+          "assets/artigos-editoriais/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
+          "resumo-reuniao-decisoes-pendencias/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -824,7 +944,7 @@
       "sources": "[Meta, chamadas de WhatsApp com convidados, 14/10/2026](https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/)\n\nFuncionalidades atribuídas ao anúncio; integrações de calendário não são tratadas como disponíveis. A PME e as situações são hipotéticas. Sem recomendação universal de ferramenta, desativação de controles ou promessa de conversão.",
       "prompt": "Natural cinematic editorial photograph of one adult professional on a quiet apartment balcony just before a remote conversation, candid side view as they place one wireless earbud in their ear while holding an unbranded smartphone with its screen turned away from camera, relaxed practical gesture and ordinary urban buildings softly out of focus beyond, medium environmental composition with generous negative space, soft neutral late afternoon key light preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected on the shaded balcony door, controlled contrast, no meeting table, papers, laptop, readable interface, text or logos --ar 3:2",
       "imageAlt": "Pessoa coloca um fone sem fio enquanto segura um celular na varanda, com prédios ao fundo e reflexo teal discreto na porta.",
-      "date": "2026-11-11",
+      "date": "2026-11-07",
       "keyword": "acesso a uma reunião online",
       "slug": "acesso-reuniao-online-convidado",
       "meta": "O acesso a uma reunião online começa no convite. Confira exigências, instruções, admissão e alternativas para receber participantes externos.",
@@ -836,8 +956,18 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/604cfc8ed3d888e39f959f7f3554879d2033b9800de5fb098a09317bc898c69d.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-01T13:27:25.394Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/acesso-reuniao-online-convidado/",
+        "publishedAt": "2026-11-07T07:47:05.142427+00:00",
+        "job": "34894123-4c67-4dbe-889f-f982f128c3be",
+        "files": [
+          "assets/artigos-editoriais/604cfc8ed3d888e39f959f7f3554879d2033b9800de5fb098a09317bc898c69d.png",
+          "acesso-reuniao-online-convidado/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -883,7 +1013,7 @@
       "sources": "[Meta e CNIB, anúncio de parceria com participação de usuários, 29/10/2026](https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/)\n[W3C WAI, Involving Users in Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/involving-users/)\n[W3C WAI, Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/)\n\nO anúncio da parceria não comprova resultados. A PME e a avaliação são hipotéticas. Participação de usuários e avaliação técnica são complementares; o artigo não certifica acessibilidade nem oferece diagnóstico médico ou parecer jurídico.",
       "prompt": "Conceptual editorial photograph without people, a freestanding practical wooden viewing frame in a quiet gallery with several openings at clearly different heights, a small tactile ceramic detail visible through the lowest opening while a wider horizontal opening frames another part of the same installation, angled side view revealing how each viewpoint exposes a different real detail, warm plaster and timber textures, soft neutral key light and restrained teal ambient accent inspired by #08ffb1 grazing the inner edge, controlled contrast, no maze, cubes, prisms, light beams, disability simulation props, readable text or logos --ar 3:2",
       "imageAlt": "Estrutura de madeira tem aberturas em alturas diferentes, revelando detalhes distintos de uma instalação de cerâmica em uma galeria.",
-      "date": "2026-11-10",
+      "date": "2026-11-07",
       "keyword": "testar a experiência",
       "slug": "testar-experiencia-alem-equipe-interna",
       "meta": "Testar a experiência só com a equipe deixa condições de acesso fora da avaliação. Inclua participantes pertinentes e combine observação com verificação técnica.",
@@ -895,8 +1025,18 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-01T13:26:58.070Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/testar-experiencia-alem-equipe-interna/",
+        "publishedAt": "2026-11-07T07:47:50.464692+00:00",
+        "job": "80469b24-7102-4061-a3bf-473e39eaf243",
+        "files": [
+          "assets/artigos-editoriais/4fd796124ba0632c6a915848ddc672adf30a089de0d5a0ca80bd1ce37e99767a.png",
+          "testar-experiencia-alem-equipe-interna/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -942,7 +1082,7 @@
       "sources": "[Google Workspace Updates, criação, prévia e edição de arquivos no Gemini, 29/10/2026](https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html)\n\nAnúncio usado como contexto de geração e edição de arquivos, sem promessa de fidelidade de exportação ou recomendação de ferramenta. Empresa e situações hipotéticas. Critérios de entrega e manutenção são análise editorial, sem afirmação de práticas específicas da Tweed.",
       "prompt": "Natural cinematic editorial photograph of one adult stage technician in a small empty auditorium carefully adjusting a single removable fabric panel within a larger reusable display frame, the surrounding panels remain in place and a plain storage case stands nearby, medium side view emphasizing the precise everyday maintenance gesture and the complete structure, soft neutral window key light preserving natural skin tones, restrained teal ambient accent inspired by #08ffb1 on one frame edge, controlled contrast and generous negative space, no meeting, papers, desk, laptop, screen interface, readable text or logos --ar 3:2",
       "imageAlt": "Pessoa ajusta um painel removível numa estrutura de exposição em um auditório vazio, com acento teal na borda da armação.",
-      "date": "2026-11-09",
+      "date": "2026-11-07",
       "keyword": "manutenção de uma apresentação comercial",
       "slug": "apresentacao-comercial-manutencao-proxima-versao",
       "meta": "A manutenção de uma apresentação comercial começa na entrega. Combine base de edição, versão corrente e responsáveis pelas próximas alterações.",
@@ -954,8 +1094,18 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-01T13:26:32.149Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/apresentacao-comercial-manutencao-proxima-versao/",
+        "publishedAt": "2026-11-07T07:48:28.722373+00:00",
+        "job": "91217924-09c3-44e9-a5c5-eb1c25dba401",
+        "files": [
+          "assets/artigos-editoriais/fcf4a30673fd1b3731d8b9456544bc4d7d7c1a1509905a79e075bb2aa792670c.png",
+          "apresentacao-comercial-manutencao-proxima-versao/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -1004,7 +1154,7 @@
       "keyword": "comunidade de marca",
       "slug": "comunidade-marca-cuidado-moderacao",
       "meta": "Uma comunidade de marca precisa de finalidade, regras e responsáveis. Organize o acompanhamento e os limites entre conversa coletiva e atendimento individual.",
-      "date": "2026-11-08",
+      "date": "2026-11-07",
       "imageFile": "conteudos/pauta-diaria-2026-10-30/imagens/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
       "imageName": "vitriolicnaivety_ultrarealistic_photograph_of_a_social_media__0f7ae5f7-741f-418f-813c-02f351ff9591_2.png",
       "imageWidth": 1344,
@@ -1013,8 +1163,18 @@
       "faq": "O que definir antes de abrir um grupo da marca?\nExplique a finalidade, as regras de participação, quem acompanha o espaço e quais situações precisam de outro canal.\n\nUma crítica deve ser tratada como quebra de regra?\nNão automaticamente. Avalie conteúdo e contexto com critérios compreensíveis, distinguindo discordância, dúvida e situação individual.\n\nFerramentas automáticas substituem a moderação humana?\nNão. Podem apoiar tarefas, mas critérios, revisão dos efeitos e responsabilidade pelas decisões continuam necessários.",
       "url": "https://www.agenciatweed.com.br/comunidade-marca-cuidado-moderacao/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-10-30T08:24:53.094Z"
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/comunidade-marca-cuidado-moderacao/",
+        "publishedAt": "2026-11-07T07:49:10.600164+00:00",
+        "job": "93e7b8f8-6014-48b8-a0e5-c8bb42b8090c",
+        "files": [
+          "assets/artigos-editoriais/7899c96f95d6f9afe8f9a394272a5a5929b237aab1736be988ff00a86a0b133d.png",
+          "comunidade-marca-cuidado-moderacao/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {

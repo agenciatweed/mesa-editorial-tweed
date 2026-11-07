@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado em 28/10/2026: TikTok anunciou seu Brand Safety Center no APAC Responsible Media Forum, em Singapura. O comunicado descreve controles de inventário e exclusões que marcas podem selecionar conforme suas necessidades. Usar apenas o anúncio como contexto, sem repetir estatísticas promocionais, prometer segurança total ou presumir disponibilidade e configuração iguais no Brasil. Tese editorial: aprovar a peça e o público não encerra as escolhas de mídia; a marca precisa definir que contextos de veiculação são compatíveis com sua comunicação e quem acompanha possíveis desencontros. Exemplo hipotético de PME de serviços que combina com seu parceiro de mídia os critérios para avaliar a proximidade do anúncio com conteúdos incompatíveis, verifica quais controles existem de fato na conta e registra quem deve analisar e decidir ajustes quando surge um caso. Não criar lista universal de categorias proibidas nem estigmatizar pessoas, comunidades ou opiniões; distinguir preferência de contexto da marca de afirmação sobre ilegalidade de um conteúdo. Não orientar vigilância de usuários ou decisões automáticas baseadas em denúncia isolada. Diferenciar do plano de mídia: foco na adequação do entorno de veiculação, não na distribuição de orçamento entre canais. Diferenciar de tendências: trata de onde uma peça paga é exibida, não de participar de conversas culturais. Diferenciar de prova de entrega/IA: não discute a veracidade da imagem criada. Não oferecer tutorial técnico de controles sem verificar documentação vigente, nem prometer resultado ou conformidade.",
   "audience": "Donos de PMEs e responsáveis por marketing que aprovam campanhas pagas e precisam alinhar critérios de veiculação com a equipe ou agência.",
   "goal": "De considerar a aprovação de peça e público suficiente para perceber que o contexto de exibição também precisa de critérios, controles disponíveis e acompanhamento responsável, sem garantia de risco zero.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,7 +41,7 @@
   "sources": "[TikTok, Brand Safety Center no APAC Responsible Media Forum, 28/10/2026](https://newsroom.tiktok.com/introducing-the-tiktok-brand-safety-center-at-apac-responsible-media-forum-2026?lang=en-AU)\n\nO comunicado descreve recursos da plataforma, sem comprovar segurança total ou disponibilidade igual em todas as contas e mercados. A empresa e a campanha são hipotéticas. As recomendações de alinhamento e análise são editoriais, sem lista universal de exclusões ou parecer de conformidade.",
   "prompt": "Conceptual editorial photograph without people, a single plain ivory fabric banner suspended freely in a narrow architectural passage, one side of the passage finished in smooth pale plaster and the opposite side covered in rough dark cork, their contrasting textures and shadows visibly changing the atmosphere around the same unmarked banner, wide oblique composition with realistic spatial depth and generous negative space, soft neutral key light and a restrained teal ambient accent inspired by #08ffb1 grazing the lower edge of the fabric, controlled contrast, no office, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
   "imageAlt": "Faixa de tecido claro suspensa entre uma parede de reboco liso e outra de cortiça escura, com acento teal na borda inferior.",
-  "date": "2026-11-14",
+  "date": "2026-11-07",
   "keyword": "contexto de veiculação dos anúncios",
   "slug": "contexto-veiculacao-anuncios-marca",
   "meta": "O contexto de veiculação dos anúncios também exige escolhas. Defina critérios, confira os controles disponíveis e combine quem acompanha possíveis desencontros.",
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503.png",
   "faq": "Aprovar a peça e o público encerra as escolhas de mídia?\nNão. O planejamento também precisa considerar as condições de exibição, os critérios de contexto e os limites dos controles disponíveis.\n\nUma ferramenta de proteção garante risco zero?\nNão. É necessário confirmar os recursos da conta e do mercado e reconhecer as situações que ficam fora de seu alcance.\n\nComo avaliar um possível desencontro de veiculação?\nEncaminhe o contexto disponível ao responsável pela análise, confira o que pode ser confirmado e discuta ajustes conforme os critérios combinados.",
-  "url": "https://www.agenciatweed.com.br/contexto-veiculacao-anuncios-marca/"
+  "url": "https://www.agenciatweed.com.br/contexto-veiculacao-anuncios-marca/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/contexto-veiculacao-anuncios-marca/",
+    "publishedAt": "2026-11-07T07:45:10.691527+00:00",
+    "job": "28d21889-bd06-47c7-a212-43bef18744b6",
+    "files": [
+      "assets/artigos-editoriais/4c72a1b37db074c89d30e4a408cc394e7f54415e333630cc5ffc2ed2d61b4503.png",
+      "contexto-veiculacao-anuncios-marca/index.html",
+      "blog/index.html",
+      "blog-marcas-em-movimento/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

@@ -6,11 +6,16 @@
   "angle": "Gancho primário: notícia do Sebrae de 30/10/2026 sobre o Move+ distingue negócios fechados no evento de expectativas de vendas futuras para os próximos 12 meses, embora apresente também a soma como oportunidades. Usar essa distinção explícita sem repetir valores ou transformar projeções em resultados realizados. Tese editorial própria: antes de publicar números de campanhas, eventos ou projetos, uma PME precisa nomear o estágio do que está comunicando: realização confirmada, oportunidade em negociação ou expectativa futura, com período e base claros. Exemplo hipotético de empresa que prepara um post de balanço e separa pedidos confirmados de conversas em andamento, sem somá-los sob a palavra vendas nem inventar probabilidade de conversão. Não oferecer método contábil, financeiro ou jurídico e não usar métricas ou casos internos da Tweed ou clientes. Diferenciar de atribuição de campanha: não investigar causalidade da venda; foco no estado e no tempo da informação publicada. Diferenciar de métricas sem vaidade: não propor indicadores ou dashboard; foco na redação de uma afirmação pública de resultado. Diferenciar de pós-feira: não ensinar acompanhamento de contatos, mas apresentar com precisão o que aconteceu e o que ainda é uma possibilidade. Diferenciar de origem regional: a mesma fonte traz diversos assuntos; esta pauta utiliza apenas a separação entre realizado e esperado, sem discutir território. Não desqualificar expectativas como inúteis; explicar que podem ser comunicadas com identificação e limites, sem aparência de fato consumado.",
   "audience": "Donos de PMEs e equipes de marketing que divulgam balanços de campanhas, eventos e projetos em posts, apresentações e materiais comerciais.",
   "goal": "De reunir números sob uma chamada atraente para perceber que a confiança depende de distinguir o realizado do que ainda é oportunidade ou expectativa, mantendo período e contexto visíveis.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,7 +41,7 @@
   "sources": "[Agência Sebrae de Notícias, Move+ e distinção entre negócios realizados e expectativas futuras, 30/10/2026](https://agenciasebrae.com.br/inovacao-e-tecnologia/move-abre-oportunidade-de-mais-de-r-76-milhoes-em-negocios-para-pequenas-empresas/)\n\nO relato do Sebrae distingue realizações e expectativas; os valores não foram reproduzidos. A empresa e o encontro comercial descritos são hipotéticos. O texto trata da redação de afirmações públicas, sem método contábil, previsão de vendas ou atribuição causal.",
   "prompt": "Natural cinematic editorial photograph of one adult gardener in a small urban nursery carefully separating a ripe tomato from a cluster while several clearly unripe green tomatoes remain attached to the same living plant, candid close environmental view of the hand and the distinct fruit stages with the person partly visible in profile, believable everyday action and leafy background, soft neutral morning key light preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected from the shaded greenhouse structure, controlled contrast, no meeting table, papers, laptop, graphs, readable text or logos --ar 3:2",
   "imageAlt": "Pessoa colhe um tomate maduro numa pequena estufa, enquanto tomates verdes permanecem no mesmo pé, com reflexo teal discreto na estrutura.",
-  "date": "2026-11-17",
+  "date": "2026-11-07",
   "keyword": "comunicar resultados e expectativas",
   "slug": "comunicar-resultados-expectativas",
   "meta": "Comunicar resultados e expectativas exige distinguir o realizado do que ainda pode acontecer. Preserve estágio, período e base dos números publicados.",
@@ -46,5 +51,19 @@
   "imageHeight": 848,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/493424a14725fccc70ccbc4126b3777dafd1e2ac6246e5c01fd9ecfd507bfb10.png",
   "faq": "Uma oportunidade em negociação equivale a uma venda realizada?\nNão. A comunicação deve identificar o estágio confirmado, sem apresentar possibilidades futuras como fatos consumados.\n\nComo apresentar expectativas num balanço?\nIdentifique sua natureza, o período e a base utilizada, mantendo essas condições próximas da informação principal.\n\nUma expectativa confirmada depois muda o resultado anterior?\nA realização pode ser comunicada após confirmação, mas não transforma retrospectivamente a previsão em resultado daquele primeiro momento.",
-  "url": "https://www.agenciatweed.com.br/comunicar-resultados-expectativas/"
+  "url": "https://www.agenciatweed.com.br/comunicar-resultados-expectativas/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/comunicar-resultados-expectativas/",
+    "publishedAt": "2026-11-07T07:43:10.475838+00:00",
+    "job": "02a784ed-6893-49e5-b1a3-26ff8e16c488",
+    "files": [
+      "assets/artigos-editoriais/493424a14725fccc70ccbc4126b3777dafd1e2ac6246e5c01fd9ecfd507bfb10.png",
+      "comunicar-resultados-expectativas/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

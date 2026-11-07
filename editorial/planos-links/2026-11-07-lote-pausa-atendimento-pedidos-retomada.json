@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "pausa-atendimento-pedidos-retomada",
+  "contentSha256": "34bfc5261046e67511d9288e5977d33f71c5a0fc607c95debf00ee008cd61eab",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "pausa-atendimento-pedidos-retomada",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "a página de contato, uma resposta automática e o canal comercial",
+      "context": "Isso pode incluir a página de contato, uma resposta automática e o canal comercial. Não é necessário copiar um texto longo em toda parte. Cada ponto precisa apresentar a condição relevante e um caminho compreensível para continuar.",
+      "reason": "Aprofunda coerência dos canais e encaminhamento do atendimento."
+    }
+  ]
+}

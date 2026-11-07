@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "devolutiva-pesquisa-retorno-participantes",
+  "contentSha256": "7847ddb531f7a152bc3db7bf566994d2e86a4adbee14707904696f10febd0681",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "devolutiva-pesquisa-retorno-participantes",
+      "to": "atendimento-troca-clareza-encaminhamento",
+      "anchor": "Uma avaliação agregada e uma demanda de atendimento têm funções diferentes",
+      "context": "Uma avaliação agregada e uma demanda de atendimento têm funções diferentes. Uma pessoa pode relatar uma situação que exige conversa direta, mesmo quando o conjunto das respostas é favorável.",
+      "reason": "Distingue retorno agregado e encaminhamento de situações individuais."
+    }
+  ]
+}

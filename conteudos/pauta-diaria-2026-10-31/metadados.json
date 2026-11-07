@@ -6,11 +6,16 @@
   "angle": "Gancho primário: em 30/10/2026, o Sebrae publicou notícia sobre o Programa Fortalecer, realizado com a Petrobras, incluindo formação em marketing e vendas e orientação para cadastro de fornecedores. Usar apenas esse contexto verificado, sem reproduzir indicadores financeiros, prometer contratos ou explicar regras de elegibilidade. Tese editorial própria: no B2B, o site também precisa ajudar uma pessoa de compras a identificar o que a empresa fornece, quais capacidades públicas ela consegue comprovar e com quem falar. Exemplo explicitamente hipotético de pequena fornecedora cujo site tem linguagem genérica, mas não explica categorias de fornecimento nem informa contato comercial responsável. Mostrar como organizar oferta, abrangência real de atendimento, evidências autorizadas e um caminho de contato para solicitar documentos pelo canal adequado. Separar apresentação pública de documentos restritos de homologação; não publicar documentos fiscais, financeiros, dados pessoais ou materiais internos de clientes. Cada comprador define seus critérios: confirmar exigências diretamente com ele, sem tratar o site como substituto de cadastro ou homologação. Diferenciar da pauta de propostas comparáveis: aqui o foco é a identificação inicial de fornecedor por compras, antes de uma proposta. Diferenciar de UX e informações atualizadas: foco na tarefa específica de qualificação B2B, sem checklist genérico de navegação. Não atribuir as recomendações próprias ao Sebrae nem inventar casos da Tweed.",
   "audience": "Donos de pequenas empresas B2B e responsáveis comerciais e de marketing que desejam apresentar seus serviços ou produtos a compradores de outras empresas.",
   "goal": "De ver o site apenas como vitrine para gerar interesse para perceber que ele deve facilitar a identificação do fornecedor e o encaminhamento comercial, com informações públicas verificáveis e documentos restritos tratados no canal correto.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,7 +41,7 @@
   "sources": "[Agência Sebrae de Notícias, pequenas empresas na cadeia de fornecedores da Petrobras, 30/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/pequenas-empresas-conquistam-espaco-na-cadeia-de-fornecedores-da-petrobras/)\n\nO programa é contexto noticiado pelo Sebrae. As recomendações sobre apresentação pública são análise editorial da Tweed; não descrevem regras de cadastro de um comprador específico. A fornecedora e as situações apresentadas são hipotéticas.",
   "prompt": "Conceptual editorial photograph without people, a long wall of closed warm timber storage drawers with one open shallow drawer revealing a neatly fitted unbranded metal coupling and its matching empty recess, oblique close view with the specific component immediately recognizable against the otherwise quiet uniform surface, tactile wood grain and brushed metal, asymmetric negative space, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 reflected inside the open drawer, controlled contrast, no office desk, papers, laptop, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
   "imageAlt": "Gaveta de madeira aberta revela uma conexão metálica e um encaixe vazio ao lado, com reflexo teal discreto no interior.",
-  "date": "2026-11-13",
+  "date": "2026-11-07",
   "keyword": "site para fornecedores B2B",
   "slug": "site-fornecedores-b2b-identificar-oferta",
   "meta": "Um site para fornecedores B2B deve tornar a oferta reconhecível, apresentar evidências autorizadas e orientar o contato sem substituir a homologação.",
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
   "faq": "O site substitui o cadastro exigido pelo comprador?\nNão. O site apresenta a empresa; cada comprador define seus procedimentos, que precisam ser confirmados diretamente com ele.\n\nQuais informações ajudam na identificação do fornecedor?\nCategorias reais de produtos ou serviços, abrangência do atendimento, evidências públicas autorizadas e um caminho comercial reconhecível.\n\nTodos os documentos de qualificação devem ficar públicos?\nNão. A apresentação pública deve ser separada dos documentos restritos, cujo compartilhamento exige avaliação do pedido e um canal apropriado.",
-  "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/"
+  "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/site-fornecedores-b2b-identificar-oferta/",
+    "publishedAt": "2026-11-07T07:45:47.436179+00:00",
+    "job": "c31c501a-48a4-4da9-b82a-0ff86d4ff31b",
+    "files": [
+      "assets/artigos-editoriais/6b1b82917c034b736251ddcc4cc66e4fe8b78980a1769961808d10a0114acc31.png",
+      "site-fornecedores-b2b-identificar-oferta/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

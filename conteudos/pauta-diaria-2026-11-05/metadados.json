@@ -6,11 +6,16 @@
   "angle": "Gancho primário: em 03/11/2026, com atualização em 04/11, o Sebrae Sergipe anunciou a programação futura do Reload 2026 com palestras e oficinas de ferramentas digitais. Usar apenas como contexto de oferta de aprendizagem, sem alegar resultados do evento ainda não realizado nem recomendar ingresso. Tese editorial própria: participar de cursos e eventos só se conecta à rotina quando a empresa escolhe uma aplicação delimitada, atribui responsabilidade e define o que pretende observar; acumular referências não substitui decidir. Exemplo hipotético de PME que volta de uma oficina e escolhe testar uma melhoria na explicação de uma oferta antes de trocar todas as ferramentas e canais. Separar conteúdo aprendido, hipótese de aplicação e decisão real; não inventar consenso ou efeito causal. Diferenciar da pauta de capacitação em IA: esta trata de transferência de aprendizagem de marketing em geral para uma mudança delimitada, não de dependência tecnológica. Diferenciar de resumo de reunião: não é registro de acordos. Diferenciar de pós-feira: não trata de retomar contatos comerciais. Sem promessa de vendas ou método científico formal.",
   "audience": "Donos de PMEs e equipes de marketing que participam de cursos e eventos e querem transformar repertório em uma ação viável.",
   "goal": "De acumular ideias após uma formação para selecionar uma aplicação concreta e acompanhar seu entendimento e execução antes de ampliar mudanças.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,7 +41,7 @@
   "sources": "[Sebrae Sergipe, programação do Reload 2026, 03/11/2026, atualizado em 04/11](https://se.agenciasebrae.com.br/cultura-empreendedora/gil-do-vigor-e-a-nova-atracao-confirmada-do-reload-2026/)\n\nA fonte anuncia programação futura, sem demonstrar resultados. A empresa de móveis e a aplicação descrita são hipotéticas; os critérios de escolha e acompanhamento são análise editorial da Tweed.",
   "prompt": "Natural cinematic editorial photograph of one adult furniture maker kneeling beside an unfinished wooden cabinet in a modest open workshop, carefully applying a small patch of finish to one drawer edge while the remaining cabinet stays untreated, candid focused gesture, low side view with daylight from an open courtyard, visible wood grain and restrained tools in the background, soft neutral key light and natural skin tones, subtle teal ambient accent inspired by #08ffb1 reflected on the shaded floor, controlled contrast, no papers, meeting, laptop, readable text or logos --ar 3:2",
   "imageAlt": "Uma mesa com anotações e um crachá do evento Sebrae Reloaded",
-  "date": "2026-11-21",
+  "date": "2026-11-07",
   "keyword": "aplicar o aprendizado de marketing",
   "slug": "aplicar-aprendizado-marketing-rotina",
   "meta": "Aplicar o aprendizado de marketing exige escolher um problema, definir uma mudança viável e acompanhar o que acontece antes de ampliar a aplicação.",
@@ -46,5 +51,19 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
   "faq": "Por onde começar a aplicar o aprendizado de marketing?\nEscolha uma dificuldade real da empresa e verifique como uma ideia aprendida pode ajudar a examiná-la, considerando as condições do negócio.\n\nO que definir antes de colocar uma ideia em prática?\nDelimite a mudança, as informações a conferir, quem será responsável e o espaço necessário na agenda.\n\nUma impressão favorável comprova resultado comercial?\nNão. Observe a pergunta definida para a aplicação e reconheça os limites dos sinais disponíveis, sem atribuir vendas automaticamente à mudança.",
-  "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/"
+  "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/aplicar-aprendizado-marketing-rotina/",
+    "publishedAt": "2026-11-07T07:40:36.395784+00:00",
+    "job": "3d062223-7e2d-4530-b742-ff514606afea",
+    "files": [
+      "assets/artigos-editoriais/b00d9a42b9229123059d8f59cc73840ed4ab7c52fbdffa7a29e6ba7a26ad0736.png",
+      "aplicar-aprendizado-marketing-rotina/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado: recap oficial do Google Workspace de 23/10/2026 destaca resumos de reunião no Google Chat; a publicação detalhada de 19/10 explica cartões com síntese, decisões e itens de ação, condicionados à anotação no Meet e à conversa associada. Usar como anúncio de ferramenta, sem presumir disponibilidade universal, precisão ou resultado operacional. Pesquisa recente ampliada a 30 dias para uma aplicação distinta. Tese: um resumo organiza o que foi dito, mas sugestões, decisões confirmadas e pendências precisam continuar distinguíveis; um texto fluente não deve transformar uma hipótese em compromisso. Exemplo hipotético de PME que discute campanha com parceiro e, depois da reunião, confere o que foi aprovado, o que aguarda confirmação, quem ficou responsável e qual próximo movimento foi realmente combinado. A validação deve ser possível por quem participou; não inventar aceite pelo silêncio nem orientação contratual. Não divulgar transcrições, informações pessoais ou dados de clientes em ferramentas por conveniência; combinar permissões e condições apropriadas. Diferenciar de feedback de campanha: foco no registro pós-reunião e distinção entre fala e decisão, não nos critérios para julgar uma peça. Diferenciar de apresentação editável: foco no acordo de trabalho, não em arquivos de entrega. Diferenciar de acesso à chamada: foco na continuidade após a conversa, não na entrada na ferramenta. Não atribuir à Tweed um processo ou resultado específico sem confirmação.",
   "audience": "Donos e gestores de PMEs que participam de reuniões de marketing com equipe e parceiros e usam notas ou resumos automáticos para organizar a continuidade.",
   "goal": "De “se está no resumo, ficou combinado” para “preciso conferir quais decisões foram confirmadas e separar sugestões, pendências e responsabilidades antes de iniciar o próximo trabalho”.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -41,7 +46,7 @@
   "sources": "[Google Workspace Updates, resumos de reuniões no Google Chat, 19/10/2026](https://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html)\n[Google Workspace Updates, recap semanal de 23/10/2026](https://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html)\n\nRecursos descritos como anúncio do Google, sem disponibilidade universal ou precisão presumida. A empresa e a campanha são hipotéticas. A distinção entre sugestões, decisões e pendências é análise editorial, sem orientação contratual.",
   "prompt": "Natural cinematic editorial photograph of one adult bicycle mechanic in a modest open-front repair shop holding a front wheel in position and carefully checking the axle before fastening it, candid close side view centered on hands and the practical pause in the action, part of the mechanic’s face and a quiet street softly visible behind, believable worn tools kept in the background, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected along the shaded bicycle frame, controlled contrast, no meeting, paperwork, laptop, readable text or logos --ar 3:2",
   "imageAlt": "Mecânico segura a roda dianteira de uma bicicleta e confere o eixo antes de fixá-lo, com reflexo teal discreto no quadro.",
-  "date": "2026-11-12",
+  "date": "2026-11-07",
   "keyword": "resumo de reunião",
   "slug": "resumo-reuniao-decisoes-pendencias",
   "meta": "O resumo de reunião precisa separar sugestões, decisões e pendências. Confira ações, responsáveis e condições antes de encaminhar o próximo trabalho.",
@@ -51,5 +56,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
   "faq": "Uma sugestão citada na reunião já deve virar tarefa?\nNão. O registro deve distinguir uma possibilidade de uma ação confirmada e preservar as condições que ainda precisam ser verificadas.\n\nComo revisar um resumo automático?\nConfira as decisões, as ações, os responsáveis e as condições com quem participou, sem presumir precisão por causa da organização do texto.\n\nA falta de resposta confirma o resumo?\nNão se deve presumir confirmação pelo silêncio. Se o próximo trabalho depende de um ponto, busque o esclarecimento apropriado.",
-  "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/"
+  "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/resumo-reuniao-decisoes-pendencias/",
+    "publishedAt": "2026-11-07T07:46:25.712881+00:00",
+    "job": "efb0cec7-66bd-4530-9804-3bcfbb8188d9",
+    "files": [
+      "assets/artigos-editoriais/fe5bfdf652e01c9bfd63c40bd96741d7ea1aabe1372577f47073503aec66d87d.png",
+      "resumo-reuniao-decisoes-pendencias/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "contexto-veiculacao-anuncios-marca",
+  "contentSha256": "492465b53905bdf1f49e1401ef7a4e2dd67788f798c2ff9a43e09dff39079eb1",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "contexto-veiculacao-anuncios-marca",
+      "to": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "anchor": "parceiro de mídia",
+      "context": "Imagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. É um exemplo hipotético. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.",
+      "reason": "Relaciona escolhas de veiculação ao planejamento de mídia e critérios de participação da marca."
+    }
+  ]
+}

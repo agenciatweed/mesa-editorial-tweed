@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "testar-experiencia-alem-equipe-interna",
+  "contentSha256": "d7ccff019f1daa3d8bb70565c0cf1d44a088c86eb300e23386640f78ecc38ab1",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "testar-experiencia-alem-equipe-interna",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "investigar a experiência oferecida",
+      "context": "Evite resumir tudo como falta de atenção ou dificuldade do participante. A tarefa da avaliação é investigar a experiência oferecida, não julgar a pessoa que encontrou um obstáculo.",
+      "reason": "Aprofunda avaliação da experiência e limites de generalização."
+    }
+  ]
+}

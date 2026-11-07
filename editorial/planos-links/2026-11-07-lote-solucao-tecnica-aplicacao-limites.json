@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "solucao-tecnica-aplicacao-limites",
+  "contentSha256": "ab88f28169a8654824b3aa2fb2a699d6caf2efb1b8c2cc4a123e0a931c655369",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "solucao-tecnica-aplicacao-limites",
+      "to": "demonstracao-produto-ajudar-cliente-decidir",
+      "anchor": "a situação de uso para a qual a solução foi concebida",
+      "context": "A apresentação pode começar descrevendo a situação de uso para a qual a solução foi concebida. Que acompanhamento ela permite? Que informação ajuda a reunir? Que dificuldade permanece fora de seu alcance? As respostas devem vir de quem conhece o produto e suas condições reais.",
+      "reason": "Aprofunda explicação de uso e clareza da oferta técnica."
+    }
+  ]
+}

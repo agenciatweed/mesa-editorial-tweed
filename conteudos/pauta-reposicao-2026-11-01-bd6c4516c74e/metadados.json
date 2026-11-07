@@ -6,11 +6,16 @@
   "angle": "Gancho primário verificado: em 29/10/2026, o Sebrae noticiou a posse de representantes de cooperativas no comitê de governança do Coopera+ Amazônia, destacando a participação das cooperativas na compreensão da realidade local. Usar somente esse fato como contexto de participação; não equiparar governança do programa a aprovação de campanhas, não reproduzir valores financeiros divergentes no próprio comunicado e não alegar impacto realizado. Tese editorial própria: quando uma marca conta uma história sobre pessoas, trabalhadores ou parceiros, ouvir quem é retratado antes de fechar o enquadramento pode revelar omissões e interpretações que a equipe criativa não percebeu. Exemplo explicitamente hipotético de pequena marca que prepara uma peça sobre seu processo de produção e combina uma conversa com participantes para conferir o contexto, quais falas podem ser utilizadas e como apresentar a participação real, preservando espaço para correções e recusa. Não atribuir essa prática à Tweed nem oferecer parecer jurídico sobre uso de imagem. Não explorar grupos tradicionais como cenário, criar personagem que represente toda uma comunidade, inventar depoimentos ou presumir autorização pelo vínculo comercial. Diferenciar da pauta sobre quem fez o produto: aquela trata de reconhecer e creditar contribuições; esta trata de participação na escolha e revisão do enquadramento antes da publicação. Diferenciar da pauta sobre testar experiência: não é pesquisa de usabilidade, mas escuta de quem terá sua história apresentada. Diferenciar de comunidade de marca: não é moderação de grupo nem continuidade de calendário. Não transformar consulta em transferência de toda a responsabilidade editorial nem em promessa de consenso.",
   "audience": "Donos de pequenas marcas e responsáveis por conteúdo que apresentam histórias de pessoas, equipes de produção e parceiros em materiais públicos.",
   "goal": "De considerar que uma boa intenção e uma história atraente bastam para perceber que quem é retratado deve poder esclarecer contexto, apontar omissões e discutir os limites do uso antes de a peça ser concluída.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -36,10 +41,29 @@
   "sources": "[Agência Sebrae de Notícias, cooperativas no Coopera+ Amazônia, 29/10/2026](https://agenciasebrae.com.br/cultura-empreendedora/cooperativas-extrativistas-assumem-protagonismo-no-coopera-amazonia/)\n\nA notícia trata da participação de representantes na governança de um programa, sem estabelecer procedimentos de campanha. A aplicação à comunicação é análise editorial. A marca, o vídeo e seus participantes são hipotéticos; o texto não oferece parecer jurídico sobre uso de imagem.",
   "prompt": "Natural cinematic editorial photograph of two adult craft workers beside the open doorway of a small textile workshop, one worker gesturing toward a hanging garment while explaining a specific detail and the other listening attentively with an unbranded camera resting lowered at their side, spontaneous conversation before photographing rather than a posed portrait, medium wide side composition with a courtyard visible beyond, soft neutral daylight preserving natural skin tones and a restrained teal ambient accent inspired by #08ffb1 reflected on the shaded door edge, controlled contrast, no meeting table, papers, laptop, readable text or logos --ar 3:2",
   "imageAlt": "Duas pessoas conversam junto à porta de uma oficina têxtil; uma aponta para uma peça pendurada e a outra mantém uma câmera abaixada ao lado do corpo.",
-  "date": "2026-11-15",
+  "date": "2026-11-07",
   "keyword": "participação de quem é retratado",
   "slug": "participacao-retratados-historia-marca",
   "meta": "A participação de quem é retratado ajuda a conferir contexto e limites de uso. Ouça as pessoas antes de fechar a história que sua marca pretende contar.",
   "faq": "Quando ouvir quem vai aparecer numa peça de comunicação?\nAntes de encerrar o enquadramento, enquanto ainda existe espaço para esclarecer contexto, apontar omissões e corrigir interpretações.\n\nUma pessoa pode representar toda uma comunidade?\nUm relato individual não descreve automaticamente um grupo. É preciso apresentar com precisão o alcance da participação.\n\nUma peça aprovada autoriza qualquer uso posterior da fala?\nNão se deve presumir isso. Ao criar versões derivadas, confira o contexto e os limites combinados e encaminhe usos que os ultrapassem para avaliação apropriada.",
-  "url": "https://www.agenciatweed.com.br/participacao-retratados-historia-marca/"
+  "url": "https://www.agenciatweed.com.br/participacao-retratados-historia-marca/",
+  "imageFile": "conteudos/pauta-reposicao-2026-11-01-bd6c4516c74e/imagens/a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600.png",
+  "imageName": "magnific__natural-cinematic-editorial-photograph-of-two-adul__41768.png",
+  "imageWidth": 1264,
+  "imageHeight": 848,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/participacao-retratados-historia-marca/",
+    "publishedAt": "2026-11-07T07:44:30.066035+00:00",
+    "job": "11ef788b-5f85-4779-98f3-84d5afc03fc3",
+    "files": [
+      "assets/artigos-editoriais/a0ebb91dda229a3dd2eb4658a30f8024e89b1862f751ec2f3d662ccacc4f5600.png",
+      "participacao-retratados-historia-marca/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

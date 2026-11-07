@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "resumo-reuniao-decisoes-pendencias",
+  "contentSha256": "b32127b78172c83af5bf5e2fedabadbdc13229e6ffd6e933e81fe3dff64a31f3",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "resumo-reuniao-decisoes-pendencias",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "os pontos que precisam de confirmação antes do início da produção",
+      "context": "Na PME hipotética, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.",
+      "reason": "Relaciona confirmação de decisões e referências que orientam execução."
+    }
+  ]
+}

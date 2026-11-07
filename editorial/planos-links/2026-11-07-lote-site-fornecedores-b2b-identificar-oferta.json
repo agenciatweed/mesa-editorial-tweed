@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "site-fornecedores-b2b-identificar-oferta",
+  "contentSha256": "69f187dc4663b6e280da93856f180ddba15c70027f865fb1fba65765e8e4a49a",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "site-fornecedores-b2b-identificar-oferta",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "Nomeie as categorias reais de produtos ou serviços",
+      "context": "Revise a descrição a partir dessa tarefa. Nomeie as categorias reais de produtos ou serviços e explique o que está incluído. Quando uma expressão técnica for necessária, acrescente contexto para que a pessoa responsável pelo encaminhamento reconheça o assunto.",
+      "reason": "Aprofunda identificação da oferta e comparabilidade comercial."
+    }
+  ]
+}

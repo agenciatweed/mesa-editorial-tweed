@@ -41,7 +41,7 @@
   "sources": "[Google, Data-backed secrets to smarter holiday shopping, 15/10/2026](https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/)\n\nO guia usa dados históricos de varejistas dos Estados Unidos. O artigo não transfere seus resultados ao Brasil nem recomenda datas ou preços. A loja e a campanha são hipotéticas.",
   "prompt": "Natural editorial photograph at the open pickup window of a small neighborhood gift shop, one adult shopkeeper handing a neatly wrapped unmarked parcel to an adult customer standing outside, candid hands mid-transfer, the open doorway and a quiet street visible in a wide side composition, soft neutral afternoon light preserving natural skin tones, a restrained teal accent inspired by #08ffb1 reflected along the inside edge of the pickup window, no readable text or logos --ar 3:2",
   "imageAlt": "Pessoa entrega um pacote embrulhado a outra pela janela de retirada de uma loja, com a rua ao fundo e um reflexo teal na moldura.",
-  "date": "2026-11-19",
+  "date": "2026-11-07",
   "keyword": "janela de uma promoção",
   "slug": "janela-promocao-prazo-compra-entrega",
   "meta": "A janela de uma promoção precisa combinar tempo de decisão e capacidade de entrega. Confira prazos, estoque, retirada e condições antes de anunciar.",
@@ -53,7 +53,17 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-05T08:55:51.237Z"
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/janela-promocao-prazo-compra-entrega/",
+    "publishedAt": "2026-11-07T07:41:53.069360+00:00",
+    "job": "4cf5dc71-621e-421b-a8c4-178c1da41c2b",
+    "files": [
+      "assets/artigos-editoriais/85d63bf699718c16b692c378648ade462983fb8dc9ec1c581f84172f8fe7c54f.png",
+      "janela-promocao-prazo-compra-entrega/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }
