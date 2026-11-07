@@ -10179,6 +10179,94 @@
       },
       "createdAt": "2026-11-07T07:37:23.339Z",
       "completedAt": "2026-11-07T07:49:10.606517+00:00"
+    },
+    {
+      "id": "39a5aa33-0745-464f-8944-8dc8594f5ec9",
+      "itemId": "pauta-diaria-2026-11-07",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "ff38cac970cd4d1cf0cfa6f4cfc0b5fe38505c0b0fd3c516ef67ef9c0616becf",
+      "snapshot": "228f1cea95baa5209417d58089122e0cb17615a77131e9199690a4d030293ba3",
+      "input": {
+        "id": "pauta-diaria-2026-11-07",
+        "title": "Antes de contratar um influenciador, sua marca sabe que conversa quer abrir?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 05/11/2026: Sebrae divulgou pesquisa com a FGV sobre a percepção de pequenos negócios a respeito de parcerias com influenciadores. Usar apenas como contexto de interesse empresarial, sem repetir percentuais, atribuir causalidade ou prometer resultados. Tese editorial: escolher um criador deve começar pela conversa que a empresa precisa estabelecer com um público pertinente e pela contribuição que aquele criador pode oferecer, em vez de selecionar apenas por volume de seguidores. Exemplo hipotético de PME que precisa esclarecer uma situação de uso e compara a pertinência do conteúdo e das interações de possíveis parceiros, sem critérios numéricos inventados. Diferenciar de parceria entre marcas: foco na relação com um criador e no papel editorial do conteúdo, não na soma de logotipos. Diferenciar de microcomunidades: foco na escolha e no briefing da colaboração, não no tamanho de audiência. Não oferecer modelo contratual, regras jurídicas de publicidade ou garantia de conversão.",
+        "audience": "Donos de PMEs e responsáveis por marketing que avaliam a primeira colaboração com criadores de conteúdo.",
+        "goal": "De contratar uma audiência pela quantidade de seguidores para definir a conversa, o público e a contribuição editorial antes de escolher o parceiro.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-07",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Agência Sebrae de Notícias, pesquisa sobre influenciadores nas estratégias de pequenos negócios",
+              "url": "https://agenciasebrae.com.br/dados/dois-em-cada-tres-pequenos-negocios-que-contratam-influenciadores-alcancam-resultados-positivos/",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-07T11:30:09.189Z",
+      "startedAt": "2026-11-07T13:34:31.153Z",
+      "completedAt": "2026-11-07T13:35:50.161Z"
+    },
+    {
+      "id": "c11798db-a2d2-4e98-9c03-f8380b000e4e",
+      "itemId": "pauta-diaria-2026-11-06",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "8bcf825905bdf3b71ca06f3ee7064e1f1699c86217cbdf2a439d7180bc794028",
+      "snapshot": "3e5dbef74b8e750550d57165d7a4e60a5cf6a1f93f3e688c979e7fc8587c59e3",
+      "input": {
+        "id": "pauta-diaria-2026-11-06",
+        "title": "Seu personagem de marca continua sendo o mesmo em cada peça?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 05/11/2026: Google Workspace anunciou atualização de geração de vídeos no Vids e declara melhorias de consistência de personagens e produtos a partir de referências. Tratar como anúncio de fornecedor, sem comprovar desempenho universal ou recomendar assinatura. Tese editorial: uma marca que usa um personagem recorrente precisa definir o que o torna reconhecível entre cenas, além de conferir sua aparência; gestos, papel na história e modo de agir não deveriam mudar sem critério só porque cada imagem parece boa isoladamente. Exemplo hipotético de um mascote ilustrado próprio de uma PME que aparece numa embalagem e em vídeos curtos, com comparação de silhueta, proporções e comportamento. Não usar pessoas reais ou personagens protegidos nem sugerir imitação de artistas. Diferenciar de IA que conhece a marca: foco na continuidade de um personagem específico, não em briefing geral ou paleta. Diferenciar de série de conteúdo: foco no reconhecimento visual e comportamental, não em sequência de episódios. Sem alegar que consistência garante lembrança, afinidade ou venda.",
+        "audience": "Donos de PMEs e equipes de criação que usam mascotes ou personagens próprios em materiais recorrentes, com ou sem IA.",
+        "goal": "De aprovar cada peça pela beleza isolada para conferir se o personagem permanece reconhecível e coerente nas diferentes situações da marca.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-06",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Google Workspace Updates, Gemini Omni 1.2 Flash now in Vids with 15-second generations and improved quality",
+              "url": "https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "f2f7db01-2ff3-4bfb-9adb-2835bd37dd21",
+          "completedAt": "2026-11-07T07:34:04.626Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O personagem aparece na embalagem com uma silhueta simples e um jeito discreto. No vídeo seguinte, ganha outros olhos, muda de proporção e se comporta como um apresentador expansivo. Cada peça parece bem acabada. Colocadas lado a lado, porém, elas deixam uma dúvida: estamos vendo o mesmo personagem?\n\nA continuidade de um personagem de marca depende de escolhas que atravessam as peças. Forma, expressão, gestos e papel na comunicação precisam oferecer referências reconhecíveis, mesmo quando o cenário e a ação mudam. Aprovar cada imagem isoladamente pode deixar essa relação sem responsável.\n\nEm anúncio de 5 de novembro de 2026, o Google Workspace apresentou uma atualização de geração de vídeos no Vids e declarou melhorias de consistência de personagens e produtos a partir de referências. É uma descrição do fornecedor sobre a ferramenta, sem comprovação de desempenho em qualquer situação. A disponibilidade também depende das condições informadas no lançamento.\n\nO anúncio ajuda a separar duas tarefas: produzir uma nova cena e decidir se ela continua representando o personagem que a marca escolheu construir. A segunda exige critérios da equipe, com ou sem IA.\n\n## Defina o que precisa continuar reconhecível\n\nImagine uma pequena marca de produtos de jardinagem que criou um mascote ilustrado próprio. É um exemplo hipotético. O personagem acompanha orientações de uso na embalagem e passa a aparecer em vídeos curtos.\n\nA equipe precisa distinguir características de identidade e escolhas próprias de cada situação. A silhueta, as proporções e determinados traços podem ser referências estáveis. A posição dos braços, o enquadramento e os objetos carregados podem variar conforme a ação.\n\nEssa distinção evita dois extremos. Exigir uma pose idêntica em toda peça limita a expressão. Permitir qualquer transformação porque o resultado parece simpático deixa a continuidade ao acaso.\n\nEscolha referências que possam ser conferidas. Em vez de pedir apenas que o mascote mantenha sua essência, indique quais relações de forma e expressão ajudam a identificá-lo. A descrição deve ser suficientemente clara para orientar outra pessoa da criação, sem depender da memória de quem aprovou a primeira versão.\n\n## O modo de agir também faz parte do personagem\n\nUma figura pode preservar as cores e mudar completamente de papel. O mascote que oferece uma orientação cuidadosa pode reaparecer ridicularizando uma dúvida ou prometendo resolver tudo sozinho. A aparência continua familiar; o comportamento passa a contar outra história.\n\nNo exemplo hipotético, a marca pode decidir que o personagem acompanha descobertas de quem começa a cuidar de plantas. Isso ajuda a avaliar ações e falas: ele demonstra uma etapa? Reconhece uma dificuldade? Trata a pessoa com paciência?\n\nNão é necessário atribuir uma biografia extensa ao mascote. É necessário compreender o papel que justifica sua presença. Se ele poderia ser substituído por qualquer figura decorativa sem alterar a comunicação, talvez esse papel ainda esteja indefinido.\n\nEssas escolhas são critérios criativos. Não permitem afirmar que determinado gesto produzirá afinidade ou lembrança em todo público. Servem para que a equipe consiga discutir coerência sem transformar uma preferência pessoal em regra supostamente universal.\n\n## Monte referências que mostrem variação\n\nUma única imagem frontal pode deixar dúvidas sobre como o personagem aparece de lado, em movimento ou num espaço pequeno. Reunir algumas situações aprovadas ajuda a tornar os limites mais compreensíveis.\n\nNa marca hipotética, o conjunto pode incluir uma orientação na embalagem, uma ação em plano aberto e um detalhe de expressão. As peças devem representar o mesmo personagem em usos diferentes, em vez de acumular versões bonitas que ainda não foram conciliadas.\n\nAnote também os desvios que a equipe precisa evitar. Um acessório inventado, uma alteração de proporção ou uma expressão inadequada ao tom podem ser mais fáceis de discutir quando associados a um exemplo concreto.\n\nSe a produção usar IA, uma referência visual pode apoiar a geração. Ela não dispensa a conferência. Quando o resultado modifica um traço, a decisão não deve ser simplesmente aceitar a mudança para aproveitar uma cena que deu trabalho. Avalie se existe uma razão criativa para incorporá-la ou se é preciso corrigir a peça.\n\n## Confira a passagem entre imagem e movimento\n\nUm personagem que funciona numa embalagem pode exigir decisões adicionais num vídeo. Como ele se desloca? Que ritmo de gesto combina com seu papel? O que muda quando fala? A ação continua compreensível sem uma legenda explicando tudo?\n\nNo exemplo, o mascote pode demonstrar uma etapa de cuidado com uma planta. O movimento precisa permitir acompanhar a ação e respeitar o que o produto realmente orienta. Uma animação atraente não deveria acrescentar uma facilidade que a oferta não sustenta.\n\nObserve o começo e o fim da cena, além dos quadros mais bonitos. Mudanças de rosto, acessórios que surgem sem motivo e proporções que oscilam podem passar despercebidas quando a revisão se limita a uma imagem estática.\n\nO objetivo não é transformar toda produção em uma busca de uniformidade absoluta. É perceber o que altera a leitura do personagem e o que constitui uma variação aceitável de linguagem ou técnica.\n\n## Compare as peças no contexto em que circularão\n\nUma revisão em tela grande pode esconder dificuldades que aparecem na embalagem pequena ou no vídeo visto pelo celular. O personagem continua identificável no tamanho real de uso? Um detalhe essencial desaparece? A expressão muda quando o enquadramento corta parte da figura?\n\nColoque versões recentes lado a lado. Essa comparação ajuda a reconhecer alterações graduais que cada aprovação isolada tratou como pequenas. Também permite verificar se o conjunto ficou repetitivo e se a equipe está confundindo continuidade com repetir sempre a mesma cena.\n\nNa marca hipotética, a embalagem e os vídeos podem adotar composições distintas. As referências estáveis ajudam a sustentar essa liberdade. O personagem pode agir em ambientes diferentes sem precisar reconstruir sua identidade a cada publicação.\n\nNão use apenas a opinião de quem acompanhou toda a criação. Uma leitura externa pode revelar uma ambiguidade, desde que seus comentários sejam tratados como observações delimitadas, e não como prova do reconhecimento de todo o mercado.\n\n## Dê um destino às mudanças aprovadas\n\nQuando uma alteração for intencional, atualize as referências de trabalho e combine onde ela começa a valer. Caso contrário, fornecedores e equipes podem continuar usando versões incompatíveis por receberem arquivos diferentes.\n\nPreserve as decisões úteis e identifique a versão em uso. Uma mudança de técnica pode exigir adaptação; isso não autoriza reabrir silenciosamente cada característica já definida.\n\nAntes da próxima peça, confira duas perguntas: o que esta cena acrescenta e o que permite reconhecer o personagem? A primeira sustenta variedade. A segunda preserva continuidade. Uma marca pode explorar novas situações sem deixar que sua figura recorrente se torne outra pessoa a cada arquivo aprovado.",
+        "sources": "[Google Workspace Updates, atualização de geração de vídeos no Vids, 05/11/2026](https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html)\n\nA fonte declara melhorias de produto, sem comprovação universal de desempenho. A marca de jardinagem e seu mascote são hipotéticos. Os critérios de continuidade são análise editorial da Tweed.",
+        "prompt": "Conceptual editorial photograph without people, three small handmade fabric bird figures positioned at different heights on a simple curved branch, all sharing the same distinctive long curved beak, single folded wing and muted ochre body while each takes a different natural pose, tactile stitched material and varied silhouettes that still clearly belong to one character design, warm off-white plaster background, soft neutral key light with a restrained teal ambient accent inspired by #08ffb1 along the branch shadow, asymmetrical composition, no cubes, prisms, light beams, papers, laptop, readable text or logos --ar 3:2",
+        "imageAlt": "Três pássaros artesanais de tecido ocre, com o mesmo desenho e poses diferentes, sobre um galho diante de parede clara com acento teal discreto.",
+        "date": "2026-11-08"
+      },
+      "createdAt": "2026-11-07T11:30:12.135Z",
+      "startedAt": "2026-11-07T13:34:31.267Z",
+      "completedAt": "2026-11-07T13:35:50.352Z"
     }
   ]
 }
