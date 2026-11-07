@@ -1,9 +1,7 @@
 TÍTULO: Sua embalagem diferencia as versões do produto ou só muda de cor?
 EDITORIA: 2
-VOZ: Lorenzo
 ÂNGULO: Gancho primário de 06/11/2026: a Secretaria de Agricultura de Minas Gerais anunciou concurso da Emater-MG para embalagens de café, com critérios que incluem funcionalidade, conceito e posicionamento. Usar como contexto para analisar a embalagem como comunicação, sem recomendar inscrição, presumir premiação ou reproduzir exigências legais. Tese editorial própria: quando uma marca oferece versões próximas de um produto, a embalagem precisa permitir identificar o que permanece comum e o que muda, sem depender exclusivamente da cor. Exemplo hipotético de uma pequena marca de alimentos que organiza nome da linha, versão, quantidade e informações de escolha em uma hierarquia visual consistente. Não inventar critérios de rotulagem, benefícios de saúde ou especificações técnicas. Diferenciar de embalagem e gesto de uso: foco na distinção entre versões antes da escolha, não na abertura ou manuseio. Diferenciar de nome do produto: foco na arquitetura visual do conjunto de embalagens, não em decidir o nome isolado. Diferenciar de proposta comparável: foco na leitura do portfólio físico e digital.
 LEITOR: Donos de pequenas marcas de produtos e equipes de design e marketing que organizam linhas com versões semelhantes.
 OBJETIVO: De diferenciar versões apenas pela cor para construir uma hierarquia visual que ajude a entender o que muda entre produtos da mesma marca.
 
-FONTES DA PESQUISA:
-2026-11-06 | Secretaria de Agricultura de Minas Gerais, concurso estadual de embalagens de café | https://www.mg.gov.br/agricultura/noticias/abertas-inscricoes-para-o-1o-concurso-estadual-de-embalagens-de-cafe-de-minas-gerais
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
