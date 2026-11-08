@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "personagem-marca-continuidade-pecas",
+  "contentSha256": "6ea85b8ee5762940ad6faceb884b71abd5f11acb315d35f46d915c00a3df79be",
+  "modifiedAt": "2026-11-08",
+  "links": [
+    {
+      "from": "personagem-marca-continuidade-pecas",
+      "to": "personalidade-de-marca-aparece-nas-escolhas-pequenas",
+      "anchor": "o comportamento passa a contar outra história",
+      "context": "Uma figura pode preservar as cores e mudar completamente de papel. O mascote que oferece uma orientação cuidadosa pode reaparecer ridicularizando uma dúvida ou prometendo resolver tudo sozinho. A aparência continua familiar; o comportamento passa a contar outra história.",
+      "reason": "Aprofunda a personalidade expressa no comportamento e nas escolhas da marca."
+    }
+  ]
+}

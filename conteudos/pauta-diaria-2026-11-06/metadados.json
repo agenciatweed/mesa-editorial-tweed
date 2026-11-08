@@ -6,11 +6,16 @@
   "angle": "Gancho primário de 05/11/2026: Google Workspace anunciou atualização de geração de vídeos no Vids e declara melhorias de consistência de personagens e produtos a partir de referências. Tratar como anúncio de fornecedor, sem comprovar desempenho universal ou recomendar assinatura. Tese editorial: uma marca que usa um personagem recorrente precisa definir o que o torna reconhecível entre cenas, além de conferir sua aparência; gestos, papel na história e modo de agir não deveriam mudar sem critério só porque cada imagem parece boa isoladamente. Exemplo hipotético de um mascote ilustrado próprio de uma PME que aparece numa embalagem e em vídeos curtos, com comparação de silhueta, proporções e comportamento. Não usar pessoas reais ou personagens protegidos nem sugerir imitação de artistas. Diferenciar de IA que conhece a marca: foco na continuidade de um personagem específico, não em briefing geral ou paleta. Diferenciar de série de conteúdo: foco no reconhecimento visual e comportamental, não em sequência de episódios. Sem alegar que consistência garante lembrança, afinidade ou venda.",
   "audience": "Donos de PMEs e equipes de criação que usam mascotes ou personagens próprios em materiais recorrentes, com ou sem IA.",
   "goal": "De aprovar cada peça pela beleza isolada para conferir se o personagem permanece reconhecível e coerente nas diferentes situações da marca.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -41,5 +46,24 @@
   "slug": "personagem-marca-continuidade-pecas",
   "meta": "A continuidade de um personagem de marca exige referências de forma, expressão e comportamento. Confira o conjunto das peças e organize as versões aprovadas.",
   "faq": "O que deve permanecer consistente num personagem de marca?\nDefina referências de forma, proporção, expressão e comportamento que permitam reconhecer o personagem em situações diferentes.\n\nContinuidade exige repetir a mesma pose em todas as peças?\nNão. Cenários, ações e enquadramentos podem variar, preservando as referências que identificam o personagem e seu papel na comunicação.\n\nUma referência visual dispensa conferir imagens geradas por IA?\nNão. Compare os resultados com as características aprovadas, examine o movimento e atualize as referências quando uma mudança for intencional.",
-  "url": "https://www.agenciatweed.com.br/personagem-marca-continuidade-pecas/"
+  "url": "https://www.agenciatweed.com.br/personagem-marca-continuidade-pecas/",
+  "imageFile": "conteudos/pauta-diaria-2026-11-06/imagens/32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a.png",
+  "imageName": "vitriolicnaivety_Conceptual_editorial_photograph_without_peop_1b8a0460-0e30-413c-8d68-5816bd75e3ae_0.png",
+  "imageWidth": 1344,
+  "imageHeight": 896,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/personagem-marca-continuidade-pecas/",
+    "publishedAt": "2026-11-08T07:43:09.306400+00:00",
+    "job": "36082b89-863a-4940-aa26-0c31893e4aa6",
+    "files": [
+      "assets/artigos-editoriais/32147ef23ec2cf352fd009cd9275e66b170e69de0f854eaae6df866c3ffd830a.png",
+      "personagem-marca-continuidade-pecas/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

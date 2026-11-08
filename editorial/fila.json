@@ -10360,7 +10360,7 @@
       "id": "36082b89-863a-4940-aa26-0c31893e4aa6",
       "itemId": "pauta-diaria-2026-11-06",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "b947ad2ed24a3f45dce7db71c2aedea83d4da01f1e57c2e16592336649d4a4ab",
       "snapshot": "b947ad2ed24a3f45dce7db71c2aedea83d4da01f1e57c2e16592336649d4a4ab",
       "input": {
@@ -10422,7 +10422,8 @@
           "approvedAt": "2026-11-07T17:56:14.924Z"
         }
       },
-      "createdAt": "2026-11-07T17:56:14.929Z"
+      "createdAt": "2026-11-07T17:56:14.929Z",
+      "completedAt": "2026-11-08T07:43:09.313056+00:00"
     },
     {
       "id": "749d9d18-a72e-467c-8d97-07f22768dde7",
@@ -10511,6 +10512,94 @@
       "createdAt": "2026-11-07T21:00:34.559Z",
       "startedAt": "2026-11-08T01:36:59.585Z",
       "completedAt": "2026-11-08T01:38:04.987Z"
+    },
+    {
+      "id": "312cab44-7895-43b5-8d54-d774be21bea3",
+      "itemId": "pauta-reposicao-2026-11-07-f728b91255f5",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "a363d77dbd3d7c64f0840faae8816156f1954a5bdd5a3649fd6e5ea7e7995641",
+      "snapshot": "cea18221722184266c5d5b2a5c676307d585dc050172b67ac68617df41f1a5fd",
+      "input": {
+        "id": "pauta-reposicao-2026-11-07-f728b91255f5",
+        "title": "A busca da sua loja entende o jeito como o cliente pede?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "A BigCommerce publicou em 05/11/2026 uma explicação sobre busca semântica e conversacional no comércio eletrônico, com disponibilidade gradual para lojas elegíveis. Usar esse contexto para discutir um problema anterior à escolha da tecnologia: o catálogo chama os produtos do mesmo jeito que o cliente procura? A tese é que a busca interna também entrega a promessa de atendimento da marca. Desenvolver um exemplo hipotético de loja com termos técnicos, nomes populares e consultas por necessidade; comparar algumas buscas reais com os resultados e os atributos do catálogo. Distinguir busca por código exato de descrição em linguagem natural. Uma consulta sem resultado exige investigação, não comprova ausência de demanda. Preservar filtros e navegação; não obrigar o cliente a conversar com IA. Evitar repetir a pauta de nome de produto e a de legibilidade para mecanismos externos: o foco aqui é encontrar um item dentro da própria loja. Não recomendar troca de plataforma, citar percentuais de pesquisas não conferidas nem prometer conversão.",
+        "audience": "Gestores de PMEs com loja virtual, responsáveis por catálogo, atendimento e experiência digital.",
+        "goal": "Perceber a busca interna como parte do atendimento e avaliar o vocabulário e a qualidade dos resultados antes de contratar uma tecnologia nova.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-07",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "BigCommerce: Conversational Search for Ecommerce: How Semantic Search Changes Product Discovery, 05/11/2026",
+              "url": "https://www.bigcommerce.com/articles/ecommerce/conversational-search/",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-08T06:32:53.495Z",
+      "startedAt": "2026-11-08T07:34:51.762Z",
+      "completedAt": "2026-11-08T07:36:31.153Z"
+    },
+    {
+      "id": "ec7b7091-3f87-4535-92ec-bde7d34300c0",
+      "itemId": "pauta-reposicao-2026-11-07-0519eb5a6b9c",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "5089d1da6245b0fd86ded34d075fd59aa11438cadd5a6b9a814b9c0b872ff40f",
+      "snapshot": "9ec1132659fc8e175c7097eddf5ac58916fcce58de0820911dc508f4bb3c5b8e",
+      "input": {
+        "id": "pauta-reposicao-2026-11-07-0519eb5a6b9c",
+        "title": "As contas de marketing continuam acessíveis quando o parceiro muda?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 06/11/2026: a atualização oficial do Google Analytics anunciou Data Manager em beta para organizar conexões e acompanhar sua condição. Usar apenas como contexto de dependências entre ativos digitais; a novidade não é apresentada como ferramenta de transferência de contas nem prova de segurança. Tese editorial própria: a continuidade do marketing exige que a empresa saiba identificar seus ativos, os responsáveis e os acessos administrativos adequados antes de uma troca de parceiro, sem confundir executar o trabalho com concentrar todo o acesso. Exemplo hipotético de PME que prepara uma passagem de trabalho com lista dos ativos pertinentes, responsáveis confirmados e pendências, preservando acessos legítimos e informações privadas. Não solicitar, publicar ou recomendar compartilhar senhas; não ensinar recuperação, remoção de usuários ou contorno de autenticação; configurações específicas e disputas dependem das regras e acordos aplicáveis. Diferenciar de manutenção de apresentação: foco na continuidade das contas e serviços de marketing, não em editar arquivos. Diferenciar de centralização de fornecedores: foco em transição e responsabilidade por acesso, não em escolher agência.",
+        "audience": "Donos de PMEs e responsáveis por marketing que contratam parceiros para site, mídia, métricas e presença digital.",
+        "goal": "De descobrir dependências de acesso só na troca de fornecedor para manter uma referência confirmada de ativos e responsáveis que permita planejar a continuidade do trabalho.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-07",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Analytics Help, lançamento do Data Manager em beta em 06/11/2026",
+              "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+              "publishedAt": "2026-11-06"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "56ecdfa1-edbe-45ef-99b6-713041681032",
+          "completedAt": "2026-11-08T01:38:04.906Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A campanha precisa de um ajuste, mas ninguém encontra o acesso à conta. O contato que fazia a operação mudou, a equipe tem apenas capturas de tela e os materiais não explicam qual serviço está ligado a qual conta. A troca de parceiro começa com uma busca por informações que deveriam estar organizadas antes dela.\n\nManter as contas de marketing acessíveis exige distinguir execução, responsabilidade administrativa e continuidade. Um parceiro pode realizar o trabalho sem se tornar a única pessoa capaz de localizar os ativos e encaminhar uma necessidade. A empresa precisa saber com quem tratar cada situação, conforme as condições e os acordos reais.\n\nEm atualização de 6 de novembro de 2026, o Google Analytics anunciou Data Manager em beta, descrito como um ponto de organização de conexões e acompanhamento de sua condição. O anúncio não apresenta uma solução de transferência de contas nem comprova segurança universal. Ele oferece um contexto para olhar as dependências entre recursos digitais.\n\nPara uma pequena empresa, a pergunta vem antes de qualquer novidade de plataforma: se a pessoa que acompanha o trabalho ficar indisponível, existe uma referência confirmada para continuar?\n\n## Saiba quais ativos fazem parte do trabalho\n\nImagine uma PME de serviços que mantém site, campanhas e relatórios com parceiros externos. É um exemplo hipotético. Ao preparar uma mudança de atendimento, percebe que utiliza nomes diferentes para se referir à mesma conta e não sabe quais recursos pertencem ao escopo de cada parceiro.\n\nComece por identificar o que é pertinente à operação. Que conta corresponde aos anúncios? Qual recurso recebe os dados do site? Onde a equipe localiza o serviço responsável pela presença digital? Quem consegue confirmar essas informações?\n\nUma lista útil não precisa reunir tudo o que a empresa já contratou. Precisa permitir reconhecer os ativos em uso e os responsáveis por esclarecer dúvidas sobre eles. Uma captura de tela antiga pode apoiar a identificação, mas não substitui uma conferência atual.\n\nNão inclua senhas nessa referência. A finalidade é organizar informação de trabalho, com o cuidado adequado ao que pode ser compartilhado. Identificar um recurso e disponibilizar uma credencial são ações diferentes.\n\n## Separe quem executa de quem responde pela administração\n\nA pessoa que prepara uma campanha pode não ter o papel necessário para decidir sobre acessos. Quem recebe um relatório pode não conhecer a configuração da conta que o originou. Presumir que todas essas funções estão reunidas no mesmo contato deixa lacunas.\n\nNa PME hipotética, a equipe pode confirmar quem responde pelas decisões administrativas e quem acompanha a operação cotidiana. Essa definição precisa corresponder às condições reais de uso e aos acordos existentes, sem presumir direitos que ainda não foram esclarecidos.\n\nTambém vale distinguir uma responsabilidade definida de uma possibilidade técnica. Alguém conseguir abrir uma tela não significa que possa autorizar qualquer alteração. Uma informação recebida por mensagem não resolve uma dúvida sobre o papel de cada participante.\n\nO objetivo não é criar mais camadas para uma tarefa simples. É evitar que uma solicitação importante percorra várias pessoas sem chegar a quem pode avaliá-la e encaminhá-la.\n\n## Confira a continuidade antes de precisar dela\n\nUma troca de parceiro é um momento evidente para revisar referências, mas não é o único. Ausências, mudanças na equipe ou novos serviços também podem alterar quem acompanha uma conta.\n\nNa empresa hipotética, a lista de responsáveis pode ser conferida em um momento de revisão do trabalho. Os contatos continuam válidos? A descrição dos ativos ainda corresponde ao que está em uso? Existe alguma dependência que só uma pessoa conhece?\n\nEssa conferência não exige testar remoções de usuários ou alterar configurações por iniciativa própria. Mudanças técnicas precisam seguir os procedimentos apropriados, com pessoas autorizadas e atenção às consequências para a operação.\n\nSe aparecer uma dúvida, registre o que falta confirmar e quem pode ajudar. Uma pendência identificada é mais útil que uma coluna preenchida com um nome que ninguém verificou. Não trate uma referência antiga como atual apenas porque o documento parece completo.\n\n## Organize a passagem do trabalho com situações claras\n\nUma transição pode envolver entregas concluídas, tarefas em andamento e decisões que ainda dependem de resposta. Apresentar tudo como resolvido dificulta o início de quem chega e pode esconder um compromisso aberto.\n\nNa PME hipotética, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.\n\nEvite transformar esse material num depósito de informações privadas. Compartilhe o que é necessário pelo meio adequado e preserve dados de clientes e de outras pessoas. O propósito é dar continuidade ao trabalho, sem ampliar a exposição de informações.\n\nTambém não confunda uma lista com uma transferência concluída. Se algum procedimento depende da plataforma, de uma autorização ou de um acordo ainda não resolvido, essa condição precisa continuar visível para quem acompanha a passagem.\n\n## Reconheça as dependências entre recursos\n\nUma alteração numa conta pode se relacionar a outras partes da operação. Um relatório pode depender de uma conexão; um material pode apontar para um serviço que outra equipe administra. A importância dessas relações precisa ser examinada por quem conhece a configuração.\n\nO anúncio do Data Manager serve como contexto de organização dessas conexões, não como indicação de que toda empresa precisa adotar o recurso ou de que ele resolverá uma troca de parceiro.\n\nNa empresa hipotética, uma referência de trabalho pode indicar onde existe uma dependência e quem pode explicá-la. Não é necessário desenhar uma arquitetura técnica completa para cada conversa. É necessário não apresentar uma mudança isolada como se não pudesse ter efeitos em outro ponto.\n\nQuando a equipe não souber avaliar uma consequência, o encaminhamento apropriado é procurar quem tem condições de verificar. A comunicação não deve preencher uma dúvida operacional com uma promessa de que nada será afetado.\n\n## Faça a referência acompanhar as mudanças\n\nUma lista de ativos também envelhece. Contatos saem, escopos mudam e novas contas passam a integrar a operação. Sem alguém responsável por revisar essas alterações, o documento pode criar uma falsa sensação de continuidade.\n\nCombine quem mantém a referência e em que situações ela precisa ser conferida. Uma nova contratação ou uma mudança de responsável pode ser um sinal para revisar os pontos pertinentes, sem transformar isso numa tarefa burocrática sem uso.\n\nSe houver divergência sobre acesso ou responsabilidade, preserve o registro da dúvida e procure o esclarecimento pelos canais adequados. Este texto não oferece procedimentos de recuperação de contas nem substitui orientação técnica ou contratual.\n\nAntes da próxima troca de parceiro, confira se sua empresa consegue identificar os ativos em uso, os responsáveis e o que ainda precisa ser confirmado. A continuidade começa quando o trabalho deixa de depender de uma memória isolada e passa a contar com referências que podem ser verificadas.",
+        "sources": "[Google Analytics Help, atualização do Data Manager em beta, 06/11/2026](https://support.google.com/analytics/answer/9164320?hl=en)\n\nA atualização descreve organização de conexões, não transferência de contas nem garantia de segurança. A PME é hipotética. Os critérios de continuidade são análise editorial da Tweed, sem procedimentos técnicos de acesso ou orientação contratual.",
+        "prompt": "Natural cinematic editorial photograph of two adult caretakers beside a small neighborhood greenhouse, one person handing a modest watering can to the other at an open side gate while living plants remain visible inside, spontaneous handover gesture with both people standing and no staged handshake, medium wide outdoor side view, soft neutral morning key light preserving natural skin tones, subtle teal ambient accent inspired by #08ffb1 reflected on a shaded glass pane, controlled contrast, no keys, papers, laptop, meeting table, readable text or logos --ar 3:2",
+        "imageAlt": "Duas pessoas passam um regador entre si junto ao portão de uma pequena estufa, com plantas ao fundo e reflexo teal discreto no vidro.",
+        "date": "2026-11-11"
+      },
+      "createdAt": "2026-11-08T06:32:58.018Z",
+      "startedAt": "2026-11-08T07:34:51.875Z",
+      "completedAt": "2026-11-08T07:36:31.389Z"
     }
   ]
 }
