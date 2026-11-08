@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-08-d6c055aec7e0",
+  "title": "O QR code da sua embalagem leva a uma informação que continua útil?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 27/10/2026: a GS1 Brasil relatou uma apresentação no Agro em Código sobre ligação entre embalagem, identificador e informações digitais, incluindo leitura de QR Code. Ampliada a janela até 30 dias para encontrar uma fonte primária pertinente ao tema; não confundir data do evento, publicação e widgets atualizados. Usar apenas como contexto, sem recomendar um padrão técnico ou alegar rastreabilidade garantida. Tese editorial própria: um código impresso cria uma promessa sobre o destino digital, que precisa continuar compreensível e útil enquanto a embalagem circula. Exemplo hipotético de uma pequena marca que liga a embalagem a orientações de uso e precisa conferir pertinência da página, identificação da versão do produto, leitura pelo celular e responsável por manter o destino. Distinguir instrução permanente de campanha encerrada. Não ensinar geração técnica de códigos, inventar obrigações legais ou tratar leitura como prova de compra, satisfação ou engajamento. Não usar percentuais de pilotos nem copiar casos de fornecedores. Diferenciar de versões na embalagem: foco na continuidade entre o impresso e seu destino, não na distinção visual das versões. Diferenciar de informações atualizadas nos canais: foco na vida útil de um link já impresso, não numa atualização geral de perfis.",
+  "audience": "Donos de pequenas marcas de produtos e equipes de design, conteúdo e atendimento que usam QR codes em embalagens ou materiais impressos.",
+  "goal": "De considerar o QR code uma tarefa concluída ao imprimir para assumir a manutenção da promessa e da informação encontrada depois da leitura.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-08",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "GS1 Brasil, Agro em Código: Rastreabilidade figital uniu embalagem, dados e gestão, 27/10/2026",
+        "url": "https://noticias.gs1br.org/rastreabilidade-figital-agro-industria/",
+        "publishedAt": "2026-10-27"
+      }
+    ]
+  }
+}
