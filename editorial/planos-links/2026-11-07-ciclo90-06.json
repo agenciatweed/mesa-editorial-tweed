@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "contexto-veiculacao-anuncios-marca",
+  "contentSha256": "492465b53905bdf1f49e1401ef7a4e2dd67788f798c2ff9a43e09dff39079eb1",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "plano-de-midia-2027-alem-de-uma-plataforma",
+      "to": "contexto-veiculacao-anuncios-marca",
+      "anchor": "o novo ambiente não faz sentido",
+      "context": "Preserve espaço para aprender. Um teste pode mostrar que o novo ambiente não faz sentido, que a mensagem precisa mudar ou que a empresa ainda não tem estrutura para sustentar a presença. Nenhuma dessas respostas exige continuar investindo apenas para justificar a escolha inicial.",
+      "reason": "Detalha a avaliação do contexto em que a publicidade aparece."
+    }
+  ]
+}

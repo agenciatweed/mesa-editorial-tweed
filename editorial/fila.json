@@ -10423,6 +10423,94 @@
         }
       },
       "createdAt": "2026-11-07T17:56:14.929Z"
+    },
+    {
+      "id": "749d9d18-a72e-467c-8d97-07f22768dde7",
+      "itemId": "pauta-reposicao-2026-11-07-1ef645fa20fc",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "dfaafd275e593fbccb2e47981a92f5309928641a8c4e2a7f4afe16313b8b1c7c",
+      "snapshot": "9487baa8f5c8da125b6511a72cb9087982f5970db2d0bcf60c465c8daefdc928",
+      "input": {
+        "id": "pauta-reposicao-2026-11-07-1ef645fa20fc",
+        "title": "Sua embalagem diferencia as versões do produto ou só muda de cor?",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 06/11/2026: a Secretaria de Agricultura de Minas Gerais anunciou concurso da Emater-MG para embalagens de café, com critérios que incluem funcionalidade, conceito e posicionamento. Usar como contexto para analisar a embalagem como comunicação, sem recomendar inscrição, presumir premiação ou reproduzir exigências legais. Tese editorial própria: quando uma marca oferece versões próximas de um produto, a embalagem precisa permitir identificar o que permanece comum e o que muda, sem depender exclusivamente da cor. Exemplo hipotético de uma pequena marca de alimentos que organiza nome da linha, versão, quantidade e informações de escolha em uma hierarquia visual consistente. Não inventar critérios de rotulagem, benefícios de saúde ou especificações técnicas. Diferenciar de embalagem e gesto de uso: foco na distinção entre versões antes da escolha, não na abertura ou manuseio. Diferenciar de nome do produto: foco na arquitetura visual do conjunto de embalagens, não em decidir o nome isolado. Diferenciar de proposta comparável: foco na leitura do portfólio físico e digital.",
+        "audience": "Donos de pequenas marcas de produtos e equipes de design e marketing que organizam linhas com versões semelhantes.",
+        "goal": "De diferenciar versões apenas pela cor para construir uma hierarquia visual que ajude a entender o que muda entre produtos da mesma marca.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-07",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Secretaria de Agricultura de Minas Gerais, concurso estadual de embalagens de café",
+              "url": "https://www.mg.gov.br/agricultura/noticias/abertas-inscricoes-para-o-1o-concurso-estadual-de-embalagens-de-cafe-de-minas-gerais",
+              "publishedAt": "2026-11-06"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "6978129f-3eeb-48b3-a2ef-0a44b9ab461a",
+          "completedAt": "2026-11-07T19:34:43.557Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A pessoa reconhece a marca na prateleira, pega a embalagem de sempre e só depois percebe que escolheu outra versão. O desenho é familiar, os nomes ficam pequenos e a diferença mais visível está numa tonalidade próxima. A identidade do conjunto funciona. A distinção entre os produtos, nem tanto.\n\nDiferenciar versões na embalagem exige organizar duas leituras: o que faz aquele produto pertencer à marca e o que permite escolher uma opção específica. Quando toda a distinção depende da cor, outras informações podem perder força justamente no momento da decisão.\n\nEm anúncio de 6 de novembro de 2026, a Secretaria de Agricultura de Minas Gerais apresentou um concurso da Emater-MG para embalagens de café, com critérios que incluem funcionalidade, conceito e posicionamento. O anúncio é contexto para olhar a embalagem como comunicação. Não comprova que determinado desenho produza vendas nem oferece uma fórmula para organizar qualquer linha.\n\nPara uma pequena marca, a pergunta pode começar no próprio portfólio: alguém que ainda não conhece o código de cores consegue explicar o que muda entre as versões?\n\n## Defina qual diferença precisa ser compreendida\n\nImagine uma pequena marca de alimentos que oferece três versões do mesmo tipo de produto e duas quantidades por versão. É um exemplo hipotético. Ao lançar a linha, a equipe escolhe uma cor para cada opção e mantém quase todo o restante igual.\n\nAntes de avaliar o desenho, organize as diferenças reais. O que muda entre as versões? A quantidade? A composição? A forma de apresentação? Quais informações ajudam a pessoa a identificar o item que procura?\n\nEssa definição precisa vir de quem conhece o produto. A criação não deve inventar uma diferença para justificar cores ou nomes já escolhidos. Tampouco deve esconder uma distinção pertinente para manter uma frente visualmente mais limpa.\n\nNa marca hipotética, versão e quantidade são decisões diferentes. Se as duas informações disputarem o mesmo lugar ou parecerem parte de um único nome, a pessoa pode reconhecer uma delas e deixar a outra passar.\n\n## Separe família e versão na hierarquia visual\n\nUma linha pode compartilhar marca, tipografia e organização sem apresentar todas as informações com o mesmo peso. O conjunto precisa oferecer pistas de pertencimento e de diferença.\n\nNo exemplo, a marca permanece num lugar consistente. A identificação da versão ocupa uma área reconhecível entre os itens. A quantidade recebe uma posição que permite conferi-la sem ser confundida com a versão.\n\nNão existe uma distribuição universal que resolva essa tarefa. O espaço disponível, o formato da embalagem e as informações pertinentes mudam conforme o produto. O importante é conseguir explicar por que cada elemento está ali e qual leitura ele ajuda a organizar.\n\nObserve também as imagens. Uma ilustração muito parecida entre versões pode comunicar a família e ainda exigir outra pista para a escolha. Uma fotografia atraente não substitui a identificação do que a pessoa está levando.\n\n## Use a cor como apoio, não como única resposta\n\nA cor pode facilitar a distinção de uma linha. O cuidado é não exigir que o consumidor memorize uma convenção criada pela equipe para descobrir uma informação básica.\n\nNa marca hipotética, quem compra pela primeira vez não sabe que a embalagem mais escura corresponde a uma versão específica. Mesmo quem já conhece o produto pode encontrá-lo numa fotografia com iluminação diferente ou num espaço em que as tonalidades ficam menos distintas.\n\nCombine a cor com identificações legíveis e uma organização estável. Se houver outros elementos visuais, verifique se ajudam a reconhecer a diferença ou apenas acrescentam decoração. O objetivo não é multiplicar códigos para a pessoa decifrar.\n\nUma conferência em tons de cinza pode ajudar a perceber a dependência da cor. Ela não prova que a embalagem atende a todas as necessidades de leitura ou acessibilidade. É uma observação adicional para localizar uma distinção que talvez esteja frágil.\n\n## Compare as embalagens no tamanho em que serão vistas\n\nUm detalhe que parece claro no arquivo ampliado pode desaparecer na prateleira ou na imagem pequena de uma loja digital. Revise a família nas situações pertinentes ao modo de venda.\n\nColoque as versões lado a lado, com dimensões próximas das reais. Depois observe cada uma isoladamente. A pessoa consegue identificar a versão sem precisar encontrar uma vizinha para comparar? Consegue conferir a quantidade? O nome da marca continua reconhecível?\n\nNa fotografia de catálogo, o enquadramento precisa preservar a informação relevante. Se o corte remover a identificação da versão, uma boa hierarquia na embalagem pode se perder na apresentação digital.\n\nTambém confira a correspondência entre imagem e descrição. A página não deve mostrar uma versão enquanto o título ou a seleção de compra aponta outra. A identidade visual precisa continuar acompanhada das informações corretas no caminho até o pedido.\n\n## Prepare o conjunto para a próxima versão\n\nUma organização pode funcionar com dois produtos e ficar confusa quando surge um terceiro. Se toda nova opção exige uma cor mais parecida com a anterior ou desloca uma informação importante, talvez falte um critério para ampliar a família.\n\nNa marca hipotética, antes de acrescentar outra versão, a equipe pode testar como ela ocuparia o sistema existente. A identificação continuaria no mesmo lugar? A diferença poderia ser explicada sem criar uma exceção que só o atendimento conhece?\n\nIsso não significa reservar antecipadamente uma quantidade ilimitada de combinações. Significa perceber quando a estrutura depende de condições que podem deixar de existir no próximo lançamento.\n\nRegistre os critérios que orientam a linha e mantenha referências das versões aprovadas. Esses materiais ajudam a evitar que cada fornecedor reorganize a embalagem a partir de uma interpretação própria do arquivo anterior.\n\n## Teste o entendimento sem ensinar o código antes\n\nPedir que alguém escolha uma versão depois de explicar toda a lógica de cores mede uma situação diferente da escolha espontânea. Para observar a clareza, comece pela tarefa que a pessoa realmente teria.\n\nNo exemplo, a equipe pode apresentar as opções e pedir que o participante encontre determinada versão e quantidade. Registre o que ele procura, onde hesita e que informação utiliza para confirmar a escolha.\n\nNão transforme uma dificuldade em falta de atenção. Ela pode indicar que a identificação está pequena, que uma imagem sugere outra versão ou que o sistema exige um conhecimento prévio que a marca presumiu.\n\nEssas observações são delimitadas e não representam automaticamente todo o mercado. Ainda assim, podem orientar uma revisão concreta. A equipe ganha elementos para discutir a leitura oferecida, em vez de decidir apenas qual embalagem parece mais bonita.\n\nAntes do próximo lançamento, organize a linha como uma família de escolhas. Confira o que permanece comum, o que muda e como essa diferença aparece na embalagem e no catálogo. A marca pode manter unidade sem pedir que o cliente adivinhe qual produto está escolhendo.",
+        "sources": "[Secretaria de Agricultura de Minas Gerais, concurso estadual de embalagens de café, 06/11/2026](https://www.mg.gov.br/agricultura/noticias/abertas-inscricoes-para-o-1o-concurso-estadual-de-embalagens-de-cafe-de-minas-gerais)\n\nA fonte apresenta critérios de um concurso, sem comprovar efeito comercial de um desenho. A marca de alimentos é hipotética; a organização visual das versões é análise editorial da Tweed, sem orientação regulatória de rotulagem.",
+        "prompt": "Conceptual editorial photograph without people, two unbranded matte paper food pouches standing on separate levels of a shallow curved plaster display ledge, matching ivory bands placed at exactly the same height relative to each pouch, one band carries a large raised circle and the other a clearly distinct raised diagonal stripe, both marks purely geometric without letters, warm sand and charcoal materials, close asymmetric view emphasizing a shared family and visible differences, soft neutral key light with a subtle teal ambient reflection inspired by #08ffb1 along the lower ledge edge, controlled contrast, no tabletop samples, cubes, prisms, maze, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Duas embalagens de papel em níveis de um suporte curvo, com faixas claras na mesma posição e marcas geométricas diferentes, sob reflexo teal discreto.",
+        "date": "2026-11-10"
+      },
+      "createdAt": "2026-11-07T20:54:25.111Z",
+      "startedAt": "2026-11-08T01:36:59.488Z",
+      "completedAt": "2026-11-08T01:38:05.164Z"
+    },
+    {
+      "id": "56ecdfa1-edbe-45ef-99b6-713041681032",
+      "itemId": "pauta-reposicao-2026-11-07-0519eb5a6b9c",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "cdd306ff638852206595ddbdad8b7f0144f5f40d0ff71ac842cea3e5bd34afa2",
+      "snapshot": "e53d43292f0c4d77088010f877ae6e8bd59745a8b5da09904dcae8f580a998f0",
+      "input": {
+        "id": "pauta-reposicao-2026-11-07-0519eb5a6b9c",
+        "title": "As contas de marketing continuam acessíveis quando o parceiro muda?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 06/11/2026: a atualização oficial do Google Analytics anunciou Data Manager em beta para organizar conexões e acompanhar sua condição. Usar apenas como contexto de dependências entre ativos digitais; a novidade não é apresentada como ferramenta de transferência de contas nem prova de segurança. Tese editorial própria: a continuidade do marketing exige que a empresa saiba identificar seus ativos, os responsáveis e os acessos administrativos adequados antes de uma troca de parceiro, sem confundir executar o trabalho com concentrar todo o acesso. Exemplo hipotético de PME que prepara uma passagem de trabalho com lista dos ativos pertinentes, responsáveis confirmados e pendências, preservando acessos legítimos e informações privadas. Não solicitar, publicar ou recomendar compartilhar senhas; não ensinar recuperação, remoção de usuários ou contorno de autenticação; configurações específicas e disputas dependem das regras e acordos aplicáveis. Diferenciar de manutenção de apresentação: foco na continuidade das contas e serviços de marketing, não em editar arquivos. Diferenciar de centralização de fornecedores: foco em transição e responsabilidade por acesso, não em escolher agência.",
+        "audience": "Donos de PMEs e responsáveis por marketing que contratam parceiros para site, mídia, métricas e presença digital.",
+        "goal": "De descobrir dependências de acesso só na troca de fornecedor para manter uma referência confirmada de ativos e responsáveis que permita planejar a continuidade do trabalho.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-07",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Google Analytics Help, lançamento do Data Manager em beta em 06/11/2026",
+              "url": "https://support.google.com/analytics/answer/9164320?hl=en",
+              "publishedAt": "2026-11-06"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-07T21:00:34.559Z",
+      "startedAt": "2026-11-08T01:36:59.585Z",
+      "completedAt": "2026-11-08T01:38:04.987Z"
     }
   ]
 }

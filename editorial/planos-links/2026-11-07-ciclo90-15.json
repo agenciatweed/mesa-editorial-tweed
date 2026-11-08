@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "solucao-tecnica-aplicacao-limites",
+  "contentSha256": "ab88f28169a8654824b3aa2fb2a699d6caf2efb1b8c2cc4a123e0a931c655369",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "demonstracao-produto-ajudar-cliente-decidir",
+      "to": "solucao-tecnica-aplicacao-limites",
+      "anchor": "em que situação, com quais limites e para qual necessidade",
+      "context": "Uma demonstração de produto ajuda a decidir quando torna o uso compreensível. Mostrar que algo funciona é um começo; também é preciso esclarecer em que situação, com quais limites e para qual necessidade.",
+      "reason": "Explica a apresentação de aplicação e limites de soluções técnicas."
+    }
+  ]
+}

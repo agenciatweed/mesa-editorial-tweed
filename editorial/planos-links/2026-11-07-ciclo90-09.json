@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "origem-regional-produto-comunicacao",
+  "contentSha256": "e9d4cc754642610b27768e04f5d8fc27769b48a353af6ae8db13df92d1f68887",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "identidade-visual-2027-textura-cor-autoria",
+      "to": "origem-regional-produto-comunicacao",
+      "anchor": "falar de um território",
+      "context": "Também é preciso evitar transformar referências culturais em uma coleção de sinais decorativos. Se a marca quer falar de um território, deve conhecer as pessoas, os contextos e as relações que pretende representar. Participação e autoria precisam ser tratadas com cuidado, inclusive na contratação de quem produz as imagens.",
+      "reason": "Aprofunda a diferença entre origem regional e decoração territorial."
+    }
+  ]
+}

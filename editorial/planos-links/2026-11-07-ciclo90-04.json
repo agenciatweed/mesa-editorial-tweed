@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "participacao-retratados-historia-marca",
+  "contentSha256": "5d7bcbe261499804b66a54c1ac57a1a7d695245250820c7675f5689fc1843b7c",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "marca-nao-e-um-logotipo-por-que-pmes-precisam-contar-boas-historias",
+      "to": "participacao-retratados-historia-marca",
+      "anchor": "histórias reais",
+      "context": "Para pequenas e médias empresas, isso é uma vantagem competitiva valiosa. Ao contrário das grandes corporações, as PMEs têm a liberdade de serem pessoais, humanas e autêuticas. Elas podem contar histórias reais: de onde vieram, o que acreditam, quem está por trás da marca, quais desafios enfrentaram.",
+      "reason": "Aprofunda a participação das pessoas retratadas na narrativa."
+    }
+  ]
+}

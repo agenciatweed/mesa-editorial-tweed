@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "pausa-atendimento-pedidos-retomada",
+  "contentSha256": "34bfc5261046e67511d9288e5977d33f71c5a0fc607c95debf00ee008cd61eab",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "informacoes-empresa-atualizadas-canais",
+      "to": "pausa-atendimento-pedidos-retomada",
+      "anchor": "mudou o horário de atendimento",
+      "context": "A empresa mudou o horário de atendimento. A equipe sabe, a agenda foi ajustada e a informação está correta no sistema interno. Mas o cliente consulta o perfil no Google, encontra o horário antigo e chega quando a porta já está fechada. Para ele, a mudança só aparece na forma de um desencontro.",
+      "reason": "Aprofunda a comunicação de interrupção, pendências e retomada."
+    }
+  ]
+}

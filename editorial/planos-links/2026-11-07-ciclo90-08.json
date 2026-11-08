@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "site-fornecedores-b2b-identificar-oferta",
+  "contentSha256": "69f187dc4663b6e280da93856f180ddba15c70027f865fb1fba65765e8e4a49a",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "legibilidade-digital-marca-pessoas-ia",
+      "to": "site-fornecedores-b2b-identificar-oferta",
+      "anchor": "para quem o serviço foi pensado",
+      "context": "Uma pessoa pergunta a um assistente de IA quais empresas podem ajudá-la a resolver um problema. Sua marca trabalha exatamente com aquilo, mas as informações públicas não deixam isso claro. O site fala em soluções, as redes destacam entregas avulsas e ninguém consegue entender para quem o serviço foi pensado.",
+      "reason": "Detalha a identificação de oferta e adequação na busca de fornecedores B2B."
+    }
+  ]
+}

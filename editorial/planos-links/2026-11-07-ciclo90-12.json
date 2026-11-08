@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "reconhecer-contribuicoes-criacao-produto",
+  "contentSha256": "a134abb45b1b0bacda8dd4556b71e2ef23a0f416256376250db874325b362cc8",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "parceria-marca-alem-dos-logotipos",
+      "to": "reconhecer-contribuicoes-criacao-produto",
+      "anchor": "sem apagar a contribuição de ninguém",
+      "context": "Observe se a identidade de cada marca continua reconhecível e se a combinação tem uma lógica. Não é necessário misturar tudo numa terceira aparência nem dar o mesmo espaço visual aos nomes em todos os momentos. É necessário explicar a relação sem apagar a contribuição de ninguém.",
+      "reason": "Detalha como reconhecer contribuições sem atribuir toda a criação a uma única parte."
+    }
+  ]
+}

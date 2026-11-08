@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "testar-experiencia-alem-equipe-interna",
+  "contentSha256": "d7ccff019f1daa3d8bb70565c0cf1d44a088c86eb300e23386640f78ecc38ab1",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "to": "testar-experiencia-alem-equipe-interna",
+      "anchor": "um formulário que pede CPF antes de dizer por quê",
+      "context": "E no digital, esse “tentar comprar” acontece em silêncio: um clique, um carregamento que demora, um menu escondido, um botão que parece desativado, um formulário que pede CPF antes de dizer por quê. O cliente não manda um e-mail reclamando. Ele só… vai embora. E aí você acha que o problema é tráfego, anúncio, preço. Mas às vezes é só o site dizendo, sem querer: “aqui é difícil”.",
+      "reason": "Leva o exemplo de atrito digital a uma avaliação com pessoas externas à equipe."
+    }
+  ]
+}

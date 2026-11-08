@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "comunidade-marca-cuidado-moderacao",
+  "contentSha256": "fec9ed856820c8989b7224b7845d7d9dd172a21c6c309369649d16d21b294d15",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "microcomunidades-relevancia-alem-das-impressoes",
+      "to": "comunidade-marca-cuidado-moderacao",
+      "anchor": "Participação exige entender regras",
+      "context": "Entrar em um grupo apenas para divulgar promoções pode produzir o efeito contrário ao pretendido. Participação exige entender regras e contribuir sem tratar cada pessoa como um contato a ser capturado.",
+      "reason": "Desenvolve responsabilidades e cuidado na manutenção da comunidade."
+    }
+  ]
+}

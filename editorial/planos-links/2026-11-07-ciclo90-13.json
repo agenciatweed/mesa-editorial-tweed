@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "resumo-reuniao-decisoes-pendencias",
+  "contentSha256": "b32127b78172c83af5bf5e2fedabadbdc13229e6ffd6e933e81fe3dff64a31f3",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "aprovacao-campanha-feedback-decisoes",
+      "to": "resumo-reuniao-decisoes-pendencias",
+      "anchor": "distinguir dúvida de decisão",
+      "context": "Também vale distinguir dúvida de decisão. “Será que este título funciona?” pode iniciar uma discussão. “Vamos adotar este título porque expressa melhor a oferta aprovada” encerra uma escolha. Quando uma pergunta chega à equipe como ordem, o retrabalho pode começar antes de haver entendimento.",
+      "reason": "Desenvolve o registro de decisões, pendências e responsáveis após a conversa."
+    }
+  ]
+}

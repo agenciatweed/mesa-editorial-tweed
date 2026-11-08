@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "comunicar-resultados-expectativas",
+  "contentSha256": "6af061cc3d8b1c3c8ca90189289fefd5bbdc9b1e402b2960a0d67c3c31db1511",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "qualidade-dados-campanha-conversoes",
+      "to": "comunicar-resultados-expectativas",
+      "anchor": "chamando de resultado coisas diferentes",
+      "context": "O relatório informa que a campanha gerou conversões. O comercial diz que poucos contatos tinham relação com o serviço oferecido. As duas equipes podem estar observando fatos verdadeiros, mas chamando de resultado coisas diferentes.",
+      "reason": "Ajuda a distinguir resultado observado e expectativa comunicada."
+    }
+  ]
+}

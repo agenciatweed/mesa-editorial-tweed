@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "aplicar-aprendizado-marketing-rotina",
+  "contentSha256": "fa400ea67cbea693d16bb5a621e100985292779e1870b06ea5a0318d7732bcfb",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "adocao-ia-equipe-conhecimento-compartilhado",
+      "to": "aplicar-aprendizado-marketing-rotina",
+      "anchor": "Comece por uma tarefa delimitada",
+      "context": "“Aprender IA” é um objetivo amplo demais para orientar a rotina. Comece por uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência.",
+      "reason": "Desenvolve como aplicar aprendizado a uma tarefa real e conferir o resultado."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "apresentacao-comercial-manutencao-proxima-versao",
+  "contentSha256": "345657d80c5040e39286928a21bc074da4a4449bba78c7b1b0b1955033732615",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "ia-materiais-marca-alem-das-cores",
+      "to": "apresentacao-comercial-manutencao-proxima-versao",
+      "anchor": "atualize a referência",
+      "context": "Quando o material exigir correção, registre o motivo e atualize a referência. Se a mesma ambiguidade reaparece, vale revisar o briefing antes de pedir novas versões. Produzir mais alternativas sem esclarecer o critério apenas transfere o problema para a aprovação.",
+      "reason": "Aprofunda a manutenção e a responsabilidade pela próxima versão de materiais comerciais."
+    }
+  ]
+}

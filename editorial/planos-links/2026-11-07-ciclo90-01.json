@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "marca-causa-explicar-produto-novos-publicos",
+  "contentSha256": "0f94bd577d4a3c5335d752c92cfc76440b8cbd11673c1fc185f38bec62f3edf2",
+  "modifiedAt": "2026-11-07",
+  "links": [
+    {
+      "from": "narrativas-miticas",
+      "to": "marca-causa-explicar-produto-novos-publicos",
+      "anchor": "uma causa que pulsa por trás de cada embalagem",
+      "context": "Não vendemos produtos. Vendemos significados. Vendemos uma forma de ver o mundo. Vendemos uma causa que pulsa por trás de cada embalagem.",
+      "reason": "Aprofunda como comunicar a causa sem perder a compreensão do produto."
+    }
+  ]
+}

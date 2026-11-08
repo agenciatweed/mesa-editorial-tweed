@@ -1,0 +1,9 @@
+TÍTULO: A busca da sua loja entende o jeito como o cliente pede?
+EDITORIA: 3
+VOZ: Lorenzo
+ÂNGULO: A BigCommerce publicou em 05/11/2026 uma explicação sobre busca semântica e conversacional no comércio eletrônico, com disponibilidade gradual para lojas elegíveis. Usar esse contexto para discutir um problema anterior à escolha da tecnologia: o catálogo chama os produtos do mesmo jeito que o cliente procura? A tese é que a busca interna também entrega a promessa de atendimento da marca. Desenvolver um exemplo hipotético de loja com termos técnicos, nomes populares e consultas por necessidade; comparar algumas buscas reais com os resultados e os atributos do catálogo. Distinguir busca por código exato de descrição em linguagem natural. Uma consulta sem resultado exige investigação, não comprova ausência de demanda. Preservar filtros e navegação; não obrigar o cliente a conversar com IA. Evitar repetir a pauta de nome de produto e a de legibilidade para mecanismos externos: o foco aqui é encontrar um item dentro da própria loja. Não recomendar troca de plataforma, citar percentuais de pesquisas não conferidas nem prometer conversão.
+LEITOR: Gestores de PMEs com loja virtual, responsáveis por catálogo, atendimento e experiência digital.
+OBJETIVO: Perceber a busca interna como parte do atendimento e avaliar o vocabulário e a qualidade dos resultados antes de contratar uma tecnologia nova.
+
+FONTES DA PESQUISA:
+2026-11-05 | BigCommerce: Conversational Search for Ecommerce: How Semantic Search Changes Product Discovery, 05/11/2026 | https://www.bigcommerce.com/articles/ecommerce/conversational-search/

@@ -1,9 +1,7 @@
 TÍTULO: As contas de marketing continuam acessíveis quando o parceiro muda?
 EDITORIA: 0
-VOZ: Lorenzo
 ÂNGULO: Gancho primário de 06/11/2026: a atualização oficial do Google Analytics anunciou Data Manager em beta para organizar conexões e acompanhar sua condição. Usar apenas como contexto de dependências entre ativos digitais; a novidade não é apresentada como ferramenta de transferência de contas nem prova de segurança. Tese editorial própria: a continuidade do marketing exige que a empresa saiba identificar seus ativos, os responsáveis e os acessos administrativos adequados antes de uma troca de parceiro, sem confundir executar o trabalho com concentrar todo o acesso. Exemplo hipotético de PME que prepara uma passagem de trabalho com lista dos ativos pertinentes, responsáveis confirmados e pendências, preservando acessos legítimos e informações privadas. Não solicitar, publicar ou recomendar compartilhar senhas; não ensinar recuperação, remoção de usuários ou contorno de autenticação; configurações específicas e disputas dependem das regras e acordos aplicáveis. Diferenciar de manutenção de apresentação: foco na continuidade das contas e serviços de marketing, não em editar arquivos. Diferenciar de centralização de fornecedores: foco em transição e responsabilidade por acesso, não em escolher agência.
 LEITOR: Donos de PMEs e responsáveis por marketing que contratam parceiros para site, mídia, métricas e presença digital.
 OBJETIVO: De descobrir dependências de acesso só na troca de fornecedor para manter uma referência confirmada de ativos e responsáveis que permita planejar a continuidade do trabalho.
 
-FONTES DA PESQUISA:
-2026-11-06 | Google Analytics Help, lançamento do Data Manager em beta em 06/11/2026 | https://support.google.com/analytics/answer/9164320?hl=en
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
