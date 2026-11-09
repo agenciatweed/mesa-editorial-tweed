@@ -1,0 +1,9 @@
+TÍTULO: Seu cupom explica por que o desconto não foi aplicado?
+EDITORIA: 3
+VOZ: Lorenzo
+ÂNGULO: Fonte primária de 27/10/2026: o guia da mLabs sobre atendimento na Black Friday inclui dúvidas sobre uso e falha de cupons entre as situações que chegam aos canais da marca. A pesquisa foi ampliada até 30 dias após consultar publicações mais recentes; páginas de cupons sem data editorial verificável e cupons de sorteio não foram tratados como evidência de descontos. A fonte é de um fornecedor, não comprova desempenho universal. Tese própria: a mensagem exibida quando um cupom não se aplica deve ajudar a pessoa a entender a condição pertinente e o próximo passo possível, sem transformar uma falha genérica numa tarefa de adivinhação. Exemplo hipotético de pequena loja que confere coerência entre anúncio, condições da oferta, carrinho e atendimento; distinguir código digitado incorretamente, condição não atendida e situação ainda não diagnosticada, sem inventar a causa. Não ensinar configuração técnica, aconselhar sobre obrigações legais, fabricar políticas comerciais, prometer aceitação de cupom ou recomendar aumentar a compra para obter o benefício. Diferenciar de prazo promocional: foco na explicação de não aplicação do benefício, não no calendário da ação. Diferenciar de resposta automática: foco na informação contextual de uma tentativa de usar desconto, não no estado geral de uma solicitação.
+LEITOR: Donos de pequenas lojas virtuais e responsáveis por campanha, conteúdo e atendimento que oferecem cupons de desconto.
+OBJETIVO: De mostrar apenas um erro genérico para conferir se a comunicação explica a condição real e oferece um próximo passo que a operação consegue sustentar.
+
+FONTES DA PESQUISA:
+2026-10-27 | mLabs, Black Friday no Inbox: como preparar o atendimento no WhatsApp e no Direct para o pico, 27/10/2026 | https://www.mlabs.com.br/blog/atendimento-black-friday/

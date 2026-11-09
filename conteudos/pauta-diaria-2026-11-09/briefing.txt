@@ -1,9 +1,7 @@
 TÍTULO: Sua mensagem automática confirma o recebimento ou promete que resolveu?
 EDITORIA: 3
-VOZ: Lorenzo
 ÂNGULO: Gancho primário de 27/10/2026: a mLabs publicou um guia de preparação do atendimento em WhatsApp e Direct para a Black Friday, abordando automação, mensagens fora do horário e passagem para pessoas. A janela foi ampliada até 30 dias para uma fonte diretamente pertinente ao recorte; o texto é de um fornecedor, sem comprovar eficácia universal. Tese própria: uma confirmação automática deve esclarecer o estado da conversa e o próximo passo real, sem fazer o cliente interpretar recebimento como análise concluída ou solução. Exemplo hipotético de PME cuja mensagem informa que a solicitação foi recebida, mas a operação ainda precisa de conferência; distinguir confirmação, informação já disponível e encaminhamento para responsável. Conferir o que a empresa consegue prometer e quem acompanha as pendências. Não copiar modelos do fornecedor, indicar software, ensinar configuração, reproduzir regras de plataformas ou aconselhamento jurídico, nem inventar tempos de resposta. Não coletar dados pessoais sem necessidade. Diferenciar de pausa no atendimento: foco em interpretação e continuidade da resposta automática mesmo durante a operação normal, não em comunicar fechamento e retomada. Diferenciar de atendimento e posicionamento: foco no estado da solicitação comunicado por uma mensagem específica, não em redesenhar toda a operação.
 LEITOR: Donos de PMEs e equipes de conteúdo e atendimento que usam mensagens automáticas em canais digitais.
 OBJETIVO: De avaliar a automação apenas por responder rápido para conferir se ela deixa claro o que aconteceu, o que ainda depende de análise e qual próximo passo pode ser cumprido.
 
-FONTES DA PESQUISA:
-2026-10-27 | mLabs, Black Friday no Inbox: como preparar o atendimento no WhatsApp e no Direct para o pico, 27/10/2026 | https://www.mlabs.com.br/blog/atendimento-black-friday/
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.
