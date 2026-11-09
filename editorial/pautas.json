@@ -111,11 +111,16 @@
       "angle": "Gancho primário de 05/11/2026: Sebrae divulgou pesquisa com a FGV sobre a percepção de pequenos negócios a respeito de parcerias com influenciadores. Usar apenas como contexto de interesse empresarial, sem repetir percentuais, atribuir causalidade ou prometer resultados. Tese editorial: escolher um criador deve começar pela conversa que a empresa precisa estabelecer com um público pertinente e pela contribuição que aquele criador pode oferecer, em vez de selecionar apenas por volume de seguidores. Exemplo hipotético de PME que precisa esclarecer uma situação de uso e compara a pertinência do conteúdo e das interações de possíveis parceiros, sem critérios numéricos inventados. Diferenciar de parceria entre marcas: foco na relação com um criador e no papel editorial do conteúdo, não na soma de logotipos. Diferenciar de microcomunidades: foco na escolha e no briefing da colaboração, não no tamanho de audiência. Não oferecer modelo contratual, regras jurídicas de publicidade ou garantia de conversão.",
       "audience": "Donos de PMEs e responsáveis por marketing que avaliam a primeira colaboração com criadores de conteúdo.",
       "goal": "De contratar uma audiência pela quantidade de seguidores para definir a conversa, o público e a contribuição editorial antes de escolher o parceiro.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -151,7 +156,21 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
       "faq": "O que definir antes de escolher um influenciador para a marca?\nIdentifique a conversa que deseja abrir, o público pertinente e a contribuição que espera do conteúdo antes de comparar possíveis parceiros.\n\nO número de seguidores comprova a pertinência da parceria?\nNão sozinho. Examine o trabalho publicado, o contexto das interações e as informações disponíveis sobre o público, reconhecendo seus limites.\n\nO que preparar além do conteúdo da colaboração?\nConfira se página, oferta e atendimento sustentam o que será apresentado e combine como dúvidas, correções e observações serão encaminhadas.",
-      "url": "https://www.agenciatweed.com.br/escolher-influenciador-conversa-publico/"
+      "url": "https://www.agenciatweed.com.br/escolher-influenciador-conversa-publico/",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/escolher-influenciador-conversa-publico/",
+        "publishedAt": "2026-11-09T07:41:29.018530+00:00",
+        "job": "1eaeda8b-ce40-4b3b-891b-82b43a1233cc",
+        "files": [
+          "assets/artigos-editoriais/7c2fbd14dfa40653542efa2b4c18e26e0b956e22a5f380d13a28d7f176aeca9e.png",
+          "escolher-influenciador-conversa-publico/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-diaria-2026-11-06",
@@ -4250,6 +4269,33 @@
             "title": "Sesc RJ, Nova Friburgo recebe 1ª Caravana de Inovação e Inclusão, 30/10/2026",
             "url": "https://www.sescrio.org.br/noticias/educacao/nova-friburgo-recebe-1a-caravana-de-inovacao-e-inclusao/",
             "publishedAt": "2026-10-30"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pauta-diaria-2026-11-09",
+      "title": "Sua mensagem automática confirma o recebimento ou promete que resolveu?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário de 27/10/2026: a mLabs publicou um guia de preparação do atendimento em WhatsApp e Direct para a Black Friday, abordando automação, mensagens fora do horário e passagem para pessoas. A janela foi ampliada até 30 dias para uma fonte diretamente pertinente ao recorte; o texto é de um fornecedor, sem comprovar eficácia universal. Tese própria: uma confirmação automática deve esclarecer o estado da conversa e o próximo passo real, sem fazer o cliente interpretar recebimento como análise concluída ou solução. Exemplo hipotético de PME cuja mensagem informa que a solicitação foi recebida, mas a operação ainda precisa de conferência; distinguir confirmação, informação já disponível e encaminhamento para responsável. Conferir o que a empresa consegue prometer e quem acompanha as pendências. Não copiar modelos do fornecedor, indicar software, ensinar configuração, reproduzir regras de plataformas ou aconselhamento jurídico, nem inventar tempos de resposta. Não coletar dados pessoais sem necessidade. Diferenciar de pausa no atendimento: foco em interpretação e continuidade da resposta automática mesmo durante a operação normal, não em comunicar fechamento e retomada. Diferenciar de atendimento e posicionamento: foco no estado da solicitação comunicado por uma mensagem específica, não em redesenhar toda a operação.",
+      "audience": "Donos de PMEs e equipes de conteúdo e atendimento que usam mensagens automáticas em canais digitais.",
+      "goal": "De avaliar a automação apenas por responder rápido para conferir se ela deixa claro o que aconteceu, o que ainda depende de análise e qual próximo passo pode ser cumprido.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-09",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "mLabs, Black Friday no Inbox: como preparar o atendimento no WhatsApp e no Direct para o pico, 27/10/2026",
+            "url": "https://www.mlabs.com.br/blog/atendimento-black-friday/",
+            "publishedAt": "2026-10-27"
           }
         ]
       }

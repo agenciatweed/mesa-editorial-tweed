@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "escolher-influenciador-conversa-publico",
+  "contentSha256": "1a1104d30101df92e795213670b0ffcd895e10167c5191f6b359cc1d23420a6e",
+  "modifiedAt": "2026-11-09",
+  "links": [
+    {
+      "from": "escolher-influenciador-conversa-publico",
+      "to": "microcomunidades-relevancia-alem-das-impressoes",
+      "anchor": "O número de seguidores não informa, sozinho",
+      "context": "O número de seguidores não informa, sozinho, quem acompanha um conteúdo ou em que situação essas pessoas poderiam considerar uma oferta. Procure informações pertinentes e reconheça os limites do que está disponível.",
+      "reason": "Aprofunda a distinção entre tamanho de audiência e pertinência das relações."
+    },
+    {
+      "from": "escolher-influenciador-conversa-publico",
+      "to": "jornada-compra-antes-da-campanha",
+      "anchor": "Percorra o caminho antes da publicação",
+      "context": "Percorra o caminho antes da publicação. O destino sustenta o que será apresentado? A versão disponível corresponde à peça mostrada? O atendimento sabe localizar a informação relevante? Se alguma condição mudar, quem atualiza o material?",
+      "reason": "Ajuda a preparar as informações e o atendimento que recebem o público da colaboração."
+    }
+  ]
+}
