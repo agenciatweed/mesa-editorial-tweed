@@ -1,0 +1,27 @@
+{
+  "id": "pauta-diaria-2026-11-10",
+  "title": "Uma IA descreveu sua oferta errado. Como a empresa responde?",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 09/11/2026: comunicado da Gartner sobre pesquisa com lideranças de marketing aborda monitoramento e correção de informações incorretas sobre marcas em respostas geradas por IA. O levantamento registra práticas declaradas de lideranças, não demonstra eficácia nem representa automaticamente PMEs brasileiras; não repetir percentuais ou transformar correlação em causalidade. Tese própria: ao encontrar uma descrição incorreta da oferta, a empresa precisa separar o erro observado, a informação pública que pode corrigir e a expectativa que deve esclarecer a quem chega por aquela indicação. Exemplo hipotético de prestadora de serviços cuja área de atendimento é ampliada indevidamente numa resposta de IA. Conferir resposta, data e contexto sem expor dados pessoais; verificar a informação oficial pertinente, eventuais fontes citadas e o que está sob controle da empresa; oferecer uma explicação clara ao interessado e acompanhar sem prometer alterar todas as respostas futuras. Não presumir a origem do erro nem garantir que atualizar uma página ou enviar feedback modifique o modelo, elimine inexatidões ou gere recomendações. Sem tutorial técnico de SEO/GEO, recomendação de ferramenta, simulação de depoimentos ou manipulação de resultados. Diferenciar de reputação após recomendação por IA: foco na resposta operacional a uma afirmação factual incorreta. Diferenciar de atualização entre canais próprios: foco no desencontro produzido em ambiente externo que a empresa não controla. Diferenciar de personalização corrigível pelo cliente: aqui o erro é a descrição pública da oferta, não um perfil de preferências.",
+  "audience": "Donos de PMEs e responsáveis por marketing e atendimento que recebem interessados orientados por descrições de serviços ou produtos geradas por IA.",
+  "goal": "De tratar uma descrição errada de IA apenas como problema de visibilidade para conferir os fatos, corrigir referências sob controle da empresa e esclarecer a expectativa do interessado sem prometer controle sobre respostas externas.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-10",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Gartner, Survey Finds 42% of CMOs Are Monitoring Brand Misinformation in AI-Generated Content, 09/11/2026",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-11-09-gartner-survey-finds-42-percent-of-cmos-are-monitoring-brand-misinformation-in-ai-generated-content",
+        "publishedAt": "2026-11-09"
+      }
+    ]
+  }
+}

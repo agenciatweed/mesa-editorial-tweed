@@ -6,11 +6,16 @@
   "angle": "Gancho primário de 06/11/2026: a Secretaria de Agricultura de Minas Gerais anunciou concurso da Emater-MG para embalagens de café, com critérios que incluem funcionalidade, conceito e posicionamento. Usar como contexto para analisar a embalagem como comunicação, sem recomendar inscrição, presumir premiação ou reproduzir exigências legais. Tese editorial própria: quando uma marca oferece versões próximas de um produto, a embalagem precisa permitir identificar o que permanece comum e o que muda, sem depender exclusivamente da cor. Exemplo hipotético de uma pequena marca de alimentos que organiza nome da linha, versão, quantidade e informações de escolha em uma hierarquia visual consistente. Não inventar critérios de rotulagem, benefícios de saúde ou especificações técnicas. Diferenciar de embalagem e gesto de uso: foco na distinção entre versões antes da escolha, não na abertura ou manuseio. Diferenciar de nome do produto: foco na arquitetura visual do conjunto de embalagens, não em decidir o nome isolado. Diferenciar de proposta comparável: foco na leitura do portfólio físico e digital.",
   "audience": "Donos de pequenas marcas de produtos e equipes de design e marketing que organizam linhas com versões semelhantes.",
   "goal": "De diferenciar versões apenas pela cor para construir uma hierarquia visual que ajude a entender o que muda entre produtos da mesma marca.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -46,5 +51,19 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61.png",
   "faq": "O que organizar para diferenciar versões na embalagem?\nSepare as informações comuns à marca daquilo que muda entre as opções e defina uma hierarquia para identificar versão e quantidade.\n\nA cor deve ser a única pista para distinguir produtos?\nNão. Combine a cor com identificações legíveis e posições consistentes, verificando se a diferença continua compreensível em outras condições de visualização.\n\nComo conferir a clareza de uma linha de embalagens?\nObserve as versões juntas e isoladas, em tamanhos próximos dos usos reais, e peça a pessoas que encontrem uma opção sem ensinar antes o código de cores.",
-  "url": "https://www.agenciatweed.com.br/embalagem-diferenciar-versoes-produto/"
+  "url": "https://www.agenciatweed.com.br/embalagem-diferenciar-versoes-produto/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/embalagem-diferenciar-versoes-produto/",
+    "publishedAt": "2026-11-10T07:53:53.810618+00:00",
+    "job": "f51f50f5-cbea-4d6c-9701-b84c16fd5f17",
+    "files": [
+      "assets/artigos-editoriais/73e2305978c3e58280d4e3442b736626f4877abc46acc38a232491bd22861d61.png",
+      "embalagem-diferenciar-versoes-produto/index.html",
+      "blog/index.html",
+      "blog-branding-na-marra/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

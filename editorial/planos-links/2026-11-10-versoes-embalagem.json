@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "embalagem-diferenciar-versoes-produto",
+  "contentSha256": "fce33bfea9659a2c48d150791e2f9a16ec01f9e859f8b1d9c9ee4b3384b8b6ca",
+  "modifiedAt": "2026-11-10",
+  "links": [
+    {
+      "from": "embalagem-diferenciar-versoes-produto",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "nomes já escolhidos",
+      "context": "Essa definição precisa vir de quem conhece o produto. A criação não deve inventar uma diferença para justificar cores ou nomes já escolhidos. Tampouco deve esconder uma distinção pertinente para manter uma frente visualmente mais limpa.",
+      "reason": "Aprofunda como nome e descritor precisam comunicar diferenças reais entre ofertas, em vez de exigir tradução interna."
+    },
+    {
+      "from": "embalagem-diferenciar-versoes-produto",
+      "to": "design-embalagem-gesto-uso",
+      "anchor": "formato da embalagem",
+      "context": "Não existe uma distribuição universal que resolva essa tarefa. O espaço disponível, o formato da embalagem e as informações pertinentes mudam conforme o produto. O importante é conseguir explicar por que cada elemento está ali e qual leitura ele ajuda a organizar.",
+      "reason": "Complementa a hierarquia visual com as decisões de estrutura e formato ligadas ao uso real da embalagem."
+    }
+  ]
+}
