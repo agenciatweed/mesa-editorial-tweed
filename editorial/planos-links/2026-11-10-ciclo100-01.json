@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "escolher-influenciador-conversa-publico",
+  "contentSha256": "1a1104d30101df92e795213670b0ffcd895e10167c5191f6b359cc1d23420a6e",
+  "modifiedAt": "2026-11-10",
+  "links": [
+    {
+      "from": "microcomunidades-relevancia-alem-das-impressoes",
+      "to": "escolher-influenciador-conversa-publico",
+      "anchor": "colaborar com um criador",
+      "context": "Uma marca pode oferecer uma explicação técnica, participar de uma conversa sobre um problema comum ou apoiar um encontro que já faz sentido para as pessoas. Pode colaborar com um criador que conheça a comunidade e tenha relação legítima com o assunto.",
+      "reason": "Aprofunda a seleção de um criador pela conversa e pertinência ao público, no trecho sobre colaboração em comunidades."
+    }
+  ]
+}

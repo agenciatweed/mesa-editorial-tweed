@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "embalagem-diferenciar-versoes-produto",
+  "contentSha256": "fce33bfea9659a2c48d150791e2f9a16ec01f9e859f8b1d9c9ee4b3384b8b6ca",
+  "modifiedAt": "2026-11-10",
+  "links": [
+    {
+      "from": "nome-produto-clareza-proposta",
+      "to": "embalagem-diferenciar-versoes-produto",
+      "anchor": "Apresente as opções juntas",
+      "context": "Apresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?",
+      "reason": "Oferece um aprofundamento da hierarquia de versões no portfólio por meio da organização visual das embalagens."
+    }
+  ]
+}

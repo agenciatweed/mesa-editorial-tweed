@@ -1,9 +1,7 @@
 TÍTULO: Sua marca usa os códigos do setor ou desaparece dentro deles?
 EDITORIA: 1
-VOZ: Lorenzo
 ÂNGULO: Gancho primário de 09/11/2026: a zerothird publicou um relato sobre naming e identidade visual desenvolvidos com a OH-SO Digital, destacando a decisão de evitar convenções visuais recorrentes de seu setor. A identidade foi introduzida em 2025; não apresentar como lançamento de 2026. O anúncio de premiação é declaração da empresa, não prova de lembrança, eficácia comercial ou superioridade técnica. Tese própria: reconhecer a categoria e reconhecer uma empresa específica são problemas diferentes; reproduzir todos os sinais habituais do setor pode tornar marcas intercambiáveis. Exemplo hipotético de pequena empresa de serviços industriais que compara as próprias peças em contextos de uso, distingue informações necessárias à compreensão da atividade de soluções gráficas adotadas apenas por hábito e escolhe o que sustentar de modo consistente. Considerar a clareza para o público, sem recomendar novidade por novidade ou romper sinais úteis sem avaliação. Não copiar a identidade citada, interpretar segurança quântica, recomendar investimento ou prometer reconhecimento e vendas. Diferenciar de naming de produto: foco nos códigos gráficos compartilhados pela categoria, não na escolha do nome. Diferenciar de tendências de textura e de arquétipos da concorrência: foco em escolhas visuais próprias no conjunto competitivo, não em previsão estética ou diagnóstico de personalidade.
 LEITOR: Donos de PMEs e responsáveis por branding e design que percebem semelhança entre a comunicação visual da empresa e a de seus concorrentes.
 OBJETIVO: De seguir convenções visuais do setor por hábito para distinguir quais ajudam a compreender a atividade e quais apagam os sinais próprios da marca.
 
-FONTES DA PESQUISA:
-2026-11-09 | zerothird, Wins Red Dot 2026 for Brand Naming and Corporate Design, 09/11/2026 | https://www.zerothird.com/news/zerothird-wins-red-dot-2026-for-brand-naming-and-corporate-design
+Consultar editorial/diretrizes.md, especialistas.md e editorias.json antes de escrever.

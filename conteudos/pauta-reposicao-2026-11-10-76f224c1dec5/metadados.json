@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-10-76f224c1dec5",
+  "title": "No seu evento, confirmar presença é o mesmo que reservar uma vaga?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 05/11/2026, com atualização indicada em 06/11: a Meta anunciou mudanças no Events do WhatsApp, incluindo convites por link e gestão de respostas de presença. O comunicado informa implantação ao longo das semanas seguintes; não presumir disponibilidade imediata para todos, ensinar configuração nem recomendar o aplicativo. Tese própria: responder que pretende comparecer, receber uma confirmação da organização e ter uma vaga reservada podem representar estados diferentes; a comunicação do evento precisa explicar o que cada ação realmente significa segundo o processo confirmado. Exemplo hipotético de pequena empresa que organiza uma demonstração presencial com capacidade definida e confere como convite, resposta do interessado e retorno da equipe se relacionam. Não inventar políticas de lotação, prioridades, cobranças, cancelamentos ou requisitos legais, nem afirmar que uma resposta de presença numa plataforma garante reserva ou comparecimento. Explicar o próximo passo e as pendências reais com informação pertinente e sem coleta desnecessária de dados pessoais. Diferenciar de divulgação de acessibilidade: foco no significado operacional da confirmação e da vaga, não nos recursos de participação. Diferenciar de acesso a reunião online: foco nos estados do convite para um encontro presencial, não em instalar um aplicativo. Diferenciar de mensagem automática: foco na expectativa específica de participação criada pela confirmação, não no estado geral de uma solicitação.",
+  "audience": "Donos de PMEs e equipes de marketing, atendimento e produção que organizam demonstrações, oficinas e encontros presenciais com confirmação de participação.",
+  "goal": "De tratar todas as respostas ao convite como uma única lista de confirmados para explicar o que significa manifestar interesse, receber confirmação e ter uma vaga, conforme o processo real do evento.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-10",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Meta, WhatsApp Events Brings People Together Beyond the Group Chat, 05/11/2026",
+        "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+        "publishedAt": "2026-11-05"
+      }
+    ]
+  }
+}

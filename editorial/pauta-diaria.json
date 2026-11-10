@@ -259,7 +259,13 @@
     },
     "2026-11-10": {
       "itemId": "pauta-diaria-2026-11-10",
-      "createdAt": "2026-11-10T07:49:57.998Z"
+      "createdAt": "2026-11-10T07:49:57.998Z",
+      "replenishments": [
+        {
+          "itemId": "pauta-reposicao-2026-11-10-76f224c1dec5",
+          "createdAt": "2026-11-10T13:54:03.595Z"
+        }
+      ]
     }
   }
 }
