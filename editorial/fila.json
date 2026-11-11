@@ -11513,6 +11513,132 @@
       "createdAt": "2026-11-08T09:28:56.307Z",
       "startedAt": "2026-11-11T08:01:13.024Z",
       "completedAt": "2026-11-11T08:03:46.074945+00:00"
+    },
+    {
+      "id": "0810e81a-4cfc-4fbb-8b18-916c4fb67d61",
+      "itemId": "pauta-diaria-2026-11-11",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "b1584d69a36a143889c6da464e78958c001d8b7fbc356cfd47df7aa4f9402d7e",
+      "snapshot": "ee5219f7ecb4b67dee0babc72a388a39984162245220b2921516824f3288c16b",
+      "input": {
+        "id": "pauta-diaria-2026-11-11",
+        "title": "O protótipo do seu site mostra o que ainda precisa ser construído?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 10/11/2026: a Adobe apresentou Firefly Builder em beta privado como uma prévia de recursos para criar protótipos interativos de sites, apresentações e aplicativos. Não apresentar como disponibilidade geral nem como garantia de uma solução pronta para operar. Tese própria: conseguir navegar por uma simulação não comprova que os serviços representados já funcionam; a aprovação de um protótipo precisa distinguir o que está sendo avaliado e o que ainda depende de construção e conferência. Exemplo hipotético de PME de serviços que avalia um protótipo com pedido de agendamento: mostrar um caminho de navegação não equivale a confirmar disponibilidade real ou encaminhar uma solicitação ao atendimento. Explicar quais partes são demonstração, quais decisões podem ser discutidas naquela etapa e quem esclarece as dependências, sem tutorial técnico, recomendação de ferramenta, promessa de integração, coleta desnecessária de dados reais ou aconselhamento contratual. Não afirmar que todo protótipo é incompleto ou que toda simulação depende da mesma arquitetura. Diferenciar de demonstração de produto: foco no que um protótipo comunica durante o projeto de um site, não no conteúdo de venda de uma solução existente. Diferenciar de redesign e usabilidade: foco no estado de implementação representado, não em reaprendizado de uma interface. Diferenciar de peça aprovada versus veiculada: foco no alcance da avaliação de uma simulação antes da construção, não na correspondência entre arquivo final e material publicado.",
+        "audience": "Donos de PMEs e responsáveis por marketing que avaliam e aprovam protótipos de sites com parceiros de criação e desenvolvimento.",
+        "goal": "De tomar uma navegação convincente como prova de um site operacional para compreender quais decisões o protótipo permite avaliar e o que ainda precisa ser construído e conferido.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-11",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe, novidades no Creative Cloud e Firefly Builder em beta privado, 10/11/2026",
+              "url": "https://news.adobe.com/news/2026/11/adobe-transforms-creative-cloud-tools",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-11T14:46:45.089Z",
+      "startedAt": "2026-11-11T20:02:29.609Z",
+      "completedAt": "2026-11-11T20:06:11.692Z"
+    },
+    {
+      "id": "f14e5dff-13f1-4d04-a544-b0ba632a8bf1",
+      "itemId": "pauta-reposicao-2026-11-10-8fc510c20ee2",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "2abf2685ccb21166669d1e8cb414077b0f3746f30fc803d4327e404f4a4199fe",
+      "snapshot": "da36ed9c51ae862db3a7415883d9020a15b1226f4aa61874c99d2251a8b0be0a",
+      "input": {
+        "id": "pauta-reposicao-2026-11-10-8fc510c20ee2",
+        "title": "A peça aprovada é a mesma que sua marca está veiculando?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 10/11/2026: a Adobe anunciou novidades para coordenar planejamento, criação e ativação de conteúdo no GenStudio. O comunicado descreve iniciativas de fornecedor, incluindo capacidades futuras e em beta; não presumir disponibilidade geral, indicar contratação ou tratar promessas de escala e consistência como resultados comprovados. Tese própria: aprovar uma peça não comprova que aquela versão foi a efetivamente enviada e veiculada; a passagem para publicação precisa permitir conferir a correspondência entre aprovação, arquivo final e material no ar. Exemplo hipotético de PME que aprova uma versão com uma condição de serviço corrigida, mas recebe para divulgação uma exportação anterior. Examinar qual referência foi aprovada, qual arquivo segue para o canal e quem confere a saída pública; se houver uma mudança posterior, esclarecer o que precisa voltar à decisão da pessoa responsável. Não ensinar configurações de plataformas, criar procedimentos técnicos ou legais, expor campanhas privadas ou prometer eliminação de erros. Distinguir de aprovação de campanha e feedback: foco na correspondência da entrega após a decisão, não em definir critérios criativos. Distinguir de campanha parada: foco na versão que chegou ao público, não em reduzir tempo de produção. Distinguir de manutenção de apresentações: foco em uma saída já aprovada e efetivamente veiculada, não na atualização futura de um material recorrente. Não confundir aprovação interna com garantia de disponibilidade da oferta.",
+        "audience": "Donos de PMEs e responsáveis por marketing que dividem criação, aprovação e veiculação de campanhas entre pessoas ou fornecedores diferentes.",
+        "goal": "De considerar o trabalho encerrado ao aprovar uma peça para conferir se a versão entregue e o material em veiculação correspondem à decisão registrada.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-10",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe, Agentic AI to the Content Supply Chain with CX Enterprise Coworker, 10/11/2026",
+              "url": "https://news.adobe.com/news/2026/11/adobe-agentic-ai-content-supply-chain",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-11T14:46:48.715Z",
+      "startedAt": "2026-11-11T20:02:29.733Z",
+      "completedAt": "2026-11-11T20:06:11.950Z"
+    },
+    {
+      "id": "1c11c003-9d1b-411f-9658-df96bbd37b30",
+      "itemId": "pauta-reposicao-2026-11-10-76f224c1dec5",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "92f975317f0ecc12ebb9153284c6f42330e2e345f213a3c929ab64613f11ed5b",
+      "snapshot": "804a83ef6f4ed0dfc7792d3b33765d9b79743a477c25b435c9b31c43bb2c10c9",
+      "input": {
+        "id": "pauta-reposicao-2026-11-10-76f224c1dec5",
+        "title": "No seu evento, confirmar presença é o mesmo que reservar uma vaga?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 05/11/2026, com atualização indicada em 06/11: a Meta anunciou mudanças no Events do WhatsApp, incluindo convites por link e gestão de respostas de presença. O comunicado informa implantação ao longo das semanas seguintes; não presumir disponibilidade imediata para todos, ensinar configuração nem recomendar o aplicativo. Tese própria: responder que pretende comparecer, receber uma confirmação da organização e ter uma vaga reservada podem representar estados diferentes; a comunicação do evento precisa explicar o que cada ação realmente significa segundo o processo confirmado. Exemplo hipotético de pequena empresa que organiza uma demonstração presencial com capacidade definida e confere como convite, resposta do interessado e retorno da equipe se relacionam. Não inventar políticas de lotação, prioridades, cobranças, cancelamentos ou requisitos legais, nem afirmar que uma resposta de presença numa plataforma garante reserva ou comparecimento. Explicar o próximo passo e as pendências reais com informação pertinente e sem coleta desnecessária de dados pessoais. Diferenciar de divulgação de acessibilidade: foco no significado operacional da confirmação e da vaga, não nos recursos de participação. Diferenciar de acesso a reunião online: foco nos estados do convite para um encontro presencial, não em instalar um aplicativo. Diferenciar de mensagem automática: foco na expectativa específica de participação criada pela confirmação, não no estado geral de uma solicitação.",
+        "audience": "Donos de PMEs e equipes de marketing, atendimento e produção que organizam demonstrações, oficinas e encontros presenciais com confirmação de participação.",
+        "goal": "De tratar todas as respostas ao convite como uma única lista de confirmados para explicar o que significa manifestar interesse, receber confirmação e ter uma vaga, conforme o processo real do evento.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-10",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, WhatsApp Events Brings People Together Beyond the Group Chat, 05/11/2026",
+              "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "c3a896fa-df97-4c66-9219-d2c597c4c2a0",
+          "completedAt": "2026-11-11T01:57:47.889Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A pessoa recebe um convite, marca que vai participar e organiza a agenda. A empresa enxerga aquela resposta numa lista, mas ainda pretende conferir a disponibilidade antes de confirmar a vaga. Cada lado acredita que uma etapa diferente foi concluída. O desencontro só aparece quando alguém pergunta se está tudo certo para chegar.\n\nConfirmar presença e reservar uma vaga podem significar coisas diferentes conforme o processo do evento. A comunicação precisa explicar essa relação antes de pedir uma ação, sem deixar que o nome de um botão substitua o entendimento sobre o que foi efetivamente combinado.\n\nEm 5 de novembro de 2026, com atualização indicada em 6 de novembro, a Meta anunciou mudanças no Events do WhatsApp, incluindo convites por link e gestão de respostas de presença. O comunicado informa implantação ao longo das semanas seguintes. A notícia não permite presumir disponibilidade imediata para todos nem concluir que responder a um convite garante uma reserva.\n\nPara quem organiza uma demonstração ou um encontro, a questão vem antes do aplicativo: o que muda depois que a pessoa responde e como ela fica sabendo disso?\n\n## Defina o que cada etapa representa\n\nImagine uma pequena empresa que prepara uma demonstração presencial de produtos num espaço com capacidade definida. É um exemplo hipotético. A equipe divulga um convite e recebe manifestações de interesse por um canal digital.\n\nAntes de chamar todas essas pessoas de confirmadas, a organização precisa esclarecer o próprio processo. A resposta já corresponde a uma vaga? Existe uma conferência pendente? Alguém da equipe precisa enviar uma confirmação específica? As respostas devem vir de quem conhece as condições reais do encontro.\n\nNão é necessário criar etapas adicionais apenas para parecer organizado. Se uma ação já conclui a reserva conforme o processo confirmado, a comunicação pode explicar isso diretamente. Se não conclui, a pendência precisa ser compreensível.\n\nEssa definição também ajuda a equipe a trabalhar com a mesma referência. Uma lista chamada confirmados não resolve o problema quando atendimento e produção atribuem sentidos diferentes àquela palavra.\n\n## Faça o convite explicar o compromisso pedido\n\nA pessoa precisa compreender o que está fazendo ao responder. Manifestar interesse, solicitar uma vaga e confirmar uma participação não são expressões intercambiáveis em qualquer situação.\n\nNa empresa hipotética, a chamada deve corresponder ao processo definido. Se ainda houver uma etapa de conferência, o convite não pode sugerir que a vaga estará garantida imediatamente. Se a confirmação for concluída naquela ação, o texto não deve criar uma dúvida sobre um retorno adicional inexistente.\n\nConfira também os lugares por onde o convite circula. Uma peça curta pode remeter a uma referência com as condições pertinentes, mas não deveria fazer uma promessa que essa referência depois precisa desfazer.\n\nA linguagem do canal merece a mesma atenção. Mesmo quando a empresa não controla o rótulo de uma interface, pode conferir como explica o significado da resposta no material que prepara. Não atribua a uma ferramenta uma garantia que a organização não confirmou.\n\n## A resposta recebida precisa ter uma continuidade\n\nDepois de responder, a pessoa deve conseguir reconhecer o estado da sua participação. Uma mensagem de agradecimento pode acolher o contato e ainda deixar em aberto a pergunta mais importante: existe uma vaga confirmada?\n\nNa PME hipotética, o retorno pode esclarecer o que foi registrado e o próximo passo real. Se depender de uma conferência, a equipe precisa saber quem a acompanha. Se a participação já estiver confirmada, a mensagem deve corresponder a essa condição, sem sugerir uma análise que não existe.\n\nNão invente um prazo de resposta para tornar o texto mais confortável. Confira o que a operação consegue assumir e como acompanhará as pendências. Uma confirmação escrita não substitui a disponibilidade que precisa sustentá-la.\n\nTambém evite exigir que o interessado recomece toda a conversa para descobrir o que aconteceu. Uma referência compreensível sobre sua participação ajuda o atendimento a localizar o caso, sem coletar informações pessoais além do necessário.\n\n## Confira o alcance de cada confirmação\n\nUma resposta pode se referir a uma pessoa, enquanto o convite menciona a possibilidade de companhia. Pode indicar interesse numa atividade, enquanto a programação tem momentos com condições diferentes. Essas relações precisam ser conferidas, sem criar regras que não fazem parte do evento.\n\nNa empresa hipotética, se houver acompanhantes ou atividades que peçam confirmação própria, a produção deve definir o que pode anunciar. O atendimento precisa compreender a mesma orientação para não transformar uma resposta individual numa promessa mais ampla.\n\nO objetivo é explicar o alcance da confirmação existente. Não é sugerir políticas de prioridade, cobrança ou cancelamento por conveniência. Cada condição comunicada deve corresponder ao que foi efetivamente organizado.\n\nQuando surgir uma dúvida não prevista, encaminhe a pergunta a quem pode conferir. Uma resposta improvisada pode parecer uma solução rápida e deixar a produção com um compromisso que ela não assumiu.\n\n## Use as listas sem confundir intenção e comparecimento\n\nConvites enviados, respostas recebidas, participações confirmadas e pessoas que compareceram descrevem momentos diferentes. Somar esses registros como se todos representassem a mesma coisa prejudica a leitura do que aconteceu.\n\nNa PME hipotética, uma equipe pode precisar acompanhar quantas manifestações ainda dependem de retorno e quais participações estão confirmadas. Depois do encontro, o comparecimento observado oferece outra informação. Nenhum desses números, sozinho, demonstra o resultado comercial da iniciativa.\n\nDefina quais registros são pertinentes à organização e mantenha apenas o necessário. A equipe deve reconhecer o significado de cada estado, sem transformar o acompanhamento do evento numa coleta indiscriminada de dados.\n\nSe houver uma mudança, confira como ela alcança as pessoas afetadas e quem verifica as dúvidas recebidas. Enviar uma atualização não comprova que todos a leram. A continuidade precisa considerar as informações disponíveis e as possibilidades reais de contato, sem promessas de alcance total.\n\nAntes do próximo convite, percorra a experiência do início ao retorno. A pessoa entende o compromisso pedido? Sabe o que sua resposta confirmou e o que ainda depende da organização? O atendimento consegue explicar a mesma condição que a produção está preparada para cumprir?\n\nUma boa comunicação não transforma todo interesse em reserva nem toda confirmação em comparecimento. Ela torna esses momentos compreensíveis para quem participa e para quem organiza. A experiência da marca começa a se sustentar quando os dois lados conseguem reconhecer o que foi combinado.",
+        "sources": "[Meta, novidades no Events do WhatsApp, 05/11/2026](https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/)\n\nO anúncio indica atualização em 06/11/2026 e implantação nas semanas seguintes. A PME é hipotética. O texto não recomenda uma ferramenta, ensina sua configuração, estabelece políticas do evento ou atribui garantia de reserva a uma resposta de presença.",
+        "prompt": "Natural editorial photograph of one adult venue coordinator opening a single folding chair before a small daytime demonstration, close side view emphasizing the hands checking the chair hinge and the seat becoming ready, a few empty chairs softly out of focus in the background, warm plaster interior and soft neutral daylight preserving natural skin tones, restrained teal accent inspired by #08ffb1 reflected on a small patch of floor beside the chair legs, candid practical action without posed meeting, no papers, laptop, readable text, seat labels or logos --ar 3:2",
+        "imageAlt": "Uma pessoa abre e confere uma cadeira dobrável em um espaço claro, com outras cadeiras desfocadas ao fundo e reflexo teal discreto no chão.",
+        "date": "2026-11-20"
+      },
+      "createdAt": "2026-11-11T14:46:52.937Z",
+      "startedAt": "2026-11-11T20:02:29.880Z",
+      "completedAt": "2026-11-11T20:06:12.196Z"
     }
   ]
 }
