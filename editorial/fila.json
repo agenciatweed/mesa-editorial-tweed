@@ -11305,6 +11305,144 @@
       "createdAt": "2026-11-10T08:38:13.592Z",
       "startedAt": "2026-11-10T13:54:56.467Z",
       "completedAt": "2026-11-10T14:00:49.574Z"
+    },
+    {
+      "id": "c3d43019-7d92-4828-9d2f-7162ac06cd9c",
+      "itemId": "pauta-diaria-2026-11-10",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "5bb804aa62018114d06b8160cb8c41a72f38bc19bd2b75c046bb95c37c8bbae8",
+      "snapshot": "683c7d7ad375084be298dbc3217b3dd34dc18446c54cd804b064098acd62dec8",
+      "input": {
+        "id": "pauta-diaria-2026-11-10",
+        "title": "Uma IA descreveu sua oferta errado. Como a empresa responde?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 09/11/2026: comunicado da Gartner sobre pesquisa com lideranças de marketing aborda monitoramento e correção de informações incorretas sobre marcas em respostas geradas por IA. O levantamento registra práticas declaradas de lideranças, não demonstra eficácia nem representa automaticamente PMEs brasileiras; não repetir percentuais ou transformar correlação em causalidade. Tese própria: ao encontrar uma descrição incorreta da oferta, a empresa precisa separar o erro observado, a informação pública que pode corrigir e a expectativa que deve esclarecer a quem chega por aquela indicação. Exemplo hipotético de prestadora de serviços cuja área de atendimento é ampliada indevidamente numa resposta de IA. Conferir resposta, data e contexto sem expor dados pessoais; verificar a informação oficial pertinente, eventuais fontes citadas e o que está sob controle da empresa; oferecer uma explicação clara ao interessado e acompanhar sem prometer alterar todas as respostas futuras. Não presumir a origem do erro nem garantir que atualizar uma página ou enviar feedback modifique o modelo, elimine inexatidões ou gere recomendações. Sem tutorial técnico de SEO/GEO, recomendação de ferramenta, simulação de depoimentos ou manipulação de resultados. Diferenciar de reputação após recomendação por IA: foco na resposta operacional a uma afirmação factual incorreta. Diferenciar de atualização entre canais próprios: foco no desencontro produzido em ambiente externo que a empresa não controla. Diferenciar de personalização corrigível pelo cliente: aqui o erro é a descrição pública da oferta, não um perfil de preferências.",
+        "audience": "Donos de PMEs e responsáveis por marketing e atendimento que recebem interessados orientados por descrições de serviços ou produtos geradas por IA.",
+        "goal": "De tratar uma descrição errada de IA apenas como problema de visibilidade para conferir os fatos, corrigir referências sob controle da empresa e esclarecer a expectativa do interessado sem prometer controle sobre respostas externas.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-10",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Gartner, Survey Finds 42% of CMOs Are Monitoring Brand Misinformation in AI-Generated Content, 09/11/2026",
+              "url": "https://www.gartner.com/en/newsroom/press-releases/2026-11-09-gartner-survey-finds-42-percent-of-cmos-are-monitoring-brand-misinformation-in-ai-generated-content",
+              "publishedAt": "2026-11-09"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "070738e1-54eb-43f5-93de-985afe82f609",
+          "completedAt": "2026-11-10T14:00:49.047Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Uma pessoa chega pedindo um serviço numa cidade que a empresa não atende. Diz que conferiu a informação com um assistente de IA e mostra uma resposta bastante segura. O atendimento reconhece o nome da empresa, mas a área de cobertura descrita não corresponde à oferta real. A primeira conversa já começa com uma expectativa que precisa ser esclarecida.\n\nUma descrição errada feita por IA coloca duas tarefas diante da empresa: conferir a informação apresentada e cuidar de quem chegou por ela. É possível investigar referências e corrigir materiais próprios. Não é possível presumir que a marca controla o que todos os sistemas externos dirão depois.\n\nEm comunicado de 9 de novembro de 2026, a Gartner apresentou uma pesquisa com lideranças de marketing que aborda o monitoramento e a correção de informações incorretas sobre marcas em conteúdo gerado por IA. São práticas declaradas pelas pessoas pesquisadas, sem comprovação de eficácia para qualquer empresa nem representação automática das pequenas empresas brasileiras.\n\nA questão prática não depende de adotar uma ferramenta nova. Começa por saber o que está errado, o que pode ser conferido e quem consegue esclarecer a situação.\n\n## Confira o erro antes de tentar explicar sua origem\n\nImagine uma pequena prestadora de manutenção que atende uma região delimitada. É um exemplo hipotético. Um interessado afirma ter recebido uma indicação de atendimento em outra cidade e pergunta quando a equipe poderá ir até lá.\n\nAntes de atribuir o erro a uma página antiga ou à falta de atualização de um sistema, confira o que foi efetivamente apresentado. A descrição se refere à empresa certa? A resposta afirma cobertura naquela cidade ou a pessoa interpretou uma lista de exemplos como área atendida?\n\nSe houver uma referência disponível, examine o trecho pertinente e o contexto. Uma frase isolada pode esconder uma condição ou misturar informações de negócios com nomes parecidos. Também pode conter uma afirmação incorreta sem indicar de onde veio.\n\nRegistre apenas o necessário para acompanhar a conferência, como a afirmação observada, a data e a referência pública pertinente. Não cole toda a conversa do interessado num material de trabalho por conveniência. Uma revisão factual não exige acumular informações pessoais que não ajudam a esclarecer a oferta.\n\n## Separe a referência oficial das hipóteses sobre a resposta\n\nNa prestadora hipotética, o atendimento precisa localizar a descrição atual da área atendida e confirmar essa informação com quem responde pela operação. A memória de uma pessoa ou uma campanha antiga não deve substituir essa conferência.\n\nCompare a informação confirmada com os materiais públicos sob controle da empresa. O site explica a cobertura? Uma página de serviço usa uma expressão ampla que pode gerar outra leitura? Existe um conteúdo antigo ainda disponível que afirma uma condição diferente?\n\nEssas perguntas ajudam a encontrar problemas próprios, sem comprovar como a resposta externa foi produzida. Mesmo que uma página incorreta apareça entre as fontes citadas, não é adequado concluir, sem mais evidências, que ela explica sozinha toda a resposta.\n\nA investigação precisa preservar essa diferença. Uma inconsistência encontrada no site pode ser corrigida porque está errada e prejudica o entendimento. Não é necessário prometer que sua correção fará um assistente deixar de repetir a afirmação.\n\n## Corrija o que está sob responsabilidade da empresa\n\nSe a informação oficial estiver ambígua ou desatualizada, defina quem pode corrigi-la e quais materiais pertinentes precisam acompanhar o ajuste. A decisão deve partir da operação real, sem ampliar a oferta apenas para coincidir com a indicação recebida.\n\nNa empresa hipotética, uma explicação sobre a região atendida pode precisar de mais precisão. O mesmo cuidado vale para descrições da atividade que circulam em canais administrados pela equipe. A referência atual deve permitir que uma pessoa interessada consiga conferir a condição relevante.\n\nQuando a informação estiver num ambiente de terceiros, verifique as possibilidades disponíveis para solicitar uma correção ou comunicar uma inexatidão. Não anuncie uma alteração antes de ela ser confirmada nem trate o envio de uma solicitação como garantia de atendimento.\n\nAtualizar uma página própria, apontar uma fonte ou enviar um relato de erro são ações diferentes. Nenhuma delas, isoladamente, comprova que todas as versões de uma resposta externa foram modificadas.\n\n## A pessoa que chegou precisa de uma resposta agora\n\nEnquanto a apuração ocorre, existe uma conversa comercial em andamento. O interessado não precisa conhecer todos os detalhes da investigação para compreender se a empresa pode atendê-lo.\n\nNa prestadora hipotética, a equipe pode esclarecer a condição confirmada, indicar a referência oficial e reconhecer a diferença em relação à descrição apresentada. A explicação deve ajudar a avaliar o próximo passo, sem transformar a pessoa em culpada por ter usado um assistente.\n\nSe houver uma dúvida que ainda depende de conferência, organize um retorno possível. Não invente uma alternativa de atendimento, uma parceria ou uma exceção comercial para encerrar o assunto com uma frase acolhedora.\n\nTambém evite discutir a confiabilidade de toda uma tecnologia quando o problema concreto é uma informação sobre a oferta. O cuidado com a marca aparece na precisão da resposta e no respeito à situação de quem tentou se informar.\n\n## Acompanhe o caso sem transformar uma amostra em diagnóstico\n\nDepois de corrigir o que era pertinente, registre quais ações foram realizadas e quais dependem de terceiros. Isso permite que outro integrante do atendimento reconheça a situação caso ela reapareça.\n\nUma nova consulta pode oferecer uma observação adicional, mas não demonstra o comportamento de todos os usuários, sistemas ou momentos. Uma resposta correta não prova que o problema desapareceu; uma resposta errada também não prova que nada foi corrigido nas referências próprias.\n\nObserve os pedidos que realmente chegam, preservando a privacidade dos interessados. Quando a mesma dúvida reaparecer, confira se há um padrão útil para revisar a explicação pública ou orientar o atendimento. Não transforme relatos isolados em números sobre todo o mercado.\n\nUma indicação imprecisa pode exigir conteúdo, acompanhamento ou apenas uma explicação pontual. O importante é reconhecer o alcance de cada medida. A empresa sustenta melhor sua oferta quando mantém referências verificáveis e sabe esclarecer o desencontro, sem prometer um controle que não tem sobre as respostas de ambientes externos.",
+        "sources": "[Gartner, monitoramento de informações incorretas sobre marcas em conteúdo gerado por IA, 09/11/2026](https://www.gartner.com/en/newsroom/press-releases/2026-11-09-gartner-survey-finds-42-percent-of-cmos-are-monitoring-brand-misinformation-in-ai-generated-content)\n\nO comunicado relata práticas declaradas de lideranças de marketing, sem demonstrar eficácia universal nem representar automaticamente PMEs brasileiras. A prestadora é hipotética. Corrigir referências próprias ou solicitar uma correção não garante mudar respostas de sistemas externos.",
+        "prompt": "Natural editorial photograph of two adults outside the open doorway of a small unbranded maintenance workshop, a technician gently indicating the actual work area while a visitor holding a phone listens and turns toward the entrance, candid practical clarification rather than a formal meeting, medium wide environmental view with simple workshop equipment visible inside, overcast soft daylight with natural skin tones and a restrained teal light accent inspired by #08ffb1 along the inner door jamb, neutral concrete and warm wood textures, no papers, laptop, readable screen text, signs or logos --ar 3:2",
+        "imageAlt": "Uma pessoa da oficina indica a área de trabalho a uma visitante que segura um celular junto à entrada, com luz teal discreta no batente.",
+        "date": "2026-11-18"
+      },
+      "createdAt": "2026-11-10T20:56:28.980Z",
+      "startedAt": "2026-11-11T01:56:03.471Z",
+      "completedAt": "2026-11-11T01:57:47.538Z"
+    },
+    {
+      "id": "80a61b98-af7d-4ff0-be93-ca4d486f2b22",
+      "itemId": "pauta-reposicao-2026-11-09-d43b61e8ee5b",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "807d93f31a9b28ca45eaaaa286aa7e652985af0ab0a94797b760240cd61a8279",
+      "snapshot": "2a758b1e158c6814989162cd8ef4541ca6d45ba23e7417b13c378c0d6ce6b9a6",
+      "input": {
+        "id": "pauta-reposicao-2026-11-09-d43b61e8ee5b",
+        "title": "Sua marca usa os códigos do setor ou desaparece dentro deles?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 09/11/2026: a zerothird publicou um relato sobre naming e identidade visual desenvolvidos com a OH-SO Digital, destacando a decisão de evitar convenções visuais recorrentes de seu setor. A identidade foi introduzida em 2025; não apresentar como lançamento de 2026. O anúncio de premiação é declaração da empresa, não prova de lembrança, eficácia comercial ou superioridade técnica. Tese própria: reconhecer a categoria e reconhecer uma empresa específica são problemas diferentes; reproduzir todos os sinais habituais do setor pode tornar marcas intercambiáveis. Exemplo hipotético de pequena empresa de serviços industriais que compara as próprias peças em contextos de uso, distingue informações necessárias à compreensão da atividade de soluções gráficas adotadas apenas por hábito e escolhe o que sustentar de modo consistente. Considerar a clareza para o público, sem recomendar novidade por novidade ou romper sinais úteis sem avaliação. Não copiar a identidade citada, interpretar segurança quântica, recomendar investimento ou prometer reconhecimento e vendas. Diferenciar de naming de produto: foco nos códigos gráficos compartilhados pela categoria, não na escolha do nome. Diferenciar de tendências de textura e de arquétipos da concorrência: foco em escolhas visuais próprias no conjunto competitivo, não em previsão estética ou diagnóstico de personalidade.",
+        "audience": "Donos de PMEs e responsáveis por branding e design que percebem semelhança entre a comunicação visual da empresa e a de seus concorrentes.",
+        "goal": "De seguir convenções visuais do setor por hábito para distinguir quais ajudam a compreender a atividade e quais apagam os sinais próprios da marca.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-09",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "zerothird, Wins Red Dot 2026 for Brand Naming and Corporate Design, 09/11/2026",
+              "url": "https://www.zerothird.com/news/zerothird-wins-red-dot-2026-for-brand-naming-and-corporate-design",
+              "publishedAt": "2026-11-09"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "df15c5e1-e268-462b-9f23-15a0db5093c8",
+          "completedAt": "2026-11-10T14:00:49.265Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A apresentação da empresa usa fundo azul, linhas que sugerem movimento e uma fotografia de equipamento. A do concorrente também. Na comparação, as duas parecem falar a língua do setor, mas quase nada ajuda a perceber quem está falando. O familiar ocupou o lugar do particular.\n\nOs códigos visuais do setor podem ajudar a situar uma atividade. O problema aparece quando viram uma resposta automática para todas as decisões de identidade. Reconhecer uma categoria e reconhecer uma empresa específica são tarefas relacionadas, mas não equivalentes.\n\nEm publicação de 9 de novembro de 2026, a zerothird relatou o trabalho de naming e identidade visual desenvolvido com a OH-SO Digital. A empresa destacou a intenção de evitar convenções recorrentes de seu mercado. A identidade havia sido introduzida em 2025; o relato recente não representa um novo lançamento.\n\nO comunicado também anuncia uma premiação. Esse reconhecimento declarado pela empresa não comprova lembrança de marca ou resultado comercial. A pergunta útil para uma PME é quais sinais do seu setor ajudam a compreender a atividade e quais apenas fazem sua comunicação parecer igual à dos outros.\n\n## Descubra o que realmente informa a atividade\n\nImagine uma pequena empresa de serviços industriais que prepara materiais comerciais para apresentar seu trabalho. É um exemplo hipotético. A equipe reúne referências de concorrentes e encontra repetidamente as mesmas cores, imagens e formas gráficas.\n\nAlguns elementos podem ser úteis porque mostram uma situação de aplicação ou um equipamento pertinente. Outros estão ali apenas porque se tornaram habituais naquele repertório. A análise começa por separar essas funções.\n\nUma fotografia de uma atividade real e autorizada pode explicar melhor o serviço. Um efeito luminoso abstrato pode sugerir tecnologia sem esclarecer o que a empresa faz. Nenhum recurso deve ser aprovado ou descartado apenas pela categoria a que costuma ser associado.\n\nPara cada escolha importante, pergunte qual informação ela oferece e que relação tem com a proposta. Se a justificativa termina em “todo mundo usa”, ainda falta uma decisão da própria marca.\n\n## Compare o conjunto em situações de uso\n\nUma peça isolada pode parecer bem resolvida. Ao lado de apresentações semelhantes, talvez fique evidente que a empresa depende quase inteiramente do logotipo para ser identificada.\n\nNa PME hipotética, a equipe pode comparar materiais públicos de concorrentes nas situações pertinentes, sem copiar seus elementos ou transformar a referência em modelo a reproduzir. O objetivo é perceber repetições e compreender como a própria comunicação ocupa aquele contexto.\n\nTambém observe seus materiais em conjunto. Há uma relação entre a apresentação comercial, a página de serviço e uma peça de divulgação? Uma escolha que aparece só no lançamento e desaparece nas aplicações seguintes ainda não constitui uma referência consistente.\n\nEssa comparação é uma leitura de projeto, não uma pesquisa que representa todo o mercado. Ela permite formular perguntas mais concretas: quais elementos são reconhecíveis, o que parece intercambiável e onde falta informação sobre a empresa?\n\n## Procure diferenças que tenham relação com a proposta\n\nA resposta não precisa ser uma cor que ninguém do setor usa. Diferenciar por uma decisão aleatória pode chamar atenção e continuar sem ajudar a compreender a marca.\n\nNa empresa hipotética, o modo como o serviço é explicado pode orientar a organização visual. Se a apresentação precisa tornar etapas compreensíveis, uma hierarquia clara e uma maneira própria de mostrar o processo podem participar da expressão da marca.\n\nA escolha precisa corresponder ao que existe. Não adianta construir uma linguagem de precisão para encobrir uma oferta que ninguém consegue delimitar. A identidade visual deve trabalhar com informações confirmadas, em vez de acrescentar uma personalidade gráfica a uma promessa indefinida.\n\nBusque uma relação que a equipe consiga explicar e aplicar. Pode estar no uso de imagens, na composição, numa forma recorrente ou na maneira de relacionar elementos. O importante é que tenha uma função no sistema e uma razão para pertencer àquela empresa.\n\n## Mantenha pistas úteis para quem está chegando\n\nQuestionar convenções não significa apagar toda referência à atividade. Uma pessoa que vê a marca pela primeira vez ainda precisa entender o que está sendo oferecido e se aquilo tem relação com sua necessidade.\n\nNa PME hipotética, uma escolha visual mais própria pode conviver com uma descrição direta do serviço e imagens pertinentes. Não é necessário que cada elemento faça todas as tarefas sozinho.\n\nConfira a leitura sem começar pela justificativa criativa. O material situa a atividade? Permite localizar a informação importante? A diferença gráfica ajuda a reconhecer uma lógica ou apenas exige decifrar um efeito?\n\nQuando uma observação indicar confusão, investigue onde ela aparece. O problema pode estar na hierarquia, na descrição da oferta ou numa imagem que sugere outra atividade. Voltar a uma convenção conhecida por impulso não é a única resposta possível, assim como insistir na novidade não resolve toda dificuldade.\n\n## Faça a escolha sobreviver às próximas peças\n\nUma característica própria perde utilidade se cada aplicação a reinventa sem critério. A equipe precisa saber o que permanece e onde existe liberdade para variar.\n\nNa empresa hipotética, vale reunir usos aprovados em formatos diferentes e registrar brevemente o papel das principais escolhas. Uma composição pode variar para acomodar conteúdo, enquanto determinadas relações de forma e hierarquia continuam reconhecíveis.\n\nRegistre também o que não deve ser reproduzido. Um efeito acrescentado por um fornecedor pode aproximar a peça justamente do repertório genérico que a empresa decidiu questionar. A referência precisa orientar quem cria e quem aprova, sem depender da memória de uma única pessoa.\n\nEsses critérios não garantem reconhecimento do público. Servem para sustentar decisões consistentes e tornar a revisão menos dependente de preferências isoladas. A avaliação deve continuar nas aplicações reais, com atenção às dúvidas e às interpretações observadas.\n\nNo próximo material, escolha um elemento recorrente e explique por que ele está ali. Se ajuda a situar a atividade, preserve sua função. Se expressa uma decisão própria, confira como ela se mantém no conjunto. Se apenas repete o setor por hábito, existe uma oportunidade de projeto. Uma marca pode continuar compreensível sem se tornar intercambiável.",
+        "sources": "[zerothird, relato sobre naming e identidade visual com OH-SO Digital, 09/11/2026](https://www.zerothird.com/news/zerothird-wins-red-dot-2026-for-brand-naming-and-corporate-design)\n\nA identidade foi introduzida em 2025. O relato e a premiação são apresentados pela própria empresa e não comprovam lembrança ou eficácia comercial. A PME de serviços industriais é hipotética; as propostas de análise não recomendam copiar a identidade citada.",
+        "prompt": "Conceptual editorial photograph without people, a row of five unbranded metal watering cans hanging individually from simple hooks on a pale plaster garden shed wall, all clearly functional watering cans in the same muted pewter finish, one can has a distinctive broad asymmetrical loop handle and a softly ribbed body while preserving the recognizable spout and opening, wide quiet composition with generous breathing room, tactile everyday objects rather than a product sample display, soft neutral daylight and a faint teal accent inspired by #08ffb1 reflected along the lower wall edge, no cubes, prisms, labyrinth, light beams, readable text or logos --ar 3:2",
+        "imageAlt": "Cinco regadores de metal estão pendurados numa parede clara; um deles tem alça assimétrica e corpo com relevos, com reflexo teal suave na base.",
+        "date": "2026-11-19"
+      },
+      "createdAt": "2026-11-10T20:56:32.943Z",
+      "startedAt": "2026-11-11T01:56:03.590Z",
+      "completedAt": "2026-11-11T01:57:47.757Z"
+    },
+    {
+      "id": "c3a896fa-df97-4c66-9219-d2c597c4c2a0",
+      "itemId": "pauta-reposicao-2026-11-10-76f224c1dec5",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "b5bcccaf4bd4ef9d9930a641191b4ef707989ff8cee722922565fe3ae976fb12",
+      "snapshot": "1dffc761b3bf19e094fce6e6c4b4a6db0967e9078b82948fbdac742734b6ab49",
+      "input": {
+        "id": "pauta-reposicao-2026-11-10-76f224c1dec5",
+        "title": "No seu evento, confirmar presença é o mesmo que reservar uma vaga?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 05/11/2026, com atualização indicada em 06/11: a Meta anunciou mudanças no Events do WhatsApp, incluindo convites por link e gestão de respostas de presença. O comunicado informa implantação ao longo das semanas seguintes; não presumir disponibilidade imediata para todos, ensinar configuração nem recomendar o aplicativo. Tese própria: responder que pretende comparecer, receber uma confirmação da organização e ter uma vaga reservada podem representar estados diferentes; a comunicação do evento precisa explicar o que cada ação realmente significa segundo o processo confirmado. Exemplo hipotético de pequena empresa que organiza uma demonstração presencial com capacidade definida e confere como convite, resposta do interessado e retorno da equipe se relacionam. Não inventar políticas de lotação, prioridades, cobranças, cancelamentos ou requisitos legais, nem afirmar que uma resposta de presença numa plataforma garante reserva ou comparecimento. Explicar o próximo passo e as pendências reais com informação pertinente e sem coleta desnecessária de dados pessoais. Diferenciar de divulgação de acessibilidade: foco no significado operacional da confirmação e da vaga, não nos recursos de participação. Diferenciar de acesso a reunião online: foco nos estados do convite para um encontro presencial, não em instalar um aplicativo. Diferenciar de mensagem automática: foco na expectativa específica de participação criada pela confirmação, não no estado geral de uma solicitação.",
+        "audience": "Donos de PMEs e equipes de marketing, atendimento e produção que organizam demonstrações, oficinas e encontros presenciais com confirmação de participação.",
+        "goal": "De tratar todas as respostas ao convite como uma única lista de confirmados para explicar o que significa manifestar interesse, receber confirmação e ter uma vaga, conforme o processo real do evento.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-10",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, WhatsApp Events Brings People Together Beyond the Group Chat, 05/11/2026",
+              "url": "https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-10T20:56:42.654Z",
+      "startedAt": "2026-11-11T01:56:03.707Z",
+      "completedAt": "2026-11-11T01:57:47.990Z"
     }
   ]
 }
