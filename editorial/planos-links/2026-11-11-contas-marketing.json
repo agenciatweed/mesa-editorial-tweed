@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "contas-marketing-acessos-continuidade",
+  "contentSha256": "15d1615e843bbdc41f1fa14b853125565c4484b7680953209ec6a45e5f2eacf8",
+  "modifiedAt": "2026-11-11",
+  "links": [
+    {
+      "from": "contas-marketing-acessos-continuidade",
+      "to": "resumo-reuniao-decisoes-pendencias",
+      "anchor": "os responsáveis confirmados e as pendências pertinentes",
+      "context": "Na PME hipotética, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.",
+      "reason": "Aprofunda o registro da passagem de trabalho, distinguindo responsabilidades e decisões confirmadas das pendências."
+    }
+  ]
+}

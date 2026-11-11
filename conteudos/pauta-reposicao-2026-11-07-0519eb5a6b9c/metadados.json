@@ -6,11 +6,16 @@
   "angle": "Gancho primário de 06/11/2026: a atualização oficial do Google Analytics anunciou Data Manager em beta para organizar conexões e acompanhar sua condição. Usar apenas como contexto de dependências entre ativos digitais; a novidade não é apresentada como ferramenta de transferência de contas nem prova de segurança. Tese editorial própria: a continuidade do marketing exige que a empresa saiba identificar seus ativos, os responsáveis e os acessos administrativos adequados antes de uma troca de parceiro, sem confundir executar o trabalho com concentrar todo o acesso. Exemplo hipotético de PME que prepara uma passagem de trabalho com lista dos ativos pertinentes, responsáveis confirmados e pendências, preservando acessos legítimos e informações privadas. Não solicitar, publicar ou recomendar compartilhar senhas; não ensinar recuperação, remoção de usuários ou contorno de autenticação; configurações específicas e disputas dependem das regras e acordos aplicáveis. Diferenciar de manutenção de apresentação: foco na continuidade das contas e serviços de marketing, não em editar arquivos. Diferenciar de centralização de fornecedores: foco em transição e responsabilidade por acesso, não em escolher agência.",
   "audience": "Donos de PMEs e responsáveis por marketing que contratam parceiros para site, mídia, métricas e presença digital.",
   "goal": "De descobrir dependências de acesso só na troca de fornecedor para manter uma referência confirmada de ativos e responsáveis que permita planejar a continuidade do trabalho.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -46,5 +51,19 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
   "faq": "O que registrar para manter as contas de marketing acessíveis?\nIdentifique os ativos em uso, os responsáveis confirmados e as pendências pertinentes, sem incluir senhas na referência de trabalho.\n\nQuem executa o trabalho também decide sobre os acessos?\nNão necessariamente. Confirme os papéis operacionais e administrativos conforme as condições reais e os acordos existentes.\n\nUma lista de ativos comprova que a transferência foi concluída?\nNão. Procedimentos, autorizações ou acordos ainda pendentes precisam permanecer identificados e ser tratados pelos canais adequados.",
-  "url": "https://www.agenciatweed.com.br/contas-marketing-acessos-continuidade/"
+  "url": "https://www.agenciatweed.com.br/contas-marketing-acessos-continuidade/",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/contas-marketing-acessos-continuidade/",
+    "publishedAt": "2026-11-11T08:03:46.054344+00:00",
+    "job": "32f7d20a-84e5-4076-9b9d-e893d4f5a1ea",
+    "files": [
+      "assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
+      "contas-marketing-acessos-continuidade/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

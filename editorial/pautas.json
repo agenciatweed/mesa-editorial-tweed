@@ -11,11 +11,16 @@
       "angle": "Gancho primário de 06/11/2026: a atualização oficial do Google Analytics anunciou Data Manager em beta para organizar conexões e acompanhar sua condição. Usar apenas como contexto de dependências entre ativos digitais; a novidade não é apresentada como ferramenta de transferência de contas nem prova de segurança. Tese editorial própria: a continuidade do marketing exige que a empresa saiba identificar seus ativos, os responsáveis e os acessos administrativos adequados antes de uma troca de parceiro, sem confundir executar o trabalho com concentrar todo o acesso. Exemplo hipotético de PME que prepara uma passagem de trabalho com lista dos ativos pertinentes, responsáveis confirmados e pendências, preservando acessos legítimos e informações privadas. Não solicitar, publicar ou recomendar compartilhar senhas; não ensinar recuperação, remoção de usuários ou contorno de autenticação; configurações específicas e disputas dependem das regras e acordos aplicáveis. Diferenciar de manutenção de apresentação: foco na continuidade das contas e serviços de marketing, não em editar arquivos. Diferenciar de centralização de fornecedores: foco em transição e responsabilidade por acesso, não em escolher agência.",
       "audience": "Donos de PMEs e responsáveis por marketing que contratam parceiros para site, mídia, métricas e presença digital.",
       "goal": "De descobrir dependências de acesso só na troca de fornecedor para manter uma referência confirmada de ativos e responsáveis que permita planejar a continuidade do trabalho.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -51,7 +56,21 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
       "faq": "O que registrar para manter as contas de marketing acessíveis?\nIdentifique os ativos em uso, os responsáveis confirmados e as pendências pertinentes, sem incluir senhas na referência de trabalho.\n\nQuem executa o trabalho também decide sobre os acessos?\nNão necessariamente. Confirme os papéis operacionais e administrativos conforme as condições reais e os acordos existentes.\n\nUma lista de ativos comprova que a transferência foi concluída?\nNão. Procedimentos, autorizações ou acordos ainda pendentes precisam permanecer identificados e ser tratados pelos canais adequados.",
-      "url": "https://www.agenciatweed.com.br/contas-marketing-acessos-continuidade/"
+      "url": "https://www.agenciatweed.com.br/contas-marketing-acessos-continuidade/",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/contas-marketing-acessos-continuidade/",
+        "publishedAt": "2026-11-11T08:03:46.054344+00:00",
+        "job": "32f7d20a-84e5-4076-9b9d-e893d4f5a1ea",
+        "files": [
+          "assets/artigos-editoriais/e6ba6634a0b8d89aa88bfa4c5e1d705909229453a38add4ade7cc2a4d96612b7.png",
+          "contas-marketing-acessos-continuidade/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-11-07-1ef645fa20fc",
@@ -4562,6 +4581,33 @@
           {
             "title": "Adobe, Agentic AI to the Content Supply Chain with CX Enterprise Coworker, 10/11/2026",
             "url": "https://news.adobe.com/news/2026/11/adobe-agentic-ai-content-supply-chain",
+            "publishedAt": "2026-11-10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pauta-diaria-2026-11-11",
+      "title": "O protótipo do seu site mostra o que ainda precisa ser construído?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário de 10/11/2026: a Adobe apresentou Firefly Builder em beta privado como uma prévia de recursos para criar protótipos interativos de sites, apresentações e aplicativos. Não apresentar como disponibilidade geral nem como garantia de uma solução pronta para operar. Tese própria: conseguir navegar por uma simulação não comprova que os serviços representados já funcionam; a aprovação de um protótipo precisa distinguir o que está sendo avaliado e o que ainda depende de construção e conferência. Exemplo hipotético de PME de serviços que avalia um protótipo com pedido de agendamento: mostrar um caminho de navegação não equivale a confirmar disponibilidade real ou encaminhar uma solicitação ao atendimento. Explicar quais partes são demonstração, quais decisões podem ser discutidas naquela etapa e quem esclarece as dependências, sem tutorial técnico, recomendação de ferramenta, promessa de integração, coleta desnecessária de dados reais ou aconselhamento contratual. Não afirmar que todo protótipo é incompleto ou que toda simulação depende da mesma arquitetura. Diferenciar de demonstração de produto: foco no que um protótipo comunica durante o projeto de um site, não no conteúdo de venda de uma solução existente. Diferenciar de redesign e usabilidade: foco no estado de implementação representado, não em reaprendizado de uma interface. Diferenciar de peça aprovada versus veiculada: foco no alcance da avaliação de uma simulação antes da construção, não na correspondência entre arquivo final e material publicado.",
+      "audience": "Donos de PMEs e responsáveis por marketing que avaliam e aprovam protótipos de sites com parceiros de criação e desenvolvimento.",
+      "goal": "De tomar uma navegação convincente como prova de um site operacional para compreender quais decisões o protótipo permite avaliar e o que ainda precisa ser construído e conferido.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-11",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Adobe, novidades no Creative Cloud e Firefly Builder em beta privado, 10/11/2026",
+            "url": "https://news.adobe.com/news/2026/11/adobe-transforms-creative-cloud-tools",
             "publishedAt": "2026-11-10"
           }
         ]
