@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-12-ab69d3c1c808",
+  "title": "Seu logotipo funciona no tamanho em que o cliente encontra a marca?",
+  "edition": 2,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado: as diretrizes públicas da Coder exibem a data de 11/11/2026 e distinguem o logotipo principal de uma versão compacta para restrições de espaço, incluindo favicon e avatares sociais. Tratar a data como a data declarada das diretrizes, sem inventar data de lançamento de uma identidade ou resultados. As regras descrevem aquela marca e não devem ser copiadas como norma universal. Tese própria: aprovar o logotipo ampliado numa apresentação não demonstra que ele será legível e reconhecível nos pequenos espaços em que o público realmente o encontra. Exemplo hipotético de uma PME de manutenção cujo nome horizontal se perde no avatar circular e no ícone da aba do navegador. Comparar a aplicação no tamanho real e no contexto de uso, observando recorte, espaço livre, contraste e a identificação complementar pelo nome do perfil. Se houver uma versão compacta aprovada, conferir sua adequação; se não houver, encaminhar a necessidade ao responsável pelo sistema visual em vez de inventar um símbolo, cortar letras ou deformar o desenho. Não recomendar redesign apenas porque uma aplicação falhou. Não oferecer medidas mínimas universais, prometer reconhecimento ou certificar acessibilidade a partir de uma inspeção visual. Diferenciar do artigo sobre clareza da marca além da beleza do logotipo: foco específico na reprodução e identificação em formatos pequenos. Diferenciar de códigos visuais do setor: foco na adequação da versão ao suporte, não na diferenciação entre concorrentes. Diferenciar de peça aprovada versus veiculada: a questão é uma limitação prevista de aplicação do próprio sistema, não a escolha de um arquivo de campanha desatualizado. Não aplicar fontes, cores, instruções ou ativos da Coder ao site da Tweed.",
+  "audience": "Donos de PMEs e profissionais de marketing e design que precisam aplicar a identidade da empresa em avatares, ícones de navegador e outros espaços pequenos.",
+  "goal": "De julgar o logotipo apenas ampliado para conferir versões aprovadas em aplicações reais e identificar quando a limitação exige uma decisão de design, preservando a coerência da marca.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-12",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Coder, Visual identity guidelines, data declarada de 11/11/2026",
+        "url": "https://coder.com/brand",
+        "publishedAt": "2026-11-11"
+      }
+    ]
+  }
+}

@@ -11746,6 +11746,232 @@
       },
       "createdAt": "2026-11-10T08:39:39.517Z",
       "completedAt": "2026-11-12T08:00:49.242570+00:00"
+    },
+    {
+      "id": "a0427225-e7fe-4421-8ffc-4044e59e0b81",
+      "itemId": "pauta-diaria-2026-11-12",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "a5e3fc72f4d95b84ee87d7d99614b6b6bc065d1d74912d797934b2bb9bc6fed5",
+      "snapshot": "fa60022616476ba0bc4f1149b73ea8b0c49ddcee8bc92517dc38358a9ec78d4d",
+      "input": {
+        "id": "pauta-diaria-2026-11-12",
+        "title": "Sua nova oferta precisa mesmo de outra marca?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho verificado: reportagem de 10/11/2026 do Abduzeedo apresenta o sistema de submarcas Pets desenvolvido pela HOW+HOW. O estudo primário da agência confirma identidades distintas e conectadas para Pets Insurance, Pet Pals e Pets Foundation: https://how.studio/work/pets. A página primária não declara data de publicação; 10/11 é a data da reportagem, não uma data comprovada de criação ou lançamento do projeto. Não repetir números promocionais, atribuir crescimento ao design ou transferir a escala desse grupo para uma PME. Tese própria: lançar uma oferta não exige automaticamente criar uma marca independente; a decisão precisa considerar a relação que o público deve reconhecer e a capacidade de sustentar cada identidade. Exemplo hipotético de consultoria que passa a oferecer cursos: avaliar se basta descrever a oferta sob a marca existente, se uma linha identificada e vinculada ajuda ou se existe uma razão estratégica para uma identidade separada. Examinar diferenças reais de público, promessa, percurso comercial e manutenção de materiais, evitando prescrever uma arquitetura universal. Mostrar o custo de atenção e trabalho envolvido em manter nomes, apresentações, canais e respostas coerentes, sem inventar valores ou afirmar que mais marcas necessariamente confundem. Diferenciar da pauta sobre nome de produto: o foco é a relação entre identidades e a necessidade de separá-las, não escolher um nome que explique a função. Diferenciar de crescer sem perder propósito: o foco é organizar o portfólio de ofertas e sustentar a arquitetura escolhida, não revisar os valores da empresa. Não confundir parentesco visual com identidade jurídica, não aconselhar registro de marca e não afirmar que a empresa hipotética precisa reproduzir a solução de Pets.",
+        "audience": "Sócios e gestores de PMEs que estão lançando cursos, serviços ou linhas de produtos e precisam decidir como apresentar a novidade em relação à marca existente.",
+        "goal": "De encomendar um novo logotipo para cada lançamento para decidir primeiro que relação o público deve reconhecer entre as ofertas e que sistema a equipe consegue manter com clareza.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-12",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Abduzeedo, Brand Identity: Connected Pets Sub-Brands by HOW+HOW, 10/11/2026",
+              "url": "https://abduzeedo.com/brand-identity-connected-pets-sub-brands-howhow",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-12T13:09:14.383Z",
+      "startedAt": "2026-11-12T13:59:42.855Z",
+      "completedAt": "2026-11-12T14:02:00.887Z"
+    },
+    {
+      "id": "11d201dc-73ed-4246-be45-9e6f59823606",
+      "itemId": "pauta-reposicao-2026-11-11-0f0451033c1a",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "63c9f3e417ab32190fff05d368bd974c9dde82dce10cf2e05862a3fed928573b",
+      "snapshot": "9ebe7e425fa145259fbbad4ddc8160998ad5a17693ebcee16279a7f7bea29a88",
+      "input": {
+        "id": "pauta-reposicao-2026-11-11-0f0451033c1a",
+        "title": "O que pode ser surpresa no produto que sua marca vende?",
+        "edition": 5,
+        "expert": "Mauro",
+        "angle": "Gancho primário de 09/11/2026: a Starbucks anunciou uma coleção de copos Bearista em caixas surpresa, com um de cinco personagens, prevista para chegar a cafeterias selecionadas em 10/11. Usar apenas esse mecanismo confirmado como ponto de partida, sem afirmar disponibilidade no Brasil, sucesso comercial, satisfação, probabilidades ou resultados da ação. Tese própria: a descoberta pode fazer parte da proposta, mas a pessoa precisa compreender antes da compra quais características são conhecidas e qual parte permanece surpresa. Desenvolver um exemplo hipotético de pequena papelaria que vende um conjunto com quantidade e tipos de itens definidos, enquanto a ilustração varia. Examinar se fotos, nome da oferta, descrição e atendimento permitem distinguir um exemplo visual da versão que será recebida; esclarecer o que o cliente pode escolher e o que não pode, sem inventar condições. Não transformar compatibilidade, características necessárias ao uso ou informações essenciais numa surpresa. Não ensinar mecânicas de recompensa, estimular compras repetidas para perseguir uma versão rara, usar crianças como público, inventar regras de troca nem oferecer interpretação jurídica. Se não houver clareza sobre o conteúdo vendido, a revisão deve começar pela oferta, não por uma chamada mais persuasiva. Diferenciar do artigo sobre encantamento: aqui a surpresa é parte conhecida da compra, não um gesto adicional inesperado de atendimento. Diferenciar de embalagem para distinguir versões: aqui a pessoa aceita não escolher a variante, desde que entenda o alcance dessa incerteza. Não presumir que o formato seja adequado para toda PME nem atribuir à Starbucks uma falha que a fonte não demonstra.",
+        "audience": "Donos de PMEs e equipes de marca, produto e conteúdo que avaliam kits, edições variadas ou ofertas com algum elemento surpresa para público adulto.",
+        "goal": "De tratar a surpresa como justificativa para omitir detalhes para conferir se a pessoa entende a composição conhecida, o elemento variável e os limites reais de escolha antes de comprar.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-11",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Starbucks, anúncio da coleção Bearista Glass Cold Cup Surprise Box, 09/11/2026",
+              "url": "https://about.starbucks.com/press/2026/starbucks-launches-new-bearista-glass-cold-cup-surprise-box-collection-with-characters-including-rare-golden-bearista/",
+              "publishedAt": "2026-11-09"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-12T13:09:18.070Z",
+      "startedAt": "2026-11-12T13:59:42.984Z",
+      "completedAt": "2026-11-12T14:03:31.338Z"
+    },
+    {
+      "id": "b8d947c0-240d-49cf-82cd-45524b21d5bd",
+      "itemId": "pauta-reposicao-2026-11-10-8fc510c20ee2",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "74293c72290d9ccf389e1555214988f0b9349cf712179bac639915d9706ae963",
+      "snapshot": "54da8caa1b308b893e695707038a14dda5240353e3d9891729716ca00bb29641",
+      "input": {
+        "id": "pauta-reposicao-2026-11-10-8fc510c20ee2",
+        "title": "A peça aprovada é a mesma que sua marca está veiculando?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 10/11/2026: a Adobe anunciou novidades para coordenar planejamento, criação e ativação de conteúdo no GenStudio. O comunicado descreve iniciativas de fornecedor, incluindo capacidades futuras e em beta; não presumir disponibilidade geral, indicar contratação ou tratar promessas de escala e consistência como resultados comprovados. Tese própria: aprovar uma peça não comprova que aquela versão foi a efetivamente enviada e veiculada; a passagem para publicação precisa permitir conferir a correspondência entre aprovação, arquivo final e material no ar. Exemplo hipotético de PME que aprova uma versão com uma condição de serviço corrigida, mas recebe para divulgação uma exportação anterior. Examinar qual referência foi aprovada, qual arquivo segue para o canal e quem confere a saída pública; se houver uma mudança posterior, esclarecer o que precisa voltar à decisão da pessoa responsável. Não ensinar configurações de plataformas, criar procedimentos técnicos ou legais, expor campanhas privadas ou prometer eliminação de erros. Distinguir de aprovação de campanha e feedback: foco na correspondência da entrega após a decisão, não em definir critérios criativos. Distinguir de campanha parada: foco na versão que chegou ao público, não em reduzir tempo de produção. Distinguir de manutenção de apresentações: foco em uma saída já aprovada e efetivamente veiculada, não na atualização futura de um material recorrente. Não confundir aprovação interna com garantia de disponibilidade da oferta.",
+        "audience": "Donos de PMEs e responsáveis por marketing que dividem criação, aprovação e veiculação de campanhas entre pessoas ou fornecedores diferentes.",
+        "goal": "De considerar o trabalho encerrado ao aprovar uma peça para conferir se a versão entregue e o material em veiculação correspondem à decisão registrada.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-10",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe, Agentic AI to the Content Supply Chain with CX Enterprise Coworker, 10/11/2026",
+              "url": "https://news.adobe.com/news/2026/11/adobe-agentic-ai-content-supply-chain",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "f14e5dff-13f1-4d04-a544-b0ba632a8bf1",
+          "completedAt": "2026-11-11T20:06:11.825Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A campanha recebeu aprovação depois de uma correção importante na descrição do serviço. Na hora de publicar, outra pessoa encontra uma pasta com várias exportações e escolhe uma imagem que parece pronta. A peça entra no ar com a informação anterior. A decisão estava correta; a versão que chegou ao público não a acompanhou.\n\nConferir a peça aprovada exige acompanhar a passagem entre a decisão, o arquivo entregue e o material efetivamente veiculado. O registro de aprovação mostra o que alguém aceitou numa referência específica. Não comprova, sozinho, que essa referência foi a utilizada no canal final.\n\nEm 10 de novembro de 2026, a Adobe anunciou novidades para coordenar planejamento, criação e ativação de conteúdo no GenStudio. O comunicado reúne iniciativas de fornecedor, incluindo capacidades futuras e em beta. Ele oferece contexto para pensar a continuidade do trabalho, sem demonstrar que uma ferramenta elimine erros de versão ou esteja disponível de forma geral.\n\nPara uma pequena empresa, uma conferência útil pode começar com uma pergunta concreta: é possível relacionar o material que está no ar à versão que recebeu a decisão de publicar?\n\n## A aprovação precisa apontar para uma referência\n\nImagine uma PME que divulga um serviço realizado mediante avaliação. É um exemplo hipotético. Na primeira proposta de campanha, a chamada dá a entender que o atendimento acontece imediatamente. A equipe corrige a condição e aprova a nova versão.\n\nSe o registro disser apenas que a campanha está aprovada, quem recebe a tarefa de veicular pode não saber a qual arquivo a decisão se refere. Uma mensagem distante da peça ou uma pasta cheia de alternativas torna essa relação mais difícil de conferir.\n\nA referência precisa permitir reconhecer o material examinado. O objetivo não é adotar uma convenção de nomes por obrigação, mas evitar que a aprovação fique separada do conteúdo que justificou aquela decisão.\n\nNa PME hipotética, vale conferir se quem vai preparar o envio consegue identificar a versão com a condição corrigida. Se ainda houver dúvida, ela precisa ser resolvida antes de escolher um arquivo porque parece mais recente ou tem um nome mais definitivo.\n\n## Confira o que acontece na saída da criação\n\nUma peça pode passar por exportação, adaptação de formato ou montagem antes de chegar ao canal final. Em cada passagem, existe uma oportunidade de utilizar uma referência diferente ou perder uma informação relevante.\n\nNo exemplo, uma versão curta pode manter a chamada inicial e deixar de fora a condição que motivou a revisão. Uma imagem exportada antes do ajuste pode continuar na mesma pasta. A proximidade visual entre as alternativas não garante equivalência de conteúdo.\n\nCompare a saída preparada com a referência aprovada nas informações pertinentes. A condição do serviço continua presente e compreensível? A imagem corresponde à oferta apresentada? O destino indicado é o combinado?\n\nEssa conferência deve considerar o material que será usado, em vez de se limitar ao arquivo de edição. Uma correção feita na base não demonstra que todas as saídas já foram atualizadas. Se a passagem revelou uma diferença, identifique seu alcance e encaminhe a revisão à pessoa responsável.\n\n## Não transforme uma adaptação em decisão silenciosa\n\nAjustar a composição para um espaço diferente pode exigir escolhas de hierarquia. Algumas preservam a mensagem aprovada. Outras mudam o que ela permite entender.\n\nNa empresa hipotética, retirar a condição de avaliação para fazer a chamada caber não é apenas acomodar o texto. É alterar uma informação que participa da promessa do serviço. Essa diferença precisa voltar a quem pode decidir sobre ela.\n\nAntes de adaptar, compreenda o papel dos elementos. Uma observação pequena no desenho pode conter uma condição essencial. O tamanho visual não determina a importância da informação para a oferta.\n\nQuando a equipe não souber se a alteração preserva o sentido, procure o esclarecimento pertinente. Um ajuste aparentemente discreto não deve receber autorização presumida apenas porque o conjunto ainda se parece com a peça aprovada.\n\n## A passagem para veiculação também precisa de responsável\n\nQuem aprovou o conteúdo, quem preparou o arquivo e quem o publica podem ser pessoas diferentes. Isso funciona melhor quando cada uma reconhece qual material recebeu e o que precisa conferir naquela passagem.\n\nNa PME hipotética, a entrega pode indicar a referência aprovada, as saídas correspondentes e qualquer pendência que ainda afete o uso. A pessoa responsável pela veiculação precisa conseguir localizar a informação pertinente sem reconstruir todas as conversas do projeto.\n\nNão é necessário compartilhar toda a pasta de trabalho para esclarecer esse ponto. Materiais descartados, versões intermediárias e dados privados não precisam circular por conveniência. A referência deve ajudar a selecionar a saída correta e preservar o que não faz parte daquela entrega.\n\nTambém não confunda a aprovação da comunicação com a confirmação permanente da oferta. Se uma condição de atendimento mudou desde a decisão, a equipe precisa conferir o que continua válido antes de colocar a peça em circulação.\n\n## Veja o que o público realmente recebeu\n\nDepois do envio, confira a saída pública no contexto pertinente. A versão publicada corresponde à referência? Algum corte, posição ou tratamento do canal alterou a leitura de uma condição importante? O destino continua levando à informação esperada?\n\nUma prévia pode ajudar a preparar essa verificação, mas o material efetivamente veiculado oferece outra evidência. Na PME hipotética, a conferência deve olhar a chamada e a condição do serviço tal como aparecem para quem encontra a campanha.\n\nSe houver um desencontro, trate a correção com as pessoas autorizadas e examine quais saídas foram afetadas. Não anuncie que tudo foi corrigido antes de confirmar o alcance da mudança. O texto não precisa atribuir culpa a alguém para reconhecer que a passagem falhou.\n\nRegistre a referência correta e o que precisou ser ajustado. Uma observação pode revelar uma entrega ambígua ou uma conferência que ficou sem responsável. Esses aprendizados ajudam a organizar a próxima passagem, sem permitir prometer que nenhum erro voltará a acontecer.\n\nA aprovação é uma decisão importante dentro do trabalho. A experiência pública depende também da versão que chegou ao canal e da informação que permaneceu compreensível ali. Antes de considerar a campanha entregue, confira essa correspondência: o que a marca decidiu publicar é, de fato, o que as pessoas estão recebendo?",
+        "sources": "[Adobe, novidades para planejamento, criação e ativação no GenStudio, 10/11/2026](https://news.adobe.com/news/2026/11/adobe-agentic-ai-content-supply-chain)\n\nO anúncio inclui capacidades futuras e em beta e apresenta a perspectiva do fornecedor, sem comprovar eliminação de erros ou disponibilidade geral. A PME é hipotética. A análise trata da correspondência entre aprovação, entrega e veiculação, sem configuração de plataformas ou orientação legal.",
+        "prompt": "Natural editorial photograph of two adults installing a large unbranded fabric graphic in a small shop window, one adult inside on a short stable stepladder aligning the upper edge while the other stands outside checking the installed composition through the glass, the fabric shows only simple abstract curved shapes without writing, medium wide street-level view with both sides of the window visible, soft neutral afternoon daylight preserving natural skin tones, a subtle teal accent inspired by #08ffb1 along the lower window frame, candid coordinated action, no meeting, papers, laptop, readable text or logos --ar 3:2",
+        "imageAlt": "Duas pessoas instalam uma peça de tecido com formas abstratas numa vitrine, uma por dentro e outra pela calçada, com acento teal discreto na moldura.",
+        "date": "2026-11-21"
+      },
+      "createdAt": "2026-11-12T13:09:25.512Z",
+      "startedAt": "2026-11-12T13:59:43.106Z",
+      "completedAt": "2026-11-12T14:00:32.782Z"
+    },
+    {
+      "id": "d9fcca3b-2466-4571-bc82-be5807e3e694",
+      "itemId": "pauta-diaria-2026-11-11",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "b418f8ee856bf8fa005530ae45111e194f5e9840f8cf7f083f5cbf9d3dc03bd3",
+      "snapshot": "25b6e012cb7cc8beb57f8801a88471acdd7049f5ec9e122daaa6c489e4616fd8",
+      "input": {
+        "id": "pauta-diaria-2026-11-11",
+        "title": "O protótipo do seu site mostra o que ainda precisa ser construído?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 10/11/2026: a Adobe apresentou Firefly Builder em beta privado como uma prévia de recursos para criar protótipos interativos de sites, apresentações e aplicativos. Não apresentar como disponibilidade geral nem como garantia de uma solução pronta para operar. Tese própria: conseguir navegar por uma simulação não comprova que os serviços representados já funcionam; a aprovação de um protótipo precisa distinguir o que está sendo avaliado e o que ainda depende de construção e conferência. Exemplo hipotético de PME de serviços que avalia um protótipo com pedido de agendamento: mostrar um caminho de navegação não equivale a confirmar disponibilidade real ou encaminhar uma solicitação ao atendimento. Explicar quais partes são demonstração, quais decisões podem ser discutidas naquela etapa e quem esclarece as dependências, sem tutorial técnico, recomendação de ferramenta, promessa de integração, coleta desnecessária de dados reais ou aconselhamento contratual. Não afirmar que todo protótipo é incompleto ou que toda simulação depende da mesma arquitetura. Diferenciar de demonstração de produto: foco no que um protótipo comunica durante o projeto de um site, não no conteúdo de venda de uma solução existente. Diferenciar de redesign e usabilidade: foco no estado de implementação representado, não em reaprendizado de uma interface. Diferenciar de peça aprovada versus veiculada: foco no alcance da avaliação de uma simulação antes da construção, não na correspondência entre arquivo final e material publicado.",
+        "audience": "Donos de PMEs e responsáveis por marketing que avaliam e aprovam protótipos de sites com parceiros de criação e desenvolvimento.",
+        "goal": "De tomar uma navegação convincente como prova de um site operacional para compreender quais decisões o protótipo permite avaliar e o que ainda precisa ser construído e conferido.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-11",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe, novidades no Creative Cloud e Firefly Builder em beta privado, 10/11/2026",
+              "url": "https://news.adobe.com/news/2026/11/adobe-transforms-creative-cloud-tools",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "0810e81a-4cfc-4fbb-8b18-916c4fb67d61",
+          "completedAt": "2026-11-11T20:06:11.466Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O botão responde, a próxima tela aparece e o percurso parece completo. Na apresentação do projeto, alguém conclui que o agendamento já está pronto para receber clientes. A equipe de criação, porém, estava mostrando como essa experiência poderia funcionar. Ainda falta esclarecer o que existe de fato por trás da navegação.\n\nUm protótipo de site pode tornar uma ideia compreensível antes de todas as partes estarem construídas. Seu valor está justamente em permitir discutir caminhos, conteúdo e organização. Para essa avaliação ser útil, quem participa precisa saber o que está vendo e quais conclusões aquela demonstração permite tirar.\n\nEm anúncio de 10 de novembro de 2026, a Adobe apresentou o Firefly Builder em beta privado como uma prévia de recursos para protótipos interativos de sites, apresentações e aplicativos. O anúncio descreve a proposta de um fornecedor, sem comprovar que uma simulação esteja pronta para operar ou que o recurso tenha disponibilidade geral.\n\nA pergunta para uma PME continua pertinente com qualquer ferramenta: qual decisão será tomada com esse protótipo e o que ainda precisa ser construído e conferido?\n\n## Combine o que a apresentação pretende avaliar\n\nImagine uma pequena empresa de serviços que está preparando um site com pedido de agendamento. É um exemplo hipotético. O protótipo mostra a escolha do serviço, uma seleção de horários e uma tela de conclusão.\n\nAntes de apresentar o percurso, a equipe pode explicar qual parte está em avaliação. A organização das informações? Os nomes das ações? A sequência que ajuda a pessoa a formular um pedido? Uma avaliação sem esse recorte pode misturar decisões de comunicação com expectativas sobre uma operação ainda não demonstrada.\n\nNo exemplo, escolher um horário na simulação não significa necessariamente consultar uma disponibilidade real. A tela de conclusão pode apenas representar uma mensagem prevista, sem que exista encaminhamento para o atendimento.\n\nEssas condições precisam ser descritas conforme o projeto. Não se deve presumir que todo protótipo seja inteiramente simulado, assim como uma ação que responde na tela não comprova todas as funções que o visitante imagina encontrar.\n\n## Dê nome às partes demonstradas e às pendências\n\nA diferença entre uma ideia e uma função existente fica mais compreensível quando associada a uma situação concreta. Dizer que faltam ajustes pode esconder uma pendência importante para a experiência.\n\nNa PME hipotética, vale conferir o significado de cada etapa. A pessoa está solicitando um horário ou recebendo uma confirmação? Quem recebe o pedido? Existe uma informação que ainda precisa ser definida pela operação? A resposta deve vir de quem conhece o projeto e o atendimento.\n\nO registro dessas condições ajuda a discutir o que foi mostrado. Não precisa virar um inventário técnico extenso para quem está avaliando a comunicação. Precisa tornar visível a diferença entre o comportamento demonstrado, as decisões ainda abertas e as verificações futuras.\n\nSe a equipe não sabe esclarecer uma dependência, o próximo passo é confirmar com a pessoa pertinente. Uma frase vaga sobre a facilidade de integrar depois não resolve uma condição que ainda não foi examinada.\n\n## Use a simulação para descobrir dúvidas de entendimento\n\nExplicar os limites do protótipo não diminui sua utilidade. Permite aproveitar melhor o que ele já oferece como material de avaliação.\n\nNa empresa hipotética, alguém pode percorrer as telas e explicar o que acredita ter feito. Entendeu que pediu um agendamento ou que já tinha um horário confirmado? Conseguiu reconhecer o serviço? Soube onde encontrar a informação necessária para continuar?\n\nEssas observações podem indicar um nome ambíguo, uma mensagem que promete mais do que deveria ou um caminho difícil de compreender. São contribuições de comunicação e experiência que podem ser discutidas naquela etapa.\n\nO exercício, porém, não comprova que o atendimento recebeu uma solicitação nem que a disponibilidade mostrada corresponde à agenda real. O que foi observado precisa continuar ligado à condição em que a avaliação aconteceu. Uma boa interpretação numa simulação oferece uma informação diferente de uma operação concluída.\n\n## Registre o alcance da aprovação\n\nUma aprovação genérica pode fazer a equipe seguinte acreditar que todas as decisões foram encerradas. Se a conversa tratou apenas da organização das páginas, essa conclusão amplia o que foi efetivamente avaliado.\n\nNa PME hipotética, a referência pode indicar qual versão foi apresentada, quais escolhas foram confirmadas e quais pontos continuam pendentes. Uma dúvida sobre a mensagem de agendamento deve permanecer identificada, em vez de desaparecer porque o conjunto visual foi bem recebido.\n\nTambém vale distinguir uma decisão de uma condição para continuar. Aprovar um caminho de navegação não resolve automaticamente informações que dependem da equipe de atendimento. Se houver necessidade de uma nova conferência, combine quem esclarece o ponto e como a decisão será retomada.\n\nEsse registro organiza a continuidade do trabalho. Não substitui os acordos próprios do projeto nem constitui orientação contratual. Seu papel é permitir que as pessoas reconheçam o que a avaliação realmente confirmou.\n\n## Confira a experiência quando o comportamento estiver construído\n\nO protótipo pode ajudar a escolher uma direção. Depois, as partes que passaram a funcionar precisam ser conferidas em sua condição real de uso, pelas pessoas autorizadas e com os cuidados pertinentes ao projeto.\n\nNo exemplo, será necessário verificar o que acontece com uma solicitação e qual retorno corresponde ao processo de atendimento. Uma tela que parece igual à simulação pode estar ligada a um comportamento diferente. Aparência e funcionamento precisam voltar à mesma conversa.\n\nUse informações de exemplo apropriadas durante as avaliações. Não inclua dados reais de clientes por conveniência nem transforme uma demonstração em abertura de pedidos que ninguém está preparado para acompanhar.\n\nQuando surgir uma diferença em relação ao que foi aprovado, confira seu alcance. Pode ser uma escolha de linguagem a rever ou uma dependência que exige participação de outra pessoa. Uma observação delimitada não permite declarar que toda a experiência está pronta.\n\nAntes de encerrar a próxima apresentação, peça que os participantes expliquem o que viram: o que conseguiram avaliar, o que entenderam como existente e o que ainda depende de construção ou conferência. Se as respostas divergirem, existe uma informação importante a esclarecer. O protótipo cumpre melhor seu papel quando ajuda a tomar decisões conscientes sobre o projeto, sem fazer uma navegação convincente carregar promessas que ela ainda não demonstrou.",
+        "sources": "[Adobe, anúncio do Firefly Builder em beta privado, 10/11/2026](https://news.adobe.com/news/2026/11/adobe-transforms-creative-cloud-tools)\n\nO comunicado descreve uma prévia de recursos de prototipagem e não comprova prontidão operacional ou disponibilidade geral. A PME e o percurso de agendamento são hipotéticos. O texto não recomenda ferramentas, orienta implementação técnica ou substitui os acordos do projeto.",
+        "prompt": "Conceptual editorial photograph without people, a freestanding theatrical shopfront facade with an elegant door and one window, viewed at a three-quarter angle from the rear so the finished warm ivory front and the bare timber braces are visible together, the doorway opens onto an empty studio floor instead of a completed room, carefully crafted realistic set construction with generous negative space, soft neutral key light and a restrained teal accent inspired by #08ffb1 reflected along the threshold edge, no cubes, prisms, labyrinth, light beams, readable shop signs, text or logos --ar 3:2",
+        "imageAlt": "Uma fachada cenográfica com porta e janela é vista de lado, revelando escoras de madeira e o espaço vazio atrás, com reflexo teal discreto na soleira.",
+        "date": "2026-11-22"
+      },
+      "createdAt": "2026-11-12T13:09:30.550Z",
+      "startedAt": "2026-11-12T13:59:43.238Z",
+      "completedAt": "2026-11-12T14:00:33.012Z"
+    },
+    {
+      "id": "f8a587fc-a1fc-4e93-a25e-9d4bddcb8dca",
+      "itemId": "pauta-reposicao-2026-11-11-d1945dcd03bc",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "4fe71c0b7cfe9da8d92a0fde341a2befd791373face94bb289fc8b23f1fda4ba",
+      "snapshot": "2d8113abb7cdd737ca9eae26a3d35743feddb2adb32ab0e44362fadc3f161b94",
+      "input": {
+        "id": "pauta-reposicao-2026-11-11-d1945dcd03bc",
+        "title": "A ajuda da sua marca precisa saber sair do caminho",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 10/11/2026: o Spotify anunciou novos controles do DJ, incluindo a possibilidade de desligar comentários entre músicas. O comunicado descreve início de implantação para assinantes Premium nos mercados em que DJ já está disponível; ainda há breves confirmações ao iniciar ou acionar o botão. Não apresentar como silêncio absoluto, disponibilidade universal ou evidência de melhora de satisfação, e não repetir o percentual promocional de retorno. Tese própria: uma orientação opcional pode ser útil quando a pessoa precisa dela e virar interrupção quando é imposta a cada visita; a experiência de marca deve permitir dispensar uma ajuda e encontrá-la novamente, sem esconder informações essenciais. Exemplo hipotético de PME cujo site reapresenta uma explicação guiada a quem já conhece o percurso. Conferir o que é orientação de apoio, o que precisa continuar visível para decidir e como a pessoa retoma a ajuda quando desejar, sem ensinar configuração, indicar produto ou prometer um efeito comercial. Não recomendar omitir condições relevantes da oferta nem encerrar atendimento solicitado. Diferenciar de personalização corrigível: foco no controle sobre a presença e repetição da orientação, não em alterar um perfil de preferências. Diferenciar de experiência sensorial: foco na ajuda contextual dispensável, não em aumentar ou reduzir estímulos de uma ambientação. Diferenciar de mensagem automática: foco numa explicação opcional durante o uso, não no estado de uma solicitação recebida.",
+        "audience": "Donos de PMEs e equipes de marketing e experiência digital que oferecem orientações guiadas, apresentações ou ajudas opcionais nos pontos de contato da marca.",
+        "goal": "De avaliar a ajuda apenas pela quantidade de explicações oferecidas para conferir se ela aparece no contexto adequado, pode ser dispensada e continua encontrável quando necessária.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-11",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Spotify, novos controles de vozes e comentários do DJ, 10/11/2026",
+              "url": "https://newsroom.spotify.com/2026-11-10/dj-new-voices-controls/",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "54ed43d5-cc04-4ca8-8b18-2634712f6301",
+          "completedAt": "2026-11-12T02:05:51.885Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A pessoa volta ao site para fazer algo que já conhece. Antes de continuar, precisa fechar a mesma apresentação que viu na primeira visita. A empresa queria explicar bem o serviço. Para quem já entendeu, a explicação virou uma tarefa a mais.\n\nA ajuda opcional merece esse cuidado: estar disponível não significa precisar aparecer o tempo todo. Uma marca próxima pode orientar sem tomar o comando do percurso, deixando a pessoa dispensar uma explicação e encontrá-la novamente quando precisar.\n\nEm 10 de novembro de 2026, o Spotify anunciou o início da implantação de novos controles do DJ para assinantes Premium nos mercados em que o recurso já está disponível. Entre as opções está desligar comentários entre músicas. Breves confirmações continuam ao iniciar o DJ ou acionar seu botão. O anúncio oferece um gancho para pensar o espaço da orientação, sem comprovar efeitos sobre satisfação ou vendas.\n\n## A mesma explicação pode ter momentos diferentes\n\nImagine uma pequena empresa de locação de equipamentos para eventos. É um exemplo hipotético. No site, uma apresentação guiada mostra como consultar os equipamentos, montar uma seleção e encaminhar uma solicitação. Para quem chegou pela primeira vez, isso pode esclarecer o caminho.\n\nUma cliente que já conhece o processo entra para consultar outro equipamento. A apresentação reaparece sobre o catálogo. Ela fecha a janela, muda de página e encontra outra explicação que interrompe a consulta. A orientação foi pensada apenas como uma sequência a exibir, sem considerar a possibilidade de alguém já estar pronto para seguir.\n\nIsso não significa que toda apresentação inicial atrapalhe. A pergunta é mais precisa: qual dúvida esse recurso resolve, em que momento ela costuma aparecer e o que acontece quando a pessoa não precisa da resposta agora?\n\nNa empresa hipotética, a equipe pode observar o percurso sem ensinar previamente como fechar a apresentação. Se a pessoa precisa procurar uma saída ou perde a seleção ao dispensá-la, existe uma dificuldade concreta para examinar. Não é necessário concluir, a partir dessa situação, que todos preferem navegar sem apoio.\n\n## Separe o apoio da informação necessária\n\nUma explicação sobre onde encontrar os filtros é diferente de uma condição que afeta a contratação. A primeira pode ser um apoio para aprender a usar o catálogo. A segunda precisa continuar acessível no contexto da escolha, mesmo quando a apresentação está fechada.\n\nNa locadora hipotética, a orientação pode mostrar onde consultar a disponibilidade. Ela não deve ser o único lugar que informa que selecionar um equipamento não confirma a reserva. Se esse esclarecimento importa para entender a etapa, precisa estar junto do percurso pertinente.\n\nA equipe pode rever cada trecho da apresentação e perguntar o que aconteceria se ele nunca fosse aberto. A pessoa ainda entenderia o que está solicitando? Reconheceria uma condição relevante? Saberia se precisa aguardar uma confirmação?\n\nEsse exame ajuda a distribuir melhor o conteúdo. Algumas informações pertencem à própria página, próximas da decisão. Outras funcionam como explicações adicionais. Fechar a ajuda não deveria retirar da pessoa o contexto necessário para escolher.\n\n## Dispensar precisa ter um significado compreensível\n\nUm botão para fechar uma apresentação pode parecer uma solução suficiente. Mas o que ele faz? Fecha apenas aquela explicação? Interrompe a solicitação? Faz a mesma janela reaparecer no próximo clique?\n\nNa empresa hipotética, uma saída descrita como continuar no catálogo seria inadequada se também apagasse a seleção. O texto e o comportamento precisam corresponder. Essa conferência exige olhar para o percurso funcionando, não apenas aprovar a aparência do botão.\n\nTambém vale reconhecer a diferença entre pular uma explicação agora e pedir que ela não apareça novamente, quando essa escolha existe. A interface não deve prometer lembrar uma preferência se isso não acontece nas condições reais de uso.\n\nNão há uma frequência universal para reapresentar orientações. Uma mudança relevante pode justificar um aviso específico. Repetir toda a apresentação a cada passagem, porém, pede uma razão que faça sentido para aquela tarefa. A empresa precisa avaliar o contexto antes de transformar a recorrência em padrão.\n\n## A ajuda deve continuar encontrável\n\nDepois de dispensar a apresentação, a cliente da locadora decide consultar uma função que nunca usou. Onde consegue recuperar a orientação? Se o único acesso era a janela inicial, fechar o apoio significou perdê-lo.\n\nUm acesso identificado perto da tarefa pode permitir essa retomada. O nome precisa explicar o tipo de ajuda disponível. Uma expressão simpática, mas vaga, pode não esclarecer se o destino é uma explicação do catálogo, um atendimento ou outra página.\n\nConfira também o retorno. Ao terminar de consultar a orientação, a pessoa consegue continuar de onde estava? Ou precisa reconstruir a seleção e procurar novamente o equipamento? O apoio deve ser avaliado junto com a tarefa que pretende esclarecer.\n\nIsso também vale para um atendimento solicitado. Dispensar uma apresentação automática não equivale a encerrar uma conversa que a pessoa abriu para obter uma resposta específica. São situações diferentes e precisam ser tratadas como tal.\n\n## Revise com quem ainda aprende e com quem já sabe\n\nNa locadora hipotética, a equipe pode comparar duas situações: alguém que nunca montou uma seleção e alguém que retorna para uma consulta conhecida. A tarefa é delimitada e não exige expor dados pessoais ou reproduzir pedidos reais de clientes.\n\nObserve onde surge uma dúvida, se a orientação é percebida, como é dispensada e como pode ser recuperada. Pergunte o que a pessoa esperava ao escolher cada ação. Uma explicação fácil de fechar pode continuar difícil de encontrar depois.\n\nAs observações podem apontar tarefas diferentes: reposicionar uma condição importante, esclarecer o nome de um acesso ou rever uma interrupção recorrente. Nem tudo se resolve diminuindo o texto. Às vezes, a explicação está adequada e o problema é exigir sua leitura no momento errado.\n\nDepois de um ajuste, confira novamente as duas situações com as pessoas responsáveis pelo conteúdo e pelo funcionamento do site. Um teste delimitado ajuda a reconhecer dificuldades; não autoriza afirmar que todas as experiências futuras serão iguais.\n\nA qualidade da ajuda não se mede apenas pelo que ela explica. Também depende de permitir que a pessoa siga quando já sabe o caminho e volte quando tiver uma dúvida. Esse espaço para escolher faz parte do modo como a marca atende.",
+        "sources": "[Spotify, novos controles de vozes e comentários do DJ, 10/11/2026](https://newsroom.spotify.com/2026-11-10/dj-new-voices-controls/)\n\nO comunicado descreve início de implantação para Premium nos mercados existentes do DJ e preserva breves confirmações ao iniciar ou acionar o recurso. A locadora é hipotética; as recomendações de experiência são uma análise editorial e não atribuem resultados comerciais ao anúncio.",
+        "prompt": "Conceptual editorial photograph without people, a vintage brass magnifying lens on a hinged articulated arm attached to a freestanding dark wooden reading stand, the arm deliberately folded to the side leaving the open book unobstructed while the lens remains within reach, three-quarter close view emphasizing the pivot and the clear space above the cream pages, printed texture softly out of focus and completely illegible, warm plaster background with soft neutral daylight and a delicate teal accent inspired by #08ffb1 on the outer brass rim, tactile realistic materials, no readable text, logos, laptop, cubes, prisms, labyrinth or light beams --ar 3:2",
+        "imageAlt": "Uma lupa de braço articulado está recolhida ao lado de um livro aberto num suporte de madeira, com reflexo teal discreto na borda de latão.",
+        "date": "2026-11-23"
+      },
+      "createdAt": "2026-11-12T13:09:34.842Z",
+      "startedAt": "2026-11-12T13:59:43.386Z",
+      "completedAt": "2026-11-12T14:00:33.282Z"
     }
   ]
 }
