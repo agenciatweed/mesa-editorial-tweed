@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "busca-interna-loja-linguagem-cliente",
+  "contentSha256": "db051a9c1942143a3ac4f8590ea320a68987c20f5536a2fbab329b091126409b",
+  "modifiedAt": "2026-11-12",
+  "links": [
+    {
+      "from": "busca-interna-loja-linguagem-cliente",
+      "to": "testar-experiencia-alem-equipe-interna",
+      "anchor": "alguém que não participou do cadastro",
+      "context": "Escolha algumas buscas por nome, código e necessidade. Para cada uma, registre o que se pretendia encontrar, o que apareceu e qual dúvida permaneceu. Peça também a alguém que não participou do cadastro para realizar uma tarefa delimitada, sem ensinar antes as palavras esperadas.",
+      "reason": "Aprofunda a avaliação com pessoas que não conhecem previamente as respostas e os termos internos."
+    }
+  ]
+}

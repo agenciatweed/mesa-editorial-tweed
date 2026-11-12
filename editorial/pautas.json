@@ -4164,11 +4164,16 @@
       "angle": "A BigCommerce publicou em 05/11/2026 uma explicação sobre busca semântica e conversacional no comércio eletrônico, com disponibilidade gradual para lojas elegíveis. Usar esse contexto para discutir um problema anterior à escolha da tecnologia: o catálogo chama os produtos do mesmo jeito que o cliente procura? A tese é que a busca interna também entrega a promessa de atendimento da marca. Desenvolver um exemplo hipotético de loja com termos técnicos, nomes populares e consultas por necessidade; comparar algumas buscas reais com os resultados e os atributos do catálogo. Distinguir busca por código exato de descrição em linguagem natural. Uma consulta sem resultado exige investigação, não comprova ausência de demanda. Preservar filtros e navegação; não obrigar o cliente a conversar com IA. Evitar repetir a pauta de nome de produto e a de legibilidade para mecanismos externos: o foco aqui é encontrar um item dentro da própria loja. Não recomendar troca de plataforma, citar percentuais de pesquisas não conferidas nem prometer conversão.",
       "audience": "Gestores de PMEs com loja virtual, responsáveis por catálogo, atendimento e experiência digital.",
       "goal": "Perceber a busca interna como parte do atendimento e avaliar o vocabulário e a qualidade dos resultados antes de contratar uma tecnologia nova.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -4199,7 +4204,26 @@
       "slug": "busca-interna-loja-linguagem-cliente",
       "meta": "A busca interna da loja virtual entende o cliente? Confira vocabulário, atributos e resultados para ajudar a encontrar produtos sem adivinhar o nome do catálogo.",
       "faq": "O que avaliar na busca interna da loja virtual?\nCompare consultas por nome, código e necessidade com os produtos apresentados e confira se as informações do catálogo sustentam a adequação sugerida.\n\nUma consulta sem resultado comprova falta de demanda?\nNão. Pode haver diferenças de vocabulário, erros de digitação, indisponibilidade ou ausência de produto adequado; é necessário investigar a situação.\n\nUma interface conversacional deve substituir filtros e categorias?\nNão obrigatoriamente. Preserve caminhos reconhecíveis e permita que a pessoa veja resultados e compare alternativas sem responder a perguntas desnecessárias.",
-      "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/"
+      "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/",
+      "imageFile": "conteudos/pauta-reposicao-2026-11-07-f728b91255f5/imagens/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+      "imageName": "Gemini_Generated_Image_7nlkvz7nlkvz7nlk.jfif",
+      "imageWidth": 2528,
+      "imageHeight": 1696,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/",
+        "publishedAt": "2026-11-12T08:00:49.227697+00:00",
+        "job": "7174b0d7-98ee-4b23-9fbc-7e2f9dccf30e",
+        "files": [
+          "assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+          "busca-interna-loja-linguagem-cliente/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-diaria-2026-11-08",
@@ -4703,6 +4727,33 @@
             "title": "Starbucks, anúncio da coleção Bearista Glass Cold Cup Surprise Box, 09/11/2026",
             "url": "https://about.starbucks.com/press/2026/starbucks-launches-new-bearista-glass-cold-cup-surprise-box-collection-with-characters-including-rare-golden-bearista/",
             "publishedAt": "2026-11-09"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pauta-diaria-2026-11-12",
+      "title": "Sua nova oferta precisa mesmo de outra marca?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Gancho verificado: reportagem de 10/11/2026 do Abduzeedo apresenta o sistema de submarcas Pets desenvolvido pela HOW+HOW. O estudo primário da agência confirma identidades distintas e conectadas para Pets Insurance, Pet Pals e Pets Foundation: https://how.studio/work/pets. A página primária não declara data de publicação; 10/11 é a data da reportagem, não uma data comprovada de criação ou lançamento do projeto. Não repetir números promocionais, atribuir crescimento ao design ou transferir a escala desse grupo para uma PME. Tese própria: lançar uma oferta não exige automaticamente criar uma marca independente; a decisão precisa considerar a relação que o público deve reconhecer e a capacidade de sustentar cada identidade. Exemplo hipotético de consultoria que passa a oferecer cursos: avaliar se basta descrever a oferta sob a marca existente, se uma linha identificada e vinculada ajuda ou se existe uma razão estratégica para uma identidade separada. Examinar diferenças reais de público, promessa, percurso comercial e manutenção de materiais, evitando prescrever uma arquitetura universal. Mostrar o custo de atenção e trabalho envolvido em manter nomes, apresentações, canais e respostas coerentes, sem inventar valores ou afirmar que mais marcas necessariamente confundem. Diferenciar da pauta sobre nome de produto: o foco é a relação entre identidades e a necessidade de separá-las, não escolher um nome que explique a função. Diferenciar de crescer sem perder propósito: o foco é organizar o portfólio de ofertas e sustentar a arquitetura escolhida, não revisar os valores da empresa. Não confundir parentesco visual com identidade jurídica, não aconselhar registro de marca e não afirmar que a empresa hipotética precisa reproduzir a solução de Pets.",
+      "audience": "Sócios e gestores de PMEs que estão lançando cursos, serviços ou linhas de produtos e precisam decidir como apresentar a novidade em relação à marca existente.",
+      "goal": "De encomendar um novo logotipo para cada lançamento para decidir primeiro que relação o público deve reconhecer entre as ofertas e que sistema a equipe consegue manter com clareza.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-12",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Abduzeedo, Brand Identity: Connected Pets Sub-Brands by HOW+HOW, 10/11/2026",
+            "url": "https://abduzeedo.com/brand-identity-connected-pets-sub-brands-howhow",
+            "publishedAt": "2026-11-10"
           }
         ]
       }

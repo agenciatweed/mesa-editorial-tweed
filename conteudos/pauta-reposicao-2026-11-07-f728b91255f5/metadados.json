@@ -6,11 +6,16 @@
   "angle": "A BigCommerce publicou em 05/11/2026 uma explicação sobre busca semântica e conversacional no comércio eletrônico, com disponibilidade gradual para lojas elegíveis. Usar esse contexto para discutir um problema anterior à escolha da tecnologia: o catálogo chama os produtos do mesmo jeito que o cliente procura? A tese é que a busca interna também entrega a promessa de atendimento da marca. Desenvolver um exemplo hipotético de loja com termos técnicos, nomes populares e consultas por necessidade; comparar algumas buscas reais com os resultados e os atributos do catálogo. Distinguir busca por código exato de descrição em linguagem natural. Uma consulta sem resultado exige investigação, não comprova ausência de demanda. Preservar filtros e navegação; não obrigar o cliente a conversar com IA. Evitar repetir a pauta de nome de produto e a de legibilidade para mecanismos externos: o foco aqui é encontrar um item dentro da própria loja. Não recomendar troca de plataforma, citar percentuais de pesquisas não conferidas nem prometer conversão.",
   "audience": "Gestores de PMEs com loja virtual, responsáveis por catálogo, atendimento e experiência digital.",
   "goal": "Perceber a busca interna como parte do atendimento e avaliar o vocabulário e a qualidade dos resultados antes de contratar uma tecnologia nova.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -41,5 +46,24 @@
   "slug": "busca-interna-loja-linguagem-cliente",
   "meta": "A busca interna da loja virtual entende o cliente? Confira vocabulário, atributos e resultados para ajudar a encontrar produtos sem adivinhar o nome do catálogo.",
   "faq": "O que avaliar na busca interna da loja virtual?\nCompare consultas por nome, código e necessidade com os produtos apresentados e confira se as informações do catálogo sustentam a adequação sugerida.\n\nUma consulta sem resultado comprova falta de demanda?\nNão. Pode haver diferenças de vocabulário, erros de digitação, indisponibilidade ou ausência de produto adequado; é necessário investigar a situação.\n\nUma interface conversacional deve substituir filtros e categorias?\nNão obrigatoriamente. Preserve caminhos reconhecíveis e permita que a pessoa veja resultados e compare alternativas sem responder a perguntas desnecessárias.",
-  "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/"
+  "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/",
+  "imageFile": "conteudos/pauta-reposicao-2026-11-07-f728b91255f5/imagens/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+  "imageName": "Gemini_Generated_Image_7nlkvz7nlkvz7nlk.jfif",
+  "imageWidth": 2528,
+  "imageHeight": 1696,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/",
+    "publishedAt": "2026-11-12T08:00:49.227697+00:00",
+    "job": "7174b0d7-98ee-4b23-9fbc-7e2f9dccf30e",
+    "files": [
+      "assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+      "busca-interna-loja-linguagem-cliente/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

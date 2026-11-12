@@ -11677,6 +11677,75 @@
       "createdAt": "2026-11-11T20:51:27.693Z",
       "startedAt": "2026-11-12T02:04:43.979Z",
       "completedAt": "2026-11-12T02:05:51.980Z"
+    },
+    {
+      "id": "7174b0d7-98ee-4b23-9fbc-7e2f9dccf30e",
+      "itemId": "pauta-reposicao-2026-11-07-f728b91255f5",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "b5cf1138fc727e6713cf33443eed048740615543baa056bbd991bed2859bc6e3",
+      "snapshot": "b5cf1138fc727e6713cf33443eed048740615543baa056bbd991bed2859bc6e3",
+      "input": {
+        "id": "pauta-reposicao-2026-11-07-f728b91255f5",
+        "title": "A busca da sua loja entende o jeito como o cliente pede?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "A BigCommerce publicou em 05/11/2026 uma explicação sobre busca semântica e conversacional no comércio eletrônico, com disponibilidade gradual para lojas elegíveis. Usar esse contexto para discutir um problema anterior à escolha da tecnologia: o catálogo chama os produtos do mesmo jeito que o cliente procura? A tese é que a busca interna também entrega a promessa de atendimento da marca. Desenvolver um exemplo hipotético de loja com termos técnicos, nomes populares e consultas por necessidade; comparar algumas buscas reais com os resultados e os atributos do catálogo. Distinguir busca por código exato de descrição em linguagem natural. Uma consulta sem resultado exige investigação, não comprova ausência de demanda. Preservar filtros e navegação; não obrigar o cliente a conversar com IA. Evitar repetir a pauta de nome de produto e a de legibilidade para mecanismos externos: o foco aqui é encontrar um item dentro da própria loja. Não recomendar troca de plataforma, citar percentuais de pesquisas não conferidas nem prometer conversão.",
+        "audience": "Gestores de PMEs com loja virtual, responsáveis por catálogo, atendimento e experiência digital.",
+        "goal": "Perceber a busca interna como parte do atendimento e avaliar o vocabulário e a qualidade dos resultados antes de contratar uma tecnologia nova.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-07",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "BigCommerce: Conversational Search for Ecommerce: How Semantic Search Changes Product Discovery, 05/11/2026",
+              "url": "https://www.bigcommerce.com/articles/ecommerce/conversational-search/",
+              "publishedAt": "2026-11-05"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "474c814c-99d8-470e-95ef-423292cee341",
+          "completedAt": "2026-11-08T13:43:04.174Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "46d7a39cc2dbbb589c3f33b595fe1144640759c6fe77de9a7337b22064137678"
+        },
+        "body": "Uma pessoa procura na loja virtual por “bolsa que cabe um notebook grande”. O catálogo tem uma mochila adequada, mas a busca devolve uma página vazia. Quem conhece o produto sabe onde encontrá-lo. Quem chegou com uma necessidade precisa adivinhar o nome que a empresa escolheu usar.\n\nA busca interna também faz parte do atendimento. Ela pode ajudar a aproximar o vocabulário do cliente das informações do catálogo ou transformar essa diferença numa tarefa que sobra para quem quer comprar. Antes de escolher uma tecnologia nova, vale observar o que acontece entre a pergunta e os produtos apresentados.\n\nEm artigo publicado em 5 de novembro de 2026, a BigCommerce explica buscas semânticas e conversacionais no comércio eletrônico e informa uma implantação gradual de recursos para lojas elegíveis. É uma perspectiva de fornecedor. O contexto interessa aqui por uma questão de experiência: o cliente precisa conhecer o cadastro da loja para encontrar o que ela vende?\n\n## Comece pelo que as pessoas tentam encontrar\n\nImagine uma pequena loja de acessórios para organizar a casa. É um exemplo hipotético. A equipe conhece as famílias de produtos e localiza cada item pelo nome cadastrado. Os clientes chegam com outras palavras: “caixa para guardar roupa de inverno”, “organizador que cabe na gaveta baixa” ou “pote para levar comida sem misturar”.\n\nEssas frases contêm perguntas sobre uso, tamanho e características. Não basta acrescentar todas elas indiscriminadamente à descrição de qualquer item. É preciso verificar que produtos realmente atendem a cada condição e quais informações permitem reconhecer essa adequação.\n\nA equipe pode começar por dúvidas recebidas no atendimento e por consultas registradas na busca, respeitando os cuidados aplicáveis aos dados. A finalidade é identificar termos e necessidades recorrentes. Não é copiar conversas pessoais para uma lista compartilhada nem presumir que qualquer expressão representa todo o público.\n\nEscolha algumas situações concretas. O que a pessoa procura? Existe algo correspondente na loja? A informação necessária está confirmada no cadastro? Essas perguntas ajudam a localizar o problema antes de concluir que falta uma ferramenta.\n\n## Uma busca vazia não explica sozinha o que aconteceu\n\nNa loja hipotética, a consulta por “gaveta baixa” pode não retornar nada porque essa expressão não aparece nos dados usados pela busca. Pode também acontecer de a loja não vender um organizador com a altura necessária. Os dois casos exigem respostas diferentes.\n\nNo primeiro, existe uma possível distância entre a linguagem do cliente e a organização das informações. No segundo, apresentar qualquer produto como adequado esconderia uma limitação da oferta. A busca não deveria prometer uma correspondência que o catálogo não sustenta.\n\nTambém vale conferir erros de digitação, variações de nome e condições de disponibilidade. Uma consulta sem resultado é um ponto de investigação. Não comprova que ninguém deseja o produto nem que a empresa deveria passar a vendê-lo.\n\nAntes de mudar o catálogo, tente reproduzir a situação. Observe o termo usado, o resultado e o caminho disponível depois dele. A pessoa consegue reformular a procura? Encontra uma categoria pertinente? Recebe alguma orientação ou chega a uma tela que encerra a conversa?\n\n## Preserve a precisão de quem já sabe o código\n\nNem todo cliente começa por uma necessidade ampla. Alguém pode voltar à loja com o código exato de uma peça, o modelo de um acessório ou o nome de um produto comprado anteriormente.\n\nPara essa pessoa, uma coleção de alternativas parecidas pode atrapalhar. Se o item procurado existe, o resultado precisa permitir identificá-lo. Se não está disponível, a condição deve ficar compreensível, sem apresentar um produto semelhante como se fosse o mesmo.\n\nNa loja hipotética, a equipe pode comparar uma busca por código com outra por uso. A primeira exige precisão na identificação. A segunda exige informações suficientes para avaliar a adequação. Uma experiência útil precisa considerar as duas situações.\n\nEssa diferença também ajuda a avaliar propostas de tecnologia. Uma demonstração impressionante com frases abertas não resolve, por si só, a procura de quem já tem uma referência específica. O teste precisa incluir tarefas que importam para aquela loja.\n\n## Confira os atributos antes de ampliar a conversa\n\nSe o cliente procura algo que caiba numa gaveta, as medidas importam. Se procura uma peça para uso externo, a condição de uso precisa estar confirmada. Uma descrição simpática não substitui a informação necessária para escolher.\n\nNa empresa hipotética, o trabalho pode começar por uma família de organizadores. A equipe confere dimensões, materiais e usos efetivamente previstos, identifica lacunas e combina quem pode esclarecer cada uma. Dados desconhecidos continuam sendo dúvidas, em vez de ganhar uma resposta inventada para completar a ficha.\n\nTambém compare a busca com a página do produto. O resultado sugere uma adequação que a descrição confirma? A variante apresentada corresponde à medida procurada? Existe uma condição importante que só aparece depois de vários cliques?\n\nOrganizar esses pontos aproxima catálogo, conteúdo e atendimento. O problema deixa de pertencer apenas à pessoa que configura o campo de busca e passa a ser tratado por quem conhece a oferta e as perguntas dos compradores.\n\n## Não transforme a conversa numa passagem obrigatória\n\nUma pessoa pode preferir percorrer categorias, aplicar filtros ou abrir diretamente um produto. Outra pode querer escrever uma frase e refinar o pedido. A existência de uma opção nova não elimina essas diferenças.\n\nAntes de alterar a experiência, observe se os caminhos existentes continuam reconhecíveis. A pessoa consegue ver os resultados sem responder a perguntas desnecessárias? Pode corrigir uma condição? Encontra informações para comparar alternativas por conta própria?\n\nSe houver uma interface conversacional, confira também o que ela faz quando não consegue atender. Reconhecer uma limitação é mais útil que oferecer uma resposta convincente sobre um item inexistente. A empresa precisa saber quem acompanha esses desencontros e como eles chegam à equipe responsável.\n\n## Faça um teste que gere uma tarefa concreta\n\nEscolha algumas buscas por nome, código e necessidade. Para cada uma, registre o que se pretendia encontrar, o que apareceu e qual dúvida permaneceu. Peça também a alguém que não participou do cadastro para realizar uma tarefa delimitada, sem ensinar antes as palavras esperadas.\n\nAs observações podem indicar uma descrição incompleta, um filtro pouco claro ou um comportamento da busca que exige avaliação técnica. Não precisam virar uma promessa de aumento de vendas nem uma conclusão sobre todos os clientes.\n\nCombine quem cuida do ajuste e confira novamente a situação depois da mudança. Na próxima conversa sobre melhorar a loja virtual, comece por uma pergunta que o cliente faria. Encontrar um produto deveria depender da pertinência da oferta, e não de descobrir como a empresa o chama internamente.",
+        "sources": "[BigCommerce, Conversational Search for Ecommerce, 05/11/2026](https://www.bigcommerce.com/articles/ecommerce/conversational-search/)\n\nA fonte apresenta a perspectiva de um fornecedor, com disponibilidade gradual de recursos para lojas elegíveis. A loja de organização é hipotética; as propostas de avaliação são análise editorial da Tweed, sem promessa de conversão.",
+        "prompt": "Natural editorial photograph of one adult shop assistant standing beside a tall vertical rack of plain unbranded fabric rolls, pulling a single waterproof fabric outward and inspecting a small water droplet resting on its surface, candid close side view focused on the practical material property and the person's hands, believable compact shop interior with warm neutral shelves, soft window key light preserving natural skin tones, a subtle pale teal ambient reflection inspired by #08ffb1 on the shaded rack edge, no meeting, papers, laptop, readable text or logos --ar 3:2",
+        "imageAlt": "Uma pessoa puxa um tecido de uma estante vertical e observa uma gota de água sobre o material, com um reflexo teal discreto na estrutura.",
+        "date": "2026-11-12",
+        "keyword": "busca interna da loja virtual",
+        "slug": "busca-interna-loja-linguagem-cliente",
+        "meta": "A busca interna da loja virtual entende o cliente? Confira vocabulário, atributos e resultados para ajudar a encontrar produtos sem adivinhar o nome do catálogo.",
+        "faq": "O que avaliar na busca interna da loja virtual?\nCompare consultas por nome, código e necessidade com os produtos apresentados e confira se as informações do catálogo sustentam a adequação sugerida.\n\nUma consulta sem resultado comprova falta de demanda?\nNão. Pode haver diferenças de vocabulário, erros de digitação, indisponibilidade ou ausência de produto adequado; é necessário investigar a situação.\n\nUma interface conversacional deve substituir filtros e categorias?\nNão obrigatoriamente. Preserve caminhos reconhecíveis e permita que a pessoa veja resultados e compare alternativas sem responder a perguntas desnecessárias.",
+        "url": "https://www.agenciatweed.com.br/busca-interna-loja-linguagem-cliente/",
+        "imageFile": "conteudos/pauta-reposicao-2026-11-07-f728b91255f5/imagens/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+        "imageName": "Gemini_Generated_Image_7nlkvz7nlkvz7nlk.jfif",
+        "imageWidth": 2528,
+        "imageHeight": 1696,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/7442452e2c4b1174637c88951abc0fbeb9902ede9fb0a2d6bfb56362f3c97351.jpg",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-10T08:39:39.509Z"
+        }
+      },
+      "createdAt": "2026-11-10T08:39:39.517Z",
+      "completedAt": "2026-11-12T08:00:49.242570+00:00"
     }
   ]
 }
