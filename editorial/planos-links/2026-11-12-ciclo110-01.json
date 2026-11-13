@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "contas-marketing-acessos-continuidade",
+  "contentSha256": "15d1615e843bbdc41f1fa14b853125565c4484b7680953209ec6a45e5f2eacf8",
+  "modifiedAt": "2026-11-12",
+  "links": [
+    {
+      "from": "apresentacao-comercial-manutencao-proxima-versao",
+      "to": "contas-marketing-acessos-continuidade",
+      "anchor": "depende de uma conta que ficará indisponível",
+      "context": "Também confira o acesso. Uma referência central não ajuda se depende de uma conta que ficará indisponível ou se quem precisa atualizar não tem a permissão adequada. Organize isso conforme os acordos e as condições de uso dos materiais, sem presumir direitos ou acessos que não foram combinados.",
+      "reason": "Aprofunda diretamente a continuidade do acesso à conta e os papéis necessários para manter o material disponível quando o responsável muda."
+    }
+  ]
+}

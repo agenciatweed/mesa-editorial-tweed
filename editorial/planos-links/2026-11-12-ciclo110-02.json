@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "busca-interna-loja-linguagem-cliente",
+  "contentSha256": "db051a9c1942143a3ac4f8590ea320a68987c20f5536a2fbab329b091126409b",
+  "modifiedAt": "2026-11-12",
+  "links": [
+    {
+      "from": "nome-produto-clareza-proposta",
+      "to": "busca-interna-loja-linguagem-cliente",
+      "anchor": "quando o cliente usa uma descrição aproximada",
+      "context": "Depois da escolha, confira se a equipe consegue descrever a novidade de maneira consistente. O comercial precisa entender a relação com as opções anteriores. O conteúdo precisa saber quais diferenças destacar. O atendimento precisa reconhecer o pedido mesmo quando o cliente usa uma descrição aproximada.",
+      "reason": "Aplica ao catálogo e à busca interna a diferença entre a denominação interna e a descrição usada pelo cliente para encontrar a oferta."
+    }
+  ]
+}
