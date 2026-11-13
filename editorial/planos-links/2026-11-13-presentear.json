@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "comprar-presentear-orientar-escolha",
+  "contentSha256": "c1a3a8e67abf6a87977ff5ed659db7495feaba9fdd4b069a0384eb8c4c0022ec",
+  "modifiedAt": "2026-11-13",
+  "links": [
+    {
+      "from": "comprar-presentear-orientar-escolha",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "Use os mesmos critérios nas opções pertinentes",
+      "context": "Escolha informações que permitam comparar essas alternativas. Na loja hipotética, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.",
+      "reason": "Aprofunda a comparação de alternativas por informações equivalentes de conteúdo, finalidade e condições de uso."
+    }
+  ]
+}

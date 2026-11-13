@@ -12110,6 +12110,75 @@
       "createdAt": "2026-11-12T16:17:32.882Z",
       "startedAt": "2026-11-12T20:05:38.271Z",
       "completedAt": "2026-11-12T20:06:57.202Z"
+    },
+    {
+      "id": "3ed3a475-1856-433e-937f-6693effdde03",
+      "itemId": "pauta-diaria-2026-11-08",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "806f3a4b31af8b64f0a1680df50823372d5ded748910fa32a416d47126f02a6f",
+      "snapshot": "806f3a4b31af8b64f0a1680df50823372d5ded748910fa32a416d47126f02a6f",
+      "input": {
+        "id": "pauta-diaria-2026-11-08",
+        "title": "Quem compra para presentear encontra as respostas de que precisa?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Em 03/11/2026, a John Lewis publicou os bastidores de sua campanha de Natal, cuja narrativa acompanha uma avó que não sabe o que interessa aos netos. Usar a narrativa declarada pela própria marca apenas como gancho, sem alegar eficácia comercial ou extrapolar comportamento britânico ao Brasil. Tese própria: quando comprador e usuário são pessoas diferentes, a comunicação do produto precisa ajudar quem escolhe com informação incompleta, sem fingir conhecer as preferências do destinatário. Exemplo hipotético de uma loja de presentes que organiza indicações de uso, requisitos e opções de escolha para um comprador que não usará o item. Examinar o que a página esclarece, quais dúvidas o atendimento deve fazer e quando reconhecer que falta informação para recomendar. Evitar estereótipos por idade ou gênero e sugestões de coletar dados de terceiros. Diferenciar da busca interna: foco no papel do comprador que presenteia e na adequação ao destinatário, não no mecanismo de busca. Diferenciar de prazo promocional e de trocas: foco na escolha antes da compra, sem inventar políticas ou aconselhamento jurídico. Sem copiar a campanha ou prometer vendas.",
+        "audience": "Donos de pequenas lojas, marcas de produtos e equipes de conteúdo e atendimento que recebem compradores de presentes.",
+        "goal": "Perceber que quem compra nem sempre é quem usa e preparar informações que orientem a escolha sem adivinhar o gosto do destinatário.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-08",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "John Lewis, Christmas 2026: behind the scenes of our TV ad, 03/11/2026",
+              "url": "https://www.johnlewis.com/content/gifts/behind-the-scenes-christmas-advert",
+              "publishedAt": "2026-11-03"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "1b74f7f1-4264-4b13-bc1e-931257df482d",
+          "completedAt": "2026-11-08T19:42:08.654Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "f4b17fb2b64673a141cdb4d01d591de7018dc0f15d4699bbd3473c60ce256bdd"
+        },
+        "body": "A pessoa entra na loja procurando um presente. Sabe quanto pode gastar, conhece um interesse de quem vai receber e quer acertar. Não sabe, porém, quais acessórios essa pessoa já tem, que espaço possui em casa ou se o produto exige algum conhecimento para começar a usar.\n\nQuem compra para presentear precisa escolher sem ocupar exatamente o lugar de quem vai usar. A comunicação pode ajudar a reconhecer condições importantes ou preencher essa distância com uma promessa vaga: “é impossível não gostar”. A segunda alternativa parece acolhedora, mas deixa as dúvidas intactas.\n\nEm publicação de 3 de novembro de 2026, a John Lewis apresentou os bastidores de sua campanha de Natal. A narrativa acompanha uma avó que desconhece os interesses dos netos. É uma história publicitária descrita pela própria marca, sem comprovação de eficácia comercial ou de como compradores brasileiros se comportam.\n\nA situação oferece uma pergunta útil para uma pequena empresa: a página do produto ajuda uma pessoa que está escolhendo para outra?\n\n## O comprador conhece uma parte da história\n\nImagine uma pequena loja de presentes que oferece objetos e conjuntos para atividades de lazer. É um exemplo hipotético. Uma cliente quer presentear uma amiga que gosta de desenhar, mas não conhece os materiais que ela utiliza.\n\nO catálogo destaca um conjunto bonito e o descreve como ideal para pessoas criativas. A frase não esclarece se os itens servem para quem está começando, se dependem de outro material ou se têm uma aplicação específica. O interesse por desenho ainda é uma informação ampla demais para sustentar a recomendação.\n\nA equipe pode começar separando o que a compradora sabe do que está supondo. Ela conhece uma atividade praticada pela amiga? Recebeu uma indicação de produto? Existe alguma condição de uso que consiga confirmar? O objetivo é encontrar informações pertinentes, sem transformar o atendimento numa investigação sobre a vida de quem receberá o presente.\n\nNão é necessário pedir dados pessoais de terceiros para conduzir essa conversa. Uma pergunta sobre a finalidade pretendida costuma ser mais útil que uma lista de informações sem relação com a escolha.\n\n## Explique o uso antes de anunciar a ocasião\n\nOrganizar uma vitrine por ocasião pode ajudar a iniciar a procura. Não substitui explicar o produto. Um objeto pode ser apresentado como presente de aniversário e continuar exigindo condições que o comprador desconhece.\n\nNa loja hipotética, a descrição do conjunto pode informar o conteúdo, a aplicação prevista e o que é necessário para utilizá-lo, desde que essas características estejam confirmadas. Também pode esclarecer se a apresentação mostra acessórios que não acompanham a compra.\n\nEssas informações permitem uma conversa mais precisa. A cliente pode perceber que precisa confirmar um detalhe antes de escolher ou considerar uma alternativa que exija menos conhecimento sobre os materiais já usados pela amiga.\n\nA empresa não precisa resolver toda incerteza com uma sugestão imediata. Às vezes, o atendimento ajuda justamente quando identifica uma pergunta que ainda precisa de resposta.\n\n## Evite transformar um perfil em garantia de preferência\n\nExpressões como “para toda mãe”, “para qualquer adolescente” ou “para quem já tem tudo” simplificam a vitrine. Também podem esconder diferenças que importam para o uso e para o gosto de cada pessoa.\n\nEm vez de presumir uma preferência a partir de idade ou gênero, descreva características que possam ser avaliadas: finalidade, dimensões, materiais, conteúdo e condições pertinentes. Se houver uma recomendação de uso fornecida pelo fabricante, preserve seu alcance, sem ampliá-la por conveniência comercial.\n\nNa loja hipotética, dizer que um conjunto reúne determinados materiais para desenho permite examinar a adequação. Afirmar que qualquer pessoa criativa vai adorá-lo transforma uma descrição em previsão sobre alguém que a equipe não conhece.\n\nA linguagem pode continuar calorosa. O cuidado está em oferecer orientação sem prometer uma reação emocional nem apresentar uma possibilidade como certeza.\n\n## Ajude a comparar sem decidir pela pessoa\n\nUma seleção de presentes pode reunir opções com diferenças difíceis de reconhecer pela fotografia. O comprador vê caixas parecidas e preços diferentes, mas não entende o que muda na experiência de uso.\n\nEscolha informações que permitam comparar essas alternativas. Na loja hipotética, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.\n\nTambém deixe claro o que é escolha estética e o que altera a utilização. Uma cor pode representar uma preferência; uma dimensão pode definir se o objeto cabe no espaço disponível. Não trate essas duas dúvidas como se exigissem a mesma resposta.\n\nA comparação deve ajudar a reconhecer o que ainda falta saber. Não precisa conduzir sempre ao conjunto mais caro nem aumentar o número de alternativas até tornar a escolha mais difícil.\n\n## Faça a informação chegar ao atendimento\n\nUma página esclarece que o conjunto atende a determinada aplicação. No atendimento, alguém o recomenda para qualquer situação. A contradição recoloca a dúvida no caminho do comprador.\n\nConteúdo e equipe precisam trabalhar com a mesma referência. Reúna as perguntas que dependem de confirmação, os limites da oferta e os pontos que ajudam a distinguir as opções. Uma descrição atualizada perde utilidade se a conversa comercial continua apoiada numa versão antiga.\n\nNa empresa hipotética, o atendimento pode reconhecer que não tem base suficiente para indicar um conjunto específico. Pode explicar quais informações faltam e apresentar somente alternativas cuja adequação consiga discutir. Isso é diferente de improvisar uma garantia para encerrar a conversa.\n\nEvite inventar condições de troca ou serviços adicionais para compensar a incerteza. Se uma informação operacional for pertinente, confira a política vigente e apresente apenas o que a empresa realmente oferece.\n\n## Confira a página pelo olhar de quem não vai usar\n\nEscolha um produto e formule uma tarefa delimitada: alguém quer comprá-lo para outra pessoa e conhece apenas parte do contexto. Que informações da página permitem avaliar a escolha? Que perguntas surgem? Onde a descrição depende de um conhecimento que o comprador talvez não tenha?\n\nPeça uma leitura a alguém que não participou da elaboração do material. Registre os pontos concretos de dúvida, sem transformar uma observação isolada numa conclusão sobre todos os clientes.\n\nA revisão pode revelar uma fotografia que confunde o conteúdo da caixa, uma condição de uso omitida ou uma recomendação ampla demais. Cada problema oferece uma tarefa de comunicação que pode ser corrigida e conferida novamente.\n\nAntes da próxima campanha de presentes, olhe além da ocasião e da embalagem. Quem compra precisa de ajuda para entender o que oferece a outra pessoa. Uma marca orienta melhor essa escolha quando esclarece o que sabe e reconhece o que ainda depende de confirmação.",
+        "sources": "[John Lewis, bastidores da campanha de Natal, 03/11/2026](https://www.johnlewis.com/content/gifts/behind-the-scenes-christmas-advert)\n\nA fonte descreve uma narrativa publicitária, sem comprovação de eficácia comercial ou extrapolação para compradores brasileiros. A loja de presentes é hipotética; as propostas de comunicação e atendimento são análise editorial da Tweed.",
+        "prompt": "Conceptual editorial photograph without people, an open cream gift box with a carefully fitted insert shaped for a tall narrow bottle, beside it a broad handmade ceramic teapot that clearly cannot fit that recess, both arranged within a warm plaster wall alcove on a shallow integrated ledge, the lid leaning upright to reveal the mismatch, close asymmetric composition with tactile paper and glazed ceramic, soft neutral key light and a restrained pale teal reflection inspired by #08ffb1 on the inner side of the alcove, no cubes, prisms, labyrinth, light beams, tabletop samples, readable text or logos --ar 3:2",
+        "imageAlt": "Uma caixa de presente aberta com encaixe estreito para uma garrafa aparece ao lado de um bule largo de cerâmica, em um nicho claro com reflexo teal discreto.",
+        "date": "2026-11-13",
+        "keyword": "comprar para presentear",
+        "slug": "comprar-presentear-orientar-escolha",
+        "meta": "Comprar para presentear exige escolher para outra pessoa. Veja como descrições e atendimento podem esclarecer o uso e os limites sem adivinhar preferências.",
+        "faq": "O que esclarecer para quem vai comprar para presentear?\nInforme finalidade, características e condições de uso confirmadas, distinguindo o que acompanha a compra e o que depende de informação adicional.\n\nIdade ou gênero garantem que alguém vai gostar do presente?\nNão. Prefira características que permitam avaliar a adequação e evite apresentar um perfil genérico como previsão de preferência.\n\nComo atender quando falta informação para recomendar um presente?\nExplique o que ainda precisa ser confirmado e apresente apenas alternativas cuja adequação possa ser discutida, sem inventar garantias ou condições de troca.",
+        "url": "https://www.agenciatweed.com.br/comprar-presentear-orientar-escolha/",
+        "imageFile": "conteudos/pauta-diaria-2026-11-08/imagens/f238f6636587b492714cc0fe4f3fe7dbc431f395b6cf54780b03fb8bc83cd578.jpg",
+        "imageName": "Gemini_Generated_Image_fnyfvxfnyfvxfnyf.jfif",
+        "imageWidth": 2528,
+        "imageHeight": 1696,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/f238f6636587b492714cc0fe4f3fe7dbc431f395b6cf54780b03fb8bc83cd578.jpg",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-10T08:42:46.270Z"
+        }
+      },
+      "createdAt": "2026-11-10T08:42:46.276Z",
+      "completedAt": "2026-11-13T08:00:50.073092+00:00"
     }
   ]
 }
