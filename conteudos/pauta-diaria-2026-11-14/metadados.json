@@ -1,0 +1,27 @@
+{
+  "id": "pauta-diaria-2026-11-14",
+  "title": "A trilha do seu vídeo está encobrindo o que precisa ser ouvido?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Em publicação de 11 de novembro de 2026, a Adobe Research descreveu o Generate Soundscape no Premiere: o recurso analisa imagens e propõe camadas de ambiente e efeitos sonoros sincronizados, que permanecem editáveis. A notícia é um ponto de partida para discutir uma decisão anterior à quantidade de sons disponíveis: o que a pessoa precisa ouvir e compreender no vídeo de uma marca. Tese editorial: a produção sonora precisa organizar prioridades entre fala, ambiente, música e efeitos conforme a finalidade da peça. Mais camadas não demonstram melhor comunicação. Usar um exemplo explicitamente hipotético de uma pequena fabricante que publica uma demonstração narrada de um móvel e acrescenta trilha e efeitos que disputam atenção com orientações importantes. Definir a função do áudio no briefing, identificar os trechos essenciais da fala, conferir o conjunto no arquivo final e nos dispositivos pertinentes e registrar ajustes concretos para a edição. Conferir legendas quando previstas, sem tratá-las como justificativa para deixar uma fala incompreensível. Não inventar testes com consumidores, ganhos de vendas ou normas universais de volume. Não oferecer uma receita técnica de mixagem nem garantias de acessibilidade, fidelidade de sons gerados ou licenciamento. O recorte é a inteligibilidade e a hierarquia do áudio de um vídeo explicativo, distinto da experiência sensorial num espaço físico e da adaptação de enquadramento e duração entre canais. Não é um tutorial nem uma recomendação de compra de software; não presumir disponibilidade em qualquer conta ou versão.",
+  "audience": "Gestores de marketing e responsáveis por conteúdo de pequenas e médias empresas que aprovam vídeos narrados de produtos, serviços ou demonstrações.",
+  "goal": "De aprovar o som pela impressão de acabamento para conferir se a fala e as informações essenciais continuam compreensíveis no vídeo final, com prioridades claras para quem edita.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-14",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Adobe Research, The sound of a scene: video-guided AI soundscapes, 11/11/2026",
+        "url": "https://research.adobe.com/news/the-sound-of-a-scene-adobe-research-brings-video-guided-ai-soundscapes-to-premiere-pro/",
+        "publishedAt": "2026-11-11"
+      }
+    ]
+  }
+}

@@ -12310,6 +12310,75 @@
       "createdAt": "2026-11-13T20:25:58.972Z",
       "startedAt": "2026-11-14T02:05:49.248Z",
       "completedAt": "2026-11-14T02:08:49.301Z"
+    },
+    {
+      "id": "b332699c-fd3f-49be-8d2b-6abf60deb742",
+      "itemId": "pauta-reposicao-2026-11-08-d6c055aec7e0",
+      "action": "publicar",
+      "state": "done",
+      "workKey": "f6c698ac852b95996624e323216734b62c49d0dde2f577241bc6f20b88e3a5a0",
+      "snapshot": "f6c698ac852b95996624e323216734b62c49d0dde2f577241bc6f20b88e3a5a0",
+      "input": {
+        "id": "pauta-reposicao-2026-11-08-d6c055aec7e0",
+        "title": "O QR code da sua embalagem leva a uma informação que continua útil?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 27/10/2026: a GS1 Brasil relatou uma apresentação no Agro em Código sobre ligação entre embalagem, identificador e informações digitais, incluindo leitura de QR Code. Ampliada a janela até 30 dias para encontrar uma fonte primária pertinente ao tema; não confundir data do evento, publicação e widgets atualizados. Usar apenas como contexto, sem recomendar um padrão técnico ou alegar rastreabilidade garantida. Tese editorial própria: um código impresso cria uma promessa sobre o destino digital, que precisa continuar compreensível e útil enquanto a embalagem circula. Exemplo hipotético de uma pequena marca que liga a embalagem a orientações de uso e precisa conferir pertinência da página, identificação da versão do produto, leitura pelo celular e responsável por manter o destino. Distinguir instrução permanente de campanha encerrada. Não ensinar geração técnica de códigos, inventar obrigações legais ou tratar leitura como prova de compra, satisfação ou engajamento. Não usar percentuais de pilotos nem copiar casos de fornecedores. Diferenciar de versões na embalagem: foco na continuidade entre o impresso e seu destino, não na distinção visual das versões. Diferenciar de informações atualizadas nos canais: foco na vida útil de um link já impresso, não numa atualização geral de perfis.",
+        "audience": "Donos de pequenas marcas de produtos e equipes de design, conteúdo e atendimento que usam QR codes em embalagens ou materiais impressos.",
+        "goal": "De considerar o QR code uma tarefa concluída ao imprimir para assumir a manutenção da promessa e da informação encontrada depois da leitura.",
+        "status": "Pronto",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {
+          "thesis": true,
+          "facts": true,
+          "voice": true,
+          "privacy": true
+        },
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-08",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "GS1 Brasil, Agro em Código: Rastreabilidade figital uniu embalagem, dados e gestão, 27/10/2026",
+              "url": "https://noticias.gs1br.org/rastreabilidade-figital-agro-industria/",
+              "publishedAt": "2026-10-27"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "done",
+          "lastJob": "7fecaaf8-42d0-4ccb-97b8-be508b48a52c",
+          "completedAt": "2026-11-09T19:44:32.532Z",
+          "message": "SEO revisado; envie a capa e aprove.",
+          "reviewKey": "94765a133c41d161c3210bce3fe78665189585c7ca7333a5d3624126bd60cde5"
+        },
+        "body": "A embalagem convida a apontar a câmera para um QR code. A pessoa espera encontrar uma orientação sobre o produto que acabou de comprar. A página abre, mas mostra uma campanha encerrada, um catálogo genérico ou uma mensagem de erro. O código continua impresso; a informação que justificava sua presença desapareceu.\n\nUm QR code na embalagem cria uma ligação que pode durar mais que a campanha em que foi concebido. Antes de aprovar a arte, vale decidir que pergunta ele ajuda a responder, a que produto se refere e quem cuidará do destino enquanto aquele material continuar circulando.\n\nEm reportagem de 27 de outubro de 2026, a GS1 Brasil relatou uma apresentação no Agro em Código sobre a conexão entre embalagem, identificadores e informações digitais, incluindo QR codes. O contexto é a organização de dados associados ao produto. Isso não transforma qualquer código impresso em garantia de rastreabilidade ou de confiança.\n\nPara a comunicação de uma pequena marca, existe uma tarefa mais delimitada: cumprir a promessa feita ao lado do código.\n\n## Diga o que a pessoa vai encontrar\n\nImagine uma pequena marca de bolsas que inclui na etiqueta um acesso a orientações de conservação. É um exemplo hipotético. A mensagem indica uma informação de uso, mas o endereço leva à página inicial da loja, onde o visitante precisa descobrir por onde começar.\n\nO destino abriu corretamente. A tarefa anunciada ainda não foi atendida. Uma pessoa que acabou de chegar não conhece a organização interna do site e pode não saber qual categoria corresponde à peça que tem em mãos.\n\nAntes de escolher o texto da etiqueta, defina a utilidade esperada. A página explica o cuidado com aquele produto? Apresenta materiais complementares? Ajuda a localizar um canal de orientação? Cada objetivo exige conferir um caminho diferente.\n\nEvite prometer uma informação específica e entregar apenas uma oportunidade de venda. O convite pode ser curto, mas deve corresponder ao que a pessoa encontrará depois da leitura.\n\n## Confira a relação com o produto certo\n\nNa marca hipotética, duas bolsas têm aparência semelhante e materiais diferentes. Uma página que reúne todas as orientações sem identificar a que item se aplicam pode deixar o comprador diante de uma escolha que não tem condições de fazer.\n\nA equipe precisa conferir as informações com quem conhece o produto. Nomes, imagens e referências devem permitir reconhecer a versão pertinente. Dados desconhecidos continuam sendo pontos a esclarecer, em vez de receber uma resposta genérica para completar o conteúdo.\n\nIsso não significa que cada embalagem precise levar a uma página exclusiva. Uma página compartilhada pode funcionar quando a identificação e os limites de aplicação estão claros. O critério é a capacidade de encontrar a orientação adequada, e não a quantidade de endereços criados.\n\nTambém não convém presumir que uma imagem bonita esclareça todas as diferenças. Se uma condição depende do material ou da versão, essa relação precisa estar compreensível no texto e na apresentação.\n\n## Separe informação duradoura de ação temporária\n\nUma campanha tem começo e fim. Uma bolsa, uma caixa ou um material impresso pode permanecer com o cliente por mais tempo. Vincular as duas durações sem um plano de continuidade cria uma pendência que só aparece depois.\n\nNa empresa hipotética, o código anunciado como acesso a orientações não deveria perder essa função quando termina uma promoção. Se a página também apresenta uma campanha, a informação de uso precisa continuar reconhecível, sem depender da oferta temporária.\n\nAntes de uma ação terminar, confira o que ficará disponível. O endereço continuará funcionando? A mensagem ainda descreve o destino? Existe alguma informação que precisa permanecer para quem conserva uma embalagem antiga?\n\nNão é necessário manter uma promoção aberta indefinidamente. É necessário evitar que o fim da ação apague silenciosamente uma utilidade que o material impresso continua prometendo.\n\n## Leia o caminho pelo celular, no contexto real\n\nA aprovação costuma acontecer numa tela grande, com a equipe sabendo o que procurar. O cliente pode acessar a página pelo telefone, com a peça ao lado e pouco tempo para entender o próximo passo.\n\nFaça uma conferência com o material que será usado. O código pode ser localizado? A página abre? O produto correspondente aparece de forma reconhecível? O texto pode ser lido sem esforço desproporcional? Há algo bloqueando a orientação anunciada?\n\nQuestões de impressão, aplicação do identificador e funcionamento técnico precisam ser verificadas por quem tem competência para avaliá-las. Uma leitura bem-sucedida em uma prova não comprova o comportamento de todos os materiais ou aparelhos.\n\nNa comunicação, a tarefa é acompanhar a experiência completa. Abrir um endereço é apenas uma etapa; encontrar e compreender a informação são partes diferentes daquilo que a marca precisa conferir.\n\n## Defina quem mantém a ligação funcionando\n\nUma pessoa aprova a embalagem, outra atualiza o site e uma terceira acompanha dúvidas. Sem um responsável pela continuidade, uma mudança aparentemente pequena pode romper a ligação entre essas partes.\n\nNa marca hipotética, a referência de trabalho pode registrar qual material impresso aponta para qual informação, quem confere seu conteúdo e quem precisa participar de uma alteração. Não é necessário reunir dados de clientes para organizar essa responsabilidade.\n\nSe a página mudar, confira os acessos que já foram impressos antes de concluir a atualização. Se o produto receber uma nova versão, avalie como distinguir orientações atuais e anteriores. A equipe de atendimento precisa saber onde encontrar a referência pertinente quando uma dúvida chegar.\n\nO cuidado não termina na primeira publicação. Ele passa a integrar a manutenção do ponto de contato criado pela própria marca.\n\n## Não confunda leitura com entendimento\n\nUm registro de acesso pode mostrar que alguém abriu um endereço, conforme os limites da medição disponível. Não demonstra sozinho que essa pessoa comprou o produto, compreendeu a orientação ou ficou satisfeita.\n\nA equipe pode acompanhar dúvidas recorrentes e verificar se o destino oferece as informações prometidas. Esses sinais ajudam a formular tarefas de melhoria. Não devem receber um significado maior do que conseguem sustentar.\n\nSe o atendimento recebe perguntas que a página pretendia responder, investigue o desencontro. Talvez o conteúdo esteja incompleto, a identificação do produto seja ambígua ou a pessoa não encontre o trecho necessário. Evite concluir automaticamente que ninguém leu.\n\nNa próxima embalagem, revise o convite e o que acontece depois dele. Um código pode ocupar pouco espaço na arte e, ainda assim, criar uma responsabilidade duradoura. A experiência melhora quando a informação continua útil depois que a campanha sai do ar.",
+        "sources": "[GS1 Brasil, Rastreabilidade figital uniu embalagem, dados e gestão, 27/10/2026](https://noticias.gs1br.org/rastreabilidade-figital-agro-industria/)\n\nA fonte relata uma apresentação no Agro em Código, sem garantir resultados para qualquer código ou embalagem. A marca de bolsas é hipotética. As propostas de comunicação são análise editorial da Tweed, sem instruções de implementação técnica ou interpretação de obrigações legais.",
+        "prompt": "Natural editorial photograph of one adult standing in a small bright home laundry room, hanging a plain canvas travel bag on a wall hook while checking a phone held in the other hand, the sewn care label visible but unreadable on the bag edge, medium wide side view showing the bag, the person and the simple domestic surroundings, soft neutral daylight preserving natural skin tones, a restrained pale teal reflection inspired by #08ffb1 on a shaded wall tile near the doorway, candid practical action, no meeting, papers, laptop, tabletop samples, readable text or logos --ar 3:2",
+        "imageAlt": "Uma pessoa pendura uma bolsa de lona em um gancho e consulta o celular em uma lavanderia clara, com reflexo teal discreto na parede.",
+        "date": "2026-11-14",
+        "keyword": "QR code na embalagem",
+        "slug": "qr-code-embalagem-informacao-util",
+        "meta": "O QR code na embalagem entrega a informação prometida? Confira o destino, a identificação do produto e a continuidade da página depois que a campanha termina.",
+        "faq": "O que conferir antes de imprimir um QR code na embalagem?\nDefina a informação prometida, confirme a relação com o produto e verifique o destino completo, incluindo identificação, leitura e responsabilidade pela manutenção.\n\nO fim de uma campanha pode apagar a orientação anunciada na embalagem?\nA embalagem pode continuar circulando. Planeje a continuidade das informações duradouras e deixe claro o que mudou quando uma ação temporária termina.\n\nUma leitura do QR code comprova compra ou satisfação?\nNão. O acesso, conforme os limites da medição disponível, não comprova sozinho compra, entendimento da orientação ou satisfação.",
+        "url": "https://www.agenciatweed.com.br/qr-code-embalagem-informacao-util/",
+        "imageFile": "conteudos/pauta-reposicao-2026-11-08-d6c055aec7e0/imagens/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
+        "imageName": "Rotina tranquila na lavanderia.png",
+        "imageWidth": 1536,
+        "imageHeight": 1024,
+        "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/23efa0e5cd293cea7ecf2a60d1ea766750ab1e6a81393b6b4c74fbf562ebbf04.png",
+        "publication": {
+          "state": "queued",
+          "approvedAt": "2026-11-10T08:41:49.659Z"
+        }
+      },
+      "createdAt": "2026-11-10T08:41:49.666Z",
+      "completedAt": "2026-11-14T08:05:58.759000+00:00"
     }
   ]
 }

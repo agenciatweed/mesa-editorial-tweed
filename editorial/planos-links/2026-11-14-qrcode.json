@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "qr-code-embalagem-informacao-util",
+  "contentSha256": "1b4eb32f8ee3a6276f0670cf3cea8ac6c21f39bcb282183dc3bcec9cb3c4505a",
+  "modifiedAt": "2026-11-14",
+  "links": [
+    {
+      "from": "qr-code-embalagem-informacao-util",
+      "to": "embalagem-diferenciar-versoes-produto",
+      "anchor": "reconhecer a versão pertinente",
+      "context": "A equipe precisa conferir as informações com quem conhece o produto. Nomes, imagens e referências devem permitir reconhecer a versão pertinente. Dados desconhecidos continuam sendo pontos a esclarecer, em vez de receber uma resposta genérica para completar o conteúdo.",
+      "reason": "Aprofunda a identificação da versão correta do produto, necessária para associar o QR code às orientações pertinentes."
+    }
+  ]
+}
