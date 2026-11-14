@@ -12179,6 +12179,137 @@
       },
       "createdAt": "2026-11-10T08:42:46.276Z",
       "completedAt": "2026-11-13T08:00:50.073092+00:00"
+    },
+    {
+      "id": "729c3653-4902-464b-b1d8-672588c13e4f",
+      "itemId": "pauta-reposicao-2026-11-12-ab69d3c1c808",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "5554965bc426e8f7635b6b1cf64bad2245fdc2a7960d4824bb5ff326aa11e3f6",
+      "snapshot": "76f8025d153be9b86d2cb72869697490d86edb864f5c0d0ba8dfaf73cf41100c",
+      "input": {
+        "id": "pauta-reposicao-2026-11-12-ab69d3c1c808",
+        "title": "Seu logotipo funciona no tamanho em que o cliente encontra a marca?",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: as diretrizes públicas da Coder exibem a data de 11/11/2026 e distinguem o logotipo principal de uma versão compacta para restrições de espaço, incluindo favicon e avatares sociais. Tratar a data como a data declarada das diretrizes, sem inventar data de lançamento de uma identidade ou resultados. As regras descrevem aquela marca e não devem ser copiadas como norma universal. Tese própria: aprovar o logotipo ampliado numa apresentação não demonstra que ele será legível e reconhecível nos pequenos espaços em que o público realmente o encontra. Exemplo hipotético de uma PME de manutenção cujo nome horizontal se perde no avatar circular e no ícone da aba do navegador. Comparar a aplicação no tamanho real e no contexto de uso, observando recorte, espaço livre, contraste e a identificação complementar pelo nome do perfil. Se houver uma versão compacta aprovada, conferir sua adequação; se não houver, encaminhar a necessidade ao responsável pelo sistema visual em vez de inventar um símbolo, cortar letras ou deformar o desenho. Não recomendar redesign apenas porque uma aplicação falhou. Não oferecer medidas mínimas universais, prometer reconhecimento ou certificar acessibilidade a partir de uma inspeção visual. Diferenciar do artigo sobre clareza da marca além da beleza do logotipo: foco específico na reprodução e identificação em formatos pequenos. Diferenciar de códigos visuais do setor: foco na adequação da versão ao suporte, não na diferenciação entre concorrentes. Diferenciar de peça aprovada versus veiculada: a questão é uma limitação prevista de aplicação do próprio sistema, não a escolha de um arquivo de campanha desatualizado. Não aplicar fontes, cores, instruções ou ativos da Coder ao site da Tweed.",
+        "audience": "Donos de PMEs e profissionais de marketing e design que precisam aplicar a identidade da empresa em avatares, ícones de navegador e outros espaços pequenos.",
+        "goal": "De julgar o logotipo apenas ampliado para conferir versões aprovadas em aplicações reais e identificar quando a limitação exige uma decisão de design, preservando a coerência da marca.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-12",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Coder, Visual identity guidelines, data declarada de 11/11/2026",
+              "url": "https://coder.com/brand",
+              "publishedAt": "2026-11-11"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "b4503c68-f9fa-458c-8237-254b34fe5002",
+          "completedAt": "2026-11-12T20:06:57.091Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Na apresentação da identidade, o nome da empresa ocupa boa parte da tela. As letras estão nítidas e os detalhes aparecem com clareza. Depois, o mesmo desenho vai para o avatar de um perfil. O círculo corta as extremidades e o nome fica pequeno demais para ser lido naquela aplicação.\n\nUm logotipo em tamanho pequeno precisa ser avaliado nas condições em que será encontrado. A aprovação do desenho ampliado oferece uma informação sobre aquela apresentação. Para saber se ele funciona num avatar ou no ícone da aba do navegador, é necessário conferir a aplicação real.\n\nAs diretrizes públicas da Coder, com data declarada de 11 de novembro de 2026, distinguem um logotipo principal de uma versão compacta para espaços limitados, incluindo favicon e avatares sociais. É uma referência de organização daquela identidade. Suas regras não são medidas universais nem demonstram que outra marca deva adotar o mesmo desenho, as mesmas proporções ou a mesma solução.\n\n## Comece pelos lugares em que a marca aparece\n\nImagine uma pequena empresa de manutenção que utiliza um logotipo com nome horizontal e um descritor abaixo. É um exemplo hipotético. A composição funciona na lateral do veículo e no cabeçalho de uma proposta, mas o avatar do canal de atendimento recebe exatamente a mesma versão, reduzida até caber.\n\nO problema fica evidente quando a equipe olha o perfil no tamanho habitual. As palavras se comprimem, o descritor perde leitura e parte do nome se aproxima da borda circular. O arquivo está inteiro; a aplicação é que não oferece espaço suficiente para aquela composição.\n\nAntes de pedir uma mudança, reúna alguns usos que importam para o negócio. O avatar do atendimento, o perfil social, a aba do navegador e uma pequena assinatura podem impor condições diferentes. Não é necessário inventariar todos os suportes possíveis para reconhecer uma limitação concreta.\n\nObserve cada um no contexto em que será visto. Uma miniatura aberta isoladamente numa tela grande pode esconder o problema que existe dentro de uma lista, perto de outros elementos e com o recorte do próprio canal.\n\n## Confira o tamanho real antes de ampliar para julgar\n\nAmpliar a imagem é útil para examinar o arquivo. A avaliação da leitura, porém, precisa voltar ao tamanho em que ele aparece para a pessoa. O zoom pode fazer uma aplicação frágil parecer resolvida.\n\nNa empresa hipotética, a equipe pode observar o avatar no perfil e numa lista de conversas. O desenho é identificável nas duas situações? O recorte permanece adequado? O nome complementar exibido pelo canal ajuda a reconhecer quem está falando?\n\nEssa última informação faz parte do contexto. Um símbolo não precisa carregar sozinho todas as tarefas de identificação quando o nome da empresa está claramente associado a ele. Ao mesmo tempo, a existência de um nome ao lado não justifica manter uma imagem cortada ou incoerente com a identidade.\n\nProcure descrever o que foi observado: o descritor deixou de ser legível, uma margem foi cortada ou determinado detalhe desapareceu. Uma observação específica oferece uma referência melhor para o responsável pelo design do que dizer apenas que a marca ficou ruim.\n\n## Use as versões previstas pelo sistema visual\n\nA identidade da empresa pode já ter uma versão compacta, uma composição vertical ou orientações para aplicações restritas. Vale conferir esses recursos antes de improvisar uma adaptação.\n\nNo exemplo hipotético, se existe uma versão aprovada para avatar, ela precisa ser avaliada no suporte pertinente. A presença no manual não elimina a conferência, especialmente quando o canal aplica um recorte diferente ou mostra o elemento em condições que não foram examinadas antes.\n\nSe não houver uma alternativa adequada, leve a necessidade a quem cuida do sistema visual. Cortar letras, retirar partes do desenho ou criar um símbolo sem critério pode produzir uma nova identidade por acidente. O ajuste exige compreender quais elementos sustentam a relação com a marca existente.\n\nIsso também não significa que toda dificuldade exija um redesign completo. Uma limitação pode ser resolvida com uma aplicação correta de recursos já existentes. Em outros casos, será necessário desenvolver uma versão adicional. O alcance da decisão depende do que foi observado e do projeto da identidade.\n\n## O fundo e o recorte participam da leitura\n\nUma marca visível sobre uma área lisa pode perder definição quando colocada sobre uma fotografia movimentada. Uma margem que parece suficiente num arquivo quadrado pode desaparecer quando a imagem é apresentada num círculo.\n\nNa empresa hipotética, vale conferir a versão escolhida sobre os fundos previstos e dentro do recorte efetivo do canal. A composição continua inteira? Existe espaço livre suficiente para distingui-la dos elementos ao redor? A combinação entre desenho e fundo permite perceber seus contornos?\n\nEssas perguntas não autorizam mudar cores ou acrescentar efeitos por tentativa. Use as aplicações aprovadas e encaminhe a dificuldade quando elas não forem suficientes. A resposta precisa preservar uma relação reconhecível entre os pontos de contato da empresa.\n\nTambém não há uma medida mínima única que resolva todas as marcas e suportes. Desenhos com proporções e detalhes diferentes podem exigir soluções distintas. Uma inspeção visual delimitada ajuda a localizar problemas, mas não certifica acessibilidade nem comprova reconhecimento por todo o público.\n\n## Transforme a conferência numa orientação de uso\n\nDepois de definir uma aplicação adequada, a próxima pessoa que precisar usá-la deve conseguir reconhecer a escolha. Na PME hipotética, isso pode significar identificar a versão destinada ao avatar e os cuidados de fundo e recorte que foram efetivamente conferidos.\n\nO registro pode mostrar o contexto aprovado e indicar quando procurar o responsável pelo design. Ele deve ajudar a equipe a aplicar a identidade, sem virar uma coleção de exceções que ninguém consegue interpretar.\n\nConfira também o resultado depois de inserir o arquivo no canal. Uma prévia de edição pode apresentar a imagem de modo diferente da tela final. Se houver alteração de recorte ou outra condição relevante, volte à situação que revelou a dificuldade e examine o efeito concreto.\n\nQuando surgir um novo suporte, use a mesma lógica: observe a tarefa de identificação, as restrições do espaço e os recursos aprovados disponíveis. Se houver dúvida, preserve a pergunta para uma decisão de design, em vez de transformar a conveniência daquele envio num novo padrão da marca.\n\nO logotipo precisa participar da experiência no tamanho em que a empresa é encontrada. Conferir esse uso aproxima a aprovação da realidade: o desenho que funciona numa apresentação também precisa encontrar uma forma coerente de aparecer nos pequenos espaços do cotidiano.",
+        "sources": "[Coder, Visual identity guidelines, data declarada de 11/11/2026](https://coder.com/brand)\n\nAs diretrizes da Coder são uma referência de organização de versões e usos daquela identidade, sem comprovar resultados ou estabelecer regras universais. A empresa de manutenção é hipotética. O texto não recomenda copiar ativos, fontes, cores ou proporções da referência e não certifica acessibilidade.",
+        "prompt": "Natural editorial photograph of two adults checking the fit and appearance of a charcoal work jacket in a small bright sewing atelier, one adult wears the jacket while the uniform maker has stepped back to view a small abstract non-letter embroidered patch on the chest at normal viewing distance, candid practical inspection with relaxed posture and the jacket fully visible, medium wide environmental composition with fabric rolls softly out of focus behind them, soft neutral daylight preserving natural skin tones, a restrained teal accent inspired by #08ffb1 reflected on the far edge of a sewing machine, no meeting, papers, laptop, readable lettering or identifiable logos --ar 3:2",
+        "imageAlt": "Duas pessoas conferem uma jaqueta de trabalho num ateliê, com um pequeno bordado abstrato no peito e reflexo teal discreto na borda de uma máquina de costura.",
+        "date": "2026-11-26"
+      },
+      "createdAt": "2026-11-13T20:25:34.513Z",
+      "startedAt": "2026-11-14T02:05:48.978Z",
+      "completedAt": "2026-11-14T02:05:49.564Z"
+    },
+    {
+      "id": "69a502ee-594c-4238-b576-db4bb9726ae4",
+      "itemId": "pauta-diaria-2026-11-13",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "0886766230787a2f37ab4a01983a6534f2038f41d5616122d5699567ec0f2735",
+      "snapshot": "c7b08053e68946115aae63ac188d380753831f72b6d78b27efd3ebd1a47b2a0d",
+      "input": {
+        "id": "pauta-diaria-2026-11-13",
+        "title": "O cliente consegue retomar a escolha que deixou para depois?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 12/11/2026: a Pinterest apresentou recursos para compras de fim de ano e descreveu Wishlists para salvar produtos e revisitá-los. O comunicado limita Wishlists a um teste em iOS nos Estados Unidos e no Canadá; não afirmar disponibilidade no Brasil, lançamento universal ou eficácia comercial. Não repetir percentuais promocionais de pesquisa nem atribuir vendas aos recursos. Tese própria: uma escolha que precisa de tempo não deveria obrigar a pessoa a reconstruir todas as referências quando volta à empresa. Exemplo hipotético de uma PME de móveis em que a cliente separa duas opções, confirma medidas em casa e retoma a conversa dias depois. Examinar se a referência permite reconhecer produto, variante e condições consultadas, localizar informações atuais e continuar pelo caminho que a empresa efetivamente oferece. Uma seleção salva não comprova reserva, compra, disponibilidade futura ou manutenção do preço: essas condições devem ser conferidas sem inventar políticas. Não recomendar ferramenta, exigir cadastro como solução universal, sugerir mensagens insistentes ou presumir que salvar uma opção autoriza contato comercial. Não expor seleções ou conversas de clientes ao compartilhar referências. Diferenciar da jornada que começa antes da campanha: foco na retomada de uma seleção específica, não no calendário de descoberta ou no plano de mídia. Diferenciar da comparação de propostas: foco em preservar a referência durante a pausa, não em definir quais critérios comparam alternativas. Diferenciar de compra para presente: aqui o desafio é continuar a própria decisão após um intervalo, não escolher para outra pessoa. Não afirmar que a Pinterest mantém estoque reservado ou garante condições de compra; a fonte descreve salvar e revisitar itens em teste limitado.",
+        "audience": "Donos de PMEs e equipes de conteúdo, comércio eletrônico e atendimento que recebem clientes interessados em comparar opções e continuar a decisão em outro momento.",
+        "goal": "De tratar toda pausa como necessidade de recomeçar o atendimento para conferir se a pessoa consegue recuperar sua seleção, reconhecer a variante e consultar as condições atuais sem receber promessas que a empresa não confirmou.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-13",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Pinterest Newsroom, recursos para compras de fim de ano e teste limitado de Wishlists, 12/11/2026",
+              "url": "https://newsroom.pinterest.com/en-au/news/2026-global-holiday-comms-plan-newsroom/",
+              "publishedAt": "2026-11-12"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-13T20:25:40.688Z",
+      "startedAt": "2026-11-14T02:05:49.121Z",
+      "completedAt": "2026-11-14T02:07:13.720Z"
+    },
+    {
+      "id": "fdb24e8d-23ba-4ac1-890d-31537435becd",
+      "itemId": "pauta-reposicao-2026-11-12-cb848cc54d53",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "73435f60bf36a8c0e1ee59bcfad7e16e7feef52c351a8574daaeb5714df9ae8a",
+      "snapshot": "4b3659d959bef1953ab6f875dabdedbc64c6934f556645efa26682f9dfb14349",
+      "input": {
+        "id": "pauta-reposicao-2026-11-12-cb848cc54d53",
+        "title": "Quem responde às perguntas quando sua marca entra ao vivo?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: o registro de produto da Vimeo de 05/11/2026 destaca respostas de palestrantes no Q&A entre as novidades Enterprise. O detalhamento foi publicado em 04/11 e atualizado em 05/11, permitindo aos participantes que apresentam responder diretamente às perguntas do público. Não apresentar o recurso como disponível em todos os planos, inferir retenção na gravação ou atribuir efeitos de venda e satisfação à atualização. Tese própria: abrir um espaço de perguntas numa transmissão cria uma tarefa de atendimento que precisa encontrar quem a acompanha, quem pode responder e o que acontece com o que não pode ser esclarecido ao vivo. Exemplo hipotético de PME de móveis que apresenta uma nova linha a lojistas; separar dúvidas públicas sobre a oferta de situações particulares que exigem outro atendimento. Examinar quem recebe e organiza perguntas, quando o apresentador consegue retomá-las, como uma resposta confirmada se distingue de uma hipótese e como comunicar um próximo passo real quando a resposta não está disponível. Não recomendar ferramentas, configurar plataformas, definir proporções universais de equipe nem prometer resposta imediata ou cobertura de toda pergunta. Evitar expor dados ou projetos individuais na transmissão; não inventar prazo, condição comercial ou resposta técnica para manter o ritmo. Diferenciar da demonstração de produto: foco na responsabilidade pelo diálogo em tempo real, não no roteiro para mostrar a utilidade da oferta. Diferenciar de comunidade de marca: foco numa transmissão delimitada, não no cuidado contínuo de um grupo. Diferenciar de mensagem automática e devolutiva de pesquisa: aqui há uma conversa pública enquanto o evento acontece, não confirmação de recebimento ou análise posterior de respostas coletadas. O recurso de Q&A fornece contexto; a fonte não prova que uma PME ou a própria Vimeo tenham falhado no atendimento.",
+        "audience": "Gestores de PMEs e equipes de marketing, atendimento e audiovisual que fazem apresentações ao vivo, webinars ou demonstrações para clientes e parceiros.",
+        "goal": "De considerar o campo de perguntas uma função já resolvida pela plataforma para combinar quem acompanha, quem responde e como encaminhar dúvidas que exigem outra conferência.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-12",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Vimeo, registro de atualização Enterprise de 05/11/2026",
+              "url": "https://vimeo.com/product-updates",
+              "publishedAt": "2026-11-05"
+            },
+            {
+              "title": "Vimeo, Enterprise October update, publicado em 04/11 e atualizado em 05/11/2026",
+              "url": "https://vimeo.com/blog/post/enterprise-october-update",
+              "publishedAt": "2026-11-04"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-13T20:25:58.972Z",
+      "startedAt": "2026-11-14T02:05:49.248Z",
+      "completedAt": "2026-11-14T02:08:49.301Z"
     }
   ]
 }
