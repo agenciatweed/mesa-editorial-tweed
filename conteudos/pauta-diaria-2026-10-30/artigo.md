@@ -10,7 +10,7 @@ A referência ajuda a trazer uma pergunta para a rotina da PME: quem acompanha o
 
 ## Diga para que o grupo existe
 
-Imagine uma pequena empresa de equipamentos para produção artesanal que reúne usuários para trocar experiências. É um exemplo hipotético. O convite promete aprendizado entre participantes, mas os primeiros posts da empresa são apenas ofertas. Aos poucos, ninguém sabe se o grupo é um canal de promoção, uma central de suporte ou um lugar de troca.
+Imagine uma pequena empresa de equipamentos para produção artesanal que reúne usuários para trocar experiências. O convite promete aprendizado entre participantes, mas os primeiros posts da empresa são apenas ofertas. Aos poucos, ninguém sabe se o grupo é um canal de promoção, uma central de suporte ou um lugar de troca.
 
 Definir a finalidade ajuda a orientar escolhas. Que conversa a marca pretende viabilizar? Que contribuição faz sentido ali? O que precisa ser encaminhado para outro canal?
 
@@ -26,7 +26,7 @@ Escolha situações pertinentes ao espaço. Que tipo de divulgação é permitid
 
 As regras precisam orientar também a própria marca. Se a empresa interrompe toda conversa para inserir uma oferta, não basta pedir que os participantes mantenham o foco na troca.
 
-No grupo hipotético, uma orientação sobre informações pessoais pode explicar que números de pedido, documentos e dados de contato não devem ser publicados. Um problema individual pode ser acolhido sem permanecer exposto para todos. A forma de encaminhar precisa estar preparada antes de a situação aparecer.
+No grupo, uma orientação sobre informações pessoais pode explicar que números de pedido, documentos e dados de contato não devem ser publicados. Um problema individual pode ser acolhido sem permanecer exposto para todos. A forma de encaminhar precisa estar preparada antes de a situação aparecer.
 
 ## Defina quem acompanha e quem pode decidir
 
@@ -36,7 +36,7 @@ Combine uma rotina compatível com a capacidade da equipe. Quem observa novas me
 
 Evite anunciar disponibilidade que a operação não consegue sustentar. Um grupo acompanhado em determinados períodos não deveria ser apresentado como suporte imediato a qualquer hora.
 
-Na PME hipotética, uma pessoa pode acompanhar as conversas e outra oferecer apoio em questões técnicas. O importante é que as responsabilidades sejam conhecidas e que o participante encontre uma orientação coerente, em vez de respostas contraditórias conforme quem leu primeiro.
+Na PME, uma pessoa pode acompanhar as conversas e outra oferecer apoio em questões técnicas. O importante é que as responsabilidades sejam conhecidas e que o participante encontre uma orientação coerente, em vez de respostas contraditórias conforme quem leu primeiro.
 
 ## Diferencie discordância, dúvida e problema individual
 

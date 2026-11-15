@@ -10,7 +10,7 @@ A pergunta para uma PME é qual pista sua novidade oferece antes da explicação
 
 ## Diferencie o nome que a equipe entende do nome que o público encontra
 
-Imagine uma pequena empresa de serviços que oferece acompanhamento mensal e vai lançar uma versão voltada a uma necessidade específica. É um exemplo hipotético. Internamente, todos conhecem a diferença entre os dois formatos. O nome escolhido para o novo plano faz referência a uma etapa do processo que só a equipe costuma mencionar.
+Imagine uma pequena empresa de serviços que oferece acompanhamento mensal e vai lançar uma versão voltada a uma necessidade específica. Internamente, todos conhecem a diferença entre os dois formatos. O nome escolhido para o novo plano faz referência a uma etapa do processo que só a equipe costuma mencionar.
 
 A expressão pode parecer precisa para quem participou do desenvolvimento. O cliente vê duas opções com nomes diferentes e não sabe se mudou o público, a duração ou o tipo de entrega.
 
@@ -22,7 +22,7 @@ Se a explicação depende de uma história interna, confira se essa história te
 
 Um nome evocativo pode ter força expressiva sem indicar a categoria. Nesse caso, uma descrição breve pode ajudar a situar a oferta. O problema aparece quando o descritor é tratado como detalhe dispensável e desaparece justamente nos materiais mais vistos.
 
-No exemplo hipotético, o nome criativo poderia vir acompanhado da descrição do tipo de acompanhamento. Isso permite preservar a linguagem da marca e oferecer uma entrada compreensível para quem ainda não conhece o serviço.
+No exemplo, o nome criativo poderia vir acompanhado da descrição do tipo de acompanhamento. Isso permite preservar a linguagem da marca e oferecer uma entrada compreensível para quem ainda não conhece o serviço.
 
 Confira a combinação no site, na proposta, na apresentação comercial e na peça de divulgação. O mesmo nome pode aparecer com explicações incompatíveis se cada área o interpreta de uma maneira.
 
@@ -34,7 +34,7 @@ Um nome pode funcionar isoladamente e continuar confuso dentro do portfólio. Se
 
 Apresente as opções juntas. A hierarquia está clara? Uma é versão da outra? São soluções para necessidades diferentes? Existe uma combinação possível ou escolher uma significa abrir mão da outra?
 
-Na empresa hipotética, chamar o novo formato de avançado poderia sugerir que o acompanhamento existente ficou ultrapassado, mesmo que ele continue sendo a opção apropriada para muitos clientes. A escolha verbal precisa corresponder à relação real entre as entregas.
+Na empresa, chamar o novo formato de avançado poderia sugerir que o acompanhamento existente ficou ultrapassado, mesmo que ele continue sendo a opção apropriada para muitos clientes. A escolha verbal precisa corresponder à relação real entre as entregas.
 
 Não é necessário criar uma família de nomes com lógica perfeita apenas para agradar à equipe. A organização deve ajudar o público a reconhecer diferenças relevantes. Um sistema elegante que exige tradução permanente ainda merece revisão.
 

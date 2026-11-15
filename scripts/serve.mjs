@@ -5,7 +5,7 @@ import {execFile} from 'node:child_process';
 import {promisify} from 'node:util';
 const run=promisify(execFile);
 import {randomBytes} from 'node:crypto';
-import {root,canonical,digest,validId,validate,ready,locked,json,atomic,project,saveContent,enqueue,snapshot,reconcile,reviewReady,briefReady,published} from './project.mjs';
+import {root,canonical,digest,validId,validate,ready,locked,json,atomic,project,saveContent,enqueue,snapshot,reconcile,reviewReady,briefReady,published,nextPublicationDate} from './project.mjs';
 const studio=await realpath(path.join(root,'studio')),token=randomBytes(32).toString('hex');
 const types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.ttf':'font/ttf','.png':'image/png','.jpg':'image/jpeg','.webp':'image/webp'};
 const port=Number(process.env.TWEED_PORT||4173),origin='http://127.0.0.1:'+port;
@@ -22,13 +22,13 @@ const server=http.createServer(async(req,res)=>{try{
   if(before&&published(before)){if(snapshot(item)!==snapshot(before))throw Error('O histórico publicado é somente leitura.');Object.assign(item,before);continue}
   if((before&&item.status!==before.status)||(!before&&item.status!=='Pauta'))throw Error('Use o botão Salvar da etapa para avançar.');
   item.logo=canonical+'/assets/logo_tweed_teal.svg';item.author=canonical+'/#agencia';item.publication=before?.publication;item.automation=before?.automation;item.submitted=before?.submitted||false;item.workflowVersion=before?.workflowVersion;
-  if(input.reopen===item.id){if(item.status!=='Pronto')throw Error('Só Pronto pode voltar para revisão.');item.status='Revisão';item.publication={state:'cancelled'};item.checks={};}
+  if(input.reopen===item.id){if(item.status!=='Pronto')throw Error('Só Pronto pode voltar para revisão.');item.status='Revisão';item.date=item.date||nextPublicationDate(input.doc.items,item.id);item.publication={state:'cancelled'};item.checks={};}
   if(input.saveReview===item.id){if(item.status!=='Revisão')throw Error('Salvar revisão requer a etapa de Revisão.');item.workflowVersion=2;item.submitted=true;}
   if(input.advance===item.id){
    item.workflowVersion=2;item.submitted=true;
    if(item.status==='Pauta'){briefReady(item);}
-   else if(item.status==='Redação'){if(!['body','sources','prompt'].every(k=>item[k]?.trim()))throw Error('A redação precisa de texto, fontes/notas e prompt da capa.');item.status='Revisão';item.automation={...item.automation,reviewKey:undefined,stage:'Revisão',state:'pending'};item.checks={};}
-   else if(item.status==='Revisão'){if(!reviewReady(item))throw Error('Aguarde a luz verde da revisão automática antes de aprovar.');item.status='Pronto';item.checks={thesis:true,facts:true,voice:true,privacy:true};item.date=item.date||new Date().toLocaleDateString('en-CA',{timeZone:'America/Sao_Paulo'});ready(item);item.publication={state:'queued',approvedAt:new Date().toISOString()};}
+   else if(item.status==='Redação'){if(!['body','sources','prompt'].every(k=>item[k]?.trim()))throw Error('A redação precisa de texto, fontes/notas e prompt da capa.');item.status='Revisão';item.date=item.date||nextPublicationDate(input.doc.items,item.id);item.automation={...item.automation,reviewKey:undefined,stage:'Revisão',state:'pending'};item.checks={};}
+   else if(item.status==='Revisão'){if(!reviewReady(item))throw Error('Aguarde a luz verde da revisão automática antes de aprovar.');item.status='Pronto';item.checks={thesis:true,facts:true,voice:true,privacy:true};item.date=item.date||nextPublicationDate(input.doc.items,item.id);ready(item);item.publication={state:'queued',approvedAt:new Date().toISOString()};}
    else throw Error('Este artigo já aguarda publicação.');
   }
   if(before?.status==='Pronto'&&!input.reopen&&snapshot(item)!==snapshot(before))throw Error('Volte para Revisão antes de alterar um artigo aprovado.');

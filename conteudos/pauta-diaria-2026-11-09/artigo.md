@@ -10,7 +10,7 @@ A questão editorial vem antes da ferramenta: o que o cliente entende que aconte
 
 ## Receber uma mensagem é um acontecimento específico
 
-Imagine uma pequena empresa que vende equipamentos para espaços de trabalho. É um exemplo hipotético. Uma cliente informa que precisa conferir uma característica antes de concluir a compra. A resposta automática confirma o contato, mas termina dizendo que a dúvida já está sendo resolvida.
+Imagine uma pequena empresa que vende equipamentos para espaços de trabalho. Uma cliente informa que precisa conferir uma característica antes de concluir a compra. A resposta automática confirma o contato, mas termina dizendo que a dúvida já está sendo resolvida.
 
 Na operação, a mensagem ainda precisa chegar a alguém que conheça aquele produto. Não existe uma análise em andamento apenas porque o sistema recebeu o texto. O problema está na diferença entre o estado real e o estado anunciado.
 
@@ -22,7 +22,7 @@ Antes de aprovar o texto, nomeie o que efetivamente aconteceu. A mensagem foi re
 
 Algumas perguntas encontram resposta em uma orientação já confirmada. Outras exigem examinar a situação. A mesma mensagem não deveria tratar as duas como se estivessem concluídas.
 
-Na empresa hipotética, um endereço para consultar dimensões pode ajudar quem procura uma medida. A cliente, porém, pode estar tentando confirmar uma condição que a página não esclarece. Enviar o link não comprova que sua pergunta foi respondida.
+Na empresa, um endereço para consultar dimensões pode ajudar quem procura uma medida. A cliente, porém, pode estar tentando confirmar uma condição que a página não esclarece. Enviar o link não comprova que sua pergunta foi respondida.
 
 Explique o papel da informação oferecida e preserve uma continuidade compreensível quando ela não bastar. A pessoa não deveria precisar recomeçar toda a conversa apenas para dizer que o conteúdo indicado não trata da sua necessidade.
 
@@ -32,7 +32,7 @@ Também confira a referência antes de usá-la na automação. Uma resposta ráp
 
 Uma frase como “já avisamos a equipe responsável” descreve uma ação concreta. Se o processo apenas colocou a mensagem numa lista geral, a empresa está comunicando um estado que não confirmou.
 
-Na PME hipotética, vale verificar quem recebe cada tipo de solicitação e como identifica o que ainda depende de resposta. Uma dúvida sobre aplicação do produto pode precisar de um responsável diferente de uma pergunta sobre disponibilidade.
+Na PME, vale verificar quem recebe cada tipo de solicitação e como identifica o que ainda depende de resposta. Uma dúvida sobre aplicação do produto pode precisar de um responsável diferente de uma pergunta sobre disponibilidade.
 
 Essa organização não exige transformar cada conversa em um procedimento extenso. Exige que o próximo passo anunciado tenha alguém capaz de acompanhá-lo. Um nome de área no texto não substitui essa responsabilidade.
 
@@ -44,7 +44,7 @@ Expressões de acolhimento podem carregar compromissos que passam despercebidos 
 
 O objetivo não é tornar a resposta fria. É separar acolhimento e informação verificável. A empresa pode reconhecer o contato sem prometer uma conclusão que depende de análise, disponibilidade ou participação de outra pessoa.
 
-Na empresa hipotética, a equipe pode conferir se a mensagem descreve um retorno que a operação consegue sustentar. Se alguma condição ainda não está confirmada, ela não deve desaparecer só para deixar a frase mais confortável.
+Na empresa, a equipe pode conferir se a mensagem descreve um retorno que a operação consegue sustentar. Se alguma condição ainda não está confirmada, ela não deve desaparecer só para deixar a frase mais confortável.
 
 Essa atenção vale também quando a pessoa lê apenas a primeira linha da notificação. Uma abertura que sugere conclusão pode produzir uma interpretação diferente do restante do texto. Revise o sentido da mensagem completa e de seus trechos mais visíveis.
 
@@ -52,7 +52,7 @@ Essa atenção vale também quando a pessoa lê apenas a primeira linha da notif
 
 A automação pode organizar o início do contato. Quando a situação exige avaliação, a continuidade não deveria depender de o cliente descobrir sozinho como alcançar alguém.
 
-Na PME hipotética, a equipe pode verificar quais informações já foram fornecidas e o que ainda precisa ser esclarecido. Pedir novamente o mesmo relato, sem conferir o histórico disponível, transfere trabalho para quem buscou ajuda.
+Na PME, a equipe pode verificar quais informações já foram fornecidas e o que ainda precisa ser esclarecido. Pedir novamente o mesmo relato, sem conferir o histórico disponível, transfere trabalho para quem buscou ajuda.
 
 Isso não significa juntar o máximo possível de dados. A passagem deve usar apenas o que é pertinente e tratar as informações pelo meio adequado. Uma referência clara sobre a dúvida costuma ajudar mais que um conjunto de campos sem finalidade definida.
 

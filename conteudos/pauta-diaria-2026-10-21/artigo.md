@@ -14,7 +14,7 @@ Ter o estilo disponível ajuda na produção. Para avaliar a comunicação, a em
 
 ## A promessa pode sair do lugar sem mudar de cor
 
-Imagine uma empresa de manutenção que atende equipamentos específicos, mediante avaliação e agendamento. É um exemplo hipotético. Ela fornece seu logotipo e algumas peças aprovadas a uma ferramenta de IA para criar uma campanha.
+Imagine uma empresa de manutenção que atende equipamentos específicos, mediante avaliação e agendamento. Ela fornece seu logotipo e algumas peças aprovadas a uma ferramenta de IA para criar uma campanha.
 
 O resultado mantém as cores e o tratamento das imagens. A chamada, porém, apresenta atendimento imediato para qualquer equipamento. A equipe gosta da composição e só percebe o problema quando revisa a oferta.
 

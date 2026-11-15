@@ -10,13 +10,13 @@ Para uma pequena empresa, uma conferência útil pode começar com uma pergunta 
 
 ## A aprovação precisa apontar para uma referência
 
-Imagine uma PME que divulga um serviço realizado mediante avaliação. É um exemplo hipotético. Na primeira proposta de campanha, a chamada dá a entender que o atendimento acontece imediatamente. A equipe corrige a condição e aprova a nova versão.
+Imagine uma PME que divulga um serviço realizado mediante avaliação. Na primeira proposta de campanha, a chamada dá a entender que o atendimento acontece imediatamente. A equipe corrige a condição e aprova a nova versão.
 
 Se o registro disser apenas que a campanha está aprovada, quem recebe a tarefa de veicular pode não saber a qual arquivo a decisão se refere. Uma mensagem distante da peça ou uma pasta cheia de alternativas torna essa relação mais difícil de conferir.
 
 A referência precisa permitir reconhecer o material examinado. O objetivo não é adotar uma convenção de nomes por obrigação, mas evitar que a aprovação fique separada do conteúdo que justificou aquela decisão.
 
-Na PME hipotética, vale conferir se quem vai preparar o envio consegue identificar a versão com a condição corrigida. Se ainda houver dúvida, ela precisa ser resolvida antes de escolher um arquivo porque parece mais recente ou tem um nome mais definitivo.
+Na PME, vale conferir se quem vai preparar o envio consegue identificar a versão com a condição corrigida. Se ainda houver dúvida, ela precisa ser resolvida antes de escolher um arquivo porque parece mais recente ou tem um nome mais definitivo.
 
 ## Confira o que acontece na saída da criação
 
@@ -32,7 +32,7 @@ Essa conferência deve considerar o material que será usado, em vez de se limit
 
 Ajustar a composição para um espaço diferente pode exigir escolhas de hierarquia. Algumas preservam a mensagem aprovada. Outras mudam o que ela permite entender.
 
-Na empresa hipotética, retirar a condição de avaliação para fazer a chamada caber não é apenas acomodar o texto. É alterar uma informação que participa da promessa do serviço. Essa diferença precisa voltar a quem pode decidir sobre ela.
+Na empresa, retirar a condição de avaliação para fazer a chamada caber não é apenas acomodar o texto. É alterar uma informação que participa da promessa do serviço. Essa diferença precisa voltar a quem pode decidir sobre ela.
 
 Antes de adaptar, compreenda o papel dos elementos. Uma observação pequena no desenho pode conter uma condição essencial. O tamanho visual não determina a importância da informação para a oferta.
 
@@ -42,7 +42,7 @@ Quando a equipe não souber se a alteração preserva o sentido, procure o escla
 
 Quem aprovou o conteúdo, quem preparou o arquivo e quem o publica podem ser pessoas diferentes. Isso funciona melhor quando cada uma reconhece qual material recebeu e o que precisa conferir naquela passagem.
 
-Na PME hipotética, a entrega pode indicar a referência aprovada, as saídas correspondentes e qualquer pendência que ainda afete o uso. A pessoa responsável pela veiculação precisa conseguir localizar a informação pertinente sem reconstruir todas as conversas do projeto.
+Na PME, a entrega pode indicar a referência aprovada, as saídas correspondentes e qualquer pendência que ainda afete o uso. A pessoa responsável pela veiculação precisa conseguir localizar a informação pertinente sem reconstruir todas as conversas do projeto.
 
 Não é necessário compartilhar toda a pasta de trabalho para esclarecer esse ponto. Materiais descartados, versões intermediárias e dados privados não precisam circular por conveniência. A referência deve ajudar a selecionar a saída correta e preservar o que não faz parte daquela entrega.
 
@@ -52,7 +52,7 @@ Também não confunda a aprovação da comunicação com a confirmação permane
 
 Depois do envio, confira a saída pública no contexto pertinente. A versão publicada corresponde à referência? Algum corte, posição ou tratamento do canal alterou a leitura de uma condição importante? O destino continua levando à informação esperada?
 
-Uma prévia pode ajudar a preparar essa verificação, mas o material efetivamente veiculado oferece outra evidência. Na PME hipotética, a conferência deve olhar a chamada e a condição do serviço tal como aparecem para quem encontra a campanha.
+Uma prévia pode ajudar a preparar essa verificação, mas o material efetivamente veiculado oferece outra evidência. Na PME, a conferência deve olhar a chamada e a condição do serviço tal como aparecem para quem encontra a campanha.
 
 Se houver um desencontro, trate a correção com as pessoas autorizadas e examine quais saídas foram afetadas. Não anuncie que tudo foi corrigido antes de confirmar o alcance da mudança. O texto não precisa atribuir culpa a alguém para reconhecer que a passagem falhou.
 

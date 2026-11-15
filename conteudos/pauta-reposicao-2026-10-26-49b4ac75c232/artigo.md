@@ -12,7 +12,7 @@ A questão útil para a empresa não depende de fazer uma live. Está em entende
 
 Uma demonstração pode tentar apresentar tantas funções que termina sem esclarecer a principal. Antes de gravar ou receber um interessado, identifique o que ele precisa observar para avaliar a adequação.
 
-Imagine uma pequena loja de equipamentos para produção artesanal. É um exemplo hipotético. Parte dos compradores quer saber se uma máquina trabalha com determinado material e o que precisa preparar para utilizá-la. Outros procuram uma capacidade diferente ou não dispõem do espaço necessário.
+Imagine uma pequena loja de equipamentos para produção artesanal. Parte dos compradores quer saber se uma máquina trabalha com determinado material e o que precisa preparar para utilizá-la. Outros procuram uma capacidade diferente ou não dispõem do espaço necessário.
 
 A apresentação pode começar por uma dessas situações. Que material será usado? O que será feito com ele? Qual preparação é necessária? O que o resultado permite observar e o que ainda depende de outra avaliação?
 
@@ -42,7 +42,7 @@ Não é necessário filmar tudo. É necessário escolher o que ficará visível 
 
 Uma demonstração honesta não precisa esconder as situações em que outra solução seria mais adequada. Esse cuidado evita que o comprador conclua, pelo entusiasmo da apresentação, que o produto resolve qualquer problema.
 
-Na loja hipotética, determinado equipamento pode ser compatível com um uso e inadequado para outro. A equipe deve explicar essa diferença com critérios que conheça, sem improvisar uma garantia para manter o interesse.
+Na loja, determinado equipamento pode ser compatível com um uso e inadequado para outro. A equipe deve explicar essa diferença com critérios que conheça, sem improvisar uma garantia para manter o interesse.
 
 Se houver outra alternativa, apresente o motivo da indicação. Se não houver, dizer isso pode ser o encaminhamento correto. Reconhecer a falta de adequação faz parte de ajudar a decidir.
 

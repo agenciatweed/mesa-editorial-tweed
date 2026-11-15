@@ -8,7 +8,7 @@ Em artigo publicado em 5 de novembro de 2026, a BigCommerce explica buscas semâ
 
 ## Comece pelo que as pessoas tentam encontrar
 
-Imagine uma pequena loja de acessórios para organizar a casa. É um exemplo hipotético. A equipe conhece as famílias de produtos e localiza cada item pelo nome cadastrado. Os clientes chegam com outras palavras: “caixa para guardar roupa de inverno”, “organizador que cabe na gaveta baixa” ou “pote para levar comida sem misturar”.
+Imagine uma pequena loja de acessórios para organizar a casa. A equipe conhece as famílias de produtos e localiza cada item pelo nome cadastrado. Os clientes chegam com outras palavras: “caixa para guardar roupa de inverno”, “organizador que cabe na gaveta baixa” ou “pote para levar comida sem misturar”.
 
 Essas frases contêm perguntas sobre uso, tamanho e características. Não basta acrescentar todas elas indiscriminadamente à descrição de qualquer item. É preciso verificar que produtos realmente atendem a cada condição e quais informações permitem reconhecer essa adequação.
 
@@ -18,7 +18,7 @@ Escolha algumas situações concretas. O que a pessoa procura? Existe algo corre
 
 ## Uma busca vazia não explica sozinha o que aconteceu
 
-Na loja hipotética, a consulta por “gaveta baixa” pode não retornar nada porque essa expressão não aparece nos dados usados pela busca. Pode também acontecer de a loja não vender um organizador com a altura necessária. Os dois casos exigem respostas diferentes.
+Na loja, a consulta por “gaveta baixa” pode não retornar nada porque essa expressão não aparece nos dados usados pela busca. Pode também acontecer de a loja não vender um organizador com a altura necessária. Os dois casos exigem respostas diferentes.
 
 No primeiro, existe uma possível distância entre a linguagem do cliente e a organização das informações. No segundo, apresentar qualquer produto como adequado esconderia uma limitação da oferta. A busca não deveria prometer uma correspondência que o catálogo não sustenta.
 
@@ -32,7 +32,7 @@ Nem todo cliente começa por uma necessidade ampla. Alguém pode voltar à loja 
 
 Para essa pessoa, uma coleção de alternativas parecidas pode atrapalhar. Se o item procurado existe, o resultado precisa permitir identificá-lo. Se não está disponível, a condição deve ficar compreensível, sem apresentar um produto semelhante como se fosse o mesmo.
 
-Na loja hipotética, a equipe pode comparar uma busca por código com outra por uso. A primeira exige precisão na identificação. A segunda exige informações suficientes para avaliar a adequação. Uma experiência útil precisa considerar as duas situações.
+Na loja, a equipe pode comparar uma busca por código com outra por uso. A primeira exige precisão na identificação. A segunda exige informações suficientes para avaliar a adequação. Uma experiência útil precisa considerar as duas situações.
 
 Essa diferença também ajuda a avaliar propostas de tecnologia. Uma demonstração impressionante com frases abertas não resolve, por si só, a procura de quem já tem uma referência específica. O teste precisa incluir tarefas que importam para aquela loja.
 
@@ -40,7 +40,7 @@ Essa diferença também ajuda a avaliar propostas de tecnologia. Uma demonstraç
 
 Se o cliente procura algo que caiba numa gaveta, as medidas importam. Se procura uma peça para uso externo, a condição de uso precisa estar confirmada. Uma descrição simpática não substitui a informação necessária para escolher.
 
-Na empresa hipotética, o trabalho pode começar por uma família de organizadores. A equipe confere dimensões, materiais e usos efetivamente previstos, identifica lacunas e combina quem pode esclarecer cada uma. Dados desconhecidos continuam sendo dúvidas, em vez de ganhar uma resposta inventada para completar a ficha.
+Na empresa, o trabalho pode começar por uma família de organizadores. A equipe confere dimensões, materiais e usos efetivamente previstos, identifica lacunas e combina quem pode esclarecer cada uma. Dados desconhecidos continuam sendo dúvidas, em vez de ganhar uma resposta inventada para completar a ficha.
 
 Também compare a busca com a página do produto. O resultado sugere uma adequação que a descrição confirma? A variante apresentada corresponde à medida procurada? Existe uma condição importante que só aparece depois de vários cliques?
 

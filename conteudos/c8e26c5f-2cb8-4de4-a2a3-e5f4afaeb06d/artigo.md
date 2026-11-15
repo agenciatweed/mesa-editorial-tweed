@@ -16,7 +16,7 @@ Para a empresa, a tarefa é traduzir o cenário em perguntas sobre público, ofe
 
 ## Comece pelos papéis que precisam ser cumpridos
 
-Considere uma empresa de serviços empresariais. É um exemplo hipotético. Ela concentra toda a divulgação em uma rede social, mas percebe que os compradores pedem explicações técnicas e exemplos antes de marcar uma reunião.
+Considere uma empresa de serviços empresariais. Ela concentra toda a divulgação em uma rede social, mas percebe que os compradores pedem explicações técnicas e exemplos antes de marcar uma reunião.
 
 A resposta pode incluir conteúdo de descoberta nesse mesmo canal e uma página clara para aprofundamento. Uma apresentação comercial pode organizar a avaliação. Uma participação em contexto profissional relevante pode oferecer oportunidade de conversa e verificação.
 

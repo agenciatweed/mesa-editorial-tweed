@@ -10,7 +10,7 @@ Para uma PME, a pergunta útil é o que sua própria embalagem exige da pessoa d
 
 ## Acompanhe o produto além da prateleira
 
-Imagine um pequeno negócio de alimentos que oferece um produto acompanhado de um complemento. É uma situação hipotética. A embalagem protege os itens no transporte, mas, ao abrir, o cliente fica com partes soltas e nenhum apoio conveniente.
+Imagine um pequeno negócio de alimentos que oferece um produto acompanhado de um complemento. A embalagem protege os itens no transporte, mas, ao abrir, o cliente fica com partes soltas e nenhum apoio conveniente.
 
 Talvez o consumo aconteça sentado a uma mesa. Talvez a pessoa esteja em um evento, com espaço limitado. Essas situações impõem condições diferentes. O que funciona em um ambiente controlado pode se tornar trabalhoso em outro.
 
@@ -24,7 +24,7 @@ Uma aba pequena demais pode ser interpretada como um problema pontual. Se a pess
 
 O mesmo vale para encaixes, separações internas e partes removíveis. Um recurso pode parecer elegante no desenho e exigir uma coordenação pouco plausível na situação real. Uma instrução pode ajudar, mas não transforma automaticamente uma estrutura difícil em uma estrutura simples.
 
-No exemplo hipotético, a equipe pode descobrir que o esforço está em manter duas partes juntas. Em outro produto, talvez o problema seja localizar por onde começar ou retirar o conteúdo sem desmontar toda a proteção.
+No exemplo, a equipe pode descobrir que o esforço está em manter duas partes juntas. Em outro produto, talvez o problema seja localizar por onde começar ou retirar o conteúdo sem desmontar toda a proteção.
 
 Escolha um problema específico antes de propor uma mudança. “Melhorar a experiência” é uma intenção ampla. Permitir que a pessoa identifique a abertura ou apoie uma parte durante o uso oferece uma questão concreta para testar.
 

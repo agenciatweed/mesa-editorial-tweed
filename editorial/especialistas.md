@@ -24,7 +24,7 @@ JSON-LD só com dados reais: BlogPosting; autor Felipe Rijo; editora Agência Tw
 
 ## Evidência
 
-Autoria e obra devem acompanhar citações de livros. Os livros dos plugins não foram fornecidos nesta sessão e não fazem parte do pacote. Consultar a fonte original antes de citar. Dados, experimentos e cases precisam de evidência verificável; exemplos hipotéticos devem ser identificados.
+Autoria e obra devem acompanhar citações de livros. Os livros dos plugins não foram fornecidos nesta sessão e não fazem parte do pacote. Consultar a fonte original antes de citar. Dados, experimentos e cases precisam de evidência verificável; exemplos anônimos podem entrar diretamente no argumento, sem atribuir resultados a clientes reais.
 
 ## Dados reais de publicação
 

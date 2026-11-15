@@ -10,7 +10,7 @@ O comunicado também anuncia uma premiação. Esse reconhecimento declarado pela
 
 ## Descubra o que realmente informa a atividade
 
-Imagine uma pequena empresa de serviços industriais que prepara materiais comerciais para apresentar seu trabalho. É um exemplo hipotético. A equipe reúne referências de concorrentes e encontra repetidamente as mesmas cores, imagens e formas gráficas.
+Imagine uma pequena empresa de serviços industriais que prepara materiais comerciais para apresentar seu trabalho. A equipe reúne referências de concorrentes e encontra repetidamente as mesmas cores, imagens e formas gráficas.
 
 Alguns elementos podem ser úteis porque mostram uma situação de aplicação ou um equipamento pertinente. Outros estão ali apenas porque se tornaram habituais naquele repertório. A análise começa por separar essas funções.
 
@@ -22,7 +22,7 @@ Para cada escolha importante, pergunte qual informação ela oferece e que rela�
 
 Uma peça isolada pode parecer bem resolvida. Ao lado de apresentações semelhantes, talvez fique evidente que a empresa depende quase inteiramente do logotipo para ser identificada.
 
-Na PME hipotética, a equipe pode comparar materiais públicos de concorrentes nas situações pertinentes, sem copiar seus elementos ou transformar a referência em modelo a reproduzir. O objetivo é perceber repetições e compreender como a própria comunicação ocupa aquele contexto.
+Na PME, a equipe pode comparar materiais públicos de concorrentes nas situações pertinentes, sem copiar seus elementos ou transformar a referência em modelo a reproduzir. O objetivo é perceber repetições e compreender como a própria comunicação ocupa aquele contexto.
 
 Também observe seus materiais em conjunto. Há uma relação entre a apresentação comercial, a página de serviço e uma peça de divulgação? Uma escolha que aparece só no lançamento e desaparece nas aplicações seguintes ainda não constitui uma referência consistente.
 
@@ -32,7 +32,7 @@ Essa comparação é uma leitura de projeto, não uma pesquisa que representa to
 
 A resposta não precisa ser uma cor que ninguém do setor usa. Diferenciar por uma decisão aleatória pode chamar atenção e continuar sem ajudar a compreender a marca.
 
-Na empresa hipotética, o modo como o serviço é explicado pode orientar a organização visual. Se a apresentação precisa tornar etapas compreensíveis, uma hierarquia clara e uma maneira própria de mostrar o processo podem participar da expressão da marca.
+Na empresa, o modo como o serviço é explicado pode orientar a organização visual. Se a apresentação precisa tornar etapas compreensíveis, uma hierarquia clara e uma maneira própria de mostrar o processo podem participar da expressão da marca.
 
 A escolha precisa corresponder ao que existe. Não adianta construir uma linguagem de precisão para encobrir uma oferta que ninguém consegue delimitar. A identidade visual deve trabalhar com informações confirmadas, em vez de acrescentar uma personalidade gráfica a uma promessa indefinida.
 
@@ -42,7 +42,7 @@ Busque uma relação que a equipe consiga explicar e aplicar. Pode estar no uso 
 
 Questionar convenções não significa apagar toda referência à atividade. Uma pessoa que vê a marca pela primeira vez ainda precisa entender o que está sendo oferecido e se aquilo tem relação com sua necessidade.
 
-Na PME hipotética, uma escolha visual mais própria pode conviver com uma descrição direta do serviço e imagens pertinentes. Não é necessário que cada elemento faça todas as tarefas sozinho.
+Na PME, uma escolha visual mais própria pode conviver com uma descrição direta do serviço e imagens pertinentes. Não é necessário que cada elemento faça todas as tarefas sozinho.
 
 Confira a leitura sem começar pela justificativa criativa. O material situa a atividade? Permite localizar a informação importante? A diferença gráfica ajuda a reconhecer uma lógica ou apenas exige decifrar um efeito?
 
@@ -52,7 +52,7 @@ Quando uma observação indicar confusão, investigue onde ela aparece. O proble
 
 Uma característica própria perde utilidade se cada aplicação a reinventa sem critério. A equipe precisa saber o que permanece e onde existe liberdade para variar.
 
-Na empresa hipotética, vale reunir usos aprovados em formatos diferentes e registrar brevemente o papel das principais escolhas. Uma composição pode variar para acomodar conteúdo, enquanto determinadas relações de forma e hierarquia continuam reconhecíveis.
+Na empresa, vale reunir usos aprovados em formatos diferentes e registrar brevemente o papel das principais escolhas. Uma composição pode variar para acomodar conteúdo, enquanto determinadas relações de forma e hierarquia continuam reconhecíveis.
 
 Registre também o que não deve ser reproduzido. Um efeito acrescentado por um fornecedor pode aproximar a peça justamente do repertório genérico que a empresa decidiu questionar. A referência precisa orientar quem cria e quem aprova, sem depender da memória de uma única pessoa.
 

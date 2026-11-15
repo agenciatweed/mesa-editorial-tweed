@@ -8,7 +8,7 @@ Traduzir essas intenções em decisões recorrentes permite avaliar se a persona
 
 ## Um adjetivo precisa chegar a uma escolha
 
-Imagine uma empresa de serviços que se define como acolhedora e objetiva. É um exemplo hipotético. Na confirmação de uma contratação, ela pode enviar uma mensagem afetuosa, cheia de entusiasmo, mas sem informar os próximos passos. Também pode enviar uma lista de tarefas clara, em um tom distante.
+Imagine uma empresa de serviços que se define como acolhedora e objetiva. Na confirmação de uma contratação, ela pode enviar uma mensagem afetuosa, cheia de entusiasmo, mas sem informar os próximos passos. Também pode enviar uma lista de tarefas clara, em um tom distante.
 
 Nenhuma dessas opções resolve sozinha a intenção declarada. Uma terceira versão pode agradecer a confiança, explicar o que acontece agora, identificar o responsável e dizer onde esclarecer dúvidas. O acolhimento aparece no cuidado com a situação do cliente; a objetividade aparece na organização das informações.
 

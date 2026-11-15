@@ -10,7 +10,7 @@ A pergunta que ele ajuda a abrir vai além da interface: quando alguém consider
 
 ## O nome do serviço pode esconder diferenças importantes
 
-Imagine uma PME comparando dois contratos de suporte técnico. É um exemplo hipotético. Ambos mencionam “atendimento mensal”, mas um contempla apenas orientação remota e o outro prevê visitas em condições específicas. Os prazos de resposta e a responsabilidade por equipamentos também são diferentes.
+Imagine uma PME comparando dois contratos de suporte técnico. Ambos mencionam “atendimento mensal”, mas um contempla apenas orientação remota e o outro prevê visitas em condições específicas. Os prazos de resposta e a responsabilidade por equipamentos também são diferentes.
 
 Se o documento destaca somente o nome do pacote e o total, a comparação fica incompleta. O cliente pode interpretar “suporte” de uma maneira que nenhum fornecedor pretendia oferecer.
 
@@ -44,7 +44,7 @@ Uma apresentação pode misturar entregas garantidas, opções adicionais e poss
 
 Indique claramente o que integra o valor proposto, o que exige outra avaliação e o que não está disponível naquele escopo. Se houver custos condicionais, explique a condição em linguagem compreensível.
 
-No exemplo hipotético, uma visita pode estar incluída apenas em determinada área e depender de agendamento. Fora dela, talvez seja necessário outro orçamento. Esconder esse detalhe em uma observação distante prejudica a comparação justamente no momento em que a pessoa precisa entender o serviço.
+No exemplo, uma visita pode estar incluída apenas em determinada área e depender de agendamento. Fora dela, talvez seja necessário outro orçamento. Esconder esse detalhe em uma observação distante prejudica a comparação justamente no momento em que a pessoa precisa entender o serviço.
 
 Clareza não significa eliminar todas as condições. Significa apresentá-las de modo que participem da escolha.
 

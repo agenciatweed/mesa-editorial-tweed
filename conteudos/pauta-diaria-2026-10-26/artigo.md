@@ -12,7 +12,7 @@ Em publicação de 22 de outubro de 2026, a coluna In Tech da Mastercard discuti
 
 Antes de escolher um recurso, descreva a experiência desejada de forma concreta. A pessoa precisa observar um acabamento, conversar com calma, comparar alternativas ou experimentar um produto? O ambiente deve dar condições para isso.
 
-Imagine uma pequena loja de revestimentos. É um exemplo hipotético. A marca quer ser percebida como cuidadosa e próxima, e o atendimento envolve discutir cores, texturas e condições de uso. Nesse contexto, uma boa experiência depende de conseguir ouvir, examinar as amostras e esclarecer dúvidas.
+Imagine uma pequena loja de revestimentos. A marca quer ser percebida como cuidadosa e próxima, e o atendimento envolve discutir cores, texturas e condições de uso. Nesse contexto, uma boa experiência depende de conseguir ouvir, examinar as amostras e esclarecer dúvidas.
 
 Uma luz cenográfica pode criar uma atmosfera interessante, mas não deveria ser o único modo de ver os materiais. Uma trilha musical pode fazer parte do espaço, desde que não impeça a conversa. A intenção da marca precisa chegar a essas escolhas práticas.
 
@@ -22,7 +22,7 @@ Isso muda a pergunta de “o que podemos adicionar?” para “o que precisa fun
 
 Nem todo canto da loja precisa cumprir a mesma função. Um espaço de passagem pode apresentar a identidade de maneira sintética. Uma mesa de comparação pode exigir mais clareza sobre detalhes e diferenças.
 
-Na loja hipotética, a iluminação do ambiente pode ter uma direção própria, enquanto a área de amostras oferece condições adequadas de observação. Se a cor varia conforme a luz, essa diferença precisa ser explicada no atendimento, sem prometer que o resultado será idêntico em qualquer espaço.
+Na loja, a iluminação do ambiente pode ter uma direção própria, enquanto a área de amostras oferece condições adequadas de observação. Se a cor varia conforme a luz, essa diferença precisa ser explicada no atendimento, sem prometer que o resultado será idêntico em qualquer espaço.
 
 O cuidado também vale para a fotografia. Uma imagem pode comunicar atmosfera, mas não deveria ser usada como garantia de aparência exata quando há condições de luz e uso distintas.
 

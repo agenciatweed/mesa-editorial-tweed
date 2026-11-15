@@ -10,7 +10,7 @@ A facilidade de organizar respostas torna ainda mais pertinente uma pergunta de 
 
 ## O compromisso começa no convite
 
-Imagine uma pequena empresa que oferece oficinas presenciais e envia uma avaliação aos participantes. É um exemplo hipotético. O formulário diz que todas as sugestões serão transformadas em melhorias na próxima edição. A equipe ainda não sabe quais mudanças seriam possíveis.
+Imagine uma pequena empresa que oferece oficinas presenciais e envia uma avaliação aos participantes. O formulário diz que todas as sugestões serão transformadas em melhorias na próxima edição. A equipe ainda não sabe quais mudanças seriam possíveis.
 
 A promessa já criou uma expectativa maior que a capacidade de decisão. Uma pessoa pode sugerir outro horário, outra pedir um formato incompatível com o espaço e uma terceira apontar uma dificuldade que precisa ser examinada antes de qualquer mudança.
 
@@ -22,7 +22,7 @@ Também não apresente a participação como garantia de que a preferência indi
 
 Uma sugestão pode apontar uma dificuldade sem oferecer a solução mais adequada. Outra pode depender de uma condição que não ficou clara no formulário. Antes de comunicar uma mudança, confira o que foi entendido e quem pode avaliar o encaminhamento.
 
-Na empresa hipotética, vários participantes mencionam que não conseguiram acompanhar uma etapa prática. Isso pode levar a examinar a explicação, o tempo disponível ou a organização do espaço. Não autoriza concluir imediatamente que basta aumentar a duração de toda a oficina.
+Na empresa, vários participantes mencionam que não conseguiram acompanhar uma etapa prática. Isso pode levar a examinar a explicação, o tempo disponível ou a organização do espaço. Não autoriza concluir imediatamente que basta aumentar a duração de toda a oficina.
 
 Um resumo automático pode apoiar a leitura, mas a equipe precisa verificar se ele preserva o sentido das respostas. Uma frase recorrente e uma situação grave relatada por uma única pessoa não devem ser avaliadas apenas pela quantidade de vezes em que aparecem.
 
@@ -42,7 +42,7 @@ Quando uma escolha não puder ser atendida, explique o limite conhecido sem desq
 
 Nem toda pesquisa exige uma apresentação extensa ou uma campanha pública sobre a capacidade de ouvir. Uma mensagem aos participantes, uma atualização no canal usado no convite ou uma explicação na próxima edição podem ser suficientes, conforme o contexto e o que foi combinado.
 
-Na empresa hipotética, um retorno agregado pode mostrar os principais assuntos considerados e as mudanças confirmadas. Ele não precisa reproduzir respostas individuais nem identificar quem apontou uma dificuldade.
+Na empresa, um retorno agregado pode mostrar os principais assuntos considerados e as mudanças confirmadas. Ele não precisa reproduzir respostas individuais nem identificar quem apontou uma dificuldade.
 
 Confira o conteúdo antes de divulgar. Um detalhe pode permitir reconhecer uma pessoa mesmo sem seu nome. A equipe deve tratar as contribuições com o cuidado adequado e buscar orientação específica quando necessário. Este é um critério editorial de prudência, não um parecer sobre regras de privacidade.
 

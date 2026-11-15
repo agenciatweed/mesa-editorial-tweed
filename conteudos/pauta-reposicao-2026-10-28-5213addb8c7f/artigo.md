@@ -12,7 +12,7 @@ Para uma PME, a decisão começa antes do roteiro. Qual papel a marca teria ness
 
 Uma referência pode circular porque representa uma situação cotidiana, porque acompanha um acontecimento ou porque faz sentido dentro de um grupo específico. Reproduzir apenas a aparência da peça pode deixar essa razão de fora.
 
-Imagine uma pequena empresa de serviços recebendo o pedido de entrar num formato viral. É um exemplo hipotético. A equipe reconhece a música e o gesto, mas não sabe explicar o que seu público encontraria de pertinente naquela adaptação.
+Imagine uma pequena empresa de serviços recebendo o pedido de entrar num formato viral. A equipe reconhece a música e o gesto, mas não sabe explicar o que seu público encontraria de pertinente naquela adaptação.
 
 Antes de produzir, descreva a conversa com palavras simples. Do que as pessoas estão falando? O que o formato ajuda a expressar? A empresa conhece esse contexto ou está apenas acompanhando a repetição?
 
@@ -22,7 +22,7 @@ Se a equipe não consegue responder, vale investigar antes de transformar a refe
 
 A marca pode participar oferecendo uma observação, uma demonstração, uma informação ou uma leitura ligada ao seu repertório. A questão é o que ficará disponível para quem encontrar a peça.
 
-Na empresa hipotética, talvez o formato permita explicar uma dúvida comum do serviço de uma maneira nova. Talvez a relação seja tão distante que a única conexão seja inserir o logotipo no final.
+Na empresa, talvez o formato permita explicar uma dúvida comum do serviço de uma maneira nova. Talvez a relação seja tão distante que a única conexão seja inserir o logotipo no final.
 
 A diferença merece ser discutida antes de investir tempo. A publicação não precisa virar uma aula nem repetir uma oferta comercial. Ainda assim, deve haver uma razão compreensível para aquela marca estar ali.
 
@@ -34,7 +34,7 @@ Entre receber a referência e publicar, existem decisões. Alguém precisa compr
 
 Uma ação simples pode caber na capacidade disponível. Outra depende de produção ou verificação que não será concluída a tempo. Reconhecer essa diferença permite escolher um caminho plausível.
 
-No exemplo hipotético, a equipe pode perceber que a ideia exige uma gravação que só acontecerá dias depois. Talvez valha adaptar o formato para outra finalidade. Talvez seja melhor deixar aquela oportunidade passar.
+No exemplo, a equipe pode perceber que a ideia exige uma gravação que só acontecerá dias depois. Talvez valha adaptar o formato para outra finalidade. Talvez seja melhor deixar aquela oportunidade passar.
 
 Não prometa uma reação imediata antes de conhecer as condições. A pressa pode produzir uma peça atrasada e pouco compreensível, mesmo quando todas as pessoas envolvidas trabalharam intensamente.
 
@@ -52,7 +52,7 @@ A mesma atenção vale para referências culturais que a equipe conhece pouco. U
 
 A triagem não precisa terminar sempre com um sim ou não definitivo. Pode revelar que a conversa é relevante, mas o formato não combina com a empresa. Pode indicar uma ideia que merece desenvolvimento fora daquela corrida.
 
-Na PME hipotética, uma dúvida reconhecida no conteúdo viral pode virar um material próprio, sem reproduzir o meme. Assim, a observação encontra uma forma coerente com o serviço e com o tempo disponível.
+Na PME, uma dúvida reconhecida no conteúdo viral pode virar um material próprio, sem reproduzir o meme. Assim, a observação encontra uma forma coerente com o serviço e com o tempo disponível.
 
 Quando a decisão for não participar, registre o motivo de maneira objetiva. Faltou relação com o público? A contribuição era fraca? O contexto exigia cuidado que a equipe não conseguiria oferecer? Isso ajuda a distinguir escolha estratégica de indecisão permanente.
 

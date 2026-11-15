@@ -14,7 +14,7 @@ Uma peça pode atender às dimensões exigidas e continuar inadequada à comunic
 
 ## Preserve a ideia, reveja a forma de apresentá-la
 
-Imagine uma empresa de manutenção que grava uma demonstração de inspeção. É um exemplo hipotético. O vídeo completo inclui uma apresentação da equipe, a explicação do problema, detalhes do procedimento e uma orientação sobre como solicitar avaliação.
+Imagine uma empresa de manutenção que grava uma demonstração de inspeção. O vídeo completo inclui uma apresentação da equipe, a explicação do problema, detalhes do procedimento e uma orientação sobre como solicitar avaliação.
 
 Para quem já acompanha a empresa, a apresentação pode ajudar a reconhecer as pessoas. Para um público que ainda não conhece o serviço, talvez seja necessário começar pelo problema observado. Uma versão curta poderia mostrar um detalhe da inspeção e esclarecer o que ele permite verificar, sem sugerir um diagnóstico que a imagem não sustenta.
 

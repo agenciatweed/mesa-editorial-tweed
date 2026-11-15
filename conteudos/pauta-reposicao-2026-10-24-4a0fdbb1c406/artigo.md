@@ -12,7 +12,7 @@ Antes de conectar mais ferramentas, vale perguntar: qual informação deve orien
 
 Um negócio pode alterar seus serviços, a área atendida, os horários ou a forma de agendar. Cada decisão modifica uma expectativa que talvez já esteja registrada em algum material público.
 
-Considere um exemplo hipotético: uma empresa de manutenção deixa de atender determinado equipamento. A lista interna é corrigida, mas uma página do site continua oferecendo o serviço e uma resposta salva no atendimento confirma a disponibilidade. O cliente recebe sinais contraditórios antes mesmo de explicar o problema.
+Uma empresa de manutenção deixa de atender determinado equipamento. A lista interna é corrigida, mas uma página do site continua oferecendo o serviço e uma resposta salva no atendimento confirma a disponibilidade. O cliente recebe sinais contraditórios antes mesmo de explicar o problema.
 
 A pessoa que atende pode estar consultando o texto que sempre utilizou. Quem mantém o site talvez nem tenha recebido a informação. A origem da contradição está na ausência de um encaminhamento completo para a mudança.
 

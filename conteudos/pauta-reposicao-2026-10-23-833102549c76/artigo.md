@@ -24,7 +24,7 @@ Uma venda atribuída pode oferecer informação útil sobre o percurso registrad
 
 ## Uma compra pode passar por vários pontos de contato
 
-Imagine uma pessoa que já conhece uma loja, consulta seus produtos, encontra um anúncio em uma rede social e depois pesquisa o nome da empresa em outro ambiente. Dias mais tarde, conclui uma compra. É um exemplo hipotético.
+Imagine uma pessoa que já conhece uma loja, consulta seus produtos, encontra um anúncio em uma rede social e depois pesquisa o nome da empresa em outro ambiente. Dias mais tarde, conclui uma compra.
 
 Dependendo das regras e dos registros disponíveis, mais de um relatório pode associar essa compra a uma interação publicitária. Isso não transforma uma compra em duas. Também não revela automaticamente qual contato foi decisivo ou o que teria acontecido se um deles não existisse.
 

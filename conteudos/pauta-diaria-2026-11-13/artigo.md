@@ -10,11 +10,11 @@ A questão para uma PME não depende de adotar uma função específica: quem vo
 
 ## Preserve o que permite reconhecer a opção
 
-Imagine uma pequena empresa de móveis com atendimento na loja e apresentação dos produtos no site. É um exemplo hipotético. A cliente gosta de duas mesas, mas precisa medir o ambiente antes de decidir. Uma tem outra dimensão e o acabamento mostrado nas fotografias não é o mesmo.
+Imagine uma pequena empresa de móveis com atendimento na loja e apresentação dos produtos no site. A cliente gosta de duas mesas, mas precisa medir o ambiente antes de decidir. Uma tem outra dimensão e o acabamento mostrado nas fotografias não é o mesmo.
 
 Se ela recebe apenas uma imagem geral do ambiente, pode ficar difícil identificar a opção na volta. Se guarda um link para uma página que reúne várias versões, ainda precisa lembrar qual delas havia considerado. A referência existe, mas talvez não carregue a informação necessária para retomar.
 
-Na empresa hipotética, vale conferir se a pessoa consegue reconhecer o produto e a variante pertinente. Nome, identificação e características confirmadas podem ajudar nessa continuidade. A composição precisa corresponder ao que foi examinado, sem acrescentar condições que ninguém verificou.
+Na empresa, vale conferir se a pessoa consegue reconhecer o produto e a variante pertinente. Nome, identificação e características confirmadas podem ajudar nessa continuidade. A composição precisa corresponder ao que foi examinado, sem acrescentar condições que ninguém verificou.
 
 Não se trata de registrar toda a conversa. O objetivo é preservar o suficiente para reconhecer a seleção e a dúvida que motivou a pausa, evitando transformar um recurso simples num acúmulo de informações pessoais.
 
@@ -22,7 +22,7 @@ Não se trata de registrar toda a conversa. O objetivo é preservar o suficiente
 
 Separar alternativas para consultar depois não comprova que houve compra ou reserva. Também não demonstra que preço e disponibilidade permanecerão iguais. Essas condições precisam ser esclarecidas conforme o funcionamento real da empresa.
 
-No exemplo hipotético, a cliente pode voltar com a mesma referência e descobrir que uma opção exige nova conferência. O atendimento precisa conseguir explicar o que está sendo consultado agora e qual informação corresponde ao contato anterior. Preservar a escolha não significa congelar uma condição comercial por iniciativa da comunicação.
+No exemplo, a cliente pode voltar com a mesma referência e descobrir que uma opção exige nova conferência. O atendimento precisa conseguir explicar o que está sendo consultado agora e qual informação corresponde ao contato anterior. Preservar a escolha não significa congelar uma condição comercial por iniciativa da comunicação.
 
 Confira também as palavras usadas no percurso. Um nome que sugere pedido confirmado é inadequado para uma lista de interesses. Da mesma forma, uma mensagem que promete guardar uma unidade exige uma operação capaz de sustentar essa informação.
 
@@ -32,7 +32,7 @@ Quando existir dúvida sobre o alcance de uma condição, procure quem pode conf
 
 Uma referência pode ajudar pouco se, ao retomá-la, a pessoa chega a uma página genérica e precisa procurar tudo de novo. Também pode perder utilidade se depende de uma conversa a que o próximo atendente não tem acesso.
 
-Na loja hipotética, a equipe pode percorrer o retorno como uma tarefa concreta: abrir a referência, localizar a mesa e identificar a dimensão considerada. Depois, conferir se existe um caminho compreensível para esclarecer a dúvida que ainda impede a escolha.
+Na loja, a equipe pode percorrer o retorno como uma tarefa concreta: abrir a referência, localizar a mesa e identificar a dimensão considerada. Depois, conferir se existe um caminho compreensível para esclarecer a dúvida que ainda impede a escolha.
 
 Observe se o percurso depende de um cadastro que a pessoa não fez ou de uma explicação que só foi dada verbalmente. Isso não significa que todo cadastro deva ser eliminado. Significa que a continuidade precisa corresponder ao que foi combinado e estar ao alcance de quem vai utilizá-la.
 
@@ -42,7 +42,7 @@ Quando a retomada passar por outra pessoa do atendimento, a referência deve per
 
 A cliente volta depois de medir o ambiente. Agora sabe que uma das mesas não cabe e quer confirmar uma característica da outra. Se o atendimento ignora a seleção anterior e recomeça apresentando todo o catálogo, deixa de usar a informação que tornou a conversa mais precisa.
 
-Na empresa hipotética, a retomada pode começar pela referência reconhecida e pela pergunta que mudou desde o primeiro contato. A equipe confere os dados atuais pertinentes e esclarece o que ainda falta avaliar. Uma alternativa diferente pode fazer sentido, mas precisa responder à necessidade apresentada.
+Na empresa, a retomada pode começar pela referência reconhecida e pela pergunta que mudou desde o primeiro contato. A equipe confere os dados atuais pertinentes e esclarece o que ainda falta avaliar. Uma alternativa diferente pode fazer sentido, mas precisa responder à necessidade apresentada.
 
 Se um produto não estiver mais disponível, explique a situação confirmada. Não apresente uma opção semelhante como se fosse exatamente a mesma. A comparação deve continuar permitindo reconhecer diferenças de dimensão, finalidade ou acabamento que importam para a pessoa.
 
@@ -52,7 +52,7 @@ Quando for necessário compartilhar a referência, preserve o contexto de quem p
 
 Salvar um produto ou pedir uma referência não equivale a solicitar mensagens recorrentes. A pessoa pode querer medir um espaço, conversar com alguém ou simplesmente continuar pensando.
 
-Na loja hipotética, o atendimento pode esclarecer como a cliente consegue retomar quando desejar. Se houver um retorno combinado, ele precisa respeitar o contexto e a finalidade daquela conversa, sem transformar todo interesse inicial numa promessa de fechamento.
+Na loja, o atendimento pode esclarecer como a cliente consegue retomar quando desejar. Se houver um retorno combinado, ele precisa respeitar o contexto e a finalidade daquela conversa, sem transformar todo interesse inicial numa promessa de fechamento.
 
 Também não é necessário criar urgência para compensar uma dificuldade de continuidade. Uma condição real pode ser informada com precisão. Um aviso inventado de que a oportunidade vai desaparecer acrescenta pressão sem ajudar a reconhecer a escolha.
 

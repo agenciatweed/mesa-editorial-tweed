@@ -16,7 +16,7 @@ Número de respostas e tom positivo não bastam para avaliar esse material. É n
 
 ## Uma resposta também demonstra como a empresa trabalha
 
-Imagine uma loja de luminárias que divulga uma peça para ambientes de trabalho. É um exemplo hipotético. Nos comentários, alguém pergunta se a intensidade pode ser ajustada. A resposta poderia apenas encaminhar para o site. Poderia também esclarecer a característica, informar uma limitação e indicar onde consultar a especificação completa.
+Imagine uma loja de luminárias que divulga uma peça para ambientes de trabalho. Nos comentários, alguém pergunta se a intensidade pode ser ajustada. A resposta poderia apenas encaminhar para o site. Poderia também esclarecer a característica, informar uma limitação e indicar onde consultar a especificação completa.
 
 Essa segunda abordagem oferece uma informação útil e verificável. Não exige revelar dados pessoais nem resolver publicamente todas as situações. Uma questão sobre pedido específico deve ser encaminhada a um canal adequado, com orientação clara sobre a continuidade.
 

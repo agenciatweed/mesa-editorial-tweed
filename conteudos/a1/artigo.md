@@ -10,7 +10,7 @@ Esse é um custo que raramente aparece na proposta de um fornecedor: a coordena�
 
 Imagine uma empresa de serviços que quer conquistar contratos mais complexos. O site apresenta a empresa como uma opção acessível. O comercial defende atendimento consultivo. As redes sociais destacam promoções. Nenhum material está necessariamente malfeito. O conjunto, porém, oferece três respostas diferentes para a mesma pergunta: por que contratar essa empresa?
 
-O exemplo é hipotético, mas ajuda a distinguir qualidade de uma peça e qualidade de um sistema de comunicação. Uma campanha pode ter ótima execução e apontar para uma página que não sustenta seu argumento. Uma identidade visual pode ser consistente enquanto a proposta comercial vende um serviço que a operação já não oferece.
+Essa situação ajuda a distinguir qualidade de uma peça e qualidade de um sistema de comunicação. Uma campanha pode ter ótima execução e apontar para uma página que não sustenta seu argumento. Uma identidade visual pode ser consistente enquanto a proposta comercial vende um serviço que a operação já não oferece.
 
 Essas diferenças exigem decisões. Quem define a promessa principal? Quem decide o que deve ser atualizado primeiro? Quem tem contexto para perceber que o problema do anúncio começa na oferta?
 

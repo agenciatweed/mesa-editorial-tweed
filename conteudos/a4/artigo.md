@@ -10,7 +10,7 @@ A diferença está em saber se o limite torna a decisão mais clara ou apenas re
 
 “Precisamos de algo criativo e barato” deixa quase tudo em aberto. Não explica para quem, com qual objetivo nem qual percepção deve mudar. A equipe pode explorar muitas ideias sem conseguir avaliar por que uma delas seria melhor.
 
-Compare com este briefing hipotético: uma empresa de manutenção quer explicar a gestores de condomínios como organiza o acompanhamento dos chamados. Tem acesso à própria operação, consegue produzir uma sessão de fotos e precisa concentrar a comunicação em um material que sirva à equipe comercial.
+Compare com este briefing: uma empresa de manutenção quer explicar a gestores de condomínios como organiza o acompanhamento dos chamados. Tem acesso à própria operação, consegue produzir uma sessão de fotos e precisa concentrar a comunicação em um material que sirva à equipe comercial.
 
 Esses limites sugerem um campo de trabalho. É possível mostrar a sequência de atendimento com registros reais autorizados, esclarecer responsabilidades e construir um material que ajude o gestor a avaliar o serviço. Uma produção com atores e várias locações deixa de ser prioridade porque não é necessária para explicar essa oferta.
 

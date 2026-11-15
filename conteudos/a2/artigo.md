@@ -8,7 +8,7 @@ Essas situações pedem respostas diferentes. Tratar todas como resistência ao 
 
 ## Primeiro, descubra o que está sendo comparado
 
-Imagine uma consultoria que apresenta uma proposta para reorganizar a operação comercial de uma empresa. É um exemplo hipotético. O documento lista diagnóstico, reuniões, relatório e acompanhamento. O comprador recebe outra proposta com uma lista parecida e um valor menor.
+Imagine uma consultoria que apresenta uma proposta para reorganizar a operação comercial de uma empresa. O documento lista diagnóstico, reuniões, relatório e acompanhamento. O comprador recebe outra proposta com uma lista parecida e um valor menor.
 
 A diferença entre as duas consultorias pode ser importante. Uma talvez envolva profissionais mais experientes, investigue a rotina da equipe e acompanhe a implementação. Mas nada disso fica evidente se a proposta descreve apenas os nomes das etapas.
 

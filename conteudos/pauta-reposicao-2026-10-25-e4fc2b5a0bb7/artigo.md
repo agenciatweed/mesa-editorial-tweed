@@ -12,7 +12,7 @@ A pergunta que essa proposta ajuda a abrir também cabe em uma PME: quanto do va
 
 Quem conhece profundamente um serviço pode achar que seus componentes são evidentes. O cliente talvez não compartilhe esse repertório. Uma expressão técnica pode ser precisa e, ao mesmo tempo, pouco útil para decidir quando entrar em contato.
 
-Imagine uma empresa de manutenção com um contrato recorrente que inclui uma verificação preventiva em condições definidas. É um exemplo hipotético. O orçamento menciona a entrega, mas não esclarece ao cliente qual situação ela ajuda a avaliar nem como combinar o agendamento.
+Imagine uma empresa de manutenção com um contrato recorrente que inclui uma verificação preventiva em condições definidas. O orçamento menciona a entrega, mas não esclarece ao cliente qual situação ela ajuda a avaliar nem como combinar o agendamento.
 
 O serviço pode estar disponível. Ainda assim, a pessoa precisa localizar o documento, interpretar o termo e descobrir o procedimento antes de conseguir solicitá-lo. Nesse percurso, parte do cuidado que a empresa pretende oferecer fica difícil de perceber.
 
@@ -42,7 +42,7 @@ Se houver uma etapa de confirmação, explique-a. Um pedido recebido não deve s
 
 Entregar todas as informações no início da relação pode ser necessário, mas não garante que cada item será lembrado no momento de uso. Uma retomada pertinente pode ajudar o cliente a reconhecer uma possibilidade que havia passado despercebida.
 
-Essa retomada precisa ter uma função. No exemplo hipotético, ao conversar sobre o acompanhamento previsto no contrato, a equipe pode lembrar a verificação e esclarecer como solicitá-la. Não precisa transformar cada contato em uma lista completa de benefícios.
+Essa retomada precisa ter uma função. No exemplo, ao conversar sobre o acompanhamento previsto no contrato, a equipe pode lembrar a verificação e esclarecer como solicitá-la. Não precisa transformar cada contato em uma lista completa de benefícios.
 
 Também é importante permitir que a pessoa diga que não precisa daquele encaminhamento agora. O serviço estar disponível não significa que o cliente deva utilizá-lo para justificar a contratação.
 

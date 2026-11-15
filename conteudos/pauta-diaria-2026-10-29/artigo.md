@@ -12,7 +12,7 @@ A pergunta útil para uma PME é como organizar uma continuidade que caiba em se
 
 Uma série pode acompanhar uma transformação, examinar decisões sucessivas ou desenvolver respostas relacionadas. O vínculo precisa ir além de repetir o mesmo cenário ou a mesma abertura.
 
-Imagine uma empresa de serviços que quer mostrar como organiza um projeto fictício em três episódios. É um exemplo hipotético. A pergunta central pode ser como uma necessidade inicial se transforma em um plano de trabalho compreensível.
+Imagine uma empresa de serviços que quer mostrar como organiza um projeto fictício em três episódios. A pergunta central pode ser como uma necessidade inicial se transforma em um plano de trabalho compreensível.
 
 A primeira parte trata de entender o problema. A segunda mostra uma escolha entre caminhos possíveis. A terceira explica como organizar a continuidade. Cada episódio contribui para a pergunta maior, sem precisar resumir todo o serviço.
 
@@ -22,7 +22,7 @@ Antes de produzir, tente explicar essa relação em uma frase. Se a conexão dep
 
 Um episódio pode abrir uma questão e ainda assim oferecer uma resposta útil. A continuidade não exige esconder a informação essencial para forçar o público a voltar.
 
-No exemplo hipotético, a primeira parte pode mostrar uma pergunta que ajuda a esclarecer o pedido. Quem assistir apenas a ela já encontra algo aplicável. O interesse pelas demais nasce da possibilidade de acompanhar o próximo desenvolvimento.
+No exemplo, a primeira parte pode mostrar uma pergunta que ajuda a esclarecer o pedido. Quem assistir apenas a ela já encontra algo aplicável. O interesse pelas demais nasce da possibilidade de acompanhar o próximo desenvolvimento.
 
 Registre a contribuição de cada episódio antes de escrever os roteiros. O que será entendido ao final? O que muda em relação ao começo? Qual nova questão aparece porque aquela etapa foi esclarecida?
 
@@ -32,7 +32,7 @@ Se duas partes entregam a mesma coisa, revise a divisão. Se uma delas existe ap
 
 Em uma rede social, não é seguro presumir que todas as pessoas encontrarão a primeira parte antes das outras. A publicação precisa oferecer orientação suficiente para quem chega naquele momento.
 
-Uma abertura breve pode situar o assunto e o ponto atual. No segundo episódio do projeto hipotético, a equipe pode recordar a necessidade que orienta a escolha antes de apresentar as alternativas.
+Uma abertura breve pode situar o assunto e o ponto atual. No segundo episódio do projeto, a equipe pode recordar a necessidade que orienta a escolha antes de apresentar as alternativas.
 
 Isso não significa repetir o vídeo anterior inteiro. Escolha o contexto necessário para compreender aquela parte. Uma referência às anteriores pode permitir aprofundamento, mas não deveria ser a única maneira de entender uma informação básica.
 
@@ -64,7 +64,7 @@ Depois de publicar, não avalie apenas a soma das visualizações. Procure enten
 
 Esses sinais exigem contexto. Um episódio pode circular mais por um motivo específico sem demonstrar que a série inteira funcionou. Uma dúvida recorrente pode indicar falta de orientação ou interesse em um ponto que merece outro material.
 
-No projeto hipotético, a equipe pode descobrir que a transição entre entender a necessidade e escolher o caminho ficou pouco clara. Em vez de produzir mais partes automaticamente, pode melhorar essa passagem ou criar uma explicação complementar.
+No projeto, a equipe pode descobrir que a transição entre entender a necessidade e escolher o caminho ficou pouco clara. Em vez de produzir mais partes automaticamente, pode melhorar essa passagem ou criar uma explicação complementar.
 
 Não é necessário transformar toda publicação em capítulo. Alguns assuntos pedem uma resposta direta e completa. A série faz sentido quando a continuidade ajuda a compreender algo que se desenvolve.
 

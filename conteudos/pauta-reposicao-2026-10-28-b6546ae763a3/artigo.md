@@ -10,7 +10,7 @@ A referência útil para uma PME está na necessidade de dar contorno à mudanç
 
 ## Comece pelo que foi alterado de fato
 
-Imagine uma pequena empresa que substitui um componente da embalagem de seu produto. É um exemplo hipotético. O fornecedor informa uma nova composição para aquela peça, enquanto os demais elementos continuam iguais.
+Imagine uma pequena empresa que substitui um componente da embalagem de seu produto. O fornecedor informa uma nova composição para aquela peça, enquanto os demais elementos continuam iguais.
 
 Antes de preparar a chamada, registre a alteração em linguagem direta. O que era utilizado? O que passou a ser utilizado? A informação vale para o componente, para a embalagem inteira ou para o produto? A mudança já está presente nos itens comercializados?
 
@@ -22,7 +22,7 @@ Uma comunicação precisa não precisa apresentar cada detalhe técnico na chama
 
 Uma apresentação comercial do fornecedor pode anunciar vantagens, mas a equipe precisa identificar qual documento sustenta a afirmação que pretende publicar. Uma frase recebida por mensagem não esclarece necessariamente composição, método ou versões abrangidas.
 
-No exemplo hipotético, a empresa pode solicitar a documentação pertinente e confirmar a quais lotes ou especificações ela se aplica. Se houver dúvidas técnicas, deve buscar a avaliação apropriada antes de transformar o material em promessa pública.
+No exemplo, a empresa pode solicitar a documentação pertinente e confirmar a quais lotes ou especificações ela se aplica. Se houver dúvidas técnicas, deve buscar a avaliação apropriada antes de transformar o material em promessa pública.
 
 Registre também quem confirmou a informação e quando ela foi verificada. Esse cuidado permite revisar o conteúdo se o componente ou o fornecedor mudar.
 
@@ -34,7 +34,7 @@ Uma alteração de material pode ser relevante sem resolver todas as questões a
 
 Se o dado confirmado diz respeito a um componente, apresente esse componente. Se vale para determinada versão, deixe a versão reconhecível. Evite usar uma imagem da linha inteira quando apenas parte dela recebeu a mudança, sem explicar essa diferença.
 
-No caso hipotético, uma descrição da nova composição da peça pode ser mais precisa que um adjetivo aplicado a todo o produto. A escolha ajuda a valorizar o avanço real sem sugerir uma conclusão que não foi examinada.
+No caso, uma descrição da nova composição da peça pode ser mais precisa que um adjetivo aplicado a todo o produto. A escolha ajuda a valorizar o avanço real sem sugerir uma conclusão que não foi examinada.
 
 O mesmo cuidado vale para comparações. Dizer que houve redução exige esclarecer o que foi comparado e a qual condição a comparação corresponde. Não trate uma referência desconhecida como evidente para o público.
 
@@ -70,6 +70,6 @@ Essa preparação também ajuda a encontrar desencontros entre canais. Uma pági
 
 Uma informação correta pode deixar de corresponder à composição disponível. Por isso, a comunicação sobre materiais e processos precisa de um responsável por revisar mudanças posteriores.
 
-Na PME hipotética, a substituição de fornecedor ou a convivência de versões exige conferir o que cada cliente recebe e como a apresentação distingue os itens. O conteúdo não deve presumir que toda unidade já incorpora uma alteração apenas porque ela foi aprovada no projeto.
+Na PME, a substituição de fornecedor ou a convivência de versões exige conferir o que cada cliente recebe e como a apresentação distingue os itens. O conteúdo não deve presumir que toda unidade já incorpora uma alteração apenas porque ela foi aprovada no projeto.
 
 Na próxima divulgação, comece pela melhoria que consegue descrever e sustentar. Dê a ela o valor que tem, com objeto e limites claros. Explicar uma mudança concreta oferece ao público algo que pode compreender e conferir, sem pedir que um avanço específico prove sozinho uma promessa sobre o produto inteiro.

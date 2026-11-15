@@ -10,7 +10,7 @@ Para uma pequena empresa que participa de eventos, a pergunta prática é o que 
 
 ## Recupere a pergunta antes de enviar a apresentação
 
-Imagine uma PME industrial que apresentou um componente numa feira. É um exemplo hipotético. Uma visitante perguntou sobre as condições de aplicação. Outro contato quis saber como funcionaria uma avaliação inicial. Uma terceira pessoa estava conhecendo fornecedores para uma necessidade futura.
+Imagine uma PME industrial que apresentou um componente numa feira. Uma visitante perguntou sobre as condições de aplicação. Outro contato quis saber como funcionaria uma avaliação inicial. Uma terceira pessoa estava conhecendo fornecedores para uma necessidade futura.
 
 Os três encontros podem merecer continuidade. Não pedem necessariamente a mesma resposta, no mesmo momento. Uma mensagem que ignora essas diferenças obriga o destinatário a refazer o contexto que já explicou pessoalmente.
 
@@ -20,7 +20,7 @@ Quando o registro estiver incompleto, reconheça o limite. É possível retomar 
 
 ## Uma promessa pequena também precisa de responsável
 
-No exemplo hipotético, a visitante pediu uma ficha técnica. A pessoa que fez o atendimento prometeu enviá-la, mas depende de uma confirmação da engenharia. A tarefa fica circulando porque ninguém assumiu a resposta ao contato.
+No exemplo, a visitante pediu uma ficha técnica. A pessoa que fez o atendimento prometeu enviá-la, mas depende de uma confirmação da engenharia. A tarefa fica circulando porque ninguém assumiu a resposta ao contato.
 
 Definir um responsável não significa que essa pessoa fará tudo sozinha. Significa que alguém acompanha a pendência, sabe a quem recorrer e consegue comunicar o andamento. O cliente não deveria precisar descobrir a estrutura interna para receber o que foi prometido.
 
@@ -32,7 +32,7 @@ A coerência da marca aparece nesse detalhe: a atenção demonstrada no encontro
 
 Uma reunião pode fazer sentido quando existe uma questão que exige conversa. Pode ser desnecessária quando o destinatário pediu apenas um documento ou a confirmação de uma condição.
 
-Na PME hipotética, a primeira visitante pode receber a informação técnica solicitada e uma pergunta sobre a necessidade de esclarecimento. O segundo contato pode avaliar uma conversa sobre o processo inicial. A terceira pessoa pode preferir guardar uma referência e retomar quando a necessidade estiver definida.
+Na PME, a primeira visitante pode receber a informação técnica solicitada e uma pergunta sobre a necessidade de esclarecimento. O segundo contato pode avaliar uma conversa sobre o processo inicial. A terceira pessoa pode preferir guardar uma referência e retomar quando a necessidade estiver definida.
 
 O próximo passo precisa ter uma função compreensível. O que será esclarecido? O que a pessoa precisa avaliar? Há algo que depende de uma decisão dela antes de avançar?
 

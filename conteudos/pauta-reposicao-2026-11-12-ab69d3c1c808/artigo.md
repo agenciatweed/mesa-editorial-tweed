@@ -8,7 +8,7 @@ As diretrizes públicas da Coder, com data declarada de 11 de novembro de 2026, 
 
 ## Comece pelos lugares em que a marca aparece
 
-Imagine uma pequena empresa de manutenção que utiliza um logotipo com nome horizontal e um descritor abaixo. É um exemplo hipotético. A composição funciona na lateral do veículo e no cabeçalho de uma proposta, mas o avatar do canal de atendimento recebe exatamente a mesma versão, reduzida até caber.
+Imagine uma pequena empresa de manutenção que utiliza um logotipo com nome horizontal e um descritor abaixo. A composição funciona na lateral do veículo e no cabeçalho de uma proposta, mas o avatar do canal de atendimento recebe exatamente a mesma versão, reduzida até caber.
 
 O problema fica evidente quando a equipe olha o perfil no tamanho habitual. As palavras se comprimem, o descritor perde leitura e parte do nome se aproxima da borda circular. O arquivo está inteiro; a aplicação é que não oferece espaço suficiente para aquela composição.
 
@@ -20,7 +20,7 @@ Observe cada um no contexto em que será visto. Uma miniatura aberta isoladament
 
 Ampliar a imagem é útil para examinar o arquivo. A avaliação da leitura, porém, precisa voltar ao tamanho em que ele aparece para a pessoa. O zoom pode fazer uma aplicação frágil parecer resolvida.
 
-Na empresa hipotética, a equipe pode observar o avatar no perfil e numa lista de conversas. O desenho é identificável nas duas situações? O recorte permanece adequado? O nome complementar exibido pelo canal ajuda a reconhecer quem está falando?
+Na empresa, a equipe pode observar o avatar no perfil e numa lista de conversas. O desenho é identificável nas duas situações? O recorte permanece adequado? O nome complementar exibido pelo canal ajuda a reconhecer quem está falando?
 
 Essa última informação faz parte do contexto. Um símbolo não precisa carregar sozinho todas as tarefas de identificação quando o nome da empresa está claramente associado a ele. Ao mesmo tempo, a existência de um nome ao lado não justifica manter uma imagem cortada ou incoerente com a identidade.
 
@@ -30,7 +30,7 @@ Procure descrever o que foi observado: o descritor deixou de ser legível, uma m
 
 A identidade da empresa pode já ter uma versão compacta, uma composição vertical ou orientações para aplicações restritas. Vale conferir esses recursos antes de improvisar uma adaptação.
 
-No exemplo hipotético, se existe uma versão aprovada para avatar, ela precisa ser avaliada no suporte pertinente. A presença no manual não elimina a conferência, especialmente quando o canal aplica um recorte diferente ou mostra o elemento em condições que não foram examinadas antes.
+No exemplo, se existe uma versão aprovada para avatar, ela precisa ser avaliada no suporte pertinente. A presença no manual não elimina a conferência, especialmente quando o canal aplica um recorte diferente ou mostra o elemento em condições que não foram examinadas antes.
 
 Se não houver uma alternativa adequada, leve a necessidade a quem cuida do sistema visual. Cortar letras, retirar partes do desenho ou criar um símbolo sem critério pode produzir uma nova identidade por acidente. O ajuste exige compreender quais elementos sustentam a relação com a marca existente.
 
@@ -40,7 +40,7 @@ Isso também não significa que toda dificuldade exija um redesign completo. Uma
 
 Uma marca visível sobre uma área lisa pode perder definição quando colocada sobre uma fotografia movimentada. Uma margem que parece suficiente num arquivo quadrado pode desaparecer quando a imagem é apresentada num círculo.
 
-Na empresa hipotética, vale conferir a versão escolhida sobre os fundos previstos e dentro do recorte efetivo do canal. A composição continua inteira? Existe espaço livre suficiente para distingui-la dos elementos ao redor? A combinação entre desenho e fundo permite perceber seus contornos?
+Na empresa, vale conferir a versão escolhida sobre os fundos previstos e dentro do recorte efetivo do canal. A composição continua inteira? Existe espaço livre suficiente para distingui-la dos elementos ao redor? A combinação entre desenho e fundo permite perceber seus contornos?
 
 Essas perguntas não autorizam mudar cores ou acrescentar efeitos por tentativa. Use as aplicações aprovadas e encaminhe a dificuldade quando elas não forem suficientes. A resposta precisa preservar uma relação reconhecível entre os pontos de contato da empresa.
 
@@ -48,7 +48,7 @@ Também não há uma medida mínima única que resolva todas as marcas e suporte
 
 ## Transforme a conferência numa orientação de uso
 
-Depois de definir uma aplicação adequada, a próxima pessoa que precisar usá-la deve conseguir reconhecer a escolha. Na PME hipotética, isso pode significar identificar a versão destinada ao avatar e os cuidados de fundo e recorte que foram efetivamente conferidos.
+Depois de definir uma aplicação adequada, a próxima pessoa que precisar usá-la deve conseguir reconhecer a escolha. Na PME, isso pode significar identificar a versão destinada ao avatar e os cuidados de fundo e recorte que foram efetivamente conferidos.
 
 O registro pode mostrar o contexto aprovado e indicar quando procurar o responsável pelo design. Ele deve ajudar a equipe a aplicar a identidade, sem virar uma coleção de exceções que ninguém consegue interpretar.
 

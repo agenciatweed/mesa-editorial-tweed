@@ -14,7 +14,7 @@ Ele oferece uma pergunta útil para investigar localmente: o que a pessoa faz an
 
 ## Uma dúvida pode chegar antes do pedido
 
-Imagine uma loja de móveis que prepara uma ação promocional. É um exemplo hipotético. A equipe concentra os esforços nas peças da semana da oferta, mas já recebe mensagens perguntando sobre medidas, materiais, montagem e condições de entrega.
+Imagine uma loja de móveis que prepara uma ação promocional. A equipe concentra os esforços nas peças da semana da oferta, mas já recebe mensagens perguntando sobre medidas, materiais, montagem e condições de entrega.
 
 Algumas pessoas podem estar tentando entender se o móvel serve ao espaço. Outras comparam modelos ou precisam organizar uma mudança. A pergunta sobre uma medida ainda não é uma compra, mas também não precisa ser tratada como um contato sem importância.
 

@@ -10,7 +10,7 @@ A pergunta para uma PME continua pertinente com qualquer ferramenta: qual decis�
 
 ## Combine o que a apresentação pretende avaliar
 
-Imagine uma pequena empresa de serviços que está preparando um site com pedido de agendamento. É um exemplo hipotético. O protótipo mostra a escolha do serviço, uma seleção de horários e uma tela de conclusão.
+Imagine uma pequena empresa de serviços que está preparando um site com pedido de agendamento. O protótipo mostra a escolha do serviço, uma seleção de horários e uma tela de conclusão.
 
 Antes de apresentar o percurso, a equipe pode explicar qual parte está em avaliação. A organização das informações? Os nomes das ações? A sequência que ajuda a pessoa a formular um pedido? Uma avaliação sem esse recorte pode misturar decisões de comunicação com expectativas sobre uma operação ainda não demonstrada.
 
@@ -22,7 +22,7 @@ Essas condições precisam ser descritas conforme o projeto. Não se deve presum
 
 A diferença entre uma ideia e uma função existente fica mais compreensível quando associada a uma situação concreta. Dizer que faltam ajustes pode esconder uma pendência importante para a experiência.
 
-Na PME hipotética, vale conferir o significado de cada etapa. A pessoa está solicitando um horário ou recebendo uma confirmação? Quem recebe o pedido? Existe uma informação que ainda precisa ser definida pela operação? A resposta deve vir de quem conhece o projeto e o atendimento.
+Na PME, vale conferir o significado de cada etapa. A pessoa está solicitando um horário ou recebendo uma confirmação? Quem recebe o pedido? Existe uma informação que ainda precisa ser definida pela operação? A resposta deve vir de quem conhece o projeto e o atendimento.
 
 O registro dessas condições ajuda a discutir o que foi mostrado. Não precisa virar um inventário técnico extenso para quem está avaliando a comunicação. Precisa tornar visível a diferença entre o comportamento demonstrado, as decisões ainda abertas e as verificações futuras.
 
@@ -32,7 +32,7 @@ Se a equipe não sabe esclarecer uma dependência, o próximo passo é confirmar
 
 Explicar os limites do protótipo não diminui sua utilidade. Permite aproveitar melhor o que ele já oferece como material de avaliação.
 
-Na empresa hipotética, alguém pode percorrer as telas e explicar o que acredita ter feito. Entendeu que pediu um agendamento ou que já tinha um horário confirmado? Conseguiu reconhecer o serviço? Soube onde encontrar a informação necessária para continuar?
+Na empresa, alguém pode percorrer as telas e explicar o que acredita ter feito. Entendeu que pediu um agendamento ou que já tinha um horário confirmado? Conseguiu reconhecer o serviço? Soube onde encontrar a informação necessária para continuar?
 
 Essas observações podem indicar um nome ambíguo, uma mensagem que promete mais do que deveria ou um caminho difícil de compreender. São contribuições de comunicação e experiência que podem ser discutidas naquela etapa.
 
@@ -42,7 +42,7 @@ O exercício, porém, não comprova que o atendimento recebeu uma solicitação 
 
 Uma aprovação genérica pode fazer a equipe seguinte acreditar que todas as decisões foram encerradas. Se a conversa tratou apenas da organização das páginas, essa conclusão amplia o que foi efetivamente avaliado.
 
-Na PME hipotética, a referência pode indicar qual versão foi apresentada, quais escolhas foram confirmadas e quais pontos continuam pendentes. Uma dúvida sobre a mensagem de agendamento deve permanecer identificada, em vez de desaparecer porque o conjunto visual foi bem recebido.
+Na PME, a referência pode indicar qual versão foi apresentada, quais escolhas foram confirmadas e quais pontos continuam pendentes. Uma dúvida sobre a mensagem de agendamento deve permanecer identificada, em vez de desaparecer porque o conjunto visual foi bem recebido.
 
 Também vale distinguir uma decisão de uma condição para continuar. Aprovar um caminho de navegação não resolve automaticamente informações que dependem da equipe de atendimento. Se houver necessidade de uma nova conferência, combine quem esclarece o ponto e como a decisão será retomada.
 

@@ -16,7 +16,7 @@ A pergunta de gestão vem antes da configuração: qual acontecimento queremos m
 
 ## Um exemplo de conversão que ainda precisa de contexto
 
-Imagine uma empresa que instala equipamentos para outras empresas. É um exemplo hipotético. Sua campanha encaminha interessados a um formulário. Entre os pedidos, há compradores da região atendida, pessoas buscando emprego, solicitações de assistência e consultas sobre produtos que ela não vende.
+Imagine uma empresa que instala equipamentos para outras empresas. Sua campanha encaminha interessados a um formulário. Entre os pedidos, há compradores da região atendida, pessoas buscando emprego, solicitações de assistência e consultas sobre produtos que ela não vende.
 
 O envio do formulário aconteceu em todos esses casos. A utilidade comercial dos contatos é diferente. Um relatório que apresenta o total de envios está descrevendo uma etapa do percurso, não necessariamente o número de oportunidades que a empresa pode atender.
 

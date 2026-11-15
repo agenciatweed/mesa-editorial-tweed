@@ -8,7 +8,7 @@ Em reportagem de 10 de novembro de 2026, o Abduzeedo apresentou o sistema de sub
 
 ## Defina o que precisa ser percebido como diferente
 
-Imagine uma pequena consultoria de gestão que passa a oferecer cursos para os responsáveis pela operação dos clientes. É um exemplo hipotético. A consultoria acompanha decisões de cada empresa; os cursos reúnem participantes para aprender um conteúdo delimitado. Há uma diferença real de entrega.
+Imagine uma pequena consultoria de gestão que passa a oferecer cursos para os responsáveis pela operação dos clientes. A consultoria acompanha decisões de cada empresa; os cursos reúnem participantes para aprender um conteúdo delimitado. Há uma diferença real de entrega.
 
 Essa diferença não significa necessariamente que o comprador esteja diante de outra marca. A experiência da equipe que já conduz a consultoria pode ser justamente uma razão para considerar o curso. Esconder esse vínculo por trás de uma identidade independente pode retirar uma informação útil da apresentação.
 
@@ -30,7 +30,7 @@ Esses caminhos são alternativas para análise, não uma sequência obrigatória
 
 A equipe conhece quem desenvolveu o curso e como ele se conecta à consultoria. Quem encontra uma publicação isolada pode não ter essas informações. Vale examinar a apresentação no ponto em que a novidade será descoberta.
 
-Na empresa hipotética, alguém vê a página do curso e tenta responder: quem oferece essa formação? Qual é sua relação com a consultoria? O conhecimento apresentado corresponde ao trabalho que já conheço? O próximo passo é procurar o mesmo atendimento ou outro caminho?
+Na empresa, alguém vê a página do curso e tenta responder: quem oferece essa formação? Qual é sua relação com a consultoria? O conhecimento apresentado corresponde ao trabalho que já conheço? O próximo passo é procurar o mesmo atendimento ou outro caminho?
 
 Essas perguntas ajudam a avaliar a arquitetura sem reduzir a conversa a qual logotipo agrada mais. Um conjunto visualmente harmonioso pode deixar a relação ambígua. Identidades diferentes também podem manter um vínculo compreensível quando sua organização é bem explicada.
 
@@ -40,7 +40,7 @@ A semelhança visual, porém, não demonstra quem responde juridicamente por uma
 
 Cada identidade pode exigir referências de apresentação, materiais, conteúdos e orientações para quem atende. Se houver um canal separado, alguém precisará cuidar dele e manter suas informações coerentes. Esse trabalho continua depois da aprovação do logotipo.
 
-Na consultoria hipotética, vale imaginar o que acontece quando muda a data de uma turma, quando surge outra formação ou quando um curso deixa de ser oferecido. Quantos materiais precisam ser atualizados? Quem sabe quais versões continuam válidas? Quem esclarece a relação entre o curso e os serviços de acompanhamento?
+Na consultoria, vale imaginar o que acontece quando muda a data de uma turma, quando surge outra formação ou quando um curso deixa de ser oferecido. Quantos materiais precisam ser atualizados? Quem sabe quais versões continuam válidas? Quem esclarece a relação entre o curso e os serviços de acompanhamento?
 
 Não se trata de presumir que uma equipe pequena seja incapaz de manter mais de uma marca. Trata-se de reconhecer o trabalho da escolha e combinar quem o sustenta. Uma identidade com uma função clara pode justificar uma organização própria. Uma separação sem motivo pode acrescentar tarefas antes de acrescentar entendimento.
 

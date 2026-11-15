@@ -10,7 +10,7 @@ Não se trata de reproduzir procedimentos da Petrobras nem de prometer aprovaç�
 
 ## Escreva a oferta para quem precisa identificá-la
 
-Imagine uma pequena empresa que fornece componentes e realiza manutenção para outras empresas. É um exemplo hipotético. Seu site se apresenta como parceiro de soluções industriais, mas não explica quais componentes comercializa nem que tipo de manutenção executa.
+Imagine uma pequena empresa que fornece componentes e realiza manutenção para outras empresas. Seu site se apresenta como parceiro de soluções industriais, mas não explica quais componentes comercializa nem que tipo de manutenção executa.
 
 Uma pessoa de compras pode entender que existe uma relação com sua necessidade e ainda assim não encontrar informação suficiente para encaminhar o contato. Talvez tenha recebido apenas o nome comercial. Talvez precise compartilhar a referência com uma área técnica antes de continuar.
 
@@ -20,7 +20,7 @@ Isso não exige transformar a página institucional num catálogo de cada peça 
 
 ## Mostre o alcance sem fazer a empresa parecer ilimitada
 
-No exemplo hipotético, a fornecedora atende determinadas regiões e depende de avaliação para alguns serviços. Esconder essas condições sob uma promessa de atendimento completo cria uma expectativa que o primeiro contato terá de corrigir.
+No exemplo, a fornecedora atende determinadas regiões e depende de avaliação para alguns serviços. Esconder essas condições sob uma promessa de atendimento completo cria uma expectativa que o primeiro contato terá de corrigir.
 
 Informe o alcance que consegue sustentar. Se a execução depende de uma visita ou análise técnica, explique essa necessidade de maneira simples. Se determinados produtos precisam ser consultados, não apresente sua disponibilidade como garantida.
 
@@ -54,7 +54,7 @@ Um endereço de atendimento genérico pode receber a mensagem e ainda assim deix
 
 Indique onde tratar solicitações comerciais e o contexto necessário para começar. A pessoa consegue informar a categoria procurada e explicar o pedido sem preencher um formulário desproporcional? Quem recebe sabe distinguir uma consulta de produto de uma solicitação de cadastro?
 
-Na fornecedora hipotética, pode bastar um caminho comercial bem identificado, com uma orientação breve sobre o assunto. Não é necessário publicar o contato pessoal de cada integrante da operação nem prometer uma resposta imediata que a equipe não consegue manter.
+Na fornecedora, pode bastar um caminho comercial bem identificado, com uma orientação breve sobre o assunto. Não é necessário publicar o contato pessoal de cada integrante da operação nem prometer uma resposta imediata que a equipe não consegue manter.
 
 Confira também o que acontece depois do envio. Uma confirmação compreensível e uma responsabilidade interna definida ajudam a manter a continuidade. Não anuncie etapas ou prazos apenas porque parecem profissionais: descreva o processo que existe.
 

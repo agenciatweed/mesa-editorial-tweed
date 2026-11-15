@@ -12,7 +12,7 @@ A pergunta útil para uma PME é direta: o que precisa mudar para facilitar a vi
 
 Um site antigo pode ter problemas reais de clareza, manutenção ou acessibilidade. Reconhecer o que as pessoas já conseguem fazer nele não significa defender todos os seus defeitos.
 
-Imagine uma empresa de serviços que permite agendar um atendimento pelo site. É um exemplo hipotético. Clientes recorrentes conhecem o botão de agendamento e utilizam o caminho sem pedir ajuda. Na renovação, a ação recebe um nome mais criativo e fica dentro de uma área cuja finalidade não é evidente.
+Imagine uma empresa de serviços que permite agendar um atendimento pelo site. Clientes recorrentes conhecem o botão de agendamento e utilizam o caminho sem pedir ajuda. Na renovação, a ação recebe um nome mais criativo e fica dentro de uma área cuja finalidade não é evidente.
 
 A equipe pode achar a organização mais elegante. O cliente precisa descobrir novamente como realizar algo que já sabia fazer. Se ele entra apenas para resolver uma tarefa, talvez não tenha interesse em explorar a nova estrutura.
 

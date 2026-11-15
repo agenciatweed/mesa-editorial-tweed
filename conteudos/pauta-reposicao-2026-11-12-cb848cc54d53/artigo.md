@@ -10,7 +10,7 @@ Para uma PME, a questão começa antes da escolha da plataforma: o que acontece 
 
 ## Combine que conversa a transmissão pode sustentar
 
-Imagine uma pequena fabricante de móveis que apresenta uma nova linha a lojistas. É um exemplo hipotético. O encontro mostra acabamentos e possibilidades de composição. O público também quer esclarecer o que acompanha cada opção e quais informações dependem de consulta comercial.
+Imagine uma pequena fabricante de móveis que apresenta uma nova linha a lojistas. O encontro mostra acabamentos e possibilidades de composição. O público também quer esclarecer o que acompanha cada opção e quais informações dependem de consulta comercial.
 
 Antes de entrar ao vivo, a equipe pode delimitar a finalidade daquele espaço de perguntas. Quais dúvidas a apresentação pretende esclarecer? O que exige consultar outra referência? Que situações devem seguir por um atendimento específico?
 
@@ -20,7 +20,7 @@ Não é preciso antecipar toda pergunta possível. É necessário reconhecer os 
 
 ## Enviar, acompanhar e responder são ações diferentes
 
-Na fabricante hipotética, quem apresenta pode estar abrindo um móvel, demonstrando um movimento e explicando uma característica. Conferir simultaneamente todas as mensagens pode não ser viável naquela dinâmica.
+Na fabricante, quem apresenta pode estar abrindo um móvel, demonstrando um movimento e explicando uma característica. Conferir simultaneamente todas as mensagens pode não ser viável naquela dinâmica.
 
 Combine como as perguntas chegarão à apresentação. Se outra pessoa acompanha o campo, ela precisa saber quais questões pode organizar, o que já foi respondido e quando sinalizar uma dúvida pertinente. Se a mesma pessoa acumula funções, o formato deve prever momentos em que consiga olhar e retomar a conversa.
 
@@ -32,7 +32,7 @@ Uma conferência prévia pode percorrer situações de exemplo: chega uma pergun
 
 O ritmo da transmissão pode pressionar a equipe a responder rapidamente. Uma frase segura, porém, não substitui a confirmação de uma condição da oferta.
 
-No exemplo hipotético, alguém pergunta se determinada composição está disponível para uma necessidade específica. O apresentador pode explicar o que está confirmado sobre a linha. Se a situação depende de avaliação, essa condição precisa continuar presente na resposta.
+No exemplo, alguém pergunta se determinada composição está disponível para uma necessidade específica. O apresentador pode explicar o que está confirmado sobre a linha. Se a situação depende de avaliação, essa condição precisa continuar presente na resposta.
 
 Não invente prazo, característica ou possibilidade de atendimento para evitar uma pausa. A equipe pode reconhecer que precisa conferir uma informação e indicar um próximo passo que exista. Essa resposta tem um alcance diferente de prometer que tudo será resolvido logo depois.
 
@@ -42,7 +42,7 @@ Também vale distinguir uma pergunta ainda sem resposta de uma questão já escl
 
 Durante o encontro, um lojista pode mencionar um pedido ou tentar discutir uma condição individual. Esses assuntos podem exigir outra referência e não precisam ser expostos para todo o público.
 
-Na fabricante hipotética, quem acompanha as perguntas deve reconhecer quando o encaminhamento apropriado é um atendimento específico. A orientação pode indicar por onde continuar, sem ler dados privados ou reconstruir um projeto de cliente diante da câmera.
+Na fabricante, quem acompanha as perguntas deve reconhecer quando o encaminhamento apropriado é um atendimento específico. A orientação pode indicar por onde continuar, sem ler dados privados ou reconstruir um projeto de cliente diante da câmera.
 
 O próximo passo precisa ser utilizável. Apontar para um canal que ninguém acompanha apenas desloca a pergunta. Quem recebe a continuidade deve conseguir reconhecer o assunto pertinente, respeitando o que pode ser compartilhado e sem exigir uma exposição pública para iniciar a conversa.
 
@@ -52,7 +52,7 @@ Essa distinção não transforma todo contato em problema de privacidade. Ela or
 
 Nem toda pergunta chegará no momento em que pode ser respondida. Algumas exigem outra pessoa, outras chegam perto do encerramento e outras não correspondem à finalidade daquele encontro.
 
-Na empresa hipotética, a equipe pode combinar como reconhecer essas situações e qual continuidade consegue oferecer. Se houver retorno previsto, o responsável precisa saber o que ficou pendente e qual informação deve conferir. Uma intenção vaga de responder depois não equivale a um encaminhamento organizado.
+Na empresa, a equipe pode combinar como reconhecer essas situações e qual continuidade consegue oferecer. Se houver retorno previsto, o responsável precisa saber o que ficou pendente e qual informação deve conferir. Uma intenção vaga de responder depois não equivale a um encaminhamento organizado.
 
 Ao encerrar, descreva apenas o que está efetivamente combinado. Não afirme que todas as questões foram resolvidas se ainda existem dúvidas em avaliação. Também não prometa uma resposta individual para cada participante quando essa entrega não foi preparada.
 

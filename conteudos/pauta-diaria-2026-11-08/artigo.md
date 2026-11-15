@@ -10,7 +10,7 @@ A situação oferece uma pergunta útil para uma pequena empresa: a página do p
 
 ## O comprador conhece uma parte da história
 
-Imagine uma pequena loja de presentes que oferece objetos e conjuntos para atividades de lazer. É um exemplo hipotético. Uma cliente quer presentear uma amiga que gosta de desenhar, mas não conhece os materiais que ela utiliza.
+Imagine uma pequena loja de presentes que oferece objetos e conjuntos para atividades de lazer. Uma cliente quer presentear uma amiga que gosta de desenhar, mas não conhece os materiais que ela utiliza.
 
 O catálogo destaca um conjunto bonito e o descreve como ideal para pessoas criativas. A frase não esclarece se os itens servem para quem está começando, se dependem de outro material ou se têm uma aplicação específica. O interesse por desenho ainda é uma informação ampla demais para sustentar a recomendação.
 
@@ -22,7 +22,7 @@ Não é necessário pedir dados pessoais de terceiros para conduzir essa convers
 
 Organizar uma vitrine por ocasião pode ajudar a iniciar a procura. Não substitui explicar o produto. Um objeto pode ser apresentado como presente de aniversário e continuar exigindo condições que o comprador desconhece.
 
-Na loja hipotética, a descrição do conjunto pode informar o conteúdo, a aplicação prevista e o que é necessário para utilizá-lo, desde que essas características estejam confirmadas. Também pode esclarecer se a apresentação mostra acessórios que não acompanham a compra.
+Na loja, a descrição do conjunto pode informar o conteúdo, a aplicação prevista e o que é necessário para utilizá-lo, desde que essas características estejam confirmadas. Também pode esclarecer se a apresentação mostra acessórios que não acompanham a compra.
 
 Essas informações permitem uma conversa mais precisa. A cliente pode perceber que precisa confirmar um detalhe antes de escolher ou considerar uma alternativa que exija menos conhecimento sobre os materiais já usados pela amiga.
 
@@ -34,7 +34,7 @@ Expressões como “para toda mãe”, “para qualquer adolescente” ou “par
 
 Em vez de presumir uma preferência a partir de idade ou gênero, descreva características que possam ser avaliadas: finalidade, dimensões, materiais, conteúdo e condições pertinentes. Se houver uma recomendação de uso fornecida pelo fabricante, preserve seu alcance, sem ampliá-la por conveniência comercial.
 
-Na loja hipotética, dizer que um conjunto reúne determinados materiais para desenho permite examinar a adequação. Afirmar que qualquer pessoa criativa vai adorá-lo transforma uma descrição em previsão sobre alguém que a equipe não conhece.
+Na loja, dizer que um conjunto reúne determinados materiais para desenho permite examinar a adequação. Afirmar que qualquer pessoa criativa vai adorá-lo transforma uma descrição em previsão sobre alguém que a equipe não conhece.
 
 A linguagem pode continuar calorosa. O cuidado está em oferecer orientação sem prometer uma reação emocional nem apresentar uma possibilidade como certeza.
 
@@ -42,7 +42,7 @@ A linguagem pode continuar calorosa. O cuidado está em oferecer orientação se
 
 Uma seleção de presentes pode reunir opções com diferenças difíceis de reconhecer pela fotografia. O comprador vê caixas parecidas e preços diferentes, mas não entende o que muda na experiência de uso.
 
-Escolha informações que permitam comparar essas alternativas. Na loja hipotética, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.
+Escolha informações que permitam comparar essas alternativas. Na loja, podem ser o conteúdo do conjunto, a finalidade e a necessidade de materiais complementares. Use os mesmos critérios nas opções pertinentes, para que a pessoa não precise reconstruir a comparação sozinha.
 
 Também deixe claro o que é escolha estética e o que altera a utilização. Uma cor pode representar uma preferência; uma dimensão pode definir se o objeto cabe no espaço disponível. Não trate essas duas dúvidas como se exigissem a mesma resposta.
 
@@ -54,7 +54,7 @@ Uma página esclarece que o conjunto atende a determinada aplicação. No atendi
 
 Conteúdo e equipe precisam trabalhar com a mesma referência. Reúna as perguntas que dependem de confirmação, os limites da oferta e os pontos que ajudam a distinguir as opções. Uma descrição atualizada perde utilidade se a conversa comercial continua apoiada numa versão antiga.
 
-Na empresa hipotética, o atendimento pode reconhecer que não tem base suficiente para indicar um conjunto específico. Pode explicar quais informações faltam e apresentar somente alternativas cuja adequação consiga discutir. Isso é diferente de improvisar uma garantia para encerrar a conversa.
+Na empresa, o atendimento pode reconhecer que não tem base suficiente para indicar um conjunto específico. Pode explicar quais informações faltam e apresentar somente alternativas cuja adequação consiga discutir. Isso é diferente de improvisar uma garantia para encerrar a conversa.
 
 Evite inventar condições de troca ou serviços adicionais para compensar a incerteza. Se uma informação operacional for pertinente, confira a política vigente e apresente apenas o que a empresa realmente oferece.
 

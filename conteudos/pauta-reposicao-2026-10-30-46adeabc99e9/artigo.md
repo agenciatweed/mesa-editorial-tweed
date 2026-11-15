@@ -10,7 +10,7 @@ Para uma PME, a pergunta prática é o que o convidado precisa fazer antes de co
 
 ## Percorra o convite pelo lado de quem recebe
 
-Imagine uma pequena empresa de serviços que agenda uma primeira conversa com um prospect. É um exemplo hipotético. A equipe usa diariamente uma plataforma e já está conectada às próprias contas. Ao conferir o convite, entra sem perceber etapas que aparecem somente para um participante externo.
+Imagine uma pequena empresa de serviços que agenda uma primeira conversa com um prospect. A equipe usa diariamente uma plataforma e já está conectada às próprias contas. Ao conferir o convite, entra sem perceber etapas que aparecem somente para um participante externo.
 
 O convidado pode utilizar outro navegador, estar num computador administrado pela empresa ou não ter permissão para instalar o aplicativo sugerido. Essas condições não são sinais de desinteresse pelo encontro.
 
@@ -22,7 +22,7 @@ Não é necessário presumir uma dificuldade em toda chamada. É necessário evi
 
 Algumas exigências protegem a conversa. Outras resultam de uma configuração que ninguém revisou. Simplificar o acesso não significa desativar controles indiscriminadamente nem distribuir links sem critério.
 
-Na PME hipotética, a equipe pode conferir com quem responde pelo ambiente quais condições são adequadas para receber participantes externos. Talvez seja possível usar um acesso de convidado. Talvez o contexto exija uma autenticação específica.
+Na PME, a equipe pode conferir com quem responde pelo ambiente quais condições são adequadas para receber participantes externos. Talvez seja possível usar um acesso de convidado. Talvez o contexto exija uma autenticação específica.
 
 Quando a exigência for necessária, explique-a com antecedência e confira se o convidado consegue atendê-la. Se houver impedimento, discuta uma alternativa apropriada em vez de improvisar uma maneira de contornar uma política da outra empresa.
 
@@ -42,7 +42,7 @@ O link precisa chegar por um canal combinado e reconhecível. Reduzir atrito nã
 
 Uma sala de espera pode cumprir uma função importante. Ela também cria uma tarefa para o anfitrião: perceber quem chegou e tomar a decisão de admissão.
 
-Na empresa hipotética, uma pessoa abre a reunião e começa a preparar a apresentação. O prospect solicita entrada, mas o aviso fica sem atenção. O recurso funcionou; o acompanhamento falhou.
+Na empresa, uma pessoa abre a reunião e começa a preparar a apresentação. O prospect solicita entrada, mas o aviso fica sem atenção. O recurso funcionou; o acompanhamento falhou.
 
 Combine quem recebe os participantes, como identificar o convidado esperado e o que fazer se alguém informar dificuldade. Se houver mais de uma pessoa da equipe, deixe essa responsabilidade clara antes do horário.
 

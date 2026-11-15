@@ -10,7 +10,7 @@ Para uma pequena empresa, a pergunta vem antes de qualquer novidade de plataform
 
 ## Saiba quais ativos fazem parte do trabalho
 
-Imagine uma PME de serviços que mantém site, campanhas e relatórios com parceiros externos. É um exemplo hipotético. Ao preparar uma mudança de atendimento, percebe que utiliza nomes diferentes para se referir à mesma conta e não sabe quais recursos pertencem ao escopo de cada parceiro.
+Imagine uma PME de serviços que mantém site, campanhas e relatórios com parceiros externos. Ao preparar uma mudança de atendimento, percebe que utiliza nomes diferentes para se referir à mesma conta e não sabe quais recursos pertencem ao escopo de cada parceiro.
 
 Comece por identificar o que é pertinente à operação. Que conta corresponde aos anúncios? Qual recurso recebe os dados do site? Onde a equipe localiza o serviço responsável pela presença digital? Quem consegue confirmar essas informações?
 
@@ -22,7 +22,7 @@ Não inclua senhas nessa referência. A finalidade é organizar informação de 
 
 A pessoa que prepara uma campanha pode não ter o papel necessário para decidir sobre acessos. Quem recebe um relatório pode não conhecer a configuração da conta que o originou. Presumir que todas essas funções estão reunidas no mesmo contato deixa lacunas.
 
-Na PME hipotética, a equipe pode confirmar quem responde pelas decisões administrativas e quem acompanha a operação cotidiana. Essa definição precisa corresponder às condições reais de uso e aos acordos existentes, sem presumir direitos que ainda não foram esclarecidos.
+Na PME, a equipe pode confirmar quem responde pelas decisões administrativas e quem acompanha a operação cotidiana. Essa definição precisa corresponder às condições reais de uso e aos acordos existentes, sem presumir direitos que ainda não foram esclarecidos.
 
 Também vale distinguir uma responsabilidade definida de uma possibilidade técnica. Alguém conseguir abrir uma tela não significa que possa autorizar qualquer alteração. Uma informação recebida por mensagem não resolve uma dúvida sobre o papel de cada participante.
 
@@ -32,7 +32,7 @@ O objetivo não é criar mais camadas para uma tarefa simples. É evitar que uma
 
 Uma troca de parceiro é um momento evidente para revisar referências, mas não é o único. Ausências, mudanças na equipe ou novos serviços também podem alterar quem acompanha uma conta.
 
-Na empresa hipotética, a lista de responsáveis pode ser conferida em um momento de revisão do trabalho. Os contatos continuam válidos? A descrição dos ativos ainda corresponde ao que está em uso? Existe alguma dependência que só uma pessoa conhece?
+Na empresa, a lista de responsáveis pode ser conferida em um momento de revisão do trabalho. Os contatos continuam válidos? A descrição dos ativos ainda corresponde ao que está em uso? Existe alguma dependência que só uma pessoa conhece?
 
 Essa conferência não exige testar remoções de usuários ou alterar configurações por iniciativa própria. Mudanças técnicas precisam seguir os procedimentos apropriados, com pessoas autorizadas e atenção às consequências para a operação.
 
@@ -42,7 +42,7 @@ Se aparecer uma dúvida, registre o que falta confirmar e quem pode ajudar. Uma 
 
 Uma transição pode envolver entregas concluídas, tarefas em andamento e decisões que ainda dependem de resposta. Apresentar tudo como resolvido dificulta o início de quem chega e pode esconder um compromisso aberto.
 
-Na PME hipotética, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.
+Na PME, uma passagem de trabalho pode identificar quais ativos estão no escopo, os responsáveis confirmados e as pendências pertinentes. Cada ponto deve permitir entender o encaminhamento esperado sem exigir reconstruir todas as conversas anteriores.
 
 Evite transformar esse material num depósito de informações privadas. Compartilhe o que é necessário pelo meio adequado e preserve dados de clientes e de outras pessoas. O propósito é dar continuidade ao trabalho, sem ampliar a exposição de informações.
 
@@ -54,7 +54,7 @@ Uma alteração numa conta pode se relacionar a outras partes da operação. Um 
 
 O anúncio do Data Manager serve como contexto de organização dessas conexões, não como indicação de que toda empresa precisa adotar o recurso ou de que ele resolverá uma troca de parceiro.
 
-Na empresa hipotética, uma referência de trabalho pode indicar onde existe uma dependência e quem pode explicá-la. Não é necessário desenhar uma arquitetura técnica completa para cada conversa. É necessário não apresentar uma mudança isolada como se não pudesse ter efeitos em outro ponto.
+Na empresa, uma referência de trabalho pode indicar onde existe uma dependência e quem pode explicá-la. Não é necessário desenhar uma arquitetura técnica completa para cada conversa. É necessário não apresentar uma mudança isolada como se não pudesse ter efeitos em outro ponto.
 
 Quando a equipe não souber avaliar uma consequência, o encaminhamento apropriado é procurar quem tem condições de verificar. A comunicação não deve preencher uma dúvida operacional com uma promessa de que nada será afetado.
 

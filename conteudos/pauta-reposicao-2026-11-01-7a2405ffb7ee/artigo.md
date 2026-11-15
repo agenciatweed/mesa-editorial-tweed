@@ -10,7 +10,7 @@ Para uma pequena empresa, o trabalho começa por explicar o que consegue sustent
 
 ## Localize a relação entre o lugar e o produto
 
-Imagine uma pequena marca de alimentos que produz numa determinada região e compra ingredientes de diferentes fornecedores. É um exemplo hipotético. A comunicação apresenta tudo como uma expressão daquele território, sem distinguir onde acontece a produção e de onde vêm os componentes.
+Imagine uma pequena marca de alimentos que produz numa determinada região e compra ingredientes de diferentes fornecedores. A comunicação apresenta tudo como uma expressão daquele território, sem distinguir onde acontece a produção e de onde vêm os componentes.
 
 Antes de escrever a história, organize essas informações. O preparo ocorre ali? Parte dos ingredientes tem origem local? Existe uma etapa realizada em outro lugar? O que a empresa consegue confirmar sobre cada ponto?
 
@@ -22,7 +22,7 @@ Essa distinção permite valorizar a participação real da região. Também evi
 
 Tradicional pode significar muitas coisas. Antes de usar a palavra como argumento principal, pergunte qual prática, trajetória ou escolha ela pretende descrever.
 
-Na marca hipotética, talvez exista uma etapa de preparo mantida pela equipe e que possa ser mostrada. Talvez a relação com o lugar esteja na produção realizada ali, sem uma história longa de gerações. Nenhuma das situações precisa ser enfeitada para parecer outra.
+Na marca, talvez exista uma etapa de preparo mantida pela equipe e que possa ser mostrada. Talvez a relação com o lugar esteja na produção realizada ali, sem uma história longa de gerações. Nenhuma das situações precisa ser enfeitada para parecer outra.
 
 Uma descrição precisa pode informar quem realiza uma etapa, onde ela acontece e como participa do produto. Isso é diferente de inventar uma receita antiga, uma característica sensorial ou uma superioridade que não foi verificada.
 
@@ -54,7 +54,7 @@ A história pode aparecer no site, numa apresentação comercial e no atendiment
 
 Combine uma descrição de referência com a equipe. Quais relações com o território estão confirmadas? Que perguntas precisam de consulta antes de uma resposta? Há alguma condição que não pode desaparecer numa versão mais curta?
 
-No exemplo hipotético, o atendimento pode explicar onde ocorre o preparo e encaminhar uma pergunta sobre determinado ingrediente à pessoa responsável. É melhor reconhecer uma informação que precisa ser conferida do que improvisar uma narrativa mais ampla para manter a conversa atraente.
+No exemplo, o atendimento pode explicar onde ocorre o preparo e encaminhar uma pergunta sobre determinado ingrediente à pessoa responsável. É melhor reconhecer uma informação que precisa ser conferida do que improvisar uma narrativa mais ampla para manter a conversa atraente.
 
 Revise também os materiais de parceiros que apresentam o produto. Uma descrição copiada pode ganhar adjetivos ou afirmações que não estavam na versão original. A marca precisa conferir o que consegue corrigir e oferecer uma referência clara para os próximos usos.
 
@@ -62,7 +62,7 @@ Revise também os materiais de parceiros que apresentam o produto. Uma descriç�
 
 Uma mudança de fornecedor, local de produção ou processo pode alterar a relação descrita na comunicação. O texto não deve continuar contando a mesma história apenas porque a embalagem ainda parece adequada.
 
-Defina quem acompanha essas alterações e quais materiais precisam ser revistos. Na marca hipotética, uma nova composição pode exigir verificar uma descrição antes de imprimir outra tiragem ou reaproveitar um anúncio.
+Defina quem acompanha essas alterações e quais materiais precisam ser revistos. Na marca, uma nova composição pode exigir verificar uma descrição antes de imprimir outra tiragem ou reaproveitar um anúncio.
 
 Essa rotina não exige transformar cada detalhe operacional em notícia. Exige reconhecer quando uma informação pública deixou de corresponder ao produto oferecido.
 

@@ -10,7 +10,7 @@ A aplicação editorial está em preparar a escolha: antes de procurar quem pode
 
 ## Comece pela pergunta que merece uma resposta
 
-Imagine uma pequena empresa que vende utensílios para cozinhas compactas. É um exemplo hipotético. A equipe quer trabalhar com um criador, mas seu pedido inicial se resume a divulgar os produtos e gerar movimento.
+Imagine uma pequena empresa que vende utensílios para cozinhas compactas. A equipe quer trabalhar com um criador, mas seu pedido inicial se resume a divulgar os produtos e gerar movimento.
 
 Essa descrição cabe em muitas campanhas e oferece pouca orientação para escolher um parceiro. A empresa pode precisar mostrar como uma peça ocupa espaço, esclarecer uma forma de uso ou apresentar sua oferta a pessoas que ainda não a conhecem. Cada intenção pede uma conversa diferente.
 
@@ -22,7 +22,7 @@ Essa definição não obriga o criador a repetir uma apresentação instituciona
 
 Um perfil pode se apresentar como especialista num tema e produzir conteúdos muito diferentes entre si. Antes de avaliar uma proposta, observe o trabalho publicado e a maneira como a pessoa desenvolve os assuntos.
 
-Na empresa hipotética, um criador que mostra rotinas em espaços pequenos pode oferecer um contexto pertinente. Isso ainda não confirma que sua audiência corresponde ao público da oferta ou que a parceria terá bom resultado.
+Na empresa, um criador que mostra rotinas em espaços pequenos pode oferecer um contexto pertinente. Isso ainda não confirma que sua audiência corresponde ao público da oferta ou que a parceria terá bom resultado.
 
 Examine exemplos. Como apresenta uma dúvida? Mostra condições de uso? Explica limites? A conversa depende de promessas que a marca não consegue sustentar? A linguagem combina com o modo como a empresa pretende ser compreendida?
 
@@ -42,7 +42,7 @@ Se uma informação relevante não puder ser confirmada, registre essa incerteza
 
 Um briefing útil reúne informações que precisam permanecer corretas: características do produto, condições de uso, limites conhecidos e caminhos para aprofundar uma dúvida. Ele também explica a intenção da colaboração.
 
-Isso é diferente de fornecer uma sequência de elogios para ser apresentada como experiência espontânea. Na empresa hipotética, medidas e condições devem ser confirmadas. A forma de explorar o assunto pode ser discutida com o criador, respeitando sua contribuição editorial.
+Isso é diferente de fornecer uma sequência de elogios para ser apresentada como experiência espontânea. Na empresa, medidas e condições devem ser confirmadas. A forma de explorar o assunto pode ser discutida com o criador, respeitando sua contribuição editorial.
 
 Se o conteúdo depender de uma experiência com o produto, prepare condições para que ela aconteça e seja avaliada. Não anuncie como observação pessoal aquilo que não foi vivido. Tampouco transforme uma possibilidade de uso em desempenho universal.
 
@@ -54,7 +54,7 @@ Uma colaboração pode despertar perguntas que a página e o atendimento ainda n
 
 Percorra o caminho antes da publicação. O destino sustenta o que será apresentado? A versão disponível corresponde à peça mostrada? O atendimento sabe localizar a informação relevante? Se alguma condição mudar, quem atualiza o material?
 
-Na empresa hipotética, mostrar a organização interna de um utensílio pede uma página que permita conferir esse aspecto. O criador não deveria carregar sozinho a tarefa de compensar uma oferta pouco explicada.
+Na empresa, mostrar a organização interna de um utensílio pede uma página que permita conferir esse aspecto. O criador não deveria carregar sozinho a tarefa de compensar uma oferta pouco explicada.
 
 Também combine como dúvidas e correções serão encaminhadas. A organização desse percurso faz parte do planejamento editorial, sem substituir os acordos comerciais e as orientações profissionais que a parceria possa exigir.
 

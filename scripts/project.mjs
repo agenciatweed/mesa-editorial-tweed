@@ -9,6 +9,19 @@ export const snapshot=i=>digest(Object.fromEntries(Object.entries(i).filter(([k]
 export const workKey=(i,action)=>action==='publicar'?snapshot(i):digest((action==='redigir'?['title','edition','expert','angle','audience','goal']:['title','edition','expert','angle','audience','goal','body','sources','prompt']).map(k=>i[k]??''));
 export const phaseFor=action=>({redigir:'Pauta',prompt:'Redação',revisar:'Revisão',publicar:'Pronto'}[action]);
 export const published=i=>i.publication?.state==='published';
+// Escolha no servidor, sob o lock de gravação: dias de calendário de São Paulo.
+export function nextPublicationDate(items,excludeId,now=new Date()){
+ const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'}).format(now);
+ const occupied=new Map();
+ for(const item of items){
+  if(item.id===excludeId || published(item) || !['Revisão','Pronto'].includes(item.status))continue;
+  occupied.set(item.date,(occupied.get(item.date) || 0)+1);
+ }
+ const day=new Date(today+'T12:00:00Z');
+ do{day.setUTCDate(day.getUTCDate()+1)}while((occupied.get(day.toISOString().slice(0,10)) || 0)>=2);
+ return day.toISOString().slice(0,10);
+}
+
 export const reviewReady=i=>i.automation?.reviewKey===workKey(i,'revisar')&&['keyword','slug','meta'].every(k=>typeof i[k]==='string'&&i[k].trim())&&/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(i.slug);
 export async function json(file,fallback){try{return JSON.parse(await readFile(path.join(root,file),'utf8'))}catch(e){if(e.code==='ENOENT'&&fallback!==undefined)return fallback;throw e}}
 export async function atomic(file,data){const target=path.join(root,file);await mkdir(path.dirname(target),{recursive:true});const tmp=target+'.'+randomUUID()+'.tmp';await writeFile(tmp,JSON.stringify(data,null,2)+'\n');await rename(tmp,target)}

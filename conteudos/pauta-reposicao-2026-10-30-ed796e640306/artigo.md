@@ -10,7 +10,7 @@ A questão prática não depende de utilizar IA: quem vai cuidar da próxima ver
 
 ## Combine o uso que continua depois da entrega
 
-Imagine uma pequena empresa de serviços que encomenda uma apresentação comercial. É um exemplo hipotético. O material apresenta a proposta, explica o processo e reúne informações que a equipe consulta em conversas com prospects.
+Imagine uma pequena empresa de serviços que encomenda uma apresentação comercial. O material apresenta a proposta, explica o processo e reúne informações que a equipe consulta em conversas com prospects.
 
 Parte desse conteúdo pode permanecer válida por bastante tempo. Outra parte pode exigir revisão quando uma condição de atendimento muda. Se ninguém discutiu essa diferença, a próxima alteração tende a ser tratada como uma urgência isolada.
 
@@ -22,7 +22,7 @@ Essas perguntas ajudam a definir a entrega adequada. Não significam que todo ar
 
 Um PDF pode ser apropriado para compartilhar uma apresentação. Isso não o transforma automaticamente numa base conveniente para manter sua estrutura. Um arquivo editável, por sua vez, pode depender de fontes, recursos ou configurações que outra pessoa não possui.
 
-Na empresa hipotética, a entrega precisa deixar claro qual arquivo é usado para apresentar e qual é a referência para as próximas alterações. Também é necessário conferir se a equipe consegue abrir e trabalhar na base combinada.
+Na empresa, a entrega precisa deixar claro qual arquivo é usado para apresentar e qual é a referência para as próximas alterações. Também é necessário conferir se a equipe consegue abrir e trabalhar na base combinada.
 
 Evite presumir que exportar para outro formato preserve todo o comportamento. Confira o que acontece com imagens, proporções, fontes e elementos que precisam continuar funcionando. Uma visualização correta em uma máquina não comprova que todas as condições de uso foram atendidas.
 
@@ -30,7 +30,7 @@ Quando houver limitações, explique-as. A clareza sobre o que foi combinado aju
 
 ## Identifique o que pode mudar sem reabrir toda a estrutura
 
-Na apresentação hipotética, uma informação de contato pode exigir atualização simples. Uma mudança na promessa do serviço pode afetar abertura, argumentos e próximos passos. As duas situações não pedem necessariamente a mesma revisão.
+Na apresentação, uma informação de contato pode exigir atualização simples. Uma mudança na promessa do serviço pode afetar abertura, argumentos e próximos passos. As duas situações não pedem necessariamente a mesma revisão.
 
 Organize os componentes de modo que mudanças recorrentes possam ser localizadas. Isso não exige um sistema complexo. Pode começar por uma estrutura compreensível e por orientações breves sobre os trechos mais sensíveis.
 
@@ -44,7 +44,7 @@ Uma pasta com arquivos chamados final, final novo e final atualizado conta a his
 
 Defina onde fica a referência corrente e como ela é identificada. Combine o que acontece com versões anteriores, preservando o histórico necessário sem deixá-las competir com o material em uso.
 
-Na PME hipotética, a pessoa do comercial deve conseguir localizar a apresentação vigente sem perguntar num grupo qual anexo é o certo. Quem mantém a base precisa saber qual arquivo corresponde à versão de distribuição.
+Na PME, a pessoa do comercial deve conseguir localizar a apresentação vigente sem perguntar num grupo qual anexo é o certo. Quem mantém a base precisa saber qual arquivo corresponde à versão de distribuição.
 
 Também confira o acesso. Uma referência central não ajuda se depende de uma conta que ficará indisponível ou se quem precisa atualizar não tem a permissão adequada. Organize isso conforme os acordos e as condições de uso dos materiais, sem presumir direitos ou acessos que não foram combinados.
 

@@ -10,7 +10,7 @@ A empresa pode fazer uma pausa. O cuidado é não deixar que as pessoas tenham d
 
 ## Defina primeiro o que vai acontecer com os pedidos
 
-Imagine um pequeno ateliê que fecha por uma semana e tem encomendas com datas já combinadas. É um exemplo hipotético. A equipe prepara um post de recesso antes de conferir quais entregas serão concluídas e quais dependem de uma conversa individual.
+Imagine um pequeno ateliê que fecha por uma semana e tem encomendas com datas já combinadas. A equipe prepara um post de recesso antes de conferir quais entregas serão concluídas e quais dependem de uma conversa individual.
 
 Comece pela operação. Que pedidos têm compromisso nesse período? O que pode ser finalizado antes? Existe alguma atividade que continuará mesmo com o atendimento suspenso? Quem consegue confirmar as informações?
 
@@ -22,7 +22,7 @@ Na hipótese do ateliê, a equipe pode identificar entregas mantidas e outras qu
 
 Uma pessoa com encomenda em andamento procura uma confirmação. Quem deseja fazer um novo pedido precisa saber se pode enviar uma solicitação e quando ela será analisada. Os dois públicos podem encontrar a mesma mensagem, mas não precisam receber uma orientação indiferenciada.
 
-O ateliê hipotético pode explicar que novas solicitações serão respondidas após a retomada, enquanto pedidos existentes seguem as condições comunicadas individualmente. Só deve dizer isso se esse acompanhamento tiver sido realmente preparado.
+O ateliê pode explicar que novas solicitações serão respondidas após a retomada, enquanto pedidos existentes seguem as condições comunicadas individualmente. Só deve dizer isso se esse acompanhamento tiver sido realmente preparado.
 
 Evite criar uma exceção que ninguém conseguirá atender. Se o aviso oferece um contato para casos específicos, defina quem acompanha o canal e o que ele pode encaminhar. Uma caixa de entrada sem responsável não se torna suporte apenas porque recebeu esse nome na mensagem.
 
@@ -32,7 +32,7 @@ Quando não houver acompanhamento durante a pausa, informe essa condição com c
 
 Um aviso útil identifica o início da mudança e a previsão de retomada. Confira se a data anunciada corresponde à volta do atendimento, à reabertura do espaço ou ao início da análise das solicitações acumuladas.
 
-Esses acontecimentos podem não ocorrer ao mesmo tempo. No ateliê hipotético, abrir novamente não significa conseguir responder todas as mensagens na primeira hora. A orientação precisa refletir a capacidade disponível.
+Esses acontecimentos podem não ocorrer ao mesmo tempo. No ateliê, abrir novamente não significa conseguir responder todas as mensagens na primeira hora. A orientação precisa refletir a capacidade disponível.
 
 Se houver um prazo previsto para o retorno, use uma descrição coerente com ele. Evite uma promessa vaga de contato muito breve quando a própria empresa sabe que ficará vários dias sem acompanhar as solicitações.
 
@@ -44,7 +44,7 @@ Um post de rede social pode não alcançar quem procura informação no site ou 
 
 Isso pode incluir a página de contato, uma resposta automática e o canal comercial. Não é necessário copiar um texto longo em toda parte. Cada ponto precisa apresentar a condição relevante e um caminho compreensível para continuar.
 
-Na empresa hipotética, o site informa o período e a resposta automática explica quando novas solicitações serão avaliadas. A equipe usa a mesma referência para não anunciar datas diferentes em canais distintos.
+Na empresa, o site informa o período e a resposta automática explica quando novas solicitações serão avaliadas. A equipe usa a mesma referência para não anunciar datas diferentes em canais distintos.
 
 Faça um teste antes da pausa. Envie uma solicitação pelo percurso habitual e veja o que chega como resposta. O aviso está atualizado? Há uma mensagem antiga prometendo retorno imediato? Algum botão convida a agendar um atendimento que não estará disponível?
 
@@ -52,7 +52,7 @@ Faça um teste antes da pausa. Envie uma solicitação pelo percurso habitual e 
 
 Uma atualização geral pode informar o funcionamento, mas uma pessoa cujo pedido será afetado precisa entender sua situação concreta. A equipe deve procurar o encaminhamento apropriado com antecedência, sem usar a publicação como substituto automático dessa conversa.
 
-No ateliê hipotético, um ajuste de entrega pede clareza sobre o que está sendo proposto e o que ainda precisa ser combinado. O texto não deve apresentar uma alternativa como se já tivesse sido aceita.
+No ateliê, um ajuste de entrega pede clareza sobre o que está sendo proposto e o que ainda precisa ser combinado. O texto não deve apresentar uma alternativa como se já tivesse sido aceita.
 
 Também é importante preservar a privacidade. O aviso público não precisa mencionar nomes, valores ou detalhes de pedidos para demonstrar organização. Cada conversa deve circular pelo canal adequado ao assunto.
 

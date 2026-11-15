@@ -8,13 +8,13 @@ Em guia publicado em 27 de outubro de 2026, a mLabs incluiu dúvidas sobre uso e
 
 ## O convite e a condição precisam contar a mesma história
 
-Imagine uma pequena loja virtual de objetos para casa que divulga um cupom em uma campanha. É um exemplo hipotético. A chamada sugere uma oferta ampla, mas a condição confirmada pela loja contempla apenas uma seleção de produtos. No carrinho, um item fora dessa seleção recebe a mesma mensagem de qualquer outra falha.
+Imagine uma pequena loja virtual de objetos para casa que divulga um cupom em uma campanha. A chamada sugere uma oferta ampla, mas a condição confirmada pela loja contempla apenas uma seleção de produtos. No carrinho, um item fora dessa seleção recebe a mesma mensagem de qualquer outra falha.
 
 O problema começa antes do erro. A peça de campanha e a explicação da oferta precisam permitir que a pessoa compreenda o alcance do convite. Se existe uma seleção específica, ela deve estar identificada de forma encontrável, sem depender de uma conversa posterior para revelar o que estava sendo oferecido.
 
 Isso não exige colocar todas as condições em letras pequenas numa única imagem. Exige organizar a informação relevante e indicar onde consultá-la. A pessoa precisa conseguir relacionar o anúncio que viu à compra que está tentando fazer.
 
-Na loja hipotética, a equipe pode conferir a chamada, a página de destino e as condições aprovadas antes de revisar a mensagem do carrinho. Melhorar a explicação da falha não corrige, por si só, um convite que promete mais do que a oferta contempla.
+Na loja, a equipe pode conferir a chamada, a página de destino e as condições aprovadas antes de revisar a mensagem do carrinho. Melhorar a explicação da falha não corrige, por si só, um convite que promete mais do que a oferta contempla.
 
 ## Explique a causa conhecida sem adivinhar a desconhecida
 
@@ -24,7 +24,7 @@ Se a causa foi confirmada como divergência no código informado, a orientação
 
 Quando a causa ainda não é conhecida, não atribua o problema ao cliente apenas para preencher a mensagem. Dizer que a pessoa não cumpriu uma regra que ninguém conferiu acrescenta uma informação possivelmente errada à dificuldade original.
 
-Na loja hipotética, conteúdo e atendimento podem combinar como distinguir essas situações. A redação não substitui o diagnóstico técnico. Ela precisa respeitar o que foi identificado e reconhecer quando uma conferência ainda está pendente.
+Na loja, conteúdo e atendimento podem combinar como distinguir essas situações. A redação não substitui o diagnóstico técnico. Ela precisa respeitar o que foi identificado e reconhecer quando uma conferência ainda está pendente.
 
 ## O próximo passo precisa caber na situação
 
@@ -40,7 +40,7 @@ Também não transforme a dificuldade em pressão para comprar mais. O objetivo 
 
 A pessoa pode sair do carrinho e procurar ajuda no mesmo canal em que recebeu a campanha. Se o atendimento consulta uma versão diferente das condições, a conversa passa a disputar com a informação publicada.
 
-Na loja hipotética, vale manter uma referência de trabalho para a oferta em circulação. Ela deve reunir o alcance confirmado, a informação que o público pode consultar e quem consegue esclarecer uma divergência. Não precisa acumular dados pessoais de compradores para cumprir essa função.
+Na loja, vale manter uma referência de trabalho para a oferta em circulação. Ela deve reunir o alcance confirmado, a informação que o público pode consultar e quem consegue esclarecer uma divergência. Não precisa acumular dados pessoais de compradores para cumprir essa função.
 
 Antes de divulgar, confira se as equipes envolvidas reconhecem a mesma oferta. Uma alteração precisa chegar a quem escreve a campanha, mantém a página e responde às dúvidas pertinentes. Caso contrário, uma correção num lugar pode continuar sendo contradita em outro.
 

@@ -16,7 +16,7 @@ Antes de comprar outra solução para acelerar o trabalho, observe onde o materi
 
 ## A oferta muda enquanto a equipe ajusta a arte
 
-Imagine uma empresa preparando o lançamento de um serviço. É um exemplo hipotético. O briefing informa uma condição comercial e a equipe cria a campanha a partir dela. Na primeira avaliação, o responsável pelo marketing pede mais destaque para o benefício principal. Em seguida, o comercial altera a condição. Por último, a direção questiona se aquele é o público que a empresa pretende atingir.
+Imagine uma empresa preparando o lançamento de um serviço. O briefing informa uma condição comercial e a equipe cria a campanha a partir dela. Na primeira avaliação, o responsável pelo marketing pede mais destaque para o benefício principal. Em seguida, o comercial altera a condição. Por último, a direção questiona se aquele é o público que a empresa pretende atingir.
 
 Cada retorno parece um ajuste no material. Parte deles, porém, muda o problema que a criação estava tentando resolver. A equipe pode executar todas as solicitações rapidamente e continuar sem uma versão que possa ser aprovada.
 

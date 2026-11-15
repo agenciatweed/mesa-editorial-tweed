@@ -10,7 +10,7 @@ Para uma PME, a questão prática aparece em posts, apresentações e materiais 
 
 ## Comece por perguntar o que aconteceu
 
-Imagine uma pequena empresa que prepara um post depois de participar de um encontro comercial. É um exemplo hipotético. A equipe recebeu pedidos, enviou propostas e conversou sobre possibilidades que ainda não foram detalhadas.
+Imagine uma pequena empresa que prepara um post depois de participar de um encontro comercial. A equipe recebeu pedidos, enviou propostas e conversou sobre possibilidades que ainda não foram detalhadas.
 
 Antes de escolher uma chamada, separe essas situações. O que foi efetivamente confirmado? O que continua em negociação? O que é apenas uma expectativa levantada na conversa? A equipe utiliza os mesmos critérios para reconhecer cada caso?
 
@@ -22,7 +22,7 @@ No exemplo, a equipe pode descobrir que uma conversa promissora foi anotada como
 
 Palavras como interesse, oportunidade, proposta e venda não fazem o mesmo trabalho. Trocar uma pela outra para encurtar a peça pode alterar seu significado.
 
-Na empresa hipotética, uma proposta enviada pode demonstrar avanço na conversa. Não demonstra, por si só, que houve contratação. Uma previsão de demanda também não equivale a um pedido confirmado.
+Na empresa, uma proposta enviada pode demonstrar avanço na conversa. Não demonstra, por si só, que houve contratação. Uma previsão de demanda também não equivale a um pedido confirmado.
 
 A chamada precisa permitir essa distinção sem exigir que o leitor procure uma correção escondida. Se o número reúne expectativas, essa natureza deve estar próxima dele. Se descreve realizações, a equipe precisa saber quais registros sustentam a informação.
 
@@ -32,7 +32,7 @@ Uma redação clara pode valorizar o avanço real. Há mérito em abrir conversa
 
 Uma expectativa para os próximos meses não descreve o que aconteceu no dia do evento. Uma realização acumulada ao longo de um ano não deve parecer o resultado de uma ação recente.
 
-No exemplo hipotético, a equipe pode divulgar separadamente o que foi confirmado durante o encontro e as possibilidades que serão acompanhadas depois. O período ajuda a compreender a natureza de cada informação.
+No exemplo, a equipe pode divulgar separadamente o que foi confirmado durante o encontro e as possibilidades que serão acompanhadas depois. O período ajuda a compreender a natureza de cada informação.
 
 Confira também a data de referência do balanço. Uma oportunidade pode avançar, mudar de alcance ou deixar de existir. O registro precisa permitir entender a qual momento a afirmação corresponde.
 

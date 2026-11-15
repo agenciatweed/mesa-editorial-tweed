@@ -20,7 +20,7 @@ Antes de selecionar a peça, escreva qual função ela terá naquele material. E
 
 ## Uma visualização precisa continuar reconhecível como visualização
 
-Imagine uma empresa de interiores preparando uma proposta para renovar uma sala comercial. É um exemplo hipotético. A equipe cria uma imagem para estudar disposição, materiais e atmosfera.
+Imagine uma empresa de interiores preparando uma proposta para renovar uma sala comercial. A equipe cria uma imagem para estudar disposição, materiais e atmosfera.
 
 Essa imagem ajuda a conversar sobre a intenção do projeto. Ela não demonstra que os materiais foram instalados, que o ambiente funciona daquela maneira ou que a empresa já executou uma solução equivalente.
 
@@ -34,7 +34,7 @@ Uma legenda pode chamar a imagem de estudo enquanto o título acima promete “o
 
 Confira o conjunto: nome da seção, texto de apoio, sequência de imagens, depoimentos e chamada comercial. Uma visualização isolada talvez pareça claramente conceitual. Ao lado de fotos de clientes e descrições de entregas, pode adquirir outro sentido.
 
-Na empresa hipotética, estudos podem ter um espaço próprio, explicado como parte do desenvolvimento criativo. Os registros de trabalhos concluídos podem apresentar o que foi feito, respeitando as autorizações necessárias e o escopo real da participação da equipe.
+Na empresa, estudos podem ter um espaço próprio, explicado como parte do desenvolvimento criativo. Os registros de trabalhos concluídos podem apresentar o que foi feito, respeitando as autorizações necessárias e o escopo real da participação da equipe.
 
 Distinguir essas funções ajuda a mostrar tanto a capacidade de propor quanto a experiência de executar. Não é preciso fazer uma assumir o papel da outra.
 

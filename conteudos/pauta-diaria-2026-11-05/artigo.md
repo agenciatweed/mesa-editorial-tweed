@@ -8,7 +8,7 @@ Em anúncio publicado em 3 de novembro de 2026, atualizado no dia seguinte, o Se
 
 ## Comece por uma dificuldade que já existe
 
-Imagine uma pequena empresa que produz móveis sob encomenda. É um exemplo hipotético. Depois de uma oficina de comunicação digital, a responsável pelo marketing quer experimentar vídeos, trocar o sistema de mensagens e refazer a página dos produtos. Ao mesmo tempo, o atendimento recebe perguntas recorrentes sobre o que está incluído no orçamento.
+Imagine uma pequena empresa que produz móveis sob encomenda. Depois de uma oficina de comunicação digital, a responsável pelo marketing quer experimentar vídeos, trocar o sistema de mensagens e refazer a página dos produtos. Ao mesmo tempo, o atendimento recebe perguntas recorrentes sobre o que está incluído no orçamento.
 
 Essa dúvida oferece um começo mais concreto que a lista de ferramentas. O problema pode estar na explicação da oferta, no caminho até ela ou numa condição que a própria equipe ainda não definiu. Cada possibilidade pede uma intervenção diferente.
 
@@ -20,7 +20,7 @@ O curso pode ter mostrado uma possibilidade útil. A empresa precisa verificar a
 
 Uma orientação pode ter sido apresentada para outro tipo de empresa, outro público ou uma operação com recursos diferentes. Ao trazê-la para a reunião, explique o contexto conhecido e o que ainda precisa ser avaliado.
 
-Na empresa hipotética, a participante pode ter aprendido uma forma de demonstrar características de produtos. Sua hipótese é que uma explicação visual ajude a distinguir os acabamentos. Isso ainda não significa que a equipe decidiu produzir uma série inteira ou que o público compreenderá melhor a oferta.
+Na empresa, a participante pode ter aprendido uma forma de demonstrar características de produtos. Sua hipótese é que uma explicação visual ajude a distinguir os acabamentos. Isso ainda não significa que a equipe decidiu produzir uma série inteira ou que o público compreenderá melhor a oferta.
 
 Preservar essa diferença evita que o entusiasmo transforme uma referência em ordem. Quem conhece a produção pode apontar uma limitação. Quem atende pode mostrar que a dúvida começa antes, no nome das opções. Essas contribuições ajudam a ajustar a aplicação.
 
@@ -42,7 +42,7 @@ Uma ideia apresentada ao grupo pode terminar sem responsável porque todos demon
 
 Combine quem prepara a mudança e quem precisa conferir informações antes de ela ser usada. Verifique também o que será necessário adiar ou reorganizar. Acrescentar uma tarefa a uma agenda já ocupada não cria, por si só, tempo para realizá-la.
 
-Na empresa hipotética, marketing pode organizar a explicação, produção conferir os detalhes e atendimento apontar as dúvidas que precisa resolver. Uma pessoa deve acompanhar a passagem entre essas contribuições, para que a entrega não dependa de todos presumirem que outro deu continuidade.
+Na empresa, marketing pode organizar a explicação, produção conferir os detalhes e atendimento apontar as dúvidas que precisa resolver. Uma pessoa deve acompanhar a passagem entre essas contribuições, para que a entrega não dependa de todos presumirem que outro deu continuidade.
 
 A responsabilidade precisa vir acompanhada de condições. Se faltam imagens adequadas ou uma decisão sobre a oferta, registre essa dependência. Uma data no calendário não resolve uma informação que ninguém confirmou.
 

@@ -12,7 +12,7 @@ A aplicação útil para uma empresa menor não depende de repetir essa escala. 
 
 Uma mensagem não chega ao público em condições neutras. Ela aparece enquanto alguém caminha, procura uma informação, conversa com outra pessoa ou tenta resolver uma tarefa. Esses contextos afetam o que faz sentido pedir.
 
-Imagine uma pequena loja de iluminação. É um exemplo hipotético. A empresa quer explicar como ajuda clientes a escolher luminárias adequadas para cada ambiente. Essa ideia pode atravessar diferentes pontos de contato, mas não precisa ser apresentada sempre da mesma forma.
+Imagine uma pequena loja de iluminação. A empresa quer explicar como ajuda clientes a escolher luminárias adequadas para cada ambiente. Essa ideia pode atravessar diferentes pontos de contato, mas não precisa ser apresentada sempre da mesma forma.
 
 Na vitrine, talvez baste tornar reconhecível o tipo de solução oferecida. Na área de atendimento, pode haver espaço para comparar efeitos de luz. Em uma mensagem solicitada depois da visita, a loja pode retomar uma dúvida específica e informar o próximo passo.
 
@@ -42,7 +42,7 @@ Isso não significa eliminar caminhos de aprofundamento. Significa separar o que
 
 Ter alguns minutos disponíveis não significa desejar preencher esse tempo com comunicação da empresa. A pessoa pode querer descansar, responder a uma mensagem pessoal ou simplesmente esperar.
 
-Um conteúdo útil deve poder ser aproveitado sem se tornar uma imposição. Na loja hipotética, um material silencioso que compara situações de iluminação pode ajudar quem tem essa dúvida. Uma sequência sonora insistente talvez prejudique a conversa ou torne a espera cansativa.
+Um conteúdo útil deve poder ser aproveitado sem se tornar uma imposição. Na loja, um material silencioso que compara situações de iluminação pode ajudar quem tem essa dúvida. Uma sequência sonora insistente talvez prejudique a conversa ou torne a espera cansativa.
 
 A pergunta não é apenas quanto conteúdo cabe. É se aquele conteúdo contribui para a experiência e se a pessoa pode escolher não acompanhá-lo.
 

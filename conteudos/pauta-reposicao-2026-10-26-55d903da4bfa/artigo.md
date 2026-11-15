@@ -10,7 +10,7 @@ Para uma PME, essa organização pode exigir menos novidade e mais continuidade 
 
 ## Encontre a entrada pelo olhar de quem tem um problema
 
-Imagine uma pequena loja de artigos para casa. É um exemplo hipotético. Uma cliente recebeu um produto e quer consultar a possibilidade de troca. Ela não conhece a divisão interna da empresa, nem sabe se deve procurar quem vendeu, quem entregou ou outra equipe.
+Imagine uma pequena loja de artigos para casa. Uma cliente recebeu um produto e quer consultar a possibilidade de troca. Ela não conhece a divisão interna da empresa, nem sabe se deve procurar quem vendeu, quem entregou ou outra equipe.
 
 Se cada área indica um contato diferente, a primeira tarefa da cliente passa a ser descobrir como a loja funciona. Essa investigação não deveria ser condição para receber uma orientação inicial.
 
@@ -32,7 +32,7 @@ Se uma imagem for necessária à análise, explique o que precisa aparecer. Pedi
 
 Alguns casos dependem de outra área. Transferir a análise pode ser necessário; transferir para o cliente a responsabilidade de reconstruir toda a conversa é uma escolha de processo.
 
-Na loja hipotética, quem recebe a solicitação pode registrar o resumo do problema, as informações já conferidas e o que falta verificar. O próximo responsável deve conseguir retomar desse ponto, dentro dos acessos apropriados.
+Na loja, quem recebe a solicitação pode registrar o resumo do problema, as informações já conferidas e o que falta verificar. O próximo responsável deve conseguir retomar desse ponto, dentro dos acessos apropriados.
 
 A cliente não precisa conhecer todas as trocas internas. Precisa entender quem acompanha a solicitação e por qual canal receberá continuidade. Se o contato mudar, a passagem deve ser explicada e confirmada.
 

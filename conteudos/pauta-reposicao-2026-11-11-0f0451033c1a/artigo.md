@@ -8,13 +8,13 @@ Em comunicado de 9 de novembro de 2026, a Starbucks anunciou uma coleção de co
 
 ## Diga qual parte da compra permanece desconhecida
 
-Imagine uma pequena papelaria que prepara um conjunto para público adulto. É um exemplo hipotético: o pacote contém duas cadernetas de formato definido e um conjunto de cartões. A ilustração das capas varia e não pode ser escolhida naquele formato de venda.
+Imagine uma pequena papelaria que prepara um conjunto para público adulto. O pacote contém duas cadernetas de formato definido e um conjunto de cartões. A ilustração das capas varia e não pode ser escolhida naquele formato de venda.
 
 A proposta precisa permitir distinguir a composição conhecida do elemento variável. Quantidade de itens, dimensões e tipo de miolo não deveriam desaparecer atrás da palavra surpresa. São características que ajudam a pessoa a saber se o conjunto serve para o uso pretendido.
 
 Uma cliente pode aceitar receber qualquer ilustração da coleção e precisar, ao mesmo tempo, de páginas pautadas. Outra pode gostar de todas as capas, mas só encontrar utilidade num formato que caiba na bolsa. A preferência pelo desenho não elimina essas necessidades.
 
-Na papelaria hipotética, vale escrever a oferta sem linguagem promocional antes de criar a chamada: o que cada pacote contém, o que pode variar e quais escolhas a pessoa efetivamente faz. Se nem a equipe consegue responder de forma consistente, a redação ainda não tem uma referência suficiente.
+Na papelaria, vale escrever a oferta sem linguagem promocional antes de criar a chamada: o que cada pacote contém, o que pode variar e quais escolhas a pessoa efetivamente faz. Se nem a equipe consegue responder de forma consistente, a redação ainda não tem uma referência suficiente.
 
 ## A foto precisa colaborar com a explicação
 
@@ -22,7 +22,7 @@ Uma imagem com todas as peças da coleção pode mostrar o universo visual da pr
 
 Da mesma forma, destacar uma ilustração específica em todas as publicações pode fazer aquela versão parecer o produto vendido. Uma observação distante da imagem talvez não esclareça o que a própria composição está levando a entender.
 
-No exemplo hipotético, a equipe pode conferir a peça como alguém que ainda não leu a descrição completa. É possível reconhecer quais itens pertencem a um pacote? Fica claro que a ilustração mostrada é uma possibilidade? Existe algum elemento apresentado como certo que, na entrega, pode ser diferente?
+No exemplo, a equipe pode conferir a peça como alguém que ainda não leu a descrição completa. É possível reconhecer quais itens pertencem a um pacote? Fica claro que a ilustração mostrada é uma possibilidade? Existe algum elemento apresentado como certo que, na entrega, pode ser diferente?
 
 Isso não obriga a revelar qual versão estará em cada unidade. Exige que a comunicação descreva com clareza o tipo de compra oferecido. Uma imagem de referência precisa ser reconhecida como referência, sem depender de uma correção posterior pelo atendimento.
 
@@ -30,7 +30,7 @@ Isso não obriga a revelar qual versão estará em cada unidade. Exige que a com
 
 O formato surpresa pode fazer sentido para algumas propostas e não servir a outras. Quando uma característica determina se o item atende à necessidade da pessoa, deixá-la desconhecida exige reexaminar a própria oferta.
 
-Na papelaria hipotética, a ilustração pode variar dentro da coleção apresentada. Isso é diferente de não informar se a caderneta tem folhas pautadas, qual é seu tamanho ou quantos itens serão entregues. A cliente pode estar escolhendo uma experiência visual aberta, sem estar escolhendo abrir mão dessas informações.
+Na papelaria, a ilustração pode variar dentro da coleção apresentada. Isso é diferente de não informar se a caderneta tem folhas pautadas, qual é seu tamanho ou quantos itens serão entregues. A cliente pode estar escolhendo uma experiência visual aberta, sem estar escolhendo abrir mão dessas informações.
 
 Também não se deve tratar qualquer preferência como irrelevante porque a compra tem um elemento surpresa. Se o propósito daquela pessoa é obter uma ilustração determinada, talvez esse formato não corresponda ao que ela procura. A comunicação pode reconhecer esse limite, em vez de insistir que a descoberta será necessariamente melhor.
 
@@ -38,7 +38,7 @@ Não é preciso transformar o formato em recomendação para toda empresa. A dec
 
 ## Confira a mesma promessa antes e depois do pacote
 
-Na loja hipotética, a publicação anuncia um conjunto surpresa, a página mostra suas características e o atendimento responde às perguntas. Esses pontos precisam descrever a mesma composição e o mesmo alcance de escolha.
+Na loja, a publicação anuncia um conjunto surpresa, a página mostra suas características e o atendimento responde às perguntas. Esses pontos precisam descrever a mesma composição e o mesmo alcance de escolha.
 
 Se alguém pergunta se pode receber determinada capa, a resposta deve corresponder ao funcionamento real da oferta. Não cabe sugerir uma possibilidade que a equipe não consegue atender apenas para concluir a conversa. A informação também precisa permanecer compreensível para quem decide sem pedir ajuda.
 
@@ -50,7 +50,7 @@ O ponto aqui não é estabelecer uma política comercial ou interpretar obrigaç
 
 Uma gravação de alguém abrindo o pacote pode mostrar curiosidade ou entusiasmo naquele momento. Não demonstra, sozinha, que a pessoa compreendeu a proposta antes de comprar ou que o conjunto atendeu ao uso pretendido.
 
-Na papelaria hipotética, a equipe pode apresentar os materiais a adultos que não participaram da criação e pedir que expliquem o que receberiam. Qual quantidade imaginam? O que acreditam poder escolher? Que parte consideram variável? A atividade pode usar exemplos, sem exigir compras ou dados pessoais.
+Na papelaria, a equipe pode apresentar os materiais a adultos que não participaram da criação e pedir que expliquem o que receberiam. Qual quantidade imaginam? O que acreditam poder escolher? Que parte consideram variável? A atividade pode usar exemplos, sem exigir compras ou dados pessoais.
 
 Compare as respostas com a composição real. Se houver interpretações diferentes, procure o ponto que contribui para a ambiguidade. Pode ser o enquadramento da foto, o nome usado para o conjunto ou uma informação essencial que aparece tarde demais.
 

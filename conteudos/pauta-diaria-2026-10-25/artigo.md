@@ -12,7 +12,7 @@ A questão que interessa a uma PME é mais simples que reproduzir uma tecnologia
 
 Uma loja sabe qual produto foi comprado. Talvez não saiba para quem era, em que ocasião seria usado ou quais alternativas foram consideradas. Transformar essa informação em uma certeza sobre o cliente pode produzir um atendimento aparentemente personalizado e pouco pertinente.
 
-Considere uma loja de objetos para casa. É um exemplo hipotético. Uma pessoa compra uma peça colorida para presentear um amigo e passa a receber apenas sugestões semelhantes. Quando procura algo para o próprio ambiente, encontra uma conversa já orientada por uma preferência que nunca declarou.
+Considere uma loja de objetos para casa. Uma pessoa compra uma peça colorida para presentear um amigo e passa a receber apenas sugestões semelhantes. Quando procura algo para o próprio ambiente, encontra uma conversa já orientada por uma preferência que nunca declarou.
 
 O problema não é manter um registro da compra. É atribuir a ele um significado que não foi confirmado e não oferecer uma maneira simples de rever esse entendimento.
 

@@ -12,7 +12,7 @@ A questão prática é o que a equipe consegue fazer quando a pessoa de referên
 
 “Aprender IA” é um objetivo amplo demais para orientar a rotina. Comece por uma tarefa delimitada, com entrada, resultado esperado e responsabilidade de conferência.
 
-Imagine uma pequena empresa que prepara versões iniciais de descrições para materiais comerciais. É um exemplo hipotético. Uma colaboradora sabe organizar o pedido à ferramenta, selecionar o que aproveita e revisar o texto. Os colegas apenas enviam suas demandas para ela.
+Imagine uma pequena empresa que prepara versões iniciais de descrições para materiais comerciais. Uma colaboradora sabe organizar o pedido à ferramenta, selecionar o que aproveita e revisar o texto. Os colegas apenas enviam suas demandas para ela.
 
 A tarefa pode ser dividida em decisões compreensíveis: que informação é necessária, o que não deve ser enviado, qual finalidade o texto terá e como verificar se a resposta atende ao pedido. O aprendizado deixa de depender de observar alguém digitando rapidamente.
 
@@ -22,7 +22,7 @@ Escolha um exercício que faça sentido para o trabalho e possa ser realizado co
 
 Uma demonstração que apresenta apenas uma resposta boa ensina pouco sobre avaliação. Quem está aprendendo pode concluir que basta repetir a solicitação para obter algo pronto.
 
-Inclua um exemplo de resultado inadequado. No caso hipotético, a ferramenta pode acrescentar uma característica inexistente ou transformar uma possibilidade em promessa. A equipe precisa identificar por que aquilo não serve e o que deve consultar antes de continuar.
+Inclua um exemplo de resultado inadequado. No caso, a ferramenta pode acrescentar uma característica inexistente ou transformar uma possibilidade em promessa. A equipe precisa identificar por que aquilo não serve e o que deve consultar antes de continuar.
 
 Explique quais informações têm uma referência confirmada e quais exigem revisão por alguém responsável. Uma resposta bem escrita continua precisando de conferência. Familiaridade com a ferramenta não torna a pessoa automaticamente habilitada a validar qualquer assunto.
 

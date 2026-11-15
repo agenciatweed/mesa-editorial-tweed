@@ -22,7 +22,7 @@ No início de cada rodada real, rode `node scripts/link-cycle.mjs tick CHAVE`, u
 
 O usuário já definiu título, editoria, voz, ângulo/tese, leitor e mudança de percepção. Não faça outra rodada de desenvolvimento de pauta nem mude essas decisões sem pedido.
 
-Para `action:redigir`, leia o briefing, direção editorial e conteúdo público pertinente já publicado, evitando repetição. Use o GPT para escrever um artigo completo em português brasileiro, com tese clara, exemplos concretos e aplicação útil. Prefira 900–1.400 palavras apenas quando a tese justificar, sem enchimento. Não usar travessões, emojis ou títulos genéricos Introdução/Conclusão. Identifique exemplos hipotéticos. Para dados, estudos, cases ou citações, pesquise e acesse fontes primárias, sem inventar links, números ou citações. Não usar conteúdo privado.
+Para `action:redigir`, leia o briefing, direção editorial e conteúdo público pertinente já publicado, evitando repetição. Use o GPT para escrever um artigo completo em português brasileiro, com tese clara, exemplos concretos e aplicação útil. Prefira 900–1.400 palavras apenas quando a tese justificar, sem enchimento. Não usar travessões, emojis ou títulos genéricos Introdução/Conclusão. Antes de pautar ou redigir, compare os cinco textos mais recentes e os desta rodada. Varie o setor, o porte e a construção do argumento conforme a decisão do leitor. Considere clínicas e consultórios médicos ou odontológicos, profissionais liberais, advocacia, contabilidade, auditoria, restaurantes, bares, lojas de vinhos e delicatessens. Uma pergunta de cliente, um gesto durante o atendimento, duas escolhas de cardápio ou uma análise direta podem sustentar o texto. O exemplo pode entrar no meio ou ser dispensado. Evite repetir “Imagine uma pequena loja” e rotular exemplos anônimos como hipotéticos, inclusive nas notas. Reserve atribuições e resultados reais a casos documentados. Para dados, estudos, cases ou citações, pesquise e acesse fontes primárias, sem inventar links, números ou citações. Não usar conteúdo privado.
 
 Salve `.local/resultados/ID.json` com strings `body` (Markdown sem H1 repetido e sem seção FAQ), `sources` (campo opcional, com links verificados e notas quando necessários) e `prompt` (prompt Midjourney em inglês, somente o parâmetro --ar 3:2). O GPT desta rodada é o gerador, sem chave de API no navegador.
 
@@ -32,7 +32,7 @@ Execute `node scripts/worker.mjs complete ID .local/resultados/ID.json`. O helpe
 
 Toda rodada também identifica posts em Redação com corpo preenchido e prompt vazio, inclusive os rascunhos anteriores ao fluxo versão 2. Felipe autorizou expressamente completar esses prompts sem exigir Salvar pauta novamente. Não preencher prompts de posts vazios, não reescrever a redação, não substituir prompts já preenchidos e não avançar o post para Revisão.
 
-Para `action:prompt`, leia o artigo completo e o briefing. Crie pelo GPT um único prompt Midjourney em inglês, com uma metáfora visual concreta alinhada à tese e sem texto/logos legíveis, terminando apenas com `--ar 3:2`, sem outros parâmetros. Salve `.local/resultados/ID.json` com a string `prompt` e use `worker.mjs complete ID arquivo.json`. O helper grava apenas o prompt e o status da automação; preserva corpo, Markdown, briefing, título, metadados SEO e a coluna Redação. Se o texto ou o prompt mudar durante o trabalho, a entrega fica obsoleta e não pode sobrescrever a edição humana. A luz fica verde depois de preencher.
+Para `action:prompt`, leia o artigo completo e o briefing. Crie pelo GPT um único prompt Midjourney em inglês, mostrando literalmente o assunto do artigo e sem texto/logos legíveis, terminando apenas com `--ar 3:2`, sem outros parâmetros. Salve `.local/resultados/ID.json` com a string `prompt` e use `worker.mjs complete ID arquivo.json`. O helper grava apenas o prompt e o status da automação; preserva corpo, Markdown, briefing, título, metadados SEO e a coluna Redação. Se o texto ou o prompt mudar durante o trabalho, a entrega fica obsoleta e não pode sobrescrever a edição humana. A luz fica verde depois de preencher.
 
 ## Revisão → metadados automáticos → permanece em Revisão
 
@@ -50,7 +50,9 @@ Execute `worker.mjs complete ID arquivo.json`. O post continua em **Revisão**, 
 
 ## Pronto → publicação → histórico em Artigos
 
-Para cada `action:publicar`, verifique status Pronto, snapshot aprovado, revisão válida, capa local e descrição. O botão Salvar revisão e aprovar publicação registra a aprovação humana e os critérios editoriais, substituindo os quatro checkboxes antigos. Não aprovar pelo GPT. Se a data estiver vazia, o painel registra o dia da aprovação; data futura deve aguardar, sem alertar a cada hora.
+Após o tick e o sync, rode `node scripts/publication-window.mjs CHAVE` com o mesmo instante ISO. A saída indica um único job elegível na primeira ou na terceira rodada do dia em São Paulo. Nas demais rodadas, ou com job nulo, siga para as outras atividades. Retomar a mesma rodada não libera outra vaga. As sugestões de data reservam até dois artigos por dia a partir de amanhã.
+
+Para o `action:publicar` selecionado, verifique status Pronto, snapshot aprovado, revisão válida, capa local e descrição. O botão Salvar revisão e aprovar publicação registra a aprovação humana e os critérios editoriais, substituindo os quatro checkboxes antigos. Não aprovar pelo GPT. Se a data estiver vazia, o painel sugere a próxima data com vaga a partir de amanhã; data futura deve aguardar, sem alertar a cada hora.
 
 Antes do dry-run, faça a análise de links descrita abaixo e prepare os dois planos. Execute `python scripts/publicar.py --job ID --links CAMINHO-PLANO-LINKS --related CAMINHO-PLANO-RELACIONADOS --dry-run`; só se passar, execute o mesmo comando sem --dry-run. O helper usa a credencial TweedEditorial/Kinghost no cofre do Windows, com transporte FTP normal na porta 21 e modo passivo. Nunca escrever senha em prompt, argumentos, arquivos ou Git.
 
@@ -105,15 +107,10 @@ Esta regra substitui qualquer limite diário anterior: execute daily-pauta.mjs c
 Fontes: preferir uma referência por linha em Markdown [Nome da fonte, título ou data](https://endereco), com notas em parágrafos separados. O publicador também converte Nome: URL em link clicável no nome. Fontes vazio continua sem seção.
 
 
-## Direção das capas: variedade humana e conceitual — 26/10/2026
+## Direção das capas
 
-Alternar cenas humanas e composições conceituais sem pessoas. Os dois modos são escolhas de primeira linha: selecionar a linguagem que traduz a tese, sem exigir pessoas em toda imagem. Antes de cada prompt, consultar os cinco prompts mais recentes em conteudos e no painel, incluindo os já produzidos na rodada. Preferir o modo diferente do último; evitar mais de dois seguidos do mesmo modo. Se o tema exigir repetir o modo, mudar claramente ação, ambiente, enquadramento e motivo visual, sem sacrificar a pertinência para cumprir uma alternância mecânica.
+Escolha algo que o artigo permita fotografar literalmente. Num texto sobre o agendamento de consultas, mostre o momento de marcar o retorno na recepção. Num texto sobre a escolha de vinhos, mostre o detalhe da prateleira que ajuda a decidir. Identifique no briefing a ação, o objeto ou o espaço que comunica a questão central. A presença de pessoas depende da cena.
 
-Nas cenas humanas, variar quantidade de pessoas, ações, situações internas e externas, distância e ponto de vista. Usar gestos espontâneos e fotografia editorial; incluir movimento, detalhes de uma ação ou uma pessoa sozinha quando fizer sentido. Reuniões, pessoas olhando papéis, objetos sobre mesas e notebooks não são o padrão. Não repetir a mesma composição trocando apenas o setor do negócio.
+Consulte os cinco prompts recentes e os já feitos na rodada para variar setor, gesto, ambiente e enquadramento. Use um acento teal inspirado em #08ffb1 na iluminação, numa peça de roupa, num objeto ou no ambiente. Preserve a luz principal suave e os tons de pele naturais. Dispense metáforas abstratas como padrão.
 
-Nas conceituais, escolher uma metáfora visual específica da ideia do artigo: relações entre materiais, objetos em transformação, espaços, escala, presença e ausência, luz e sombra. Uma composição sem pessoas pode ter fotografia de objetos, construção espacial ou tratamento editorial mais abstrato, desde que legível e ligado à tese. Evitar o repertório automático de cubos, prismas, labirintos, feixes e objetos genéricos sem relação com o assunto.
-
-Manter um acento de iluminação teal inspirado no #08ffb1, variando posição, intensidade e função. Não exigir fundo navy, nem cobrir a cena inteira de verde. Quando houver pessoas, preservar tons de pele naturais com luz principal suave. Variar a composição além da cor, para que o teal não produza capas idênticas.
-
-Prompt em inglês, sem texto ou logos legíveis, terminando somente com --ar 3:2. imageAlt breve em português descreve a composição prevista, com ou sem pessoas, sem explicar metáforas ou forçar palavras-chave. Preservar prompts já preenchidos, descrições manuais e capas existentes; aplicar esta direção às próximas gerações.
-
+Escreva o prompt em inglês, sem texto ou logos legíveis, terminando apenas em --ar 3:2. Inclua imageAlt breve em português descrevendo a cena. Preserve prompts, capas e descrições manuais existentes.

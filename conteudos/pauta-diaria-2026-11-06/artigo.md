@@ -10,7 +10,7 @@ O anúncio ajuda a separar duas tarefas: produzir uma nova cena e decidir se ela
 
 ## Defina o que precisa continuar reconhecível
 
-Imagine uma pequena marca de produtos de jardinagem que criou um mascote ilustrado próprio. É um exemplo hipotético. O personagem acompanha orientações de uso na embalagem e passa a aparecer em vídeos curtos.
+Imagine uma pequena marca de produtos de jardinagem que criou um mascote ilustrado próprio. O personagem acompanha orientações de uso na embalagem e passa a aparecer em vídeos curtos.
 
 A equipe precisa distinguir características de identidade e escolhas próprias de cada situação. A silhueta, as proporções e determinados traços podem ser referências estáveis. A posição dos braços, o enquadramento e os objetos carregados podem variar conforme a ação.
 
@@ -22,7 +22,7 @@ Escolha referências que possam ser conferidas. Em vez de pedir apenas que o mas
 
 Uma figura pode preservar as cores e mudar completamente de papel. O mascote que oferece uma orientação cuidadosa pode reaparecer ridicularizando uma dúvida ou prometendo resolver tudo sozinho. A aparência continua familiar; o comportamento passa a contar outra história.
 
-No exemplo hipotético, a marca pode decidir que o personagem acompanha descobertas de quem começa a cuidar de plantas. Isso ajuda a avaliar ações e falas: ele demonstra uma etapa? Reconhece uma dificuldade? Trata a pessoa com paciência?
+No exemplo, a marca pode decidir que o personagem acompanha descobertas de quem começa a cuidar de plantas. Isso ajuda a avaliar ações e falas: ele demonstra uma etapa? Reconhece uma dificuldade? Trata a pessoa com paciência?
 
 Não é necessário atribuir uma biografia extensa ao mascote. É necessário compreender o papel que justifica sua presença. Se ele poderia ser substituído por qualquer figura decorativa sem alterar a comunicação, talvez esse papel ainda esteja indefinido.
 
@@ -32,7 +32,7 @@ Essas escolhas são critérios criativos. Não permitem afirmar que determinado 
 
 Uma única imagem frontal pode deixar dúvidas sobre como o personagem aparece de lado, em movimento ou num espaço pequeno. Reunir algumas situações aprovadas ajuda a tornar os limites mais compreensíveis.
 
-Na marca hipotética, o conjunto pode incluir uma orientação na embalagem, uma ação em plano aberto e um detalhe de expressão. As peças devem representar o mesmo personagem em usos diferentes, em vez de acumular versões bonitas que ainda não foram conciliadas.
+Na marca, o conjunto pode incluir uma orientação na embalagem, uma ação em plano aberto e um detalhe de expressão. As peças devem representar o mesmo personagem em usos diferentes, em vez de acumular versões bonitas que ainda não foram conciliadas.
 
 Anote também os desvios que a equipe precisa evitar. Um acessório inventado, uma alteração de proporção ou uma expressão inadequada ao tom podem ser mais fáceis de discutir quando associados a um exemplo concreto.
 
@@ -54,7 +54,7 @@ Uma revisão em tela grande pode esconder dificuldades que aparecem na embalagem
 
 Coloque versões recentes lado a lado. Essa comparação ajuda a reconhecer alterações graduais que cada aprovação isolada tratou como pequenas. Também permite verificar se o conjunto ficou repetitivo e se a equipe está confundindo continuidade com repetir sempre a mesma cena.
 
-Na marca hipotética, a embalagem e os vídeos podem adotar composições distintas. As referências estáveis ajudam a sustentar essa liberdade. O personagem pode agir em ambientes diferentes sem precisar reconstruir sua identidade a cada publicação.
+Na marca, a embalagem e os vídeos podem adotar composições distintas. As referências estáveis ajudam a sustentar essa liberdade. O personagem pode agir em ambientes diferentes sem precisar reconstruir sua identidade a cada publicação.
 
 Não use apenas a opinião de quem acompanhou toda a criação. Uma leitura externa pode revelar uma ambiguidade, desde que seus comentários sejam tratados como observações delimitadas, e não como prova do reconhecimento de todo o mercado.
 

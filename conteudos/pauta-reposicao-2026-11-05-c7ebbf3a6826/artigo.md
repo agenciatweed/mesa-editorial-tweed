@@ -10,7 +10,7 @@ Para uma empresa B2B, a pergunta editorial vai além desse evento: seu material 
 
 ## Comece pela situação, antes do recurso
 
-Imagine uma empresa que oferece monitoramento para instalações comerciais. É um exemplo inteiramente hipotético, sem especificações de um produto real. Sua apresentação começa com uma sequência de funcionalidades, mas não explica qual situação motivaria alguém a procurar aquele serviço.
+Imagine uma empresa que oferece monitoramento para instalações comerciais. Sua apresentação começa com uma sequência de funcionalidades, mas não explica qual situação motivaria alguém a procurar aquele serviço.
 
 Uma pessoa responsável pela operação pode tentar relacionar os recursos ao próprio cotidiano. Outra, da área administrativa, pode não conhecer os termos usados. Ambas precisam de uma referência concreta para avaliar a pertinência.
 
@@ -22,7 +22,7 @@ Não se trata de inventar uma dor para encaixar uma oferta. Se a empresa não co
 
 Duas empresas podem reconhecer uma dificuldade parecida e ter condições de uso distintas. A estrutura existente, a disponibilidade de informações e a forma de acompanhar o serviço podem exigir avaliações diferentes.
 
-No exemplo hipotético, a empresa de monitoramento deve identificar quais condições precisam ser conhecidas antes de confirmar a aplicação. O material inicial não precisa reproduzir um manual, mas deve evitar transmitir a impressão de que qualquer instalação está automaticamente atendida.
+No exemplo, a empresa de monitoramento deve identificar quais condições precisam ser conhecidas antes de confirmar a aplicação. O material inicial não precisa reproduzir um manual, mas deve evitar transmitir a impressão de que qualquer instalação está automaticamente atendida.
 
 Separe aquilo que pode ser explicado publicamente do que exige uma conversa técnica. Se a adequação depende de uma avaliação, diga isso de modo compreensível e indique o próximo passo. Não apresente a necessidade de diagnóstico como um detalhe que só aparecerá depois do aceite.
 
@@ -32,7 +32,7 @@ Também é importante distinguir uma configuração disponível de uma adaptaç�
 
 Um limite útil ajuda a compreender a função do produto. Não precisa ser escondido no fim de uma apresentação nem transformado numa longa lista defensiva.
 
-Na empresa hipotética, o monitoramento pode oferecer informações para acompanhamento sem executar, por si só, todas as ações necessárias diante de uma ocorrência. A descrição exata dependeria do produto real. O exemplo serve para mostrar uma distinção de comunicação: receber uma informação e resolver a situação não são necessariamente a mesma entrega.
+Na empresa, o monitoramento pode oferecer informações para acompanhamento sem executar, por si só, todas as ações necessárias diante de uma ocorrência. A descrição exata dependeria do produto real. O exemplo serve para mostrar uma distinção de comunicação: receber uma informação e resolver a situação não são necessariamente a mesma entrega.
 
 Confira se o material permite separar o papel da solução das responsabilidades que continuam com o cliente ou com outros profissionais. Um vídeo pode mostrar um painel funcionando e, ainda assim, deixar ambíguo quem interpreta um aviso ou decide o encaminhamento.
 
@@ -46,7 +46,7 @@ Por isso, conferir a clareza não significa apenas perguntar se o texto parece s
 
 Termos técnicos podem ser necessários. Quando forem, ofereça uma explicação ligada à decisão do interlocutor. Trocar todo termo por uma expressão genérica como tecnologia de ponta pode eliminar justamente a informação que diferencia a oferta.
 
-Na empresa hipotética, a versão inicial pode apresentar a aplicação e os limites, com um aprofundamento separado para quem avaliará os requisitos técnicos. As duas versões precisam contar a mesma história, em níveis de detalhe diferentes.
+Na empresa, a versão inicial pode apresentar a aplicação e os limites, com um aprofundamento separado para quem avaliará os requisitos técnicos. As duas versões precisam contar a mesma história, em níveis de detalhe diferentes.
 
 ## Prepare o encaminhamento para um caso sem encaixe
 

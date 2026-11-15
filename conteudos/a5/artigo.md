@@ -8,7 +8,7 @@ Isso não permite concluir que todo problema de vendas está na proposta de valo
 
 ## Siga uma promessa do anúncio até a proposta
 
-Imagine uma empresa de tecnologia que anuncia uma solução para organizar processos sem complicação. O exemplo é hipotético. Ao clicar, o visitante encontra uma página centrada em funcionalidades, sem entender como a implantação acontece. Na conversa com vendas, descobre que precisa mobilizar a própria equipe durante várias semanas.
+Imagine uma empresa de tecnologia que anuncia uma solução para organizar processos sem complicação. Ao clicar, o visitante encontra uma página centrada em funcionalidades, sem entender como a implantação acontece. Na conversa com vendas, descobre que precisa mobilizar a própria equipe durante várias semanas.
 
 A participação do cliente pode ser necessária e fazer parte de um bom serviço. Mas, se a promessa inicial sugeria uma adoção sem esforço, existe uma expectativa que precisa ser revista. O comercial passa a explicar uma condição que a comunicação deveria ter ajudado a compreender.
 

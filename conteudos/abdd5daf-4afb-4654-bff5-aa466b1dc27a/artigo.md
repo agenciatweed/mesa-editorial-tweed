@@ -16,7 +16,7 @@ A reputação entra nessa conversa como material de avaliação. Não substitui 
 
 ## O problema aparece depois do primeiro contato
 
-Considere um exemplo hipotético: um gestor recebe a indicação de uma consultoria especializada em empresas do seu porte. Ao pesquisar, encontra uma página que não delimita especialidade, responsáveis ou modo de trabalho. A apresentação comercial enviada depois usa outra descrição.
+Um gestor recebe a indicação de uma consultoria especializada em empresas do seu porte. Ao pesquisar, encontra uma página que não delimita especialidade, responsáveis ou modo de trabalho. A apresentação comercial enviada depois usa outra descrição.
 
 Talvez a consultoria tenha experiência relevante. Mas a pessoa precisa reconstruir sozinha a lógica da recomendação. O nome apareceu como resposta; as informações públicas não ajudam a verificar a adequação.
 

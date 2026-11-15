@@ -10,7 +10,7 @@ Para a comunicação de uma pequena marca, existe uma tarefa mais delimitada: cu
 
 ## Diga o que a pessoa vai encontrar
 
-Imagine uma pequena marca de bolsas que inclui na etiqueta um acesso a orientações de conservação. É um exemplo hipotético. A mensagem indica uma informação de uso, mas o endereço leva à página inicial da loja, onde o visitante precisa descobrir por onde começar.
+Imagine uma pequena marca de bolsas que inclui na etiqueta um acesso a orientações de conservação. A mensagem indica uma informação de uso, mas o endereço leva à página inicial da loja, onde o visitante precisa descobrir por onde começar.
 
 O destino abriu corretamente. A tarefa anunciada ainda não foi atendida. Uma pessoa que acabou de chegar não conhece a organização interna do site e pode não saber qual categoria corresponde à peça que tem em mãos.
 
@@ -20,7 +20,7 @@ Evite prometer uma informação específica e entregar apenas uma oportunidade d
 
 ## Confira a relação com o produto certo
 
-Na marca hipotética, duas bolsas têm aparência semelhante e materiais diferentes. Uma página que reúne todas as orientações sem identificar a que item se aplicam pode deixar o comprador diante de uma escolha que não tem condições de fazer.
+Na marca, duas bolsas têm aparência semelhante e materiais diferentes. Uma página que reúne todas as orientações sem identificar a que item se aplicam pode deixar o comprador diante de uma escolha que não tem condições de fazer.
 
 A equipe precisa conferir as informações com quem conhece o produto. Nomes, imagens e referências devem permitir reconhecer a versão pertinente. Dados desconhecidos continuam sendo pontos a esclarecer, em vez de receber uma resposta genérica para completar o conteúdo.
 
@@ -32,7 +32,7 @@ Também não convém presumir que uma imagem bonita esclareça todas as diferen�
 
 Uma campanha tem começo e fim. Uma bolsa, uma caixa ou um material impresso pode permanecer com o cliente por mais tempo. Vincular as duas durações sem um plano de continuidade cria uma pendência que só aparece depois.
 
-Na empresa hipotética, o código anunciado como acesso a orientações não deveria perder essa função quando termina uma promoção. Se a página também apresenta uma campanha, a informação de uso precisa continuar reconhecível, sem depender da oferta temporária.
+Na empresa, o código anunciado como acesso a orientações não deveria perder essa função quando termina uma promoção. Se a página também apresenta uma campanha, a informação de uso precisa continuar reconhecível, sem depender da oferta temporária.
 
 Antes de uma ação terminar, confira o que ficará disponível. O endereço continuará funcionando? A mensagem ainda descreve o destino? Existe alguma informação que precisa permanecer para quem conserva uma embalagem antiga?
 
@@ -52,7 +52,7 @@ Na comunicação, a tarefa é acompanhar a experiência completa. Abrir um ender
 
 Uma pessoa aprova a embalagem, outra atualiza o site e uma terceira acompanha dúvidas. Sem um responsável pela continuidade, uma mudança aparentemente pequena pode romper a ligação entre essas partes.
 
-Na marca hipotética, a referência de trabalho pode registrar qual material impresso aponta para qual informação, quem confere seu conteúdo e quem precisa participar de uma alteração. Não é necessário reunir dados de clientes para organizar essa responsabilidade.
+Na marca, a referência de trabalho pode registrar qual material impresso aponta para qual informação, quem confere seu conteúdo e quem precisa participar de uma alteração. Não é necessário reunir dados de clientes para organizar essa responsabilidade.
 
 Se a página mudar, confira os acessos que já foram impressos antes de concluir a atualização. Se o produto receber uma nova versão, avalie como distinguir orientações atuais e anteriores. A equipe de atendimento precisa saber onde encontrar a referência pertinente quando uma dúvida chegar.
 

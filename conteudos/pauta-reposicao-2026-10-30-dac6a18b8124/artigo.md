@@ -10,7 +10,7 @@ Para uma PME, a questão prática continua a mesma com ou sem automação: quem 
 
 ## Dê nomes diferentes ao que tem situações diferentes
 
-Imagine uma pequena empresa discutindo uma campanha com um parceiro. É um exemplo hipotético. Durante a conversa, alguém sugere antecipar uma peça para aproveitar uma oportunidade. Outra pessoa explica que precisa verificar a disponibilidade da equipe. O assunto segue sem uma confirmação final.
+Imagine uma pequena empresa discutindo uma campanha com um parceiro. Durante a conversa, alguém sugere antecipar uma peça para aproveitar uma oportunidade. Outra pessoa explica que precisa verificar a disponibilidade da equipe. O assunto segue sem uma confirmação final.
 
 Se o resumo registra apenas que a peça será antecipada, ele elimina a condição que impedia a decisão. A frase fica mais simples e menos fiel ao que aconteceu.
 
@@ -22,7 +22,7 @@ No exemplo, a antecipação continua como possibilidade, acompanhada da verifica
 
 Palavras como avaliar, preparar, aprovar e publicar descrevem movimentos diferentes. Trocar uma pela outra pode fazer o trabalho avançar para uma etapa que ainda não foi autorizada.
 
-Na reunião hipotética, o parceiro pode ter ficado de preparar uma alternativa de chamada. Registrar que ele ficou responsável por publicar a campanha altera o alcance do pedido. Mesmo que o assunto e a pessoa estejam corretos, a responsabilidade foi ampliada.
+Na reunião, o parceiro pode ter ficado de preparar uma alternativa de chamada. Registrar que ele ficou responsável por publicar a campanha altera o alcance do pedido. Mesmo que o assunto e a pessoa estejam corretos, a responsabilidade foi ampliada.
 
 Ao revisar, confira a ação descrita. O próximo passo era estudar uma opção, apresentar uma versão ou executar algo já aprovado? Havia uma condição? Quem deveria responder antes de continuar?
 
@@ -42,7 +42,7 @@ Também não é necessário distribuir cada observação como tarefa. Algumas fa
 
 Quem participou precisa conseguir apontar um desencontro entre o resumo e a reunião. Uma mensagem enviada ao grupo pode facilitar isso, desde que o pedido de conferência seja claro e o registro corrigido continue identificável.
 
-Na PME hipotética, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.
+Na PME, a equipe pode destacar os pontos que precisam de confirmação antes do início da produção. Uma dúvida sobre a data ou o alcance da peça deve chegar a quem tem condições de esclarecê-la.
 
 Evite tratar a falta de resposta como confirmação automática. O silêncio pode ter diferentes motivos e não resolve uma dúvida sobre o que foi decidido. Se a continuidade depende de um ponto, busque a confirmação apropriada em vez de presumir que todos concordaram.
 
@@ -62,7 +62,7 @@ O cuidado deve considerar o que será registrado, quem poderá acessar e onde o 
 
 Um bom registro permite continuar a partir do ponto certo. Para isso, as dúvidas restantes precisam estar delimitadas. Escrever apenas que a campanha será avaliada deixa indefinido o que ainda falta decidir.
 
-No exemplo hipotético, pode haver duas respostas necessárias: a equipe consegue preparar a alternativa e quem confirma a mudança de data? Enquanto isso, outras tarefas já aprovadas podem seguir, se não dependerem dessas respostas.
+No exemplo, pode haver duas respostas necessárias: a equipe consegue preparar a alternativa e quem confirma a mudança de data? Enquanto isso, outras tarefas já aprovadas podem seguir, se não dependerem dessas respostas.
 
 Essa separação evita tratar toda a reunião como encerrada ou toda a campanha como suspensa. Ela permite reconhecer o que está definido e o que ainda precisa de um movimento específico.
 

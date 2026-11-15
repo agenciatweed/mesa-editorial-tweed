@@ -16,7 +16,7 @@ Uma superfície tátil pode aproximar a imagem do produto. Uma referência regio
 
 ## Particularidade precisa ter origem
 
-Imagine uma pequena marca de cerâmica. É um exemplo hipotético. Ela usa fotos recortadas sobre fundo neutro, como diversas outras empresas. Seu processo, porém, envolve uma esmaltação própria e peças com variações visíveis.
+Imagine uma pequena marca de cerâmica. Ela usa fotos recortadas sobre fundo neutro, como diversas outras empresas. Seu processo, porém, envolve uma esmaltação própria e peças com variações visíveis.
 
 Mostrar essas diferenças, explicar o trabalho e fotografar a superfície sob luz que revele sua textura poderia ajudar o comprador a entender o produto. O fundo neutro talvez continuasse útil no catálogo. A decisão seria acrescentar informação relevante, não trocar organização por ruído.
 

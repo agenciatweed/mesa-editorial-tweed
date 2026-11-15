@@ -14,7 +14,7 @@ Essa é uma questão de entendimento no atendimento. A referência pode facilita
 
 ## A mesma foto pode sustentar expectativas diferentes
 
-Imagine uma cliente que procura um estúdio de interiores e mostra a fotografia de uma sala. É um exemplo hipotético. A profissional observa a composição dos móveis e começa a discutir proporções. A cliente, por sua vez, estava tentando mostrar que deseja um ambiente menos carregado.
+Imagine uma cliente que procura um estúdio de interiores e mostra a fotografia de uma sala. A profissional observa a composição dos móveis e começa a discutir proporções. A cliente, por sua vez, estava tentando mostrar que deseja um ambiente menos carregado.
 
 As duas olharam para a mesma imagem. O sentido atribuído a ela foi diferente.
 
@@ -56,7 +56,7 @@ Uma pasta cheia de referências pode reunir preferências incompatíveis. Sem co
 
 Ao final da conversa, registre as decisões relevantes em linguagem simples. O que foi escolhido? Por quê? O que ficou de fora? Qual condição ainda precisa de confirmação? Inclua somente as informações necessárias para executar e revisar o trabalho.
 
-No exemplo hipotético, a anotação “priorizar circulação e reduzir informação visual, mantendo espaço para estes usos” orienta melhor a equipe do que apenas salvar a fotografia com o nome da cliente.
+No exemplo, a anotação “priorizar circulação e reduzir informação visual, mantendo espaço para estes usos” orienta melhor a equipe do que apenas salvar a fotografia com o nome da cliente.
 
 Quando uma escolha mudar, retome o critério. A nova referência está esclarecendo a mesma intenção ou acrescenta uma necessidade? Essa pergunta ajuda a conversar sobre mudanças sem tratar toda revisão como indecisão.
 

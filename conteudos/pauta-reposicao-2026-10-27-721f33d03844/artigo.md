@@ -10,7 +10,7 @@ Para uma pequena empresa, essa distinção abre uma pergunta prática: a piada c
 
 ## Uma situação compartilhada oferece outro ponto de partida
 
-Imagine uma loja de móveis que recebe dúvidas sobre medidas. É um exemplo hipotético. A equipe sabe como conferir o espaço, mas parte dos compradores não está acostumada a interpretar dimensões ou prever a passagem de um móvel pela porta.
+Imagine uma loja de móveis que recebe dúvidas sobre medidas. A equipe sabe como conferir o espaço, mas parte dos compradores não está acostumada a interpretar dimensões ou prever a passagem de um móvel pela porta.
 
 Um roteiro poderia representar esse cliente como incapaz de entender uma informação óbvia. Outro poderia mostrar a situação reconhecível de imaginar que um sofá cabe porque o canto da sala parece grande, até pegar a fita métrica.
 

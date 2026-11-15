@@ -10,7 +10,7 @@ A aproximação útil é editorial: escolher o que mostrar exige saber que conju
 
 ## Comece pela demanda que a seleção precisa esclarecer
 
-Imagine um pequeno escritório de projetos que deseja ampliar o trabalho com espaços comerciais compactos. É um exemplo hipotético. Seu acervo público foi se formando conforme os projetos terminavam, sem uma revisão do que o conjunto comunica hoje.
+Imagine um pequeno escritório de projetos que deseja ampliar o trabalho com espaços comerciais compactos. Seu acervo público foi se formando conforme os projetos terminavam, sem uma revisão do que o conjunto comunica hoje.
 
 Antes de trocar as imagens, a equipe precisa esclarecer a direção pretendida. Que necessidade quer ajudar o cliente a reconhecer? Que serviços oferece atualmente? Quais trabalhos realizados permitem compreender essa capacidade?
 
@@ -22,7 +22,7 @@ A direção também precisa corresponder ao trabalho que a empresa consegue sust
 
 Um trabalho pode entrar no portfólio porque é recente, porque gerou imagens bonitas ou porque a equipe tem carinho por ele. Esses motivos podem fazer parte da decisão, mas não explicam sozinhos o que o visitante aprenderá sobre a empresa.
 
-No escritório hipotético, vale perguntar o que cada projeto acrescenta à seleção. Um mostra como a equipe resolveu uma limitação de espaço? Outro permite compreender uma necessidade de uso diferente? Um terceiro repete quase exatamente o que já estava demonstrado?
+No escritório, vale perguntar o que cada projeto acrescenta à seleção. Um mostra como a equipe resolveu uma limitação de espaço? Outro permite compreender uma necessidade de uso diferente? Um terceiro repete quase exatamente o que já estava demonstrado?
 
 Essa leitura ajuda a evitar uma sequência extensa em que muitos trabalhos dizem a mesma coisa. Também permite perceber uma lacuna: talvez uma capacidade citada na página de serviços não encontre nenhuma referência que a torne compreensível.
 
@@ -32,7 +32,7 @@ Não é necessário preencher essa lacuna com um projeto ainda não realizado. A
 
 Uma empresa de serviços pode atuar em contextos diferentes. O portfólio não precisa esconder essa amplitude para parecer coerente. Precisa ajudar a pessoa a entender o que conecta os trabalhos apresentados.
 
-No exemplo hipotético, um projeto residencial pode ser pertinente se permite observar uma decisão relacionada ao aproveitamento de uma área reduzida. Sua presença pede uma explicação do aprendizado ou da capacidade que interessa à conversa atual, sem transformar experiência residencial em experiência comercial por mudança de legenda.
+No exemplo, um projeto residencial pode ser pertinente se permite observar uma decisão relacionada ao aproveitamento de uma área reduzida. Sua presença pede uma explicação do aprendizado ou da capacidade que interessa à conversa atual, sem transformar experiência residencial em experiência comercial por mudança de legenda.
 
 Da mesma forma, apresentar apenas projetos muito parecidos pode apagar uma versatilidade útil. A escolha depende do que o conjunto precisa mostrar e das diferenças reais entre as entregas.
 
@@ -42,7 +42,7 @@ A pergunta não é quantas categorias uma empresa pode ter. É se alguém de for
 
 Uma imagem pode despertar interesse sem esclarecer o problema resolvido. Quando todas as informações ficam por conta de quem observa, a pessoa pode interpretar o portfólio apenas como uma coleção de preferências estéticas.
 
-Para cada projeto pertinente, apresente o contexto que puder ser divulgado, a necessidade atendida e as decisões importantes para compreender a entrega. No escritório hipotético, uma fotografia final pode ganhar sentido quando acompanhada da limitação de espaço que orientou a reorganização.
+Para cada projeto pertinente, apresente o contexto que puder ser divulgado, a necessidade atendida e as decisões importantes para compreender a entrega. No escritório, uma fotografia final pode ganhar sentido quando acompanhada da limitação de espaço que orientou a reorganização.
 
 Descreva o papel da empresa com precisão. O contexto ajuda o visitante a avaliar a referência, mas não autoriza atribuir à equipe etapas que ela não realizou ou resultados que não foram verificados.
 

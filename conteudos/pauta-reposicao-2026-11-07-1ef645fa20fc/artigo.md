@@ -10,13 +10,13 @@ Para uma pequena marca, a pergunta pode começar no próprio portfólio: alguém
 
 ## Defina qual diferença precisa ser compreendida
 
-Imagine uma pequena marca de alimentos que oferece três versões do mesmo tipo de produto e duas quantidades por versão. É um exemplo hipotético. Ao lançar a linha, a equipe escolhe uma cor para cada opção e mantém quase todo o restante igual.
+Imagine uma pequena marca de alimentos que oferece três versões do mesmo tipo de produto e duas quantidades por versão. Ao lançar a linha, a equipe escolhe uma cor para cada opção e mantém quase todo o restante igual.
 
 Antes de avaliar o desenho, organize as diferenças reais. O que muda entre as versões? A quantidade? A composição? A forma de apresentação? Quais informações ajudam a pessoa a identificar o item que procura?
 
 Essa definição precisa vir de quem conhece o produto. A criação não deve inventar uma diferença para justificar cores ou nomes já escolhidos. Tampouco deve esconder uma distinção pertinente para manter uma frente visualmente mais limpa.
 
-Na marca hipotética, versão e quantidade são decisões diferentes. Se as duas informações disputarem o mesmo lugar ou parecerem parte de um único nome, a pessoa pode reconhecer uma delas e deixar a outra passar.
+Na marca, versão e quantidade são decisões diferentes. Se as duas informações disputarem o mesmo lugar ou parecerem parte de um único nome, a pessoa pode reconhecer uma delas e deixar a outra passar.
 
 ## Separe família e versão na hierarquia visual
 
@@ -32,7 +32,7 @@ Observe também as imagens. Uma ilustração muito parecida entre versões pode 
 
 A cor pode facilitar a distinção de uma linha. O cuidado é não exigir que o consumidor memorize uma convenção criada pela equipe para descobrir uma informação básica.
 
-Na marca hipotética, quem compra pela primeira vez não sabe que a embalagem mais escura corresponde a uma versão específica. Mesmo quem já conhece o produto pode encontrá-lo numa fotografia com iluminação diferente ou num espaço em que as tonalidades ficam menos distintas.
+Na marca, quem compra pela primeira vez não sabe que a embalagem mais escura corresponde a uma versão específica. Mesmo quem já conhece o produto pode encontrá-lo numa fotografia com iluminação diferente ou num espaço em que as tonalidades ficam menos distintas.
 
 Combine a cor com identificações legíveis e uma organização estável. Se houver outros elementos visuais, verifique se ajudam a reconhecer a diferença ou apenas acrescentam decoração. O objetivo não é multiplicar códigos para a pessoa decifrar.
 
@@ -52,7 +52,7 @@ Também confira a correspondência entre imagem e descrição. A página não de
 
 Uma organização pode funcionar com dois produtos e ficar confusa quando surge um terceiro. Se toda nova opção exige uma cor mais parecida com a anterior ou desloca uma informação importante, talvez falte um critério para ampliar a família.
 
-Na marca hipotética, antes de acrescentar outra versão, a equipe pode testar como ela ocuparia o sistema existente. A identificação continuaria no mesmo lugar? A diferença poderia ser explicada sem criar uma exceção que só o atendimento conhece?
+Na marca, antes de acrescentar outra versão, a equipe pode testar como ela ocuparia o sistema existente. A identificação continuaria no mesmo lugar? A diferença poderia ser explicada sem criar uma exceção que só o atendimento conhece?
 
 Isso não significa reservar antecipadamente uma quantidade ilimitada de combinações. Significa perceber quando a estrutura depende de condições que podem deixar de existir no próximo lançamento.
 

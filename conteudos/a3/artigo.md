@@ -8,7 +8,7 @@ Rever essa experiência exige observar o que a empresa permite que sua equipe fa
 
 ## A promessa precisa virar uma conduta possível
 
-Considere um exemplo hipotético: uma empresa de serviços se apresenta como uma parceira próxima. O site destaca acompanhamento e atenção aos detalhes. Depois da contratação, porém, o cliente não sabe quem procurar. Cada solicitação passa por pessoas diferentes, sem histórico compartilhado.
+Uma empresa de serviços se apresenta como uma parceira próxima. O site destaca acompanhamento e atenção aos detalhes. Depois da contratação, porém, o cliente não sabe quem procurar. Cada solicitação passa por pessoas diferentes, sem histórico compartilhado.
 
 A equipe pode estar se esforçando. O problema é que o funcionamento da empresa dificulta a proximidade prometida. Pedir mais simpatia aos atendentes não define um responsável, não organiza o histórico e não esclarece o próximo passo.
 

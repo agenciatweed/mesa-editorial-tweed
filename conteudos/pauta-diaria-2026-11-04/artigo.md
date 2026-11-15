@@ -8,7 +8,7 @@ Em 15 de outubro de 2026, o Google publicou um guia de compras sazonais baseado 
 
 ## Conte a partir do uso, não só da data da campanha
 
-Imagine uma pequena loja de presentes que oferece desconto numa linha de produtos para uma data comemorativa. É um exemplo hipotético. A equipe define o fim da promoção olhando o calendário de divulgação, sem considerar quando cada modalidade de entrega deixa de atender quem precisa do presente naquela data.
+Imagine uma pequena loja de presentes que oferece desconto numa linha de produtos para uma data comemorativa. A equipe define o fim da promoção olhando o calendário de divulgação, sem considerar quando cada modalidade de entrega deixa de atender quem precisa do presente naquela data.
 
 Comece pelo compromisso que a comunicação permite entender. A oferta termina em determinado dia. Até quando a entrega é possível na região atendida? Em que horários a retirada funciona? O que acontece se a pessoa comprar depois do último prazo para receber a tempo?
 
@@ -18,7 +18,7 @@ Uma loja pode manter uma oferta depois que a entrega antes da data comemorativa 
 
 Uma mesma campanha pode ter condições diferentes para entrega, retirada e compra presencial. A informação fica mais útil quando essas condições aparecem perto do preço e do caminho de compra, em vez de surgir só depois de a pessoa preencher seus dados.
 
-Na loja hipotética, a equipe pode informar até quando recebe pedidos para entrega em cada área que consegue atender e indicar a retirada apenas onde ela existe. Se a previsão depende do endereço, ofereça uma forma de consultar antes de prometer a data.
+Na loja, a equipe pode informar até quando recebe pedidos para entrega em cada área que consegue atender e indicar a retirada apenas onde ela existe. Se a previsão depende do endereço, ofereça uma forma de consultar antes de prometer a data.
 
 Também vale conferir os horários do atendimento. Se uma dúvida exige resposta humana e ninguém estará disponível até o encerramento, explique onde consultar as condições ou considere uma janela que permita a resposta. Uma oferta curta não precisa criar uma corrida contra etapas que a própria empresa controla.
 

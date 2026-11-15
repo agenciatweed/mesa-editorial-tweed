@@ -14,7 +14,7 @@ A leitura útil para uma PME está na organização: uma proposta criativa atrav
 
 ## Afinidade não se resume a somar seguidores
 
-Imagine uma marca de mobiliário e um estúdio de iluminação que atendem pessoas montando um pequeno espaço de trabalho em casa. É um exemplo hipotético. Uma colaboração possível seria mostrar como escolher mesa e iluminação para situações de uso específicas, com demonstrações e explicações dos dois profissionais.
+Imagine uma marca de mobiliário e um estúdio de iluminação que atendem pessoas montando um pequeno espaço de trabalho em casa. Uma colaboração possível seria mostrar como escolher mesa e iluminação para situações de uso específicas, com demonstrações e explicações dos dois profissionais.
 
 Nesse desenho, cada parceiro acrescenta um conhecimento que ajuda a compreender o conjunto. A divulgação é um meio de levar a demonstração ao público, mas não constitui toda a proposta.
 
@@ -44,7 +44,7 @@ A formalização deve ser adequada ao trabalho proposto. O objetivo dessa etapa 
 
 Uma parceria pequena não precisa nascer com evento, coleção e campanha em vários canais. Ela pode começar com uma demonstração bem organizada, um encontro ou um material que responda a uma dúvida real do público.
 
-Escolha o formato a partir do que os parceiros conseguem entregar com qualidade. No exemplo hipotético, uma demonstração com poucas situações de uso pode ser mais coerente que uma sequência de publicações prometendo resolver qualquer ambiente.
+Escolha o formato a partir do que os parceiros conseguem entregar com qualidade. No exemplo, uma demonstração com poucas situações de uso pode ser mais coerente que uma sequência de publicações prometendo resolver qualquer ambiente.
 
 Observe se a identidade de cada marca continua reconhecível e se a combinação tem uma lógica. Não é necessário misturar tudo numa terceira aparência nem dar o mesmo espaço visual aos nomes em todos os momentos. É necessário explicar a relação sem apagar a contribuição de ninguém.
 

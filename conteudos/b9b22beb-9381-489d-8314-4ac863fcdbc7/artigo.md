@@ -16,7 +16,7 @@ Uma associação profissional, uma comunidade local ou uma newsletter especializ
 
 ## Público pequeno não significa público disponível
 
-Imagine uma empresa que presta serviços para pequenas indústrias. É um exemplo hipotético. Ela pode alcançar muitas pessoas com conteúdos genéricos sobre produtividade, mas encontrar poucas que participem da contratação do seu serviço.
+Imagine uma empresa que presta serviços para pequenas indústrias. Ela pode alcançar muitas pessoas com conteúdos genéricos sobre produtividade, mas encontrar poucas que participem da contratação do seu serviço.
 
 Num encontro de gestores da região, talvez consiga discutir uma dificuldade recorrente com pessoas que conhecem o problema. O contexto permite explicar limites, ouvir objeções e perceber o que ainda não está claro na oferta.
 

@@ -8,7 +8,7 @@ Em 29 de outubro de 2026, o Google Workspace incluiu a tradução de fala em reu
 
 ## Percorra o caminho que começa na página
 
-Imagine uma pequena empresa de manutenção de equipamentos que quer apresentar seu serviço em espanhol. É um exemplo hipotético. A equipe prepara uma página clara, mas o botão leva a um formulário que pede ao visitante escolher categorias que só aparecem em português.
+Imagine uma pequena empresa de manutenção de equipamentos que quer apresentar seu serviço em espanhol. A equipe prepara uma página clara, mas o botão leva a um formulário que pede ao visitante escolher categorias que só aparecem em português.
 
 O primeiro teste é seguir a mesma sequência que o interessado encontrará. Ele entende qual canal usar? Consegue descrever a necessidade? A resposta automática informa o que acontece depois? Alguém consegue continuar a conversa naquele idioma?
 
@@ -24,7 +24,7 @@ Peça a uma pessoa competente no idioma e familiarizada com a oferta que confira
 
 ## Combine como responder antes de divulgar o canal
 
-Na empresa hipotética, talvez uma pessoa consiga cuidar das primeiras perguntas em espanhol, mas as dúvidas técnicas exijam apoio. Isso não impede necessariamente a apresentação da oferta. Exige decidir como o contato será encaminhado e o que pode ser informado com segurança.
+Na empresa, talvez uma pessoa consiga cuidar das primeiras perguntas em espanhol, mas as dúvidas técnicas exijam apoio. Isso não impede necessariamente a apresentação da oferta. Exige decidir como o contato será encaminhado e o que pode ser informado com segurança.
 
 A equipe pode combinar quais mensagens precisam de revisão, quem recebe solicitações e quando será necessário marcar uma conversa com suporte apropriado. Essas decisões devem corresponder à capacidade disponível, sem depender de alguém que talvez esteja livre no momento.
 

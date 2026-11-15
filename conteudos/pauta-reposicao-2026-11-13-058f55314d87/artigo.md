@@ -10,7 +10,7 @@ Para uma PME, a pergunta útil é: o cliente consegue entender a relação entre
 
 ## Dê nome ao que recebeu o reconhecimento
 
-Imagine uma pequena empresa de embalagens que participou de um projeto reconhecido numa premiação. É um exemplo hipotético. Ela quer mostrar a conquista na página inicial e numa proposta para outro cliente.
+Imagine uma pequena empresa de embalagens que participou de um projeto reconhecido numa premiação. Ela quer mostrar a conquista na página inicial e numa proposta para outro cliente.
 
 Antes de escolher o tamanho do selo, reúna o que está confirmado: nome do projeto, organização responsável pela premiação, categoria, edição ou ano e distinção recebida. Confira também quem consta como destinatário e qual foi a participação da empresa.
 
@@ -22,7 +22,7 @@ Isso não exige transformar a abertura do site numa ficha extensa. Uma chamada e
 
 O nome de uma premiação pode ser familiar à equipe e desconhecido para parte dos compradores. Exibir a marca do evento não explica automaticamente a relevância do trabalho.
 
-Na empresa hipotética, a apresentação pode mostrar o problema que orientou o projeto, as decisões tomadas e o resultado entregue, conforme os registros disponíveis. Se houve um desafio de apresentação do produto, explique a solução correspondente. Se o reconhecimento descreve uma categoria específica, preserve essa identificação.
+Na empresa, a apresentação pode mostrar o problema que orientou o projeto, as decisões tomadas e o resultado entregue, conforme os registros disponíveis. Se houve um desafio de apresentação do produto, explique a solução correspondente. Se o reconhecimento descreve uma categoria específica, preserve essa identificação.
 
 Diferencie a explicação da empresa e a avaliação publicada pela premiação. Uma decisão de projeto pode ter uma justificativa bem documentada sem ter sido mencionada pelo júri. Não atribua ao prêmio uma conclusão que só aparece na interpretação de quem participou.
 
@@ -32,7 +32,7 @@ O mesmo cuidado vale para os critérios. Premiações diferentes podem avaliar a
 
 Um projeto reconhecido pode ser uma referência pertinente numa conversa comercial. Ainda assim, não responde sozinho a todas as perguntas de uma nova contratação.
 
-Na proposta hipotética, o cliente precisa entender se a empresa consegue atender ao escopo, às condições e às necessidades atuais. O prêmio pode acompanhar uma demonstração de competência. Não substitui o esclarecimento da oferta que está sendo apresentada agora.
+Na proposta, o cliente precisa entender se a empresa consegue atender ao escopo, às condições e às necessidades atuais. O prêmio pode acompanhar uma demonstração de competência. Não substitui o esclarecimento da oferta que está sendo apresentada agora.
 
 Também não demonstra, por si só, aumento de vendas, satisfação de todos os clientes ou superioridade de qualquer produto da marca. Essas afirmações exigem evidências próprias. Não convém acrescentá-las apenas porque tornam a chamada mais forte.
 
@@ -52,7 +52,7 @@ Não é necessário publicar documentos internos ou detalhes de clientes para da
 
 A página do projeto pode estar precisa, enquanto um anúncio reduz tudo a uma afirmação ampla. A apresentação comercial pode usar uma categoria correta e uma edição antiga desaparecer da legenda na rede social.
 
-Na empresa hipotética, vale reunir a frase aprovada, os dados confirmados e a referência utilizada. Quem adapta a mensagem passa a ter um ponto de consulta, em vez de reconstruir a história a partir do selo.
+Na empresa, vale reunir a frase aprovada, os dados confirmados e a referência utilizada. Quem adapta a mensagem passa a ter um ponto de consulta, em vez de reconstruir a história a partir do selo.
 
 Depois, examine cada material como ele será encontrado. A chamada continua vinculada ao projeto? O ano permanece identificável? A imagem e a legenda apontam para o mesmo reconhecimento? O texto permite distinguir a participação da empresa de uma atribuição mais ampla?
 

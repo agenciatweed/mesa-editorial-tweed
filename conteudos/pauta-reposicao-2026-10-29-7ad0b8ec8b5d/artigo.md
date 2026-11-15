@@ -14,7 +14,7 @@ Uma pessoa pode chegar à página porque procura uma bolsa para levar objetos no
 
 Essas perguntas podem coexistir. Presumir uma única motivação torna a comunicação menos capaz de acolher o que ainda precisa ser entendido.
 
-Imagine uma pequena marca de acessórios que defende escolhas responsáveis de produção. É um exemplo hipotético. Sua página dedica quase todo o espaço inicial ao compromisso declarado. Não informa claramente dimensões, divisões internas ou como a peça é carregada.
+Imagine uma pequena marca de acessórios que defende escolhas responsáveis de produção. Sua página dedica quase todo o espaço inicial ao compromisso declarado. Não informa claramente dimensões, divisões internas ou como a peça é carregada.
 
 Quem procura uma bolsa para determinada rotina pode até valorizar o compromisso, mas continua sem saber se o produto atende à necessidade. A afinidade não substitui a informação que permite avaliar o uso.
 
@@ -22,7 +22,7 @@ Comece reunindo dúvidas concretas que a equipe recebe e conferindo o que os mat
 
 ## Explique uma utilidade que possa ser conferida
 
-No exemplo hipotético, a marca poderia mostrar o compartimento interno, informar as medidas e apresentar uma situação plausível de transporte. São maneiras de tornar a oferta mais compreensível, desde que correspondam à peça vendida.
+No exemplo, a marca poderia mostrar o compartimento interno, informar as medidas e apresentar uma situação plausível de transporte. São maneiras de tornar a oferta mais compreensível, desde que correspondam à peça vendida.
 
 Isso é diferente de acrescentar promessas genéricas de praticidade, resistência ou versatilidade. Cada uma dessas palavras pode sugerir condições de uso que precisam estar sustentadas.
 
@@ -34,7 +34,7 @@ A explicação não precisa transformar a página em um manual técnico. Precisa
 
 Criar uma entrada pelo produto não significa deixar os valores escondidos até o fim da compra. Informações importantes sobre materiais, processos e condições precisam continuar acessíveis, com a precisão que o assunto exige.
 
-Na marca hipotética, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.
+Na marca, uma seção pode explicar quais compromissos orientam as escolhas e a que parte da produção eles se aplicam. A descrição do produto pode indicar materiais e encaminhar a uma explicação mais completa, sem fazer o visitante procurar uma informação básica em vários lugares.
 
 Evite juntar afirmações diferentes numa conclusão ampla. Um material sintético não se torna automaticamente sustentável por não ser couro. Uma característica de composição não comprova, sozinha, o impacto de todo o produto. A comunicação deve distinguir aquilo que foi confirmado daquilo que continua exigindo avaliação.
 

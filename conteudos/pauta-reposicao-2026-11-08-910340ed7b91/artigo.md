@@ -10,7 +10,7 @@ Para uma pequena empresa que prepara um encontro presencial, a pergunta útil é
 
 ## Troque a promessa ampla por informação confirmada
 
-Imagine uma PME que organiza uma apresentação de produtos em um espaço de eventos. É um exemplo hipotético. A equipe prepara uma peça com data, endereço e a frase “todos são bem-vindos”, mas ainda não reuniu as informações sobre os recursos previstos para a atividade.
+Imagine uma PME que organiza uma apresentação de produtos em um espaço de eventos. A equipe prepara uma peça com data, endereço e a frase “todos são bem-vindos”, mas ainda não reuniu as informações sobre os recursos previstos para a atividade.
 
 O primeiro passo é conversar com quem conhece a produção. O que está confirmado? A informação vale para todo o encontro ou para uma parte da programação? Existe alguma condição que precisa ser explicada antes da participação?
 
@@ -22,7 +22,7 @@ Isso não significa reduzir a acessibilidade a uma lista de itens promocionais. 
 
 Uma descrição genérica pode deixar dúvidas mesmo quando existe um recurso confirmado. A interpretação estará presente em qual atividade? O material correspondente pode ser consultado antes? Há uma orientação pertinente para quem precisa planejar a chegada?
 
-Na empresa hipotética, essas perguntas devem ser encaminhadas à produção, sem preencher lacunas por suposição. Se a programação inclui demonstração e conversa posterior, as condições precisam ser conferidas nos momentos pertinentes, em vez de receber uma promessa única que esconda diferenças.
+Na empresa, essas perguntas devem ser encaminhadas à produção, sem preencher lacunas por suposição. Se a programação inclui demonstração e conversa posterior, as condições precisam ser conferidas nos momentos pertinentes, em vez de receber uma promessa única que esconda diferenças.
 
 Use uma redação direta. O objetivo é permitir que a pessoa reconheça a informação necessária para decidir, sem depender de linguagem técnica que o próprio atendimento não consegue explicar.
 
@@ -32,7 +32,7 @@ Também evite apresentar um único recurso como prova de que toda a experiência
 
 Uma pessoa pode conhecer o evento por uma postagem, um e-mail encaminhado ou uma mensagem de outra pessoa. Se a informação importante só aparece numa conversa privada, cada novo interessado precisa repetir o mesmo caminho.
 
-Na PME hipotética, o convite pode indicar uma página de referência com programação, localização e condições confirmadas. As peças mais curtas podem apontar claramente para esse material, em vez de tentar colocar todos os detalhes numa imagem pequena.
+Na PME, o convite pode indicar uma página de referência com programação, localização e condições confirmadas. As peças mais curtas podem apontar claramente para esse material, em vez de tentar colocar todos os detalhes numa imagem pequena.
 
 Confira se a informação está disponível também em texto, e não apenas dentro da arte de divulgação. Quem recebe o conteúdo deve conseguir localizar a referência e compreender o próximo passo. A escolha dos formatos e a avaliação de sua acessibilidade precisam envolver quem tem condições de verificá-las.
 
@@ -42,7 +42,7 @@ Quando houver uma atualização, confira quais materiais continuam circulando. U
 
 Um contato para dúvidas só ajuda quando a equipe responsável consegue esclarecer as condições anunciadas ou encaminhar a pergunta a quem pode conferir.
 
-Antes de divulgar o canal, combine quem acompanha as mensagens e onde encontra as referências confirmadas. Na empresa hipotética, a pessoa do atendimento precisa saber a diferença entre uma informação disponível e uma solicitação que ainda depende de avaliação da produção.
+Antes de divulgar o canal, combine quem acompanha as mensagens e onde encontra as referências confirmadas. Na empresa, a pessoa do atendimento precisa saber a diferença entre uma informação disponível e uma solicitação que ainda depende de avaliação da produção.
 
 Não transforme uma pergunta sobre participação numa exigência de diagnóstico ou de exposição da vida pessoal. Procure compreender a informação necessária para orientar a situação, com cuidado sobre o que é solicitado, registrado e compartilhado.
 
@@ -52,7 +52,7 @@ Também não confirme uma adaptação por impulso para encerrar a conversa. Se a
 
 A divulgação pode estar pronta enquanto decisões sobre o encontro continuam em andamento. Sem uma troca entre as equipes, a versão publicada passa a representar uma situação que ninguém mais reconhece integralmente.
 
-Na PME hipotética, uma referência de trabalho pode reunir as informações de participação confirmadas, os responsáveis por esclarecê-las e as pendências relevantes. O material deve orientar a comunicação, sem acumular dados pessoais de interessados por conveniência.
+Na PME, uma referência de trabalho pode reunir as informações de participação confirmadas, os responsáveis por esclarecê-las e as pendências relevantes. O material deve orientar a comunicação, sem acumular dados pessoais de interessados por conveniência.
 
 Antes de enviar o convite, confira se produção e atendimento compreendem o que será anunciado. Se houver uma mudança, combine como ela será explicada e em quais canais a atualização precisa aparecer.
 

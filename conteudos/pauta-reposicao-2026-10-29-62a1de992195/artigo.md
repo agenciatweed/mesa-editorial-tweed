@@ -10,7 +10,7 @@ A pergunta para uma pequena marca é como tornar essas participações compreens
 
 ## Comece pelos papéis, antes de escrever a história
 
-Imagine uma pequena marca de objetos de decoração que lança uma luminária com uma ceramista e uma designer. É um exemplo hipotético. A marca definiu a necessidade do público e organiza a comercialização. A designer desenvolveu a forma. A ceramista participou dos testes de material e produziu as peças.
+Imagine uma pequena marca de objetos de decoração que lança uma luminária com uma ceramista e uma designer. A marca definiu a necessidade do público e organiza a comercialização. A designer desenvolveu a forma. A ceramista participou dos testes de material e produziu as peças.
 
 Uma legenda que diga apenas “nossa criação” pode deixar essa construção pouco clara. Uma versão que atribua todo o projeto à produção manual também pode apagar decisões de desenvolvimento. A precisão depende de compreender o que cada participante efetivamente fez.
 
@@ -22,7 +22,7 @@ Se a equipe não consegue explicar uma contribuição, procure esclarecê-la com
 
 Mencionar um nome pode reconhecer uma participação. Explicar brevemente o papel ajuda a entender por que aquela participação importa naquela peça.
 
-Na luminária hipotética, a comunicação poderia apresentar o desenvolvimento da forma e a execução em cerâmica como contribuições distintas, conforme o que tiver sido confirmado. Uma imagem de um detalhe pode acompanhar uma explicação sobre uma escolha de construção. O objetivo é dar ao público elementos para compreender o trabalho.
+Na luminária, a comunicação poderia apresentar o desenvolvimento da forma e a execução em cerâmica como contribuições distintas, conforme o que tiver sido confirmado. Uma imagem de um detalhe pode acompanhar uma explicação sobre uma escolha de construção. O objetivo é dar ao público elementos para compreender o trabalho.
 
 Evite, porém, transformar toda característica em prova de superioridade. Produção manual não autoriza prometer durabilidade, exclusividade ou desempenho sem base. A origem de uma peça e suas condições de uso são informações relacionadas, mas não equivalentes.
 
@@ -32,7 +32,7 @@ Também não é necessário expor cada etapa interna para demonstrar cuidado. Se
 
 O desejo de valorizar um parceiro não permite presumir que qualquer nome, fotografia ou relato esteja disponível para divulgação. Antes de publicar, alinhe o modo de apresentação com as pessoas envolvidas e confira as condições aplicáveis ao trabalho.
 
-No exemplo hipotético, a marca pode confirmar como a ceramista prefere ser identificada, qual descrição representa sua participação e quais imagens podem ser usadas. Se houver divergência sobre o papel de alguém, a legenda deve esperar o esclarecimento.
+No exemplo, a marca pode confirmar como a ceramista prefere ser identificada, qual descrição representa sua participação e quais imagens podem ser usadas. Se houver divergência sobre o papel de alguém, a legenda deve esperar o esclarecimento.
 
 Esse alinhamento também ajuda a evitar uma assimetria comum: a campanha fala longamente sobre a marca enquanto os demais participantes aparecem como figuras anônimas de bastidor. A solução precisa considerar o contexto e os acordos reais, sem transformar um modelo de crédito em regra universal.
 
@@ -44,7 +44,7 @@ Uma cena de produção pode ajudar a compreender um gesto e um material. Não pr
 
 Evite construir uma personagem heroica para tornar a peça mais emocionante. Frases sobre sacrifício, ancestralidade ou transformação social exigem contexto e fundamento. Não se tornam verdadeiras porque combinam com a estética da campanha.
 
-Na luminária hipotética, mostrar como duas partes se encontram pode ser suficiente para explicar uma decisão de construção. A contribuição aparece no trabalho, sem exigir que a ceramista exponha sua intimidade para validar o produto.
+Na luminária, mostrar como duas partes se encontram pode ser suficiente para explicar uma decisão de construção. A contribuição aparece no trabalho, sem exigir que a ceramista exponha sua intimidade para validar o produto.
 
 Da mesma forma, não trate uma técnica como representação de toda uma comunidade sem compreender sua origem e seu alcance. O reconhecimento ganha consistência quando a descrição respeita o que se sabe e os limites do que pode ser afirmado.
 

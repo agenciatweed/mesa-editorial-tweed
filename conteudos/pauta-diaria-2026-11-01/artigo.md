@@ -10,7 +10,7 @@ A reflexão para uma PME vai além de conhecer o nome de uma ferramenta. Antes d
 
 ## Transforme uma preocupação vaga em critérios compreensíveis
 
-Imagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. É um exemplo hipotético. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.
+Imagine uma pequena empresa de serviços que prepara uma campanha com seu parceiro de mídia. Na aprovação, alguém pede que a marca apareça apenas em ambientes adequados. Todos concordam, mas ninguém explica o que essa expressão significa para aquela comunicação.
 
 Uma orientação assim pode produzir interpretações diferentes. A equipe precisa traduzir a preocupação em critérios que possam ser discutidos e relacionados aos recursos disponíveis.
 
@@ -22,7 +22,7 @@ Essas perguntas não pedem uma lista universal de lugares proibidos. Pedem uma d
 
 Uma marca pode considerar determinada associação inadequada à sua campanha sem concluir que as pessoas envolvidas são inadequadas ou que um conteúdo é ilegal. São questões distintas, que não devem se misturar numa orientação de mídia.
 
-Na empresa hipotética, uma comunicação sobre um serviço pode pedir um ambiente de apresentação diferente de uma peça de entretenimento. Isso não autoriza estigmatizar comunidades, identidades ou opiniões como um atalho para decidir onde aparecer.
+Na empresa, uma comunicação sobre um serviço pode pedir um ambiente de apresentação diferente de uma peça de entretenimento. Isso não autoriza estigmatizar comunidades, identidades ou opiniões como um atalho para decidir onde aparecer.
 
 Descreva a relação que está sendo avaliada. O problema é uma combinação que cria uma leitura indesejada da oferta? Uma condição de exibição que prejudica o entendimento? Há uma dúvida que precisa de análise específica, em vez de uma classificação automática?
 
@@ -34,7 +34,7 @@ O nome de um controle num comunicado não demonstra que ele está disponível ou
 
 A conversa com o parceiro de mídia pode começar por uma apresentação dos recursos pertinentes. O que cada configuração permite escolher? Que situações ficam fora do seu alcance? A equipe consegue explicar a diferença entre uma preferência definida e uma garantia que a ferramenta não oferece?
 
-No exemplo hipotético, a empresa registra quais escolhas foram efetivamente aplicadas e quais limitações continuam presentes. Não basta incluir no planejamento uma frase sobre proteção da marca sem conferir como ela se relaciona à execução.
+No exemplo, a empresa registra quais escolhas foram efetivamente aplicadas e quais limitações continuam presentes. Não basta incluir no planejamento uma frase sobre proteção da marca sem conferir como ela se relaciona à execução.
 
 Essa verificação precisa respeitar a documentação vigente da plataforma. Não é necessário improvisar um tutorial com base num anúncio de novidade, nem supor que selecionar todas as restrições disponíveis seja uma solução adequada a qualquer objetivo.
 

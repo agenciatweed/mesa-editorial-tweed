@@ -10,7 +10,7 @@ A reflexão editorial para uma pequena marca está em reconhecer que quem vive u
 
 ## Apresente a intenção antes de pedir a fala
 
-Imagine uma pequena marca que prepara um vídeo sobre seu processo de produção com parceiros. É um exemplo hipotético. A equipe quer mostrar cuidado e proximidade, mas chega à gravação com uma narrativa pronta sobre o que aquelas pessoas representam.
+Imagine uma pequena marca que prepara um vídeo sobre seu processo de produção com parceiros. A equipe quer mostrar cuidado e proximidade, mas chega à gravação com uma narrativa pronta sobre o que aquelas pessoas representam.
 
 Antes de escolher depoimentos, explique a intenção do material. Qual assunto será apresentado? Em quais peças ele poderá aparecer? O que a equipe pretende mostrar e o que ainda está em discussão?
 
@@ -22,7 +22,7 @@ Ouvir não significa pedir uma frase que confirme o roteiro. Uma resposta inespe
 
 Uma história pública exige seleção. Não cabe tudo numa peça curta. O problema aparece quando a escolha transforma uma experiência particular em algo diferente do que foi contado.
 
-No exemplo hipotético, um parceiro pode descrever um aprendizado acompanhado de dificuldades. Se o vídeo conserva apenas a frase sobre o aprendizado e apresenta todo o processo como simples, a edição muda a leitura da experiência.
+No exemplo, um parceiro pode descrever um aprendizado acompanhado de dificuldades. Se o vídeo conserva apenas a frase sobre o aprendizado e apresenta todo o processo como simples, a edição muda a leitura da experiência.
 
 Converse sobre o contexto necessário para compreender a fala. Há uma condição importante? O depoimento descreve uma etapa ou a trajetória inteira? A pessoa está falando por si ou foi apresentada como representante de um grupo maior sem ter assumido esse papel?
 
@@ -44,7 +44,7 @@ Uma conversa sobre o processo de produção não significa que todo comentário 
 
 Combine quais materiais serão utilizados e em que contexto. Se a intenção mudar, retome a conversa apropriada. Uma explicação pensada para um vídeo de apresentação pode ganhar outro sentido quando isolada num anúncio.
 
-No exemplo hipotético, a equipe pode separar o que foi dito para orientar a produção do que foi combinado para aparecer na peça. Essa distinção evita tratar todo o material coletado como um arquivo livre para qualquer uso futuro.
+No exemplo, a equipe pode separar o que foi dito para orientar a produção do que foi combinado para aparecer na peça. Essa distinção evita tratar todo o material coletado como um arquivo livre para qualquer uso futuro.
 
 Questões específicas sobre direitos e autorizações exigem avaliação adequada. O cuidado editorial começa por não presumir uma permissão que ninguém confirmou e por respeitar a possibilidade de recusa sem inventar pressão ou consenso.
 
@@ -54,7 +54,7 @@ Pedir uma opinião quando a peça já está fechada e a publicação é iminente
 
 Apresente o trecho pertinente junto do contexto em que será usado. Uma fala isolada pode parecer correta, enquanto o título ou a sequência de imagens acrescenta uma interpretação que a pessoa não reconhece.
 
-No vídeo hipotético, alguém pode perceber que a legenda sugere uma responsabilidade maior que sua participação real. Outra pessoa pode apontar que uma etapa mostrada fora de ordem muda a compreensão do trabalho. São informações úteis para ajustar a peça.
+No vídeo, alguém pode perceber que a legenda sugere uma responsabilidade maior que sua participação real. Outra pessoa pode apontar que uma etapa mostrada fora de ordem muda a compreensão do trabalho. São informações úteis para ajustar a peça.
 
 Defina como as observações serão recebidas e quem vai cuidar das correções. Não prometa que qualquer preferência será adotada automaticamente, nem transforme a consulta numa transferência de toda a responsabilidade editorial. A equipe continua responsável pelo material que prepara.
 

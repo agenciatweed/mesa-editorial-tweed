@@ -16,7 +16,7 @@ Uma PME não controla quando um assistente vai citá-la. Pode, porém, revisar o
 
 ## Explique o que só sua empresa consegue explicar
 
-Imagine uma fabricante de móveis sob medida. É um exemplo hipotético. Seu site apresenta ambientes bonitos e informa que trabalha com qualidade, mas não explica que tipos de projeto atende, como funciona a medição ou quais condições afetam o prazo.
+Imagine uma fabricante de móveis sob medida. Seu site apresenta ambientes bonitos e informa que trabalha com qualidade, mas não explica que tipos de projeto atende, como funciona a medição ou quais condições afetam o prazo.
 
 Ela poderia começar por uma página que descrevesse o processo, os materiais disponíveis, as responsabilidades de cada parte e a região atendida. Poderia mostrar um projeto autorizado, explicar as decisões envolvidas e registrar dúvidas recorrentes dos compradores.
 

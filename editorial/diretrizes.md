@@ -6,7 +6,7 @@ Marcas crescem por clareza, consistência e confiança. A Tweed integra estraté
 Português brasileiro natural. Exigência no padrão, repertório na substância e generosidade na entrega. Ensinar o porquê com exemplos concretos. Sem travessões na redação, emojis, jargão ornamental, superlativos ou promessa de resultado. O leitor nunca é o vilão.
 
 ## Evidência e privacidade
-Verificar fontes primárias para dados, estudos, cases e citações. Distinguir fato, interpretação e recomendação. Identificar exemplos hipotéticos. Arquétipos são ferramentas interpretativas. Não incluir dados comerciais, diagnósticos internos ou histórias identificáveis de clientes sem autorização.
+Verificar fontes primárias para dados, estudos, cases e citações. Distinguir fato, interpretação e recomendação. Antes de pautar ou redigir, compare os cinco textos mais recentes e os desta rodada. Varie o setor, o porte e a construção do argumento conforme a decisão do leitor. Considere clínicas e consultórios médicos ou odontológicos, profissionais liberais, advocacia, contabilidade, auditoria, restaurantes, bares, lojas de vinhos e delicatessens. Uma pergunta de cliente, um gesto durante o atendimento, duas escolhas de cardápio ou uma análise direta podem sustentar o texto. O exemplo pode entrar no meio ou ser dispensado. Evite repetir “Imagine uma pequena loja” e rotular exemplos anônimos como hipotéticos, inclusive nas notas. Reserve atribuições e resultados reais a casos documentados. Arquétipos são ferramentas interpretativas. Não incluir dados comerciais, diagnósticos internos ou histórias identificáveis de clientes sem autorização.
 
 ## Identidade
 Teal Tweed #08ffb1; azul-escuro #0b0c13; branco #ffffff. Tipografia Inter. Logo oficial. Fonte: https://github.com/agenciatweed/brand-guidelines-tweed (commit ac2f5c11089641941a4a20bb91a718375b362910).
@@ -20,15 +20,10 @@ Artigo, frase-chave na abertura, metadescrição, fontes, FAQ exclusivamente no 
 Usar uma referência por linha com nome descritivo em Markdown [Nome da fonte, título ou data](https://endereco-da-fonte). Separar notas explicativas por parágrafos. O publicador mantém suporte ao formato legado Nome: URL, exibindo o nome como link; campo vazio não gera seção.
 
 
-## Direção das capas: variedade humana e conceitual — 26/10/2026
+## Direção das capas
 
-Alternar cenas humanas e composições conceituais sem pessoas. Os dois modos são escolhas de primeira linha: selecionar a linguagem que traduz a tese, sem exigir pessoas em toda imagem. Antes de cada prompt, consultar os cinco prompts mais recentes em conteudos e no painel, incluindo os já produzidos na rodada. Preferir o modo diferente do último; evitar mais de dois seguidos do mesmo modo. Se o tema exigir repetir o modo, mudar claramente ação, ambiente, enquadramento e motivo visual, sem sacrificar a pertinência para cumprir uma alternância mecânica.
+Escolha algo que o artigo permita fotografar literalmente. Num texto sobre o agendamento de consultas, mostre o momento de marcar o retorno na recepção. Num texto sobre a escolha de vinhos, mostre o detalhe da prateleira que ajuda a decidir. Identifique no briefing a ação, o objeto ou o espaço que comunica a questão central. A presença de pessoas depende da cena.
 
-Nas cenas humanas, variar quantidade de pessoas, ações, situações internas e externas, distância e ponto de vista. Usar gestos espontâneos e fotografia editorial; incluir movimento, detalhes de uma ação ou uma pessoa sozinha quando fizer sentido. Reuniões, pessoas olhando papéis, objetos sobre mesas e notebooks não são o padrão. Não repetir a mesma composição trocando apenas o setor do negócio.
+Consulte os cinco prompts recentes e os já feitos na rodada para variar setor, gesto, ambiente e enquadramento. Use um acento teal inspirado em #08ffb1 na iluminação, numa peça de roupa, num objeto ou no ambiente. Preserve a luz principal suave e os tons de pele naturais. Dispense metáforas abstratas como padrão.
 
-Nas conceituais, escolher uma metáfora visual específica da ideia do artigo: relações entre materiais, objetos em transformação, espaços, escala, presença e ausência, luz e sombra. Uma composição sem pessoas pode ter fotografia de objetos, construção espacial ou tratamento editorial mais abstrato, desde que legível e ligado à tese. Evitar o repertório automático de cubos, prismas, labirintos, feixes e objetos genéricos sem relação com o assunto.
-
-Manter um acento de iluminação teal inspirado no #08ffb1, variando posição, intensidade e função. Não exigir fundo navy, nem cobrir a cena inteira de verde. Quando houver pessoas, preservar tons de pele naturais com luz principal suave. Variar a composição além da cor, para que o teal não produza capas idênticas.
-
-Prompt em inglês, sem texto ou logos legíveis, terminando somente com --ar 3:2. imageAlt breve em português descreve a composição prevista, com ou sem pessoas, sem explicar metáforas ou forçar palavras-chave. Preservar prompts já preenchidos, descrições manuais e capas existentes; aplicar esta direção às próximas gerações.
-
+Escreva o prompt em inglês, sem texto ou logos legíveis, terminando apenas em --ar 3:2. Inclua imageAlt breve em português descrevendo a cena. Preserve prompts, capas e descrições manuais existentes.

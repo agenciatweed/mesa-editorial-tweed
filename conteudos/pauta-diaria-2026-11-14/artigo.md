@@ -10,7 +10,7 @@ Para uma pequena empresa, essa discussão pode começar antes de qualquer ajuste
 
 ## Defina a função do som antes de escolher a trilha
 
-Imagine uma pequena fabricante de móveis preparando uma demonstração narrada para o site e as redes sociais. É um exemplo hipotético. A peça mostra o movimento de um produto, identifica a versão e esclarece o que acompanha aquela configuração.
+Imagine uma pequena fabricante de móveis preparando uma demonstração narrada para o site e as redes sociais. A peça mostra o movimento de um produto, identifica a versão e esclarece o que acompanha aquela configuração.
 
 A equipe quer transmitir cuidado e qualidade. A música pode contribuir para essa intenção, assim como um ambiente sonoro coerente. Mas existem informações que precisam continuar compreensíveis para que o vídeo cumpra sua finalidade.
 
@@ -20,7 +20,7 @@ O objetivo não é ocupar todos os momentos com som. Uma passagem mais discreta 
 
 ## Localize as informações que não podem se perder
 
-Na fabricante hipotética, uma frase informa que o acessório mostrado é opcional. Se ela ficar encoberta, o público pode não compreender a composição apresentada, mesmo que a imagem esteja nítida.
+Na fabricante, uma frase informa que o acessório mostrado é opcional. Se ela ficar encoberta, o público pode não compreender a composição apresentada, mesmo que a imagem esteja nítida.
 
 Antes de aprovar, identifique os trechos que carregam informações essenciais. Nome da versão, aplicação e condições confirmadas da oferta podem exigir atenção especial, conforme o conteúdo. Não basta conferir se o roteiro contém tudo; é preciso ouvir como isso chega na versão editada.
 
@@ -32,7 +32,7 @@ Essa observação ajuda a localizar uma dificuldade. Não representa uma pesquis
 
 A locução pode estar clara quando ouvida sozinha. A música pode parecer adequada fora da montagem. O problema pode surgir apenas quando tudo toca ao mesmo tempo.
 
-Na demonstração hipotética, vale escutar o trecho completo em que a fala coincide com a mudança musical e com o efeito do móvel. É ali que a equipe precisa decidir qual elemento deve conduzir a atenção e quais podem recuar.
+Na demonstração, vale escutar o trecho completo em que a fala coincide com a mudança musical e com o efeito do móvel. É ali que a equipe precisa decidir qual elemento deve conduzir a atenção e quais podem recuar.
 
 Evite tratar qualquer dificuldade apenas aumentando o volume geral. Isso altera o conjunto e pode manter a competição entre os mesmos sons. O ajuste pode envolver equilíbrio, momento de entrada, duração ou retirada de um elemento, conforme avaliação de quem realiza a edição sonora.
 
@@ -42,7 +42,7 @@ Também examine o sentido dos efeitos. Um som acrescentado participa da percepç
 
 Uma versão anterior pode ter sido aprovada antes da última troca de trilha. O arquivo de revisão pode soar de outro modo quando a pessoa o abre no dispositivo utilizado para assistir. Essas passagens merecem uma conferência concreta.
 
-Ouça o vídeo exportado, incluindo abertura, transições e encerramento. Na empresa hipotética, confira novamente a frase sobre o acessório e as demais informações importantes. Se existir uma prévia no canal de destino, avalie também o que ela permite verificar.
+Ouça o vídeo exportado, incluindo abertura, transições e encerramento. Na empresa, confira novamente a frase sobre o acessório e as demais informações importantes. Se existir uma prévia no canal de destino, avalie também o que ela permite verificar.
 
 Considere dispositivos e condições pertinentes ao uso previsto, sem criar uma coleção de situações extremas para declarar o trabalho impossível. Uma conferência no telefone e outra nas condições de revisão combinadas podem revelar questões diferentes. A escolha das verificações depende da peça e deve ser discutida com quem produz.
 
@@ -52,7 +52,7 @@ Não há um número universal de volume que esta análise possa oferecer para qu
 
 Pedidos como deixar o vídeo mais impactante podem levar à inclusão de novas camadas sem resolver a dificuldade percebida. Um comentário específico oferece outra condição de trabalho.
 
-Na fabricante hipotética, a equipe pode indicar o momento em que a música encobre a palavra que identifica o acessório como opcional. Quem edita recebe uma localização, uma observação e a informação cuja compreensão precisa ser preservada.
+Na fabricante, a equipe pode indicar o momento em que a música encobre a palavra que identifica o acessório como opcional. Quem edita recebe uma localização, uma observação e a informação cuja compreensão precisa ser preservada.
 
 Diferencie preferência e problema. Não gostar de uma trilha é uma avaliação diferente de não conseguir distinguir uma frase. As duas questões podem ser discutidas, mas pedem decisões e justificativas próprias.
 

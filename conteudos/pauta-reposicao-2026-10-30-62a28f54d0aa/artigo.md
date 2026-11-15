@@ -10,7 +10,7 @@ No site de uma pequena empresa, essa discussão pode começar por uma tarefa con
 
 ## O conhecimento interno também esconde dificuldades
 
-Imagine uma PME de serviços que quer revisar a página de solicitação comercial. É um exemplo hipotético. A equipe identifica rapidamente uma categoria porque utiliza aquele nome todos os dias. Uma pessoa de fora pode não saber que sua necessidade corresponde à expressão escolhida.
+Imagine uma PME de serviços que quer revisar a página de solicitação comercial. A equipe identifica rapidamente uma categoria porque utiliza aquele nome todos os dias. Uma pessoa de fora pode não saber que sua necessidade corresponde à expressão escolhida.
 
 O caminho pode continuar simples para quem já conhece o formulário e pouco claro para quem tenta entender o que acontecerá depois do envio. O teste interno confirmou que a tarefa foi possível para aquele grupo. Não demonstrou que a experiência funciona para todas as pessoas.
 
@@ -20,7 +20,7 @@ Essa distinção não diminui a utilidade da primeira conferência. Ela ajuda a 
 
 Pedir uma avaliação geral sobre um site pode gerar comentários sobre cores e preferências. Para entender uma dificuldade de uso, vale delimitar o que a pessoa precisa conseguir fazer.
 
-Na PME hipotética, a tarefa pode ser localizar se determinado serviço atende à necessidade apresentada e encontrar como pedir uma conversa. Não é necessário orientar antecipadamente qual menu abrir ou qual palavra procurar.
+Na PME, a tarefa pode ser localizar se determinado serviço atende à necessidade apresentada e encontrar como pedir uma conversa. Não é necessário orientar antecipadamente qual menu abrir ou qual palavra procurar.
 
 Observe o percurso e as dúvidas. A pessoa compreendeu o nome do serviço? Encontrou a informação de que precisava? Identificou o próximo passo? Alguma etapa exigiu uma ajuda que não estaria disponível no uso cotidiano?
 
@@ -30,7 +30,7 @@ Se o exercício depende de uma explicação contínua de quem criou a página, e
 
 A orientação da W3C WAI sobre avaliação com usuários destaca a participação de pessoas com deficiência e a diversidade de experiências e habilidades. Também recomenda combinar essa participação com avaliação de padrões de acessibilidade. Uma sessão com usuários não substitui uma verificação técnica completa.
 
-Para a empresa hipotética, isso significa não limitar a seleção a colegas disponíveis ou a pessoas que usam o mesmo dispositivo da equipe. Identifique quais condições de acesso precisam ser consideradas e busque apoio para organizar uma participação adequada.
+Para a empresa, isso significa não limitar a seleção a colegas disponíveis ou a pessoas que usam o mesmo dispositivo da equipe. Identifique quais condições de acesso precisam ser consideradas e busque apoio para organizar uma participação adequada.
 
 Não trate uma pessoa como representante de todas as outras. Uma experiência observada pode revelar uma barreira concreta sem descrever toda a diversidade de quem acessará o site.
 
@@ -40,7 +40,7 @@ O objetivo é aprender com formas reais de uso. Simular uma condição por algun
 
 Explique a finalidade da atividade, como as observações serão utilizadas e o que será registrado. Combine condições e recursos para que a pessoa consiga participar. Preserve informações pessoais e não transforme uma dificuldade observada numa exposição pública.
 
-No exemplo hipotético, a equipe pode usar um cenário e dados de teste para acompanhar a tarefa, evitando pedir documentos, informações de saúde ou dados de um atendimento real. O exercício deve esclarecer o funcionamento da página, não criar uma coleta desnecessária sobre quem participa.
+No exemplo, a equipe pode usar um cenário e dados de teste para acompanhar a tarefa, evitando pedir documentos, informações de saúde ou dados de um atendimento real. O exercício deve esclarecer o funcionamento da página, não criar uma coleta desnecessária sobre quem participa.
 
 Também considere o ritmo da sessão. Interromper cada ação para corrigir o caminho pode esconder o problema; insistir numa tarefa que está produzindo desconforto não é requisito para obter um aprendizado útil.
 
@@ -52,7 +52,7 @@ Uma anotação útil descreve o que aconteceu. A pessoa não encontrou determina
 
 Evite resumir tudo como falta de atenção ou dificuldade do participante. A tarefa da avaliação é investigar a experiência oferecida, não julgar a pessoa que encontrou um obstáculo.
 
-Na PME hipotética, a equipe pode registrar uma mensagem de erro que não explica como continuar. A correção precisa ser discutida com quem desenvolve o site e conferida depois. Uma alteração visual isolada pode não resolver a questão observada.
+Na PME, a equipe pode registrar uma mensagem de erro que não explica como continuar. A correção precisa ser discutida com quem desenvolve o site e conferida depois. Uma alteração visual isolada pode não resolver a questão observada.
 
 Diferencie ainda observação e hipótese. Ter percebido uma interrupção não esclarece automaticamente toda a sua causa. Preserve o contexto necessário para que a equipe técnica possa investigar sem receber uma conclusão inventada.
 

@@ -10,7 +10,7 @@ Para uma PME, o ponto não é reproduzir a escala da iniciativa. É observar qua
 
 ## Defina o compromisso antes de escrever a chamada
 
-Imagine uma pequena loja que pretende realizar uma campanha com uma organização parceira. É um exemplo hipotético. A equipe começa pela arte e escreve que parte das vendas será destinada à ação. Só depois percebe que ainda não definiu quais produtos entram e como a contribuição será apurada.
+Imagine uma pequena loja que pretende realizar uma campanha com uma organização parceira. A equipe começa pela arte e escreve que parte das vendas será destinada à ação. Só depois percebe que ainda não definiu quais produtos entram e como a contribuição será apurada.
 
 Esse caminho deixa a comunicação à frente de decisões que deveriam sustentá-la. Antes do anúncio, confirme o que será feito e quem responde por cada etapa.
 
@@ -22,7 +22,7 @@ Essas perguntas não constituem um modelo jurídico ou financeiro. A execução 
 
 Uma compra pode participar de um mecanismo de contribuição. Isso não significa que cada unidade vendida produza, por si só, um resultado social específico.
 
-Na loja hipotética, a equipe pode explicar uma regra previamente confirmada de contribuição vinculada aos produtos participantes. Não deveria converter essa regra em uma promessa sobre o número de pessoas atendidas se não houver base para estabelecer essa relação.
+Na loja, a equipe pode explicar uma regra previamente confirmada de contribuição vinculada aos produtos participantes. Não deveria converter essa regra em uma promessa sobre o número de pessoas atendidas se não houver base para estabelecer essa relação.
 
 Distingua o que a empresa fará do que a organização parceira pretende realizar. Um valor repassado, uma atividade apoiada e uma mudança na vida de alguém são informações diferentes. Uma não comprova automaticamente a outra.
 
@@ -34,7 +34,7 @@ Se apenas determinados produtos participam, a informação não deveria aparecer
 
 O mesmo vale para condições que mudam a compreensão da contribuição. Uma chamada ampla acompanhada de uma explicação difícil de localizar pode criar uma expectativa diferente do compromisso real.
 
-Na PME hipotética, anúncio, página e atendimento devem apresentar informações compatíveis. O post pode resumir a proposta e indicar onde estão os detalhes. A página pode explicar o funcionamento com maior precisão. A equipe precisa saber responder sem improvisar regras.
+Na PME, anúncio, página e atendimento devem apresentar informações compatíveis. O post pode resumir a proposta e indicar onde estão os detalhes. A página pode explicar o funcionamento com maior precisão. A equipe precisa saber responder sem improvisar regras.
 
 Não é necessário colocar toda a documentação na primeira frase. É necessário que a síntese seja verdadeira e que os elementos relevantes estejam acessíveis antes da decisão.
 
@@ -54,7 +54,7 @@ O trabalho editorial não termina quando a arte deixa de circular. Se a comunica
 
 Que período será informado? O que foi apurado? O que foi efetivamente realizado? Existe alguma etapa ainda em andamento? Quem confirma os dados antes da publicação?
 
-Na loja hipotética, uma atualização pode distinguir o encerramento das vendas participantes do momento em que a contribuição foi executada. Se os prazos forem diferentes, a explicação precisa preservar essa diferença.
+Na loja, uma atualização pode distinguir o encerramento das vendas participantes do momento em que a contribuição foi executada. Se os prazos forem diferentes, a explicação precisa preservar essa diferença.
 
 Evite anunciar como concluído aquilo que continua sendo uma intenção. Se houver uma mudança relevante nas condições, trate a informação com clareza nos canais apropriados, em vez de deixar materiais antigos sustentarem uma expectativa desatualizada.
 

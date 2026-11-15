@@ -10,7 +10,7 @@ A questão prática não depende de adotar uma ferramenta nova. Começa por sabe
 
 ## Confira o erro antes de tentar explicar sua origem
 
-Imagine uma pequena prestadora de manutenção que atende uma região delimitada. É um exemplo hipotético. Um interessado afirma ter recebido uma indicação de atendimento em outra cidade e pergunta quando a equipe poderá ir até lá.
+Imagine uma pequena prestadora de manutenção que atende uma região delimitada. Um interessado afirma ter recebido uma indicação de atendimento em outra cidade e pergunta quando a equipe poderá ir até lá.
 
 Antes de atribuir o erro a uma página antiga ou à falta de atualização de um sistema, confira o que foi efetivamente apresentado. A descrição se refere à empresa certa? A resposta afirma cobertura naquela cidade ou a pessoa interpretou uma lista de exemplos como área atendida?
 
@@ -20,7 +20,7 @@ Registre apenas o necessário para acompanhar a conferência, como a afirmação
 
 ## Separe a referência oficial das hipóteses sobre a resposta
 
-Na prestadora hipotética, o atendimento precisa localizar a descrição atual da área atendida e confirmar essa informação com quem responde pela operação. A memória de uma pessoa ou uma campanha antiga não deve substituir essa conferência.
+Na prestadora, o atendimento precisa localizar a descrição atual da área atendida e confirmar essa informação com quem responde pela operação. A memória de uma pessoa ou uma campanha antiga não deve substituir essa conferência.
 
 Compare a informação confirmada com os materiais públicos sob controle da empresa. O site explica a cobertura? Uma página de serviço usa uma expressão ampla que pode gerar outra leitura? Existe um conteúdo antigo ainda disponível que afirma uma condição diferente?
 
@@ -32,7 +32,7 @@ A investigação precisa preservar essa diferença. Uma inconsistência encontra
 
 Se a informação oficial estiver ambígua ou desatualizada, defina quem pode corrigi-la e quais materiais pertinentes precisam acompanhar o ajuste. A decisão deve partir da operação real, sem ampliar a oferta apenas para coincidir com a indicação recebida.
 
-Na empresa hipotética, uma explicação sobre a região atendida pode precisar de mais precisão. O mesmo cuidado vale para descrições da atividade que circulam em canais administrados pela equipe. A referência atual deve permitir que uma pessoa interessada consiga conferir a condição relevante.
+Na empresa, uma explicação sobre a região atendida pode precisar de mais precisão. O mesmo cuidado vale para descrições da atividade que circulam em canais administrados pela equipe. A referência atual deve permitir que uma pessoa interessada consiga conferir a condição relevante.
 
 Quando a informação estiver num ambiente de terceiros, verifique as possibilidades disponíveis para solicitar uma correção ou comunicar uma inexatidão. Não anuncie uma alteração antes de ela ser confirmada nem trate o envio de uma solicitação como garantia de atendimento.
 
@@ -42,7 +42,7 @@ Atualizar uma página própria, apontar uma fonte ou enviar um relato de erro s�
 
 Enquanto a apuração ocorre, existe uma conversa comercial em andamento. O interessado não precisa conhecer todos os detalhes da investigação para compreender se a empresa pode atendê-lo.
 
-Na prestadora hipotética, a equipe pode esclarecer a condição confirmada, indicar a referência oficial e reconhecer a diferença em relação à descrição apresentada. A explicação deve ajudar a avaliar o próximo passo, sem transformar a pessoa em culpada por ter usado um assistente.
+Na prestadora, a equipe pode esclarecer a condição confirmada, indicar a referência oficial e reconhecer a diferença em relação à descrição apresentada. A explicação deve ajudar a avaliar o próximo passo, sem transformar a pessoa em culpada por ter usado um assistente.
 
 Se houver uma dúvida que ainda depende de conferência, organize um retorno possível. Não invente uma alternativa de atendimento, uma parceria ou uma exceção comercial para encerrar o assunto com uma frase acolhedora.
 

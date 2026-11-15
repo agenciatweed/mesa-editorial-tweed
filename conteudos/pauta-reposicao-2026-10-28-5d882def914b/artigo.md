@@ -20,7 +20,7 @@ No exemplo do índice americano, o próprio título e a nota metodológica ajuda
 
 ## A palavra consumidor reúne situações muito diferentes
 
-Imagine uma pequena empresa brasileira de serviços para outras empresas. É um exemplo hipotético. A equipe encontra uma pesquisa internacional sobre confiança dos consumidores e considera adotar uma comunicação inteiramente centrada em economia.
+Imagine uma pequena empresa brasileira de serviços para outras empresas. A equipe encontra uma pesquisa internacional sobre confiança dos consumidores e considera adotar uma comunicação inteiramente centrada em economia.
 
 Seus compradores, porém, podem decidir em conjunto, seguir um orçamento corporativo e avaliar riscos de implementação. Esses aspectos não desaparecem porque as pessoas envolvidas também são consumidoras na vida cotidiana.
 
@@ -40,7 +40,7 @@ Também confira qual situação a pergunta aborda. Uma expectativa sobre a econo
 
 ## Transforme o dado em uma pergunta delimitada
 
-Uma hipótese útil indica o que a empresa pretende observar, sem anunciar que já conhece a resposta. No exemplo hipotético, a equipe poderia investigar se compradores estão pedindo mais clareza sobre etapas e compromissos da contratação.
+Uma hipótese útil indica o que a empresa pretende observar, sem anunciar que já conhece a resposta. No exemplo, a equipe poderia investigar se compradores estão pedindo mais clareza sobre etapas e compromissos da contratação.
 
 Isso orienta a escuta de dúvidas comerciais e a revisão dos materiais existentes. A pergunta deixa de ser “como usar essa porcentagem na campanha?” e passa a ser “que informação relevante pode estar faltando para quem avalia nossa oferta?”.
 
