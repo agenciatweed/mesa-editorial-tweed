@@ -53,8 +53,18 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/aaeb9ada4785236a30033aefac866dafe45b0e39a51d8239ceafdca16b2fbcf1.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-10T08:43:43.655Z",
-    "scheduledRound": 3
+    "state": "published",
+    "runKey": "2026-11-15T14:11:24.650Z",
+    "url": "https://www.agenciatweed.com.br/evento-informar-recursos-acessibilidade/",
+    "publishedAt": "2026-11-15T14:15:13.685548+00:00",
+    "job": "47cc65dd-6971-4104-9f05-91072e928725",
+    "files": [
+      "assets/artigos-editoriais/aaeb9ada4785236a30033aefac866dafe45b0e39a51d8239ceafdca16b2fbcf1.png",
+      "evento-informar-recursos-acessibilidade/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "evento-informar-recursos-acessibilidade",
+  "contentSha256": "1ef9339c016dfae8648f4e314aab63148bcb2bca1d237711be343d1eda2d4824",
+  "modifiedAt": "2026-11-15",
+  "links": [
+    {
+      "from": "evento-informar-recursos-acessibilidade",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "quais materiais continuam circulando",
+      "context": "Quando houver uma atualização, confira quais materiais continuam circulando. Uma postagem antiga não deveria sustentar uma promessa que a produção já sabe que mudou, sem uma orientação clara para a versão atual das informações.",
+      "reason": "A atualização do convite exige acompanhar as referências públicas ainda em circulação, tema desenvolvido no destino."
+    }
+  ]
+}
