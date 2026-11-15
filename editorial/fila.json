@@ -14080,6 +14080,94 @@
       "createdAt": "2026-11-15T10:07:00.424Z",
       "startedAt": "2026-11-15T14:14:17.537Z",
       "completedAt": "2026-11-15T14:14:17.803Z"
+    },
+    {
+      "id": "d430707b-14a3-4d3c-aa72-e1c37fcd02e2",
+      "itemId": "pauta-reposicao-2026-11-15-f8a277273a4b",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "6541694ee6951d0cc38086fa75a9e7cf63934823de47a1524fb4ca11ecca8299",
+      "snapshot": "fd5949cd7149b8e1c943b2e43c105e142e0c446bfaf4c366dfb12094bbb47257",
+      "input": {
+        "id": "pauta-reposicao-2026-11-15-f8a277273a4b",
+        "title": "A tipografia do seu cardápio ajuda a escolher ou só cria atmosfera?",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Em 12 de novembro de 2026, a Monotype anunciou quatro novas adições à família Inkwell e descreveu a possibilidade de variar tom e hierarquia mantendo continuidade visual. A fonte cita aplicações em cardápios e cartas de vinhos. Usar esse anúncio como contexto para uma análise própria sobre o papel da tipografia na leitura de um cardápio, sem recomendar a compra da família nem atribuir a ela resultados comerciais. Tese: personalidade tipográfica precisa conviver com a distinção entre nome do prato, descrição, categoria e preço. A construção do texto pode começar pelo momento em que alguém procura uma informação numa carta de vinhos ou num cardápio de bar, passando depois à decisão de projeto. Avaliar como estilos, tamanhos e espaçamentos dão papéis diferentes aos textos, testar a leitura no suporte e na luz efetivos e discutir quais detalhes expressivos merecem destaque. O exemplo pode ser um restaurante com carta de vinhos e serviço à mesa, sem reduzir o negócio a uma pequena loja. Não repetir a fórmula Imagine nem avisos de exemplo hipotético. Não impor tamanho universal, certificação de acessibilidade, eficácia comprovada ou promessa de venda. Distinguir do artigo sobre códigos visuais do setor e do logotipo pequeno: foco na hierarquia entre informações diferentes dentro de uma mesma peça tipográfica de uso cotidiano, especialmente nomes, descrições e preços. Distinguir do artigo de textura e cor: foco numa decisão de leitura aplicada ao atendimento.",
+        "audience": "Sócios, gestores e responsáveis pela comunicação de restaurantes, bares, delicatessens e lojas de vinhos que apresentam sua oferta em materiais impressos ou digitais.",
+        "goal": "De avaliar a fonte apenas pela atmosfera que cria para definir como a composição tipográfica ajuda a localizar e relacionar as informações necessárias à escolha.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-15",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Monotype, expansão da família Inkwell com quatro novas adições, 12/11/2026",
+              "url": "https://www.monotype.com/company/press-release/monotype-expands-inkwell-four-new-styles-inspired-freedom-handwriting",
+              "publishedAt": "2026-11-12"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "834565ca-25cf-42db-b1c8-ee016eacb31a",
+          "completedAt": "2026-11-15T14:14:17.696Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O cliente encontra o vinho pelo nome, mas precisa percorrer a linha duas vezes para descobrir se o preço corresponde à taça ou à garrafa. Em outra página, o prato tem uma assinatura elegante e uma descrição tão discreta que a pessoa chama o atendimento para entender o que vem junto. O cardápio tem personalidade. Parte da leitura ficou por resolver.\n\nA tipografia do cardápio participa do serviço. Ela dá voz ao restaurante e organiza informações que alguém consulta em condições concretas: à mesa, numa tela, sob a iluminação da casa e durante uma conversa. Escolher a fonte é uma parte dessa tarefa. Definir o papel de cada texto completa o trabalho.\n\n## Comece pelo que a pessoa tenta encontrar\n\nAntes de comparar desenhos de letras, abra uma página da oferta e identifique as decisões envolvidas. A pessoa quer localizar uma categoria, reconhecer um prato, entender seus componentes ou conferir o preço? Que informação precisa permanecer junto de outra para fazer sentido?\n\nNuma carta de vinhos, nome, origem, volume e modalidade de serviço podem cumprir funções diferentes. Uma diagramação que aproxima o preço da linha errada cria um problema mesmo quando cada palavra está perfeitamente legível. A leitura depende da relação entre os elementos.\n\nNo cardápio de um bar, o nome criativo de um drinque pode receber destaque, enquanto a descrição explica sua composição. O contraste entre esses textos ajuda a navegar pela oferta. Se todos usam o mesmo tamanho, peso e desenho expressivo, a pessoa precisa descobrir por conta própria como a página está organizada.\n\nEsse levantamento oferece um ponto de partida para a criação. Em vez de perguntar apenas se a fonte combina com a casa, a equipe pode discutir que leitura cada escolha facilita.\n\n## A mesma identidade pode ter vozes diferentes\n\nEm 12 de novembro de 2026, a Monotype anunciou quatro adições à família Inkwell. O comunicado apresenta a variação de tom e hierarquia dentro de uma família inspirada na escrita manual e cita usos em cardápios e cartas de vinhos.\n\nA notícia ajuda a lembrar que coerência visual pode incluir contrastes. Um título de categoria pode ser mais expressivo, enquanto uma descrição pede outro ritmo. A relação entre essas vozes precisa parecer intencional e ajudar a compreender a página.\n\nO anúncio descreve uma família específica e sua proposta de desenho. A decisão de projeto de um restaurante depende do conteúdo e dos suportes que ele utiliza. A pergunta pertinente é onde a expressão tipográfica acrescenta caráter e onde uma leitura mais direta ajuda o atendimento.\n\nUma letra com muitos detalhes pode funcionar num nome curto e exigir esforço quando aparece em várias linhas. Um estilo contido pode ganhar presença pelo tamanho, pela posição e pelo espaço em volta. Essas decisões merecem ser observadas na composição.\n\n## Dê funções reconhecíveis aos textos\n\nEscolha uma página representativa e organize suas camadas. A categoria reúne opções. O nome identifica o item. A descrição acrescenta informações. O preço permite conferir uma condição da escolha. Quando houver modalidades diferentes, a relação entre elas deve estar visível.\n\nEssas funções podem ser distinguidas por tamanho, peso, estilo, alinhamento e espaçamento. A combinação depende do desenho. Acrescentar uma fonte para cada função pode tornar a manutenção mais difícil sem melhorar a leitura.\n\nO espaço também comunica agrupamento. Se a distância entre nome e descrição é maior que a distância até o prato seguinte, a página pode sugerir uma relação equivocada. Na carta de vinhos, observe se taça e garrafa continuam ligadas aos preços correspondentes mesmo quando um nome ocupa duas linhas.\n\nA identidade participa desse sistema. Um detalhe expressivo pode marcar os títulos das categorias ou aparecer nos nomes de uma seleção especial. Seu uso ganha consistência quando tem uma função reconhecível ao longo do material.\n\n## Confira a leitura nas condições da casa\n\nUm arquivo ampliado no monitor permite enxergar detalhes que mudam no impresso. Uma prova em tamanho real ajuda a avaliar a escala, a densidade e o contraste. Leve essa prova ao ambiente em que será consultada.\n\nObserve o material sob a iluminação utilizada durante o serviço. O fundo, a cor da tinta e a superfície do papel participam do resultado. Uma composição que parece confortável sob a luz do escritório pode pedir ajustes numa mesa com iluminação mais baixa.\n\nTambém considere o modo de segurar e consultar. A pessoa consegue manter a página aberta? Precisa aproximá-la demais para ler a descrição? Os reflexos dificultam algum trecho? Essas observações podem orientar mudanças de acabamento e diagramação junto das escolhas tipográficas.\n\nA conferência local identifica situações específicas. Para compreender outras necessidades de leitura, envolva pessoas com experiências pertinentes e apoio especializado quando necessário. A escolha de uma fonte, isoladamente, oferece pouca base para declarar que todo o material é acessível.\n\n## O digital merece sua própria conferência\n\nSe o cardápio também é consultado no celular, abra a versão que o cliente realmente recebe. Um arquivo pensado para uma folha grande pode exigir ampliações e deslocamentos constantes. Nome e preço podem desaparecer da tela em momentos diferentes.\n\nVerifique como a hierarquia se mantém nesse percurso. A descrição continua associada ao item? As categorias ajudam a encontrar opções? As informações importantes aparecem como texto utilizável no formato escolhido?\n\nA identidade pode atravessar os suportes com ajustes de escala e organização. O trabalho está em manter a voz e a clareza nas condições de cada leitura. Uma cópia reduzida do impresso precisa ser avaliada pelo uso que permite.\n\nEsse cuidado também vale para fotografias de páginas publicadas nas redes sociais. Quando a imagem é usada para apresentar a oferta, o corte e a redução podem remover as relações que foram planejadas no original.\n\n## A atualização é uma prova do sistema\n\nO projeto encontra outro teste quando muda um nome, entra uma descrição mais longa ou surge uma opção com dois preços. Uma solução que funciona apenas com o conteúdo da primeira apresentação pode começar a perder coerência nas atualizações.\n\nPrepare uma referência simples para quem mantém o material. Registre os estilos usados, o modo de agrupar informações e as condições que exigem uma nova conferência. Essa orientação ajuda a preservar a relação entre os textos quando a rotina pede rapidez.\n\nAntes de aprovar a próxima versão, peça a alguém para localizar um item, explicar sua descrição e identificar o preço correspondente. Observe onde a leitura hesita e que elemento ajudou a retomá-la. A resposta oferece um critério para conversar com a criação.\n\nO cardápio também recebe o cliente. Sua personalidade aparece no desenho, e sua atenção aparece na facilidade de relacionar aquilo que está sendo oferecido. A escolha tipográfica fica mais precisa quando a equipe consegue explicar o que cada diferença de letra, tamanho e espaço ajuda a entender.",
+        "sources": "[Monotype, expansão da família Inkwell, 12/11/2026](https://www.monotype.com/company/press-release/monotype-expands-inkwell-four-new-styles-inspired-freedom-handwriting)\n\nO comunicado apresenta características e aplicações da família. Os critérios para planejar e conferir a tipografia de cardápios são análise editorial da Tweed.",
+        "prompt": "Natural editorial photograph in a warm contemporary restaurant during early evening service, close side view of an adult diner holding an open printed wine list at comfortable reading distance, the page showing clearly differentiated typographic blocks and aligned price columns with all lettering indistinct and unreadable, a glass of water near the place setting, warm pendant lighting and natural skin tones, restrained teal accent inspired by #08ffb1 on the upholstered banquette behind the diner, candid quiet moment focused on consulting the menu, no legible text or logos --ar 3:2",
+        "imageAlt": "Uma pessoa consulta uma carta de vinhos aberta à mesa de um restaurante, com luz suave e banco estofado em teal ao fundo.",
+        "date": "2026-11-24"
+      },
+      "createdAt": "2026-11-15T18:47:11.765Z",
+      "startedAt": "2026-11-15T20:08:28.392Z",
+      "completedAt": "2026-11-15T20:08:28.646Z"
+    },
+    {
+      "id": "7bfedbc8-f735-47e0-a4cb-dec495a266e6",
+      "itemId": "pauta-reposicao-2026-11-15-b2e5a71d3553",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "2b46d4c19f52f337195e2722dc11a962ce9e63a138d3c65404303725be57bca2",
+      "snapshot": "af7a6dc034f54bb78510702f48c51b47b15efaa36bafb629991d753f21c1da6d",
+      "input": {
+        "id": "pauta-reposicao-2026-11-15-b2e5a71d3553",
+        "title": "A fonte da sua marca chega a quem precisa produzir o material?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Em 10 de novembro de 2026, a Monotype anunciou um painel que aproxima bibliotecas tipográficas aprovadas dos aplicativos Illustrator, Photoshop e InDesign. O anúncio descreve comparação com uma seleção aprovada e substituição sob controle do designer, em planos e versões específicos. Usar como contexto para analisar o acesso às referências tipográficas no momento de produção. Tese: indicar o nome de uma família num manual não resolve a aplicação se quem cria uma peça não consegue identificar a versão e os estilos aprovados ou confirmar como pode utilizá-los. Recorte concreto num escritório de contabilidade que envia uma apresentação para atualização por um parceiro: a substituição por uma fonte parecida altera quebras, destaque e identidade. Começar pela devolução do material com linhas deslocadas ou por uma conversa entre criação e operação, sem Imagine e sem avisos de exemplo hipotético. Examinar como organizar uma referência acessível de família, estilos e usos, identificar dúvidas antes de substituir e conferir o material final nos suportes pertinentes. Não recomendar comprar painel, configurar software, distribuir fontes indiscriminadamente ou dar interpretação jurídica sobre licenças. Condições de acesso e utilização devem ser confirmadas com os responsáveis e fontes oficiais pertinentes, sem presumir que acesso a um arquivo equivale a permissão para qualquer uso. Não reproduzir estatísticas do levantamento citado nem prometer redução de retrabalho. Diferenciar do artigo sobre a próxima versão da apresentação: foco na fonte disponível e corretamente identificada durante a produção, não no controle geral de arquivos. Diferenciar da pauta de cardápios: foco na passagem entre equipes e na seleção aprovada, não na hierarquia entre nome, descrição e preço. Diferenciar da IA e cores: trata de aplicação tipográfica concreta, sem geração de imagem.",
+        "audience": "Sócios, responsáveis por comunicação e parceiros de criação de empresas de serviços, especialmente escritórios de contabilidade e consultorias que atualizam materiais institucionais com várias pessoas.",
+        "goal": "De tratar a fonte como um nome registrado no manual para garantir uma referência de uso compreensível e disponível na produção, com dúvidas encaminhadas antes de uma substituição improvisada.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-15",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Monotype, Brand Font Panel for Adobe Creative Apps, 10/11/2026",
+              "url": "https://www.monotype.com/company/press-release/monotype-launches-brand-font-panel-adobe-creative-apps",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-15T18:47:35.292Z",
+      "startedAt": "2026-11-15T20:08:24.390Z",
+      "completedAt": "2026-11-15T20:08:24.692Z"
     }
   ]
 }
