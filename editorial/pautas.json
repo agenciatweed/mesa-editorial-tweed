@@ -4416,11 +4416,16 @@
       "angle": "Gancho primário de 27/10/2026: a mLabs publicou um guia de preparação do atendimento em WhatsApp e Direct para a Black Friday, abordando automação, mensagens fora do horário e passagem para pessoas. A janela foi ampliada até 30 dias para uma fonte diretamente pertinente ao recorte; o texto é de um fornecedor, sem comprovar eficácia universal. Tese própria: uma confirmação automática deve esclarecer o estado da conversa e o próximo passo real, sem fazer o cliente interpretar recebimento como análise concluída ou solução. Exemplo hipotético de PME cuja mensagem informa que a solicitação foi recebida, mas a operação ainda precisa de conferência; distinguir confirmação, informação já disponível e encaminhamento para responsável. Conferir o que a empresa consegue prometer e quem acompanha as pendências. Não copiar modelos do fornecedor, indicar software, ensinar configuração, reproduzir regras de plataformas ou aconselhamento jurídico, nem inventar tempos de resposta. Não coletar dados pessoais sem necessidade. Diferenciar de pausa no atendimento: foco em interpretação e continuidade da resposta automática mesmo durante a operação normal, não em comunicar fechamento e retomada. Diferenciar de atendimento e posicionamento: foco no estado da solicitação comunicado por uma mensagem específica, não em redesenhar toda a operação.",
       "audience": "Donos de PMEs e equipes de conteúdo e atendimento que usam mensagens automáticas em canais digitais.",
       "goal": "De avaliar a automação apenas por responder rápido para conferir se ela deixa claro o que aconteceu, o que ainda depende de análise e qual próximo passo pode ser cumprido.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -4451,7 +4456,26 @@
       "slug": "mensagem-automatica-recebimento-solucao",
       "meta": "Uma mensagem automática deve esclarecer o que foi recebido, o que ainda depende de análise e qual próximo passo a equipe consegue acompanhar.",
       "faq": "Uma mensagem automática confirma que a solicitação foi resolvida?\nNão. Recebimento, informação disponível, encaminhamento e resolução são estados diferentes e precisam ser comunicados conforme o que realmente aconteceu.\n\nO que conferir antes de anunciar um encaminhamento?\nConfira se a ação ocorreu, quem acompanha a solicitação e se o próximo passo anunciado corresponde ao processo real.\n\nEnviar um link encerra a dúvida do cliente?\nO link pode ajudar, mas não comprova que a pergunta foi respondida. Preserve uma continuidade compreensível quando a informação indicada não bastar.",
-      "url": "https://www.agenciatweed.com.br/mensagem-automatica-recebimento-solucao/"
+      "url": "https://www.agenciatweed.com.br/mensagem-automatica-recebimento-solucao/",
+      "imageFile": "conteudos/pauta-diaria-2026-11-09/imagens/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+      "imageName": "Ateliê Minimalista com Campainha Dourada.png",
+      "imageWidth": 1536,
+      "imageHeight": 1024,
+      "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+      "publication": {
+        "state": "published",
+        "url": "https://www.agenciatweed.com.br/mensagem-automatica-recebimento-solucao/",
+        "publishedAt": "2026-11-15T08:15:47.002868+00:00",
+        "job": "849b195b-4ce3-4fe1-994e-52b9ad6c8cda",
+        "files": [
+          "assets/artigos-editoriais/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+          "mensagem-automatica-recebimento-solucao/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-11-09-2306429b5f3b",
@@ -5164,6 +5188,33 @@
             "title": "OpenAI, Introducing Businesses in ChatGPT, 10/11/2026",
             "url": "https://openai.com/index/introducing-businesses-chatgpt/",
             "publishedAt": "2026-11-10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pauta-diaria-2026-11-15",
+      "title": "As fotos do seu espaço mostram como ele pode ser usado?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Em publicação de 12 de novembro de 2026, o Airbnb apresentou tendências de viagens de inverno de usuários dos Estados Unidos e destacou estadias para encontros entre amigos, com exemplos de cozinhas e áreas de refeição. Usar a forma de apresentar ambientes por uma situação de uso como contexto para uma análise editorial própria de fotografia comercial. Não transferir tendências do inverno norte-americano para o Brasil, confundir buscas e listas de desejos com reservas ou alegar efeito comercial comprovado das imagens. Tese: o planejamento das fotos de um espaço deve incluir as perguntas de quem pretende utilizá-lo, tornando compreensíveis a organização, os elementos disponíveis e a relação entre as áreas, sem depender apenas de detalhes decorativos. Exemplo explicitamente hipotético de um pequeno espaço para encontros profissionais que publica muitos closes de acabamento, mas não permite reconhecer como se organiza uma reunião ou oficina nas condições realmente oferecidas. Definir quais situações precisam ser compreendidas, planejar vistas de conjunto e detalhes pertinentes, manter correspondência entre a configuração mostrada e a oferta e explicar quando uma montagem é apenas uma possibilidade que exige confirmação. A beleza das imagens continua pertinente; cada foto precisa ter uma função dentro do conjunto. Não inventar capacidade, equipamentos, acessibilidade, serviços incluídos ou resultados de reservas; não dar orientação técnica ou regulatória sobre ocupação. Não usar imagens ou pessoas sem autorização nem apresentar simulações como documentação de uma configuração disponível. Diferenciar do artigo sobre imagem de campanha e prova de entrega: foco nas perguntas que orientam a pauta fotográfica de um ambiente real, não na origem gerada ou documental da imagem. Diferenciar da demonstração de produto: foco no conjunto de vistas e relações espaciais que o cliente precisa entender antes de visitar ou pedir uma proposta.",
+      "audience": "Sócios e responsáveis por marketing de pequenas empresas que comercializam estadias, locação de espaços ou ambientes para encontros e precisam planejar fotografias para sites e apresentações.",
+      "goal": "De selecionar fotos apenas pela aparência isolada para organizar um conjunto que ajude o cliente a entender os usos e as condições efetivamente oferecidos pelo espaço.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-15",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Airbnb, 2026 winter travel trends revealed, 12/11/2026",
+            "url": "https://news.airbnb.com/2026-winter-travel-trends-revealed",
+            "publishedAt": "2026-11-12"
           }
         ]
       }

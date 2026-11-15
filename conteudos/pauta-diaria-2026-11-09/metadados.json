@@ -6,11 +6,16 @@
   "angle": "Gancho primário de 27/10/2026: a mLabs publicou um guia de preparação do atendimento em WhatsApp e Direct para a Black Friday, abordando automação, mensagens fora do horário e passagem para pessoas. A janela foi ampliada até 30 dias para uma fonte diretamente pertinente ao recorte; o texto é de um fornecedor, sem comprovar eficácia universal. Tese própria: uma confirmação automática deve esclarecer o estado da conversa e o próximo passo real, sem fazer o cliente interpretar recebimento como análise concluída ou solução. Exemplo hipotético de PME cuja mensagem informa que a solicitação foi recebida, mas a operação ainda precisa de conferência; distinguir confirmação, informação já disponível e encaminhamento para responsável. Conferir o que a empresa consegue prometer e quem acompanha as pendências. Não copiar modelos do fornecedor, indicar software, ensinar configuração, reproduzir regras de plataformas ou aconselhamento jurídico, nem inventar tempos de resposta. Não coletar dados pessoais sem necessidade. Diferenciar de pausa no atendimento: foco em interpretação e continuidade da resposta automática mesmo durante a operação normal, não em comunicar fechamento e retomada. Diferenciar de atendimento e posicionamento: foco no estado da solicitação comunicado por uma mensagem específica, não em redesenhar toda a operação.",
   "audience": "Donos de PMEs e equipes de conteúdo e atendimento que usam mensagens automáticas em canais digitais.",
   "goal": "De avaliar a automação apenas por responder rápido para conferir se ela deixa claro o que aconteceu, o que ainda depende de análise e qual próximo passo pode ser cumprido.",
-  "status": "Revisão",
+  "status": "Pronto",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
-  "checks": {},
+  "checks": {
+    "thesis": true,
+    "facts": true,
+    "voice": true,
+    "privacy": true
+  },
   "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
   "author": "https://www.agenciatweed.com.br/#agencia",
   "dailyResearch": {
@@ -41,5 +46,24 @@
   "slug": "mensagem-automatica-recebimento-solucao",
   "meta": "Uma mensagem automática deve esclarecer o que foi recebido, o que ainda depende de análise e qual próximo passo a equipe consegue acompanhar.",
   "faq": "Uma mensagem automática confirma que a solicitação foi resolvida?\nNão. Recebimento, informação disponível, encaminhamento e resolução são estados diferentes e precisam ser comunicados conforme o que realmente aconteceu.\n\nO que conferir antes de anunciar um encaminhamento?\nConfira se a ação ocorreu, quem acompanha a solicitação e se o próximo passo anunciado corresponde ao processo real.\n\nEnviar um link encerra a dúvida do cliente?\nO link pode ajudar, mas não comprova que a pergunta foi respondida. Preserve uma continuidade compreensível quando a informação indicada não bastar.",
-  "url": "https://www.agenciatweed.com.br/mensagem-automatica-recebimento-solucao/"
+  "url": "https://www.agenciatweed.com.br/mensagem-automatica-recebimento-solucao/",
+  "imageFile": "conteudos/pauta-diaria-2026-11-09/imagens/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+  "imageName": "Ateliê Minimalista com Campainha Dourada.png",
+  "imageWidth": 1536,
+  "imageHeight": 1024,
+  "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+  "publication": {
+    "state": "published",
+    "url": "https://www.agenciatweed.com.br/mensagem-automatica-recebimento-solucao/",
+    "publishedAt": "2026-11-15T08:15:47.002868+00:00",
+    "job": "849b195b-4ce3-4fe1-994e-52b9ad6c8cda",
+    "files": [
+      "assets/artigos-editoriais/3e29b06f788e2f071ce392789ee340886f6bab710c1fe5655cc02e7b7197ff30.png",
+      "mensagem-automatica-recebimento-solucao/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
+  }
 }

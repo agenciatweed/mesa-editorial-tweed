@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "mensagem-automatica-recebimento-solucao",
+  "contentSha256": "acb4508611f98b9b41fee7dcc7ec08732f72435b84870a217aa70c9563d872f4",
+  "modifiedAt": "2026-11-15",
+  "links": [
+    {
+      "from": "mensagem-automatica-recebimento-solucao",
+      "to": "atendimento-troca-clareza-encaminhamento",
+      "anchor": "quem recebe cada tipo de solicitação",
+      "context": "Na PME hipotética, vale verificar quem recebe cada tipo de solicitação e como identifica o que ainda depende de resposta. Uma dúvida sobre aplicação do produto pode precisar de um responsável diferente de uma pergunta sobre disponibilidade.",
+      "reason": "Aprofunda a definição de quem recebe e acompanha solicitações, para que a continuidade anunciada na mensagem corresponda a um percurso de atendimento real."
+    }
+  ]
+}

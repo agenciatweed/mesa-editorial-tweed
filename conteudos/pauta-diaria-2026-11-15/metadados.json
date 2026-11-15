@@ -1,0 +1,27 @@
+{
+  "id": "pauta-diaria-2026-11-15",
+  "title": "As fotos do seu espaço mostram como ele pode ser usado?",
+  "edition": 3,
+  "expert": "Lorenzo",
+  "angle": "Em publicação de 12 de novembro de 2026, o Airbnb apresentou tendências de viagens de inverno de usuários dos Estados Unidos e destacou estadias para encontros entre amigos, com exemplos de cozinhas e áreas de refeição. Usar a forma de apresentar ambientes por uma situação de uso como contexto para uma análise editorial própria de fotografia comercial. Não transferir tendências do inverno norte-americano para o Brasil, confundir buscas e listas de desejos com reservas ou alegar efeito comercial comprovado das imagens. Tese: o planejamento das fotos de um espaço deve incluir as perguntas de quem pretende utilizá-lo, tornando compreensíveis a organização, os elementos disponíveis e a relação entre as áreas, sem depender apenas de detalhes decorativos. Exemplo explicitamente hipotético de um pequeno espaço para encontros profissionais que publica muitos closes de acabamento, mas não permite reconhecer como se organiza uma reunião ou oficina nas condições realmente oferecidas. Definir quais situações precisam ser compreendidas, planejar vistas de conjunto e detalhes pertinentes, manter correspondência entre a configuração mostrada e a oferta e explicar quando uma montagem é apenas uma possibilidade que exige confirmação. A beleza das imagens continua pertinente; cada foto precisa ter uma função dentro do conjunto. Não inventar capacidade, equipamentos, acessibilidade, serviços incluídos ou resultados de reservas; não dar orientação técnica ou regulatória sobre ocupação. Não usar imagens ou pessoas sem autorização nem apresentar simulações como documentação de uma configuração disponível. Diferenciar do artigo sobre imagem de campanha e prova de entrega: foco nas perguntas que orientam a pauta fotográfica de um ambiente real, não na origem gerada ou documental da imagem. Diferenciar da demonstração de produto: foco no conjunto de vistas e relações espaciais que o cliente precisa entender antes de visitar ou pedir uma proposta.",
+  "audience": "Sócios e responsáveis por marketing de pequenas empresas que comercializam estadias, locação de espaços ou ambientes para encontros e precisam planejar fotografias para sites e apresentações.",
+  "goal": "De selecionar fotos apenas pela aparência isolada para organizar um conjunto que ajude o cliente a entender os usos e as condições efetivamente oferecidos pelo espaço.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-15",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Airbnb, 2026 winter travel trends revealed, 12/11/2026",
+        "url": "https://news.airbnb.com/2026-winter-travel-trends-revealed",
+        "publishedAt": "2026-11-12"
+      }
+    ]
+  }
+}
