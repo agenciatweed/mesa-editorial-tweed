@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "mensagem-automatica-recebimento-solucao",
+  "contentSha256": "dc9d6bfa92d39587785d7e8f47b527bd680fe55e18001e9248fc217e1e61778b",
+  "modifiedAt": "2026-11-15",
+  "links": [
+    {
+      "from": "atendimento-troca-clareza-encaminhamento",
+      "to": "mensagem-automatica-recebimento-solucao",
+      "anchor": "receber uma solicitação",
+      "context": "Também diferencie receber uma solicitação de aprová-la. A confirmação de entrada pode acolher e explicar a continuidade sem antecipar um resultado que ainda depende de avaliação.",
+      "reason": "A distinção explícita do parágrafo é desenvolvida no artigo novo sobre o significado das mensagens automáticas."
+    }
+  ]
+}

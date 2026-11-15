@@ -13462,7 +13462,7 @@
       "id": "dec497c6-dec1-449a-aa44-6a57ec594fed",
       "itemId": "pauta-reposicao-2026-11-14-c2e5a021397a",
       "action": "revisar",
-      "state": "pending",
+      "state": "done",
       "workKey": "d8a1626debeeebc141014fa119bbc5beed12e06f86a7dbb81c8038fbbe7ee829",
       "snapshot": "38260b136bb425fd66bca0fb3402b162d0deab34be87a86309ee1a76ad0afeb5",
       "input": {
@@ -13512,7 +13512,9 @@
         "imageHeight": 896,
         "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6.png"
       },
-      "createdAt": "2026-11-15T09:08:00.813Z"
+      "createdAt": "2026-11-15T09:08:00.813Z",
+      "startedAt": "2026-11-15T09:54:48.019Z",
+      "completedAt": "2026-11-15T09:56:54.189Z"
     },
     {
       "id": "18d5281e-d806-4d16-86b6-fc0634e14dec",
@@ -13863,6 +13865,82 @@
         }
       },
       "createdAt": "2026-11-15T09:19:23.630Z"
+    },
+    {
+      "id": "5d0ff92d-2b9a-43de-b5a6-b7d6c029a25d",
+      "itemId": "pauta-diaria-2026-11-15",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "e6c5a6afe88c695e691528d7d07e93fcec98810c98f2b421485d08d97a476328",
+      "snapshot": "87cc2279e7f7c70cb0a3f9c76dcd6aa117939f4b3056ee8f01081767047be411",
+      "input": {
+        "id": "pauta-diaria-2026-11-15",
+        "title": "As fotos do seu espaço mostram como ele pode ser usado?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Em publicação de 12 de novembro de 2026, o Airbnb apresentou tendências de viagens de inverno de usuários dos Estados Unidos e destacou estadias para encontros entre amigos, com exemplos de cozinhas e áreas de refeição. Usar a forma de apresentar ambientes por uma situação de uso como contexto para uma análise editorial própria de fotografia comercial. Não transferir tendências do inverno norte-americano para o Brasil, confundir buscas e listas de desejos com reservas ou alegar efeito comercial comprovado das imagens. Tese: o planejamento das fotos de um espaço deve incluir as perguntas de quem pretende utilizá-lo, tornando compreensíveis a organização, os elementos disponíveis e a relação entre as áreas, sem depender apenas de detalhes decorativos. Exemplo explicitamente hipotético de um pequeno espaço para encontros profissionais que publica muitos closes de acabamento, mas não permite reconhecer como se organiza uma reunião ou oficina nas condições realmente oferecidas. Definir quais situações precisam ser compreendidas, planejar vistas de conjunto e detalhes pertinentes, manter correspondência entre a configuração mostrada e a oferta e explicar quando uma montagem é apenas uma possibilidade que exige confirmação. A beleza das imagens continua pertinente; cada foto precisa ter uma função dentro do conjunto. Não inventar capacidade, equipamentos, acessibilidade, serviços incluídos ou resultados de reservas; não dar orientação técnica ou regulatória sobre ocupação. Não usar imagens ou pessoas sem autorização nem apresentar simulações como documentação de uma configuração disponível. Diferenciar do artigo sobre imagem de campanha e prova de entrega: foco nas perguntas que orientam a pauta fotográfica de um ambiente real, não na origem gerada ou documental da imagem. Diferenciar da demonstração de produto: foco no conjunto de vistas e relações espaciais que o cliente precisa entender antes de visitar ou pedir uma proposta.",
+        "audience": "Sócios e responsáveis por marketing de pequenas empresas que comercializam estadias, locação de espaços ou ambientes para encontros e precisam planejar fotografias para sites e apresentações.",
+        "goal": "De selecionar fotos apenas pela aparência isolada para organizar um conjunto que ajude o cliente a entender os usos e as condições efetivamente oferecidos pelo espaço.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-15",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Airbnb, 2026 winter travel trends revealed, 12/11/2026",
+              "url": "https://news.airbnb.com/2026-winter-travel-trends-revealed",
+              "publishedAt": "2026-11-12"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-15T09:07:55.559Z",
+      "startedAt": "2026-11-15T09:54:47.885Z",
+      "completedAt": "2026-11-15T09:56:46.387Z"
+    },
+    {
+      "id": "b62b3429-b9f8-48ca-afb7-94cc61450ae5",
+      "itemId": "pauta-reposicao-2026-11-14-4ff53b8e2580",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "b4d05f1ed258a6be6e6907fe2ef6bc303fe25df82e35e5d8e9d52f81fb8fabcb",
+      "snapshot": "66aa27c332800140f424b66562566a0d38272832a11db200c8f71e50e75155f8",
+      "input": {
+        "id": "pauta-reposicao-2026-11-14-4ff53b8e2580",
+        "title": "O cliente sabe quando uma IA está falando em nome da sua marca?",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Em anúncio de 10 de novembro de 2026, a OpenAI apresentou Businesses in ChatGPT em beta e descreveu conversas com Business Agents como identificadas, separadas da conversa original do usuário e distintas das respostas independentes do ChatGPT. O anúncio informa disponibilidade dos agentes para empresas elegíveis de comércio eletrônico e serviços online nos Estados Unidos; não afirmar disponibilidade geral no Brasil. Usar essa distinção explícita como contexto para analisar a apresentação de assistentes de IA da própria empresa, sem oferecer tutorial ou recomendar contratação de plataforma. Tese editorial: quem conversa precisa conseguir reconhecer quando a orientação é um atendimento da marca e qual é seu alcance, especialmente quando o assistente ajuda a escolher entre ofertas da própria empresa. Exemplo explicitamente hipotético de uma pequena loja que usa um assistente para comparar itens do seu catálogo, mas o apresenta de modo que pode parecer uma avaliação neutra de todo o mercado. Trabalhar a identificação de quem fala na entrada da conversa, o universo de opções considerado, a coerência entre nome, apresentação e respostas e a distinção entre informação confirmada e uma recomendação comercial contextual. Não é necessário esconder a identidade da marca para que a conversa seja útil; explicar sua posição permite avaliar a orientação com mais contexto. Não inventar falhas dos agentes anunciados, classificações independentes, acesso a conversas privadas, garantias de resposta ou exigências jurídicas universais. Não desenvolver implementação técnica, regras de publicidade ou promessas de venda. O recorte é a clareza sobre a origem e o papel da conversa, distinto da correção de informações erradas numa IA de terceiros, da visibilidade em respostas de busca e da credibilidade do site depois de uma recomendação. Não transformar a análise em uma lista genérica de cuidados com IA.",
+        "audience": "Sócios e responsáveis por marca, conteúdo e atendimento de pequenas e médias empresas que usam ou planejam assistentes de IA para apresentar produtos e serviços.",
+        "goal": "De apresentar o assistente como uma voz sem origem ou alcance definidos para tornar reconhecível que ele atende em nome da empresa e orienta a partir de uma oferta delimitada.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-14",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "OpenAI, Introducing Businesses in ChatGPT, 10/11/2026",
+              "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-15T09:26:32.306Z",
+      "startedAt": "2026-11-15T09:54:48.150Z",
+      "completedAt": "2026-11-15T09:56:50.169Z"
     }
   ]
 }

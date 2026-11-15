@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-15-f8a277273a4b",
+  "title": "A tipografia do seu cardápio ajuda a escolher ou só cria atmosfera?",
+  "edition": 2,
+  "expert": "Lorenzo",
+  "angle": "Em 12 de novembro de 2026, a Monotype anunciou quatro novas adições à família Inkwell e descreveu a possibilidade de variar tom e hierarquia mantendo continuidade visual. A fonte cita aplicações em cardápios e cartas de vinhos. Usar esse anúncio como contexto para uma análise própria sobre o papel da tipografia na leitura de um cardápio, sem recomendar a compra da família nem atribuir a ela resultados comerciais. Tese: personalidade tipográfica precisa conviver com a distinção entre nome do prato, descrição, categoria e preço. A construção do texto pode começar pelo momento em que alguém procura uma informação numa carta de vinhos ou num cardápio de bar, passando depois à decisão de projeto. Avaliar como estilos, tamanhos e espaçamentos dão papéis diferentes aos textos, testar a leitura no suporte e na luz efetivos e discutir quais detalhes expressivos merecem destaque. O exemplo pode ser um restaurante com carta de vinhos e serviço à mesa, sem reduzir o negócio a uma pequena loja. Não repetir a fórmula Imagine nem avisos de exemplo hipotético. Não impor tamanho universal, certificação de acessibilidade, eficácia comprovada ou promessa de venda. Distinguir do artigo sobre códigos visuais do setor e do logotipo pequeno: foco na hierarquia entre informações diferentes dentro de uma mesma peça tipográfica de uso cotidiano, especialmente nomes, descrições e preços. Distinguir do artigo de textura e cor: foco numa decisão de leitura aplicada ao atendimento.",
+  "audience": "Sócios, gestores e responsáveis pela comunicação de restaurantes, bares, delicatessens e lojas de vinhos que apresentam sua oferta em materiais impressos ou digitais.",
+  "goal": "De avaliar a fonte apenas pela atmosfera que cria para definir como a composição tipográfica ajuda a localizar e relacionar as informações necessárias à escolha.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-15",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Monotype, expansão da família Inkwell com quatro novas adições, 12/11/2026",
+        "url": "https://www.monotype.com/company/press-release/monotype-expands-inkwell-four-new-styles-inspired-freedom-handwriting",
+        "publishedAt": "2026-11-12"
+      }
+    ]
+  }
+}
