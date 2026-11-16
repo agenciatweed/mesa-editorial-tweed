@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "ia-descricao-oferta-incorreta",
+  "contentSha256": "97169337ae145a797f92973b386c4d8a8bed68646443cc1bc1ac646b63c6d286",
+  "modifiedAt": "2026-11-16",
+  "links": [
+    {
+      "from": "ia-descricao-oferta-incorreta",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "materiais públicos sob controle da empresa",
+      "context": "Compare a informação confirmada com os materiais públicos sob controle da empresa. O site explica a cobertura? Uma página de serviço usa uma expressão ampla que pode gerar outra leitura? Existe um conteúdo antigo ainda disponível que afirma uma condição diferente?",
+      "reason": "A conferência das referências próprias é desenvolvida no artigo sobre informações vigentes nos diferentes canais da empresa."
+    }
+  ]
+}

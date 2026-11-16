@@ -4687,9 +4687,19 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9.png",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-12T16:13:26.354Z",
-        "scheduledRound": 3
+        "state": "published",
+        "runKey": "2026-11-16T20:17:29.408Z",
+        "url": "https://www.agenciatweed.com.br/ia-descricao-oferta-incorreta/",
+        "publishedAt": "2026-11-16T20:20:23.567170+00:00",
+        "job": "06651d8f-8fee-4f90-b890-9d973e614031",
+        "files": [
+          "assets/artigos-editoriais/409e05e51ff977a1732f832eac3e2f143739d39e1206997911c744aba89de3b9.png",
+          "ia-descricao-oferta-incorreta/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
