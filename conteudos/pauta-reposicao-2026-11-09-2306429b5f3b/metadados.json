@@ -53,8 +53,18 @@
   "faq": "O que informar quando um cupom de desconto não é aplicado?\nExplique a condição ou causa confirmada e indique um próximo passo pertinente. Se a causa ainda não foi diagnosticada, não apresente uma hipótese como certeza.\n\nToda falha de cupom deve receber a mesma mensagem?\nNão. Código diferente do divulgado, condição não atendida e situação sem diagnóstico são casos distintos e exigem informações correspondentes ao que foi verificado.\n\nComo manter campanha e atendimento alinhados sobre o cupom?\nUse uma referência atual da oferta e confira se chamada, página, carrinho e atendimento descrevem as mesmas condições confirmadas.",
   "url": "https://www.agenciatweed.com.br/cupom-desconto-nao-aplicado/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-10T20:56:24.909Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-16T08:11:16.288Z",
+    "url": "https://www.agenciatweed.com.br/cupom-desconto-nao-aplicado/",
+    "publishedAt": "2026-11-16T08:14:06.997031+00:00",
+    "job": "4f221c3d-b97d-4225-97de-f81b6c5fb142",
+    "files": [
+      "assets/artigos-editoriais/e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372.jpg",
+      "cupom-desconto-nao-aplicado/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

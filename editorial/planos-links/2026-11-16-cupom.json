@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "cupom-desconto-nao-aplicado",
+  "contentSha256": "295401939cc1f2a5c2ad6ddf35c8adf0535bc9354399317b09d286d22bbf1d50",
+  "modifiedAt": "2026-11-16",
+  "links": [
+    {
+      "from": "cupom-desconto-nao-aplicado",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "uma referência de trabalho para a oferta em circulação",
+      "context": "Na loja, vale manter uma referência de trabalho para a oferta em circulação. Ela deve reunir o alcance confirmado, a informação que o público pode consultar e quem consegue esclarecer uma divergência. Não precisa acumular dados pessoais de compradores para cumprir essa função.",
+      "reason": "A referência comum de condições é aprofundada na manutenção das informações comerciais nos canais."
+    }
+  ]
+}

@@ -4557,9 +4557,19 @@
       "faq": "O que informar quando um cupom de desconto não é aplicado?\nExplique a condição ou causa confirmada e indique um próximo passo pertinente. Se a causa ainda não foi diagnosticada, não apresente uma hipótese como certeza.\n\nToda falha de cupom deve receber a mesma mensagem?\nNão. Código diferente do divulgado, condição não atendida e situação sem diagnóstico são casos distintos e exigem informações correspondentes ao que foi verificado.\n\nComo manter campanha e atendimento alinhados sobre o cupom?\nUse uma referência atual da oferta e confira se chamada, página, carrinho e atendimento descrevem as mesmas condições confirmadas.",
       "url": "https://www.agenciatweed.com.br/cupom-desconto-nao-aplicado/",
       "publication": {
-        "state": "queued",
-        "approvedAt": "2026-11-10T20:56:24.909Z",
-        "scheduledRound": 1
+        "state": "published",
+        "runKey": "2026-11-16T08:11:16.288Z",
+        "url": "https://www.agenciatweed.com.br/cupom-desconto-nao-aplicado/",
+        "publishedAt": "2026-11-16T08:14:06.997031+00:00",
+        "job": "4f221c3d-b97d-4225-97de-f81b6c5fb142",
+        "files": [
+          "assets/artigos-editoriais/e845fad0676b220cf5456d24b919c45cf60604e1ae4771e504ff44c1b3c4d372.jpg",
+          "cupom-desconto-nao-aplicado/index.html",
+          "blog/index.html",
+          "blog-marcas-em-acao/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
       }
     },
     {
@@ -5608,6 +5618,33 @@
             "title": "Adobe e Google, ampliação da parceria, 10/11/2026",
             "url": "https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership",
             "publishedAt": "2026-11-10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pauta-diaria-2026-11-16",
+      "title": "O cargo do contato explica por que ele precisa do seu serviço?",
+      "edition": 0,
+      "expert": "Lorenzo",
+      "angle": "Em 12/11/2026, o LinkedIn anunciou a expansão de CTV Ads para o Reino Unido e destacou segmentação profissional por cargo, setor e senioridade. Usar essa possibilidade de localizar um público como contexto para uma análise editorial própria sobre a definição de cliente ideal em serviços B2B. O comunicado trata de mercados e produto específicos; não afirmar segmentação de espectadores no Brasil, recomendar compra de mídia ou reproduzir os resultados e estatísticas comerciais divulgados. Tese: cargo e setor ajudam a descrever um grupo, mas o briefing de comunicação precisa incluir a situação de trabalho, a necessidade e as condições em que o serviço é pertinente. Exemplo numa consultoria de gestão que atende clínicas e encontra administradores com o mesmo título em operações de organização e complexidade diferentes. Abrir por duas perguntas recebidas por pessoas com o mesmo cargo ou desenvolver uma comparação direta, sem Imagine nem adendo de exemplo hipotético. Identificar o que cada contato tenta resolver, seu papel real na avaliação e o que precisa ser confirmado antes de considerar a oferta adequada. Separar informações conhecidas de suposições a validar numa conversa, usar demandas e referências autorizadas sem expor clientes, e transformar essa compreensão em uma mensagem com escopo reconhecível. Não oferecer orientação clínica ou financeira, coletar dados sensíveis, traçar perfil psicológico individual, presumir que o título decide orçamento ou ensinar configurações de anúncio. Diferenciar da pauta sobre apresentação encaminhada: foco na definição da necessidade que orienta a mensagem antes de criar o material, não na autonomia de leitura do PDF. Diferenciar de plano de mídia e contexto de anúncios: foco no briefing de público e adequação do serviço, não na escolha de canal. Diferenciar de pesquisa representativa: foco no significado e nos limites de atributos profissionais para reconhecer uma demanda concreta.",
+      "audience": "Sócios e responsáveis por marketing e desenvolvimento comercial de consultorias e empresas de serviços B2B que descrevem públicos apenas por cargo ou segmento.",
+      "goal": "De presumir a necessidade a partir de um título profissional para formular um briefing de público baseado na situação de trabalho e na pertinência confirmada da oferta.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-16",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "LinkedIn, expansão de CTV Ads no Reino Unido, 12/11/2026",
+            "url": "https://news.linkedin.com/2026/linkedin-expands-ctv-ads-to-the-uk",
+            "publishedAt": "2026-11-12"
           }
         ]
       }
