@@ -9,5 +9,9 @@
   "afterPublishedAt": "2025-09-29T20:08:32Z",
   "format": "full-article-with-original-cover",
   "mentionCompany": false,
-  "backlogAuthorized": true
+  "backlogAuthorized": true,
+  "timeZone": "America/Sao_Paulo",
+  "prioritySince": "2026-11-17T00:00:00-03:00",
+  "dailyLimit": 5,
+  "backlogDailyLimit": 1
 }

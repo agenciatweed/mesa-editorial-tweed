@@ -3,12 +3,15 @@ import argparse
 import contextlib
 import datetime as dt
 import hashlib
+from functools import lru_cache
 import json
 import os
 from pathlib import Path
 import re
+import subprocess
 import tempfile
 from urllib.parse import urljoin, urlparse
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from bs4 import BeautifulSoup
 
@@ -52,7 +55,10 @@ def locked():
 
 
 def instant(value):
-    return dt.datetime.fromisoformat(value.replace('Z', '+00:00'))
+    result = dt.datetime.fromisoformat(value.replace('Z', '+00:00'))
+    if result.tzinfo is None:
+        raise ValueError('Instante requer fuso horario')
+    return result
 
 
 def now():
@@ -131,10 +137,76 @@ def payload(item):
             'caption': f'"{name}"\nArtigo originalmente publicado no blog da Agência Tweed:\n{item["blogUrl"]}'}
 
 
-def summarize(state):
+@lru_cache(maxsize=256)
+def local_date(value, timezone):
+    moment = instant(value)
+    try:
+        return moment.astimezone(ZoneInfo(timezone)).date().isoformat()
+    except ZoneInfoNotFoundError:
+        # Windows may have no Python tzdata. Node/ICU is already part of the panel.
+        script = ('const [value, zone] = process.argv.slice(1);'
+                  'process.stdout.write(new Intl.DateTimeFormat("en-CA",'
+                  '{timeZone:zone,year:"numeric",month:"2-digit",day:"2-digit"})'
+                  '.format(new Date(value)));')
+        result = subprocess.run(['node', '-e', script, moment.isoformat(), timezone],
+                                capture_output=True, text=True, check=True, timeout=10)
+        date = result.stdout.strip()
+        if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', date):
+            raise ValueError('Nao foi possivel determinar a data local')
+        return date
+
+
+def queue_class(item, config):
+    return 'new' if instant(item['blogPublishedAt']) >= instant(config['prioritySince']) else 'backlog'
+
+
+def summarize(state, at=None):
+    config = read(CONFIG)
+    timezone = config.get('timeZone', 'America/Sao_Paulo')
+    # Defaults keep pre-policy configurations usable without changing old records.
+    config.setdefault('prioritySince', '2026-11-17T00:00:00-03:00')
+    daily_limit = config.get('dailyLimit', 5)
+    backlog_limit = config.get('backlogDailyLimit', 1)
+    if not isinstance(daily_limit, int) or not 1 <= daily_limit <= 5:
+        raise ValueError('Limite diario LinkedIn invalido')
+    if not isinstance(backlog_limit, int) or not 0 <= backlog_limit <= 1:
+        raise ValueError('Limite diario do acervo invalido')
+    day = local_date(at or now(), timezone)
     pending = [i for i in state['items'] if i['state'] != 'published']
+    pending.sort(key=lambda i: instant(i['blogPublishedAt']))
+    sent = [i for i in state['items'] if i['state'] == 'published'
+            and local_date(i['confirmedAt'], timezone) == day]
+    backlog_sent = sum(queue_class(i, config) == 'backlog' for i in sent)
+    uncertain = [i for i in pending if i['state'] == 'publishing']
+    new = [i for i in pending if queue_class(i, config) == 'new']
+    old = [i for i in pending if queue_class(i, config) == 'backlog']
+    selected, reason = None, 'queue-empty'
+    # An uncertain send must be reconciled even when all slots are exhausted.
+    if uncertain:
+        selected, reason = uncertain[0], 'reconcile'
+    elif len(sent) >= daily_limit:
+        reason = 'daily-limit'
+    elif new:
+        selected, reason = new[0], 'new-article'
+    elif old and backlog_sent < backlog_limit:
+        selected, reason = old[0], 'backlog-slot'
+    elif old:
+        reason = 'backlog-daily-limit'
     return {'total': len(state['items']), 'published': len(state['items']) - len(pending),
-            'pending': len(pending), 'next': pending[0] if pending else None}
+            'pending': len(pending), 'date': day, 'timeZone': timezone,
+            'dailyLimit': daily_limit, 'publishedToday': len(sent),
+            'remainingToday': max(0, daily_limit - len(sent)),
+            'backlogDailyLimit': backlog_limit, 'backlogPublishedToday': backlog_sent,
+            'reason': reason, 'nextClass': queue_class(selected, config) if selected else None,
+            'next': selected}
+
+
+def require_eligible(state, item):
+    selection = summarize(state)
+    if selection['reason'] == 'reconcile':
+        raise ValueError('Envio incerto: conferir publicacoes antes de iniciar outro envio')
+    if not selection['next'] or selection['next']['slug'] != item['slug']:
+        raise ValueError('Artigo fora da vez ou da quota diaria: ' + selection['reason'])
 
 
 def get_item(state, slug):
@@ -188,6 +260,8 @@ def main():
                 if item['state'] == 'published':
                     raise ValueError('Artigo ja publicado; nao criar duplicata')
                 if command in ('payload', 'start'):
+                    if command == 'start':
+                        require_eligible(state, item)
                     data = payload(item)
                     target = ROOT / '.local/linkedin' / (item['slug'] + '.json')
                     write(target, data)
@@ -207,7 +281,9 @@ def main():
                 elif command == 'publishing':
                     if not item.get('draftUrl') or not item.get('bodySha256'):
                         raise ValueError('Registrar e conferir rascunho antes de enviar')
+                    require_eligible(state, item)
                     item['state'] = 'publishing'
+                    item['publishingAt'] = now()
                 elif command == 'blocked':
                     # Keep draft/publishing state: a network error does not prove failure to publish.
                     item['lastError'] = ' '.join(values[1:])[:500]
