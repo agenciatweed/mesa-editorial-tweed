@@ -14170,6 +14170,132 @@
       "createdAt": "2026-11-15T18:47:35.292Z",
       "startedAt": "2026-11-15T20:08:24.390Z",
       "completedAt": "2026-11-15T20:08:24.692Z"
+    },
+    {
+      "id": "9a6057ef-b0fa-4d6c-9ac3-e19b229c24f0",
+      "itemId": "pauta-reposicao-2026-11-15-b2e5a71d3553",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "d9d0c9814700389f70e93c0a6599193409032c94bb90ef9be47c4b1fdf74abe8",
+      "snapshot": "b02c965ffccd6437f2ee91712abd375f9f33c4bc2d0bcddc527c01d48c4ebf2d",
+      "input": {
+        "id": "pauta-reposicao-2026-11-15-b2e5a71d3553",
+        "title": "A fonte da sua marca chega a quem precisa produzir o material?",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Em 10 de novembro de 2026, a Monotype anunciou um painel que aproxima bibliotecas tipográficas aprovadas dos aplicativos Illustrator, Photoshop e InDesign. O anúncio descreve comparação com uma seleção aprovada e substituição sob controle do designer, em planos e versões específicos. Usar como contexto para analisar o acesso às referências tipográficas no momento de produção. Tese: indicar o nome de uma família num manual não resolve a aplicação se quem cria uma peça não consegue identificar a versão e os estilos aprovados ou confirmar como pode utilizá-los. Recorte concreto num escritório de contabilidade que envia uma apresentação para atualização por um parceiro: a substituição por uma fonte parecida altera quebras, destaque e identidade. Começar pela devolução do material com linhas deslocadas ou por uma conversa entre criação e operação, sem Imagine e sem avisos de exemplo hipotético. Examinar como organizar uma referência acessível de família, estilos e usos, identificar dúvidas antes de substituir e conferir o material final nos suportes pertinentes. Não recomendar comprar painel, configurar software, distribuir fontes indiscriminadamente ou dar interpretação jurídica sobre licenças. Condições de acesso e utilização devem ser confirmadas com os responsáveis e fontes oficiais pertinentes, sem presumir que acesso a um arquivo equivale a permissão para qualquer uso. Não reproduzir estatísticas do levantamento citado nem prometer redução de retrabalho. Diferenciar do artigo sobre a próxima versão da apresentação: foco na fonte disponível e corretamente identificada durante a produção, não no controle geral de arquivos. Diferenciar da pauta de cardápios: foco na passagem entre equipes e na seleção aprovada, não na hierarquia entre nome, descrição e preço. Diferenciar da IA e cores: trata de aplicação tipográfica concreta, sem geração de imagem.",
+        "audience": "Sócios, responsáveis por comunicação e parceiros de criação de empresas de serviços, especialmente escritórios de contabilidade e consultorias que atualizam materiais institucionais com várias pessoas.",
+        "goal": "De tratar a fonte como um nome registrado no manual para garantir uma referência de uso compreensível e disponível na produção, com dúvidas encaminhadas antes de uma substituição improvisada.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-15",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Monotype, Brand Font Panel for Adobe Creative Apps, 10/11/2026",
+              "url": "https://www.monotype.com/company/press-release/monotype-launches-brand-font-panel-adobe-creative-apps",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "7bfedbc8-f735-47e0-a4cb-dec495a266e6",
+          "completedAt": "2026-11-15T20:08:24.579Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "“O texto é o mesmo. Por que agora ocupa duas páginas?”\n\nA apresentação voltou da atualização com títulos mais largos, parágrafos deslocados e uma assinatura que perdeu a proporção original. O parceiro usou uma fonte parecida com a que viu no PDF. No arquivo recebido, a referência tipográfica estava incompleta.\n\nA fonte da marca participa desse caminho de produção. Registrar o nome num manual ajuda a orientar a escolha, mas a aplicação também depende de quem consegue identificar a família, reconhecer os estilos aprovados e esclarecer como utilizá-los no trabalho solicitado.\n\n## O arquivo abre, a dúvida permanece\n\nUm escritório de contabilidade precisa incluir um novo serviço na apresentação institucional. A equipe envia o material editável a um parceiro de criação e espera receber uma versão com a mesma identidade. Ao abrir o arquivo, ele encontra uma indicação de fonte indisponível.\n\nA partir daí, decisões pequenas começam a alterar o projeto. Uma substituta mais larga muda a quebra do título. Outra opção tem pesos diferentes. A tentativa de recuperar o espaço reduz o corpo do texto. Quando o material volta, o problema aparece como uma apresentação que ficou estranha.\n\nA questão começou antes da diagramação. Faltava uma referência suficiente para reconhecer a escolha aprovada e um caminho para resolver sua indisponibilidade. A aparência final tornou visível uma dúvida que ficou sem resposta durante a produção.\n\nPara localizar essa passagem, vale perguntar o que o parceiro realmente recebeu. Ele consegue descobrir qual família foi usada? Sabe quais estilos aparecem no título e na descrição? Existe alguém que confirme uma divergência antes de aprovar uma substituição?\n\n## A orientação precisa estar perto da escolha\n\nEm anúncio de 10 de novembro de 2026, a Monotype apresentou um painel que aproxima bibliotecas tipográficas aprovadas de Illustrator, Photoshop e InDesign. A proposta descrita permite comparar fontes do material com uma seleção aprovada e resolver diferenças sob controle do designer.\n\nO anúncio trata de um recurso vinculado a planos e versões específicos. Seu ponto pertinente para esta conversa é a localização da orientação. A referência tem utilidade quando pode ser consultada no momento em que alguém precisa decidir.\n\nEssa pergunta vale para a rotina de uma empresa de serviços, independentemente da ferramenta escolhida. Quem atualiza a apresentação encontra a informação necessária antes de improvisar uma alternativa? A pessoa sabe a quem recorrer se a referência não corresponder ao arquivo?\n\nA resposta pode começar por uma documentação simples e bem localizada. O grau de organização deve acompanhar o trabalho que realmente circula entre a empresa e seus parceiros.\n\n## Identifique a família e o papel dos estilos\n\nUm nome incompleto pode deixar espaço para escolhas diferentes. Uma família pode oferecer variantes, pesos e versões que alteram o resultado. O material de orientação precisa permitir reconhecer a referência aprovada com precisão suficiente para aquele projeto.\n\nNo escritório, a referência pode indicar a família, os estilos utilizados e exemplos de aplicação nos materiais vigentes. Um título, uma descrição e uma legenda ajudam a mostrar como essas escolhas se relacionam. A pessoa que produz ganha uma base para comparar o arquivo recebido com o uso esperado.\n\nTambém importa esclarecer quando uma escolha alternativa já foi prevista. Um material editado internamente pode ter condições diferentes de uma peça preparada pela criação. Se houver uma alternativa aprovada para determinado suporte, registre seu alcance e uma referência de aplicação.\n\nA existência de uma opção prevista evita que cada dificuldade gere uma solução diferente. Ainda assim, ela precisa ser conferida no conteúdo real. Uma alternativa pode alterar quebras e espaçamentos, exigindo ajustes para que a composição continue compreensível.\n\n## Combine como resolver a indisponibilidade\n\nEncontrar o nome correto é uma etapa. Conseguir utilizá-lo no projeto depende das condições confirmadas de acesso, das ferramentas envolvidas e das orientações pertinentes ao trabalho.\n\nAntes de encaminhar arquivos de fontes, confira com os responsáveis quais materiais podem ser compartilhados e como o parceiro deve obter o acesso apropriado. Quando houver dúvida sobre condições de uso, consulte a fonte oficial ou quem responde por essa contratação.\n\nO registro pode apontar a referência pertinente e o contato que confirma a situação. Isso oferece continuidade ao trabalho sem exigir que a pessoa da criação interprete sozinha uma informação incompleta.\n\nNo caso da apresentação contábil, o parceiro pode sinalizar a fonte indisponível antes de modificar toda a composição. A equipe confere a referência e decide o encaminhamento com quem tem condições de confirmá-lo. A escolha fica vinculada ao projeto.\n\n## Faça da substituição uma decisão visível\n\nAlgumas situações exigem uma mudança tipográfica. O problema está em tratar essa alteração como um ajuste invisível, já que ela pode afetar tanto a expressão da marca quanto a distribuição das informações.\n\nAo propor uma substituição, identifique o motivo, os materiais envolvidos e o que precisa ser conferido. A equipe consegue avaliar uma mudança delimitada quando vê onde ela aparece e quais efeitos produziu.\n\nNa apresentação, compare títulos mais longos, tabelas e páginas com maior densidade. Uma fonte pode parecer próxima numa palavra curta e modificar bastante uma página com vários níveis de informação. Os trechos mais difíceis oferecem uma referência melhor para a avaliação.\n\nSe a alternativa for aprovada apenas para aquele material, registre essa condição. Uma solução local pode acabar circulando como regra geral quando ninguém consegue reconhecer onde a decisão começou.\n\n## Confira o que a outra pessoa recebe\n\nA revisão deve incluir a saída que efetivamente será utilizada. Abra o material no contexto de consulta e examine os pontos em que a tipografia organiza a leitura. Títulos, descrições, tabelas e assinaturas continuam relacionados como previsto?\n\nQuando houver uma versão editável e outra destinada à apresentação, esclareça a função de cada uma. Quem recebe precisa saber qual arquivo consultar e qual pode ser alterado, dentro das condições confirmadas para o trabalho.\n\nTambém vale pedir ao parceiro que indique qualquer divergência encontrada. Uma dúvida registrada durante a produção pode revelar uma lacuna na referência que voltaria a afetar o próximo material.\n\nNa próxima atualização, acompanhe o caminho da fonte desde a orientação até a saída final. Se a identidade depende de alguém reconhecer visualmente uma letra e procurar uma opção parecida, existe uma passagem a organizar. A marca ganha continuidade quando a escolha aprovada chega, de forma utilizável e compreensível, a quem precisa trabalhar com ela.",
+        "sources": "[Monotype, Brand Font Panel for Adobe Creative Apps, 10/11/2026](https://www.monotype.com/company/press-release/monotype-launches-brand-font-panel-adobe-creative-apps)\n\nA fonte descreve um recurso com disponibilidade vinculada a planos e versões específicos. A análise sobre referências tipográficas e passagem entre equipes é da Tweed.",
+        "prompt": "Editorial documentary photograph of a graphic designer checking a printed business presentation proof against an earlier approved proof on a vertical review board, close side view focused on hands aligning two pages with visibly different text block widths and line breaks, all letters indistinct and unreadable, neutral creative workspace, a restrained teal accent inspired by #08ffb1 on a narrow document clip and the designer's sleeve, soft window light, realistic paper and proportions, no logos or legible text --ar 3:2",
+        "imageAlt": "Mãos alinham duas provas de uma apresentação num painel, com blocos de texto de larguras diferentes e detalhes teal na manga e no prendedor.",
+        "date": "2026-11-24"
+      },
+      "createdAt": "2026-11-16T21:39:10.924Z",
+      "startedAt": "2026-11-17T02:24:30.559Z",
+      "completedAt": "2026-11-17T02:27:55.010Z"
+    },
+    {
+      "id": "e70bc0a5-96b4-4559-b4c0-2fead75c2273",
+      "itemId": "pauta-reposicao-2026-11-15-4454c61f5416",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "85f2bbb8eebb3a1f4ae31ef56b0db4e8f6abe3788e11ec7ecb24d624581ccb2d",
+      "snapshot": "c7fe2473abbbfcfa3cd38e47ae983b9b3196e60df0802ca51bb574924283b838",
+      "input": {
+        "id": "pauta-reposicao-2026-11-15-4454c61f5416",
+        "title": "Sua apresentação faz sentido para quem recebe o arquivo sem você?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Em comunicado de 10/11/2026, Adobe e Google anunciaram expansão da parceria e a futura presença do Acrobat no Google Workspace por entradas em Drive e Gmail. O anúncio fala de acesso a documentos e recursos planejados, sem comprovar comportamento de clientes nem eficácia comercial. Usar como contexto para uma pergunta editorial própria sobre materiais que circulam fora da reunião. Tese: uma apresentação enviada ou encaminhada precisa oferecer contexto suficiente para quem a lê sem ouvir a explicação original. Recorte em empresa de auditoria ou consultoria que apresenta um serviço a um contato e depois tem o PDF encaminhado a outro decisor. Começar pela pergunta de quem recebeu o documento e não participou da conversa, sem Imagine ou avisos de exemplo hipotético. Examinar identificação do serviço, destinatário e finalidade do material, sequência do argumento, explicação de gráficos e termos pertinentes e localização das condições que limitam uma afirmação. Preservar a possibilidade de ter uma versão de apoio à fala e outra para leitura, conforme a necessidade; evitar exigir um documento universal ou acrescentar texto por enchimento. Propor uma conferência com alguém que não ouviu a apresentação e observar quais perguntas precisam de contexto. Não inventar resultados ou clientes, recomendar software, implementar integrações, prometer acesso universal aos recursos anunciados ou oferecer parecer contábil, financeiro ou regulatório. Diferenciar da próxima versão da apresentação: trata da compreensão por um novo leitor, não da manutenção do editável. Diferenciar da proposta comparável: trata da autonomia da narrativa e do encaminhamento entre decisores, não da comparação entre fornecedores ou pacotes. Diferenciar do resumo de reunião: não trata de atas ou decisões reconstruídas por IA.",
+        "audience": "Sócios e responsáveis por marketing, desenvolvimento de negócios e relacionamento em empresas de serviços B2B, auditoria e consultoria que enviam apresentações a vários decisores.",
+        "goal": "De presumir que todos os leitores ouviram a reunião para preparar um material que preserve a intenção e as condições da oferta quando circular entre pessoas.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-15",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe e Google, ampliação da parceria, 10/11/2026",
+              "url": "https://news.adobe.com/news/2026/11/adobe-and-google-deepen-partnership",
+              "publishedAt": "2026-11-10"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-16T21:39:20.753Z",
+      "startedAt": "2026-11-17T02:24:30.714Z",
+      "completedAt": "2026-11-17T02:28:00.219Z"
+    },
+    {
+      "id": "811aedc6-d83f-46bf-bed6-0d89f5bd5998",
+      "itemId": "pauta-diaria-2026-11-16",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "b96deb581dbeab0d0bb178f326d61b3ffeba39842f7c3e643970f56a3814f51b",
+      "snapshot": "c5d0d8318eb39478b3bcfd306f745e64596215976af3b71a008af45c79fec917",
+      "input": {
+        "id": "pauta-diaria-2026-11-16",
+        "title": "O cargo do contato explica por que ele precisa do seu serviço?",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Em 12/11/2026, o LinkedIn anunciou a expansão de CTV Ads para o Reino Unido e destacou segmentação profissional por cargo, setor e senioridade. Usar essa possibilidade de localizar um público como contexto para uma análise editorial própria sobre a definição de cliente ideal em serviços B2B. O comunicado trata de mercados e produto específicos; não afirmar segmentação de espectadores no Brasil, recomendar compra de mídia ou reproduzir os resultados e estatísticas comerciais divulgados. Tese: cargo e setor ajudam a descrever um grupo, mas o briefing de comunicação precisa incluir a situação de trabalho, a necessidade e as condições em que o serviço é pertinente. Exemplo numa consultoria de gestão que atende clínicas e encontra administradores com o mesmo título em operações de organização e complexidade diferentes. Abrir por duas perguntas recebidas por pessoas com o mesmo cargo ou desenvolver uma comparação direta, sem Imagine nem adendo de exemplo hipotético. Identificar o que cada contato tenta resolver, seu papel real na avaliação e o que precisa ser confirmado antes de considerar a oferta adequada. Separar informações conhecidas de suposições a validar numa conversa, usar demandas e referências autorizadas sem expor clientes, e transformar essa compreensão em uma mensagem com escopo reconhecível. Não oferecer orientação clínica ou financeira, coletar dados sensíveis, traçar perfil psicológico individual, presumir que o título decide orçamento ou ensinar configurações de anúncio. Diferenciar da pauta sobre apresentação encaminhada: foco na definição da necessidade que orienta a mensagem antes de criar o material, não na autonomia de leitura do PDF. Diferenciar de plano de mídia e contexto de anúncios: foco no briefing de público e adequação do serviço, não na escolha de canal. Diferenciar de pesquisa representativa: foco no significado e nos limites de atributos profissionais para reconhecer uma demanda concreta.",
+        "audience": "Sócios e responsáveis por marketing e desenvolvimento comercial de consultorias e empresas de serviços B2B que descrevem públicos apenas por cargo ou segmento.",
+        "goal": "De presumir a necessidade a partir de um título profissional para formular um briefing de público baseado na situação de trabalho e na pertinência confirmada da oferta.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-16",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "LinkedIn, expansão de CTV Ads no Reino Unido, 12/11/2026",
+              "url": "https://news.linkedin.com/2026/linkedin-expands-ctv-ads-to-the-uk",
+              "publishedAt": "2026-11-12"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-16T21:40:48.147Z",
+      "startedAt": "2026-11-17T02:24:30.858Z",
+      "completedAt": "2026-11-17T02:28:00.584Z"
     }
   ]
 }
