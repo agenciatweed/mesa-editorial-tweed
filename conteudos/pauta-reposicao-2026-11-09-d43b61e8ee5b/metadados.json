@@ -53,8 +53,18 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-12T16:12:49.838Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-17T20:25:13.590Z",
+    "url": "https://www.agenciatweed.com.br/marca-codigos-visuais-setor/",
+    "publishedAt": "2026-11-17T22:25:22.213833+00:00",
+    "job": "2882eb33-ee77-4be4-9714-0fb187a2375b",
+    "files": [
+      "assets/artigos-editoriais/235b40a8fb32477eb59d4ebb6ab8e064cb55c4a6f99df58e6e0362eae3cf3863.png",
+      "marca-codigos-visuais-setor/index.html",
+      "blog/index.html",
+      "blog-marcas-que-ficam/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

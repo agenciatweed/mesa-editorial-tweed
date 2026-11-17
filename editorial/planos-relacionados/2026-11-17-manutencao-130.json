@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "catalogSha256": "c5f7263ec06627697f3b2553b264f24b58bd1b5c0b2967782f75eba76dc10c56",
+  "catalogSha256": "edf0f1273712d306ffe5c81e0e7d98df623fde36f848aa04d13d76c074ad0586",
   "reviewedAt": "2026-11-17",
   "articles": {
     "marketing-que-nao-termina-no-lead-por-que-pmes-precisam-integrar-marketing-e-vendas-de-verdade": {
@@ -994,6 +994,14 @@
       ],
       "modifiedAt": "2026-11-16",
       "reason": "Aprofundam a manutenção de referências factuais próprias e a confiança na oferta quando o interessado chega por uma recomendação de IA."
+    },
+    "marca-codigos-visuais-setor": {
+      "targets": [
+        "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+        "sua-marca-precisa-de-consistencia-nao-de-perfeicao"
+      ],
+      "reason": "Clareza da proposta orienta a identidade; consistência sustenta os sinais próprios nas aplicações seguintes.",
+      "modifiedAt": "2026-11-17"
     }
   }
 }
