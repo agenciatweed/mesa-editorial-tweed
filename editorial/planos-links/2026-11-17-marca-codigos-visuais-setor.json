@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "marca-codigos-visuais-setor",
+  "contentSha256": "bd424091df5a865a1e0be3018e97a14f2634d917a88192dcc3eb9a459a010566",
+  "modifiedAt": "2026-11-17",
+  "links": [
+    {
+      "from": "marca-codigos-visuais-setor",
+      "to": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "anchor": "identidade visual",
+      "context": "A identidade visual deve trabalhar com informações confirmadas, em vez de acrescentar uma personalidade gráfica a uma promessa indefinida.",
+      "reason": "Aprofunda a clareza da proposta que precisa orientar as escolhas de identidade."
+    },
+    {
+      "from": "marca-codigos-visuais-setor",
+      "to": "sua-marca-precisa-de-consistencia-nao-de-perfeicao",
+      "anchor": "decisões consistentes",
+      "context": "Servem para sustentar decisões consistentes e tornar a revisão menos dependente de preferências isoladas.",
+      "reason": "Relaciona a aplicação continuada dos sinais visuais à consistência da marca."
+    }
+  ]
+}
