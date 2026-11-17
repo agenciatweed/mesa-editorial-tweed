@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "cupom-desconto-nao-aplicado",
+  "contentSha256": "295401939cc1f2a5c2ad6ddf35c8adf0535bc9354399317b09d286d22bbf1d50",
+  "modifiedAt": "2026-11-17",
+  "links": [
+    {
+      "from": "janela-promocao-prazo-compra-entrega",
+      "to": "cupom-desconto-nao-aplicado",
+      "anchor": "O desconto vale para quais itens?",
+      "context": "Antes de lançar, escolha as informações que ajudam a decidir sem abrir outra conversa. O desconto vale para quais itens? Há estoque no canal anunciado? Como a pessoa identifica a modalidade que consegue usar? Existe uma condição que muda o prazo?",
+      "reason": "Aprofunda a identificação das condições e dos itens elegíveis quando o desconto esperado não é aplicado."
+    }
+  ]
+}

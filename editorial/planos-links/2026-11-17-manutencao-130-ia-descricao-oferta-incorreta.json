@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "ia-descricao-oferta-incorreta",
+  "contentSha256": "97169337ae145a797f92973b386c4d8a8bed68646443cc1bc1ac646b63c6d286",
+  "modifiedAt": "2026-11-17",
+  "links": [
+    {
+      "from": "informacoes-empresa-atualizadas-canais",
+      "to": "ia-descricao-oferta-incorreta",
+      "anchor": "solicitação de correção",
+      "context": "Vale distinguir o que a empresa controla diretamente do que depende de terceiros. Um material antigo em um canal externo pode exigir uma solicitação de correção. Nesse caso, registre o pedido e acompanhe a resposta, sem apresentar o ajuste como concluído antes de verificá-lo.",
+      "reason": "Desenvolve a reação a informações externas incorretas, distinguindo fontes próprias e limitações para corrigir respostas de IA."
+    }
+  ]
+}

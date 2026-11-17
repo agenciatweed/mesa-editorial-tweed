@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "evento-informar-recursos-acessibilidade",
+  "contentSha256": "1ef9339c016dfae8648f4e314aab63148bcb2bca1d237711be343d1eda2d4824",
+  "modifiedAt": "2026-11-17",
+  "links": [
+    {
+      "from": "testar-experiencia-alem-equipe-interna",
+      "to": "evento-informar-recursos-acessibilidade",
+      "anchor": "condições e recursos",
+      "context": "Explique a finalidade da atividade, como as observações serão utilizadas e o que será registrado. Combine condições e recursos para que a pessoa consiga participar. Preserve informações pessoais e não transforme uma dificuldade observada numa exposição pública.",
+      "reason": "Oferece uma aplicação concreta do cuidado de informar e confirmar recursos de participação, sem substituir avaliação técnica de acessibilidade."
+    }
+  ]
+}
