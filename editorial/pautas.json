@@ -4,6 +4,33 @@
   "exportedAt": "2026-11-07T17:56:44.913Z",
   "items": [
     {
+      "id": "pauta-diaria-2026-11-18",
+      "title": "Sua marca sabe em quais perfis o mesmo vídeo pode circular?",
+      "edition": 3,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário verificado em 18/11/2026: o Instagram anunciou em 17/11 a chegada de Content Protection a criadores elegíveis, com identificação de correspondências de vídeos e uma lista de perfis autorizados. O acesso depende de elegibilidade; não afirmar disponibilidade para todas as empresas ou no Brasil. A detecção de falas reutilizadas com imagens de IA foi anunciada como teste futuro limitado, não como recurso geral. Tese própria: quando um vídeo circula no perfil da empresa, de um profissional e de um parceiro, a equipe precisa distinguir a distribuição combinada de uma utilização que deve ser revista. Abrir pela passagem concreta de um vídeo de uma consultoria para o perfil de quem o apresenta e para um parceiro comercial, sem repetir a fórmula Imagine. Examinar quais versões foram liberadas, em quais perfis, com qual contexto e quem mantém essa referência quando muda a equipe ou termina a colaboração. Comparar o registro de distribuição combinado com o alerta da ferramenta antes de decidir o encaminhamento, sem tratar uma correspondência automática como prova de irregularidade. Diferenciar de autoria de produto e de adaptação criativa de vídeo: o foco é a circulação coordenada da mesma peça entre perfis. Não emitir parecer jurídico, presumir direitos sobre materiais de terceiros, prometer remoções ou alcance, sugerir denúncias automáticas ou ensinar a contornar a plataforma. Os critérios de operação são análise editorial da Tweed, não resultados demonstrados pelo anúncio.",
+      "audience": "Responsáveis por marketing e sócios de empresas de serviços que distribuem vídeos entre perfis institucionais, profissionais e parceiros.",
+      "goal": "De tratar cada republicação como uma ação isolada para manter uma referência compartilhada sobre onde, como e por quem a mesma peça pode circular.",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-18",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Instagram for Creators, Introducing content protection: a new way to protect your original videos on Instagram, 17/11/2026",
+            "url": "https://creators.instagram.com/blog/introducing-content-protection/",
+            "publishedAt": "2026-11-17"
+          }
+        ]
+      }
+    },
+    {
       "id": "pauta-reposicao-2026-11-17-2415223748a3",
       "title": "A chamada do seu conteúdo promete o que ele realmente entrega?",
       "edition": 2,
@@ -5495,11 +5522,16 @@
       "angle": "Em anúncio de 12 de novembro de 2026, o Spotify apresentou Shai Gilgeous-Alexander como seu primeiro editor convidado, responsável pela seleção da playlist Heat Check by SGA, com atualização mensal prevista. Usar a curadoria identificada como ponto de partida para uma análise editorial própria sobre a seleção de projetos no portfólio de empresas de serviços. O anúncio não comprova resultados comerciais nem fornece uma regra para portfólios de PMEs. Tese: os trabalhos escolhidos para a apresentação pública ajudam a comunicar quais problemas a empresa quer e consegue resolver; organizar a seleção apenas por ordem de chegada ou impacto visual pode deixar essa direção pouco clara. Exemplo explicitamente hipotético de um escritório de projetos que pretende atrair uma determinada modalidade de trabalho, mas destaca apenas realizações antigas de outro perfil. Definir o tipo de demanda que a seleção precisa ajudar a esclarecer, avaliar a contribuição de cada projeto para esse conjunto e apresentar contexto suficiente para compreender sua pertinência. Tratar a variedade como uma escolha explicável, evitando tanto uma vitrine sem direção quanto uma especialização que a operação não sustenta. Rever a seleção quando a oferta ou a capacidade demonstrada mudar, sem impor frequência ou quantidade universal de projetos. Não recomendar apagar o histórico, inventar resultados, usar clientes sem autorização ou mostrar trabalhos ainda não realizados como entregas reais. O foco é o critério de curadoria do conjunto, distinto do uso de prêmios como evidência, da autoria de um projeto e da fidelidade de imagens de campanha. Não propor contratação de celebridade, investimento em plataforma musical ou reprodução do formato de uma playlist.",
       "audience": "Sócios e responsáveis por marketing e desenvolvimento comercial de pequenas empresas de serviços que apresentam projetos realizados em sites, propostas e portfólios.",
       "goal": "De tratar o portfólio como uma sequência de tudo o que já foi feito para selecionar trabalhos que tornem compreensível a direção comercial e a capacidade demonstrada da empresa.",
-      "status": "Revisão",
+      "status": "Pronto",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
-      "checks": {},
+      "checks": {
+        "thesis": true,
+        "facts": true,
+        "voice": true,
+        "privacy": true
+      },
       "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
       "author": "https://www.agenciatweed.com.br/#agencia",
       "dailyResearch": {
@@ -5525,7 +5557,7 @@
       "sources": "[Spotify, Shai Gilgeous-Alexander como primeiro editor convidado, 12/11/2026](https://newsroom.spotify.com/2026-11-12/shai-gilgeous-alexander-heat-check/)\n\nA notícia descreve uma iniciativa de curadoria musical, sem demonstrar resultados para portfólios de empresas de serviços. A aplicação à seleção de projetos é análise editorial da Tweed. Não se propõem quantidade ou frequência universal de atualização.",
       "prompt": "Conceptual editorial photograph without people, a freestanding oak exhibition rack holding three carefully spaced black-and-white architectural photographs of different compact interior spaces, each print fully visible with a consistent cream margin, a closed linen archival portfolio containing additional prints leaning discreetly behind the rack, medium wide oblique view in a quiet warm plaster studio with generous empty floor, the selected photographs clearly foregrounded and the archive still present, soft neutral key light and a restrained teal accent inspired by #08ffb1 reflected on one rear oak upright, no table, cubes, prisms, labyrinth, light beams, readable text or logos --ar 3:2",
       "imageAlt": "Três fotografias de interiores estão expostas em um suporte de madeira, com uma pasta de arquivo atrás e reflexo teal discreto na estrutura.",
-      "date": "2026-12-01",
+      "date": "2026-11-17",
       "keyword": "seleção do portfólio",
       "slug": "selecao-portfolio-direcao-trabalho",
       "meta": "A seleção do portfólio ajuda o cliente a reconhecer os trabalhos que sua empresa quer e consegue realizar. Reveja destaque, contexto e pertinência dos projetos.",
@@ -5535,7 +5567,22 @@
       "imageHeight": 896,
       "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6.png",
       "faq": "Como escolher os projetos que aparecem primeiro no portfólio?\nConsidere a demanda que a empresa pretende atender e os trabalhos realizados que ajudam a compreender essa capacidade. Cada destaque deve ter uma contribuição explicável para o conjunto.\n\nÉ necessário apagar projetos antigos para mudar a direção do portfólio?\nO destaque principal e o acervo mais amplo podem ter organizações diferentes. Projetos antigos continuam pertinentes quando ajudam a demonstrar uma capacidade relacionada à oferta atual.\n\nCom que frequência a seleção precisa ser revista?\nReveja quando a oferta, as prioridades comerciais ou a capacidade demonstrada mudarem. A quantidade de projetos e a frequência dependem da produção e da direção de cada empresa.",
-      "url": "https://www.agenciatweed.com.br/selecao-portfolio-direcao-trabalho/"
+      "url": "https://www.agenciatweed.com.br/selecao-portfolio-direcao-trabalho/",
+      "publication": {
+        "state": "published",
+        "runKey": "2026-11-18T08:22:33.646Z",
+        "url": "https://www.agenciatweed.com.br/selecao-portfolio-direcao-trabalho/",
+        "publishedAt": "2026-11-18T08:25:54.175310+00:00",
+        "job": "5ff7070e-478a-4c76-8c6b-5ddb22ef4429",
+        "files": [
+          "assets/artigos-editoriais/8b257630fbd0fd6f06afa8582c13d9c396ba21a7172af13e955fd719826520f6.png",
+          "selecao-portfolio-direcao-trabalho/index.html",
+          "blog/index.html",
+          "blog-pequeno-mas-estrategico/index.html",
+          "sitemap.xml",
+          ".htaccess"
+        ]
+      }
     },
     {
       "id": "pauta-reposicao-2026-11-14-4ff53b8e2580",

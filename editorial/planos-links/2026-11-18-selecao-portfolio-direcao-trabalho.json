@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "selecao-portfolio-direcao-trabalho",
+  "contentSha256": "7a887f2fc491dbd43cb527f2887fa7f2987526dadaac9f6bcf55a9f54ea71803",
+  "modifiedAt": "2026-11-18",
+  "links": [
+    {
+      "from": "selecao-portfolio-direcao-trabalho",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "uma fotografia final",
+      "context": "Para cada projeto pertinente, apresente o contexto que puder ser divulgado, a necessidade atendida e as decisões importantes para compreender a entrega. No escritório, uma fotografia final pode ganhar sentido quando acompanhada da limitação de espaço que orientou a reorganização.",
+      "reason": "Aprofunda a distinção entre registros de projetos executados e representações de propostas, preservando o contexto da imagem."
+    },
+    {
+      "from": "selecao-portfolio-direcao-trabalho",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "exemplos enviados numa proposta",
+      "context": "Examine também a passagem para a conversa comercial. A seleção do site e os exemplos enviados numa proposta podem ter recortes diferentes, porque atendem a perguntas diferentes. Ainda assim, precisam descrever a mesma capacidade e preservar as informações confirmadas dos projetos.",
+      "reason": "Relaciona a curadoria das referências comerciais à clareza do escopo e dos critérios de comparação do serviço."
+    }
+  ]
+}
