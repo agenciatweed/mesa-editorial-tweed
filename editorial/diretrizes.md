@@ -5,6 +5,14 @@ Marcas crescem por clareza, consistência e confiança. A Tweed integra estraté
 ## Voz
 Português brasileiro natural. Exigência no padrão, repertório na substância e generosidade na entrega. Ensinar o porquê com exemplos concretos. Sem travessões na redação, emojis, jargão ornamental, superlativos ou promessa de resultado. O leitor nunca é o vilão.
 
+## Variedade na criação dos títulos
+
+Ao formular novas pautas ou títulos ainda não definidos, varie a construção: afirmações provocativas, frases diretas, contrastes, observações concretas, convites à ação e perguntas quando contribuírem para a tese. Perguntas não são o formato padrão nem devem dominar a sequência.
+
+Compare os cinco títulos publicados mais recentes, os das pautas pendentes e os já criados na rodada. Quando perguntas predominarem nesse conjunto, escolha uma construção não interrogativa para a próxima sugestão. Varie também os inícios, a sintaxe e o ritmo; não substitua uma fórmula repetida por outra nem apenas retire o ponto de interrogação. O título deve dizer algo específico que o artigo sustenta, sem sensacionalismo, suspense vazio ou promessa de resultado.
+
+A regra vale para novas criações. Preserve os títulos já fornecidos ou salvos nas pautas e os de textos aprovados ou publicados, salvo pedido explícito de alteração.
+
 ## Evidência e privacidade
 Verificar fontes primárias para dados, estudos, cases e citações. Distinguir fato, interpretação e recomendação. Antes de pautar ou redigir, compare os cinco textos mais recentes e os desta rodada. Varie o setor, o porte e a construção do argumento conforme a decisão do leitor. Considere clínicas e consultórios médicos ou odontológicos, profissionais liberais, advocacia, contabilidade, auditoria, restaurantes, bares, lojas de vinhos e delicatessens. Uma pergunta de cliente, um gesto durante o atendimento, duas escolhas de cardápio ou uma análise direta podem sustentar o texto. O exemplo pode entrar no meio ou ser dispensado. Evite repetir “Imagine uma pequena loja” e rotular exemplos anônimos como hipotéticos, inclusive nas notas. Reserve atribuições e resultados reais a casos documentados. Arquétipos são ferramentas interpretativas. Não incluir dados comerciais, diagnósticos internos ou histórias identificáveis de clientes sem autorização.
 

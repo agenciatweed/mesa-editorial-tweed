@@ -12,6 +12,10 @@ A tarefa roda a cada 5 horas. A partir desta mudança, a revisão dos artigos an
 
 No início de cada rodada real, rode `node scripts/link-cycle.mjs tick CHAVE`, usando `current_time_iso` do heartbeat como chave estável. Em execução manual solicitada pelo usuário, use uma chave única para essa solicitação. Retomadas usam a mesma chave. O contador privado em `.local/link-cycle.json` persiste entre rodadas. `status` consulta sem contar. `reviewDue:true` mantém a manutenção pendente até ser concluída; não a descarte se houver falha.
 
+## Variedade dos títulos em novas pautas
+
+Na criação do título da nova pauta, aplique a variedade de títulos de editorial/diretrizes.md: alterne afirmações provocativas, frases diretas, contrastes, observações concretas, convites à ação e perguntas pertinentes. Compare os cinco títulos publicados mais recentes, os das pautas pendentes e os já criados na rodada; quando perguntas predominarem, a próxima sugestão deve usar uma construção não interrogativa. Varie inícios, sintaxe e ritmo, sem trocar uma fórmula repetitiva por outra, apenas retirar a interrogação, recorrer a sensacionalismo ou prometer o que o artigo não sustenta. Preserve títulos já definidos, aprovados ou publicados.
+
 ## Reconciliar a fila em cada rodada
 
 1. Confira Git dos dois repositórios. Preserve edições concorrentes; não fazer stash/reset/force push nem alterar configurações globais de segurança. No pai, use `git -c safe.directory=H:/TweedMD` por comando se necessário. Concilie divergência remota antes de enviar, sem perder trabalho.
