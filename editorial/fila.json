@@ -13014,7 +13014,7 @@
       "id": "c514a64d-9c58-48bf-a5e9-9e77b5b6df41",
       "itemId": "pauta-reposicao-2026-11-10-76f224c1dec5",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "710b3dbaf86c1e17e05b25c266a8a1b21280518377aed98fb2950f44e2bfae30",
       "snapshot": "710b3dbaf86c1e17e05b25c266a8a1b21280518377aed98fb2950f44e2bfae30",
       "input": {
@@ -13077,7 +13077,8 @@
           "scheduledRound": 3
         }
       },
-      "createdAt": "2026-11-12T16:13:52.728Z"
+      "createdAt": "2026-11-12T16:13:52.728Z",
+      "completedAt": "2026-11-18T20:41:38.859191+00:00"
     },
     {
       "id": "46c9b7d0-d46d-4e09-8198-2b885bdf0b07",
@@ -14661,6 +14662,132 @@
       },
       "createdAt": "2026-11-17T17:49:48.803Z",
       "completedAt": "2026-11-18T08:25:54.187281+00:00"
+    },
+    {
+      "id": "0b3018f7-f8f8-4fb2-b2e7-8883918b1f49",
+      "itemId": "pauta-diaria-2026-11-17",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "9317a460f0bb19e72d4953ef71c36df64e66b2fa615860b75385379ed48dedaf",
+      "snapshot": "bde1d9bf0b5a3ea73a1f2c8e4445a2c28b38941e980361bd43d698ce6074343c",
+      "input": {
+        "id": "pauta-diaria-2026-11-17",
+        "title": "A experiência da sua marca começa na porta de entrada",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Em publicação de 16/11/2026, o Google apresentou novidades do Ask Maps, incluindo orientações de percurso e informações sobre estacionamento. A fonte distingue disponibilidade por recurso e informa lançamento inicial nos Estados Unidos para dicas Know before you go e busca de agendamentos; não afirmar acesso universal nem disponibilidade brasileira desses recursos. Usar como contexto para uma pergunta editorial própria: o endereço pode localizar um prédio sem esclarecer como chegar à entrada correta de uma empresa. Tese: o trajeto entre o ponto indicado no mapa, a fachada, a portaria e a recepção também faz parte da experiência de marca. Recorte num consultório odontológico instalado num edifício comercial com acesso por uma rua lateral. Partir do momento em que alguém reconhece o número do prédio mas não encontra a porta, sem Imagine nem adendo de exemplo hipotético. Examinar a coerência entre orientações de chegada, identificação visível, fotografias autorizadas de referência e informações que a recepção realmente consegue confirmar. Diferenciar instrução permanente de situações temporárias e mostrar onde atualizar um percurso quando uma entrada muda. Não inventar estacionamento, acessibilidade, rotas seguras, horários, facilidades ou condições de atendimento; não apresentar conformidade legal, orientação clínica ou guias de configuração de mapas. Diferenciar do artigo sobre informações comerciais atualizadas: foco no percurso físico dos últimos metros e no reconhecimento da entrada, não na atualização geral de condições nos canais. Diferenciar de fotografias do espaço: foco na chegada até a recepção, não em demonstrar possibilidades de uso do ambiente. Diferenciar de acessibilidade em eventos: não avaliar recursos ou prometer acesso, apenas comunicar caminhos confirmados e indicar um contato para dúvidas.",
+        "audience": "Responsáveis por comunicação e atendimento de consultórios, clínicas e escritórios em edifícios comerciais, especialmente quando a entrada não é evidente a partir do endereço.",
+        "goal": "De considerar a chegada resolvida pelo endereço no mapa para conferir se os sinais físicos e as orientações da empresa permitem reconhecer a entrada e alcançar a recepção.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-17",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Google, novidades do Ask Maps para trajetos e planejamento, 16/11/2026",
+              "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+              "publishedAt": "2026-11-16"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "a62f6370-a2a8-4444-866f-b6c16ec72f90",
+          "completedAt": "2026-11-17T20:30:14.921Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O número está na fachada, mas a porta parece fechada. A pessoa confere o endereço mais uma vez, caminha até a esquina e liga para a recepção. Só então descobre que a entrada do consultório fica na lateral do prédio. Ela chegou ao lugar indicado. Ainda não conseguiu entrar na experiência que a empresa preparou.\n\nAs orientações de chegada fazem parte do atendimento. O endereço permite localizar um imóvel, mas pode deixar sem resposta o caminho entre a calçada, a portaria e a recepção. Para quem conhece o local, essa passagem parece óbvia. Quem vem pela primeira vez ainda precisa reconhecê-la.\n\nUma empresa pode cuidar muito bem do ambiente interno e dar pouca atenção a esses últimos metros. A comunicação da marca também trabalha ali, na relação entre o que a mensagem explica e o que a pessoa encontra.\n\n## Percorra o caminho de quem ainda não conhece\n\nNum consultório odontológico instalado em um edifício comercial, o endereço identifica a rua principal. O acesso à portaria, porém, acontece por outra face do prédio. A equipe faz esse trajeto diariamente e já não percebe a dúvida que ele pode produzir.\n\nA revisão começa antes da porta do consultório. Qual ponto alguém reconhece ao chegar? Que entrada está visível a partir dele? Existe uma indicação que permita continuar sem telefonar? Depois de entrar no edifício, como a pessoa identifica o próximo passo?\n\nFaça esse percurso com as informações que são oferecidas ao público. Não complete a mensagem com o conhecimento que a equipe já tem. Se uma orientação depende de enxergar uma placa que só aparece depois da esquina, essa posição precisa entrar na análise.\n\nO objetivo é localizar passagens que ficaram sem explicação. Uma dúvida na chegada pode pedir uma frase mais precisa, uma referência visual ou uma conversa com quem administra a identificação do edifício. Cada situação tem condições próprias e deve ser conferida no local.\n\n## O mapa resolve uma parte da chegada\n\nEm publicação de 16 de novembro de 2026, o Google apresentou novidades do Ask Maps, incluindo informações de percurso e estacionamento. O comunicado distingue a disponibilidade por recurso: as dicas de rota Know before you go e a busca de agendamentos têm lançamento inicial nos Estados Unidos.\n\nA notícia oferece contexto para pensar no caminho até uma empresa, sem presumir que esses recursos estejam disponíveis no Brasil. A tarefa de comunicação continua concreta: alguém que localizou o endereço consegue reconhecer como chegar à recepção?\n\nUma indicação num mapa pode ser útil e ainda precisar de complemento. O visitante talvez encontre o prédio correto, mas não saiba qual acesso utilizar ou como identificar a empresa entre outras do mesmo edifício.\n\nPor isso, confira a relação entre endereço, orientação enviada e sinais físicos. Cada parte pode estar correta isoladamente e ainda deixar uma lacuna na passagem para a seguinte.\n\n## Use referências que a pessoa consiga encontrar\n\nUma instrução como “entre pela porta de sempre” só ajuda quem já esteve ali. “Acesso lateral” também pode ser insuficiente quando o edifício tem mais de uma lateral possível.\n\nEscolha referências verificáveis a partir do percurso considerado. No consultório, a orientação pode esclarecer por qual face do prédio se chega à portaria e que identificação procurar. A descrição deve corresponder ao acesso efetivamente utilizado, sem inventar uma facilidade que não foi confirmada.\n\nUma fotografia autorizada da entrada pode acrescentar informação quando mostra aquilo que o visitante verá. Um enquadramento muito fechado no logotipo talvez seja bonito, mas deixe de fora a relação entre a porta e a fachada. Defina primeiro a dúvida que a imagem precisa ajudar a responder.\n\nConfira ainda se as referências permanecem reconhecíveis. Um objeto provisório, uma decoração sazonal ou um comércio vizinho que muda de nome pode deixar a instrução imprecisa. Prefira sinais pertinentes ao trajeto e revise os que dependem de uma condição temporária.\n\n## Faça a identificação continuar dentro do prédio\n\nDepois da primeira porta, podem existir outras decisões: localizar a recepção do edifício, reconhecer a identificação da empresa ou entender por onde continuar. A orientação precisa acompanhar as passagens que realmente fazem parte da chegada.\n\nIsso não exige espalhar o logotipo por todos os espaços. Exige identificar onde uma informação é necessária e quem responde por ela. Num prédio compartilhado, algumas indicações dependem da administração; outras pertencem ao próprio consultório.\n\nA linguagem deve permitir reconhecer a mesma empresa na mensagem, na identificação e na recepção. Variações de nome ou indicações antigas podem introduzir uma dúvida justamente quando a pessoa tenta confirmar que chegou ao lugar certo.\n\nObserve o conjunto a partir dos pontos em que é consultado. Uma identificação legível de perto pode não ser encontrada no momento em que alguém precisa decidir para onde seguir. A posição participa da função da peça tanto quanto seu desenho.\n\n## Distinga uma orientação habitual de um aviso temporário\n\nUma mudança de acesso durante uma obra pede um encaminhamento diferente da orientação que acompanha a rotina. Se os dois textos continuam circulando sem distinção, a equipe pode responder a perguntas com referências incompatíveis.\n\nNo consultório, uma alteração temporária deve ter uma informação confirmada e um responsável por revisar os lugares em que aparece. Quando a condição terminar, a comunicação correspondente precisa ser conferida novamente.\n\nNão aproveite a mensagem para prometer estacionamento, recursos de acesso ou condições que ninguém verificou. Se uma dúvida depende de informação específica, indique um contato que consiga esclarecê-la. Descrever um percurso não equivale a assegurar que ele atende a todas as necessidades de quem vai utilizá-lo.\n\nEssa precisão também orienta a recepção. Quem responde pode trabalhar com a mesma referência que foi enviada ao visitante e reconhecer quando precisa confirmar algo com a administração do prédio.\n\n## Trate as perguntas recorrentes como pistas de revisão\n\nSe a equipe precisa explicar repetidamente uma mesma passagem, vale examinar o que a informação disponível deixou em aberto. A pergunta pode mostrar que uma referência não é reconhecível ou que a orientação chega tarde demais.\n\nReúna a dúvida sem registrar dados desnecessários de quem telefonou. Depois confira o ponto concreto: a entrada está identificada? A mensagem permite reconhecê-la? A fotografia corresponde ao acesso atual? O caminho dentro do prédio continua compreensível?\n\nAo ajustar, volte ao percurso e examine a mudança. Uma frase adicional pode resolver uma lacuna ou apenas tornar a mensagem mais longa. O critério é a relação entre o que se explica e o que pode ser encontrado.\n\nNa próxima conferência do atendimento, comece alguns passos antes da recepção. A marca já está sendo percebida quando alguém tenta descobrir por onde entrar. Cuidar dessa passagem aproxima a orientação oferecida da experiência que a empresa pretende entregar.",
+        "sources": "[Google, novidades do Ask Maps para trajetos e planejamento, 16/11/2026](https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/)\n\nO anúncio distingue a disponibilidade dos recursos por mercado. A análise sobre orientações de chegada e identificação da entrada é da Tweed.",
+        "prompt": "Documentary editorial photograph outside a contemporary commercial building on a street corner, wide eye-level composition showing the main facade and a clearly visible side entrance in the same frame, an adult visitor approaching the side doorway while glancing at the building entrance rather than a phone, modest dental office reception visible beyond the glass without patients or medical details, a restrained teal accent inspired by #08ffb1 on the recessed entrance frame, soft overcast daylight and natural skin tones, realistic pedestrian scale and architecture, any signage indistinct and unreadable, no legible text or logos --ar 3:2",
+        "imageAlt": "Visitante se aproxima da entrada lateral de um edifício comercial na esquina, com detalhe teal na moldura da porta e recepção visível ao fundo.",
+        "date": "2026-11-26"
+      },
+      "createdAt": "2026-11-18T17:58:06.490Z",
+      "startedAt": "2026-11-18T20:32:24.638Z",
+      "completedAt": "2026-11-18T20:34:24.629Z"
+    },
+    {
+      "id": "a5073d74-4559-4a70-a19e-726cae465146",
+      "itemId": "pauta-reposicao-2026-11-17-2415223748a3",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "e310316bcd256c36056e2e901333a50ad4f97bf238221ae97ca354a72aac85ec",
+      "snapshot": "db09b821886674f3e0ae6870f8c4bb3be25640c3b53509ef9415ffe963b8eb7a",
+      "input": {
+        "id": "pauta-reposicao-2026-11-17-2415223748a3",
+        "title": "Clique conquistado, promessa cumprida?",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Em comunicado de 16/11/2026 sobre recomendações do Instagram na Índia, a Meta explicou que recomenda conteúdos de contas ainda não seguidas em Explore, Reels e Feed e que aplica diretrizes próprias a esses espaços. A atualização relata medidas num mercado específico; não extrapolar seus resultados ao Brasil, reproduzir percentuais ou alegar conhecer pesos de ranking. Usar a referência à qualidade e pertinência das recomendações como contexto para uma análise editorial própria: a chamada cria uma expectativa que o conteúdo precisa cumprir. Recorte numa loja de vinhos que produz vídeos curtos de apresentação de rótulos e usa uma abertura grandiosa para entregar apenas uma descrição genérica. Abrir pelo confronto entre a pergunta da primeira tela e a resposta oferecida no final, sem Imagine nem avisos de exemplo hipotético. Examinar o acordo entre título, primeiro quadro, legenda e desenvolvimento; distinguir curiosidade útil de uma promessa que o material não sustenta; conferir se a pergunta anunciada recebe uma resposta delimitada, sem transformar cada postagem numa obrigação de contar tudo. Propor uma revisão do roteiro com a chamada ao lado do trecho que efetivamente a responde, ajustando a formulação ou o conteúdo conforme a tese. Não atribuir à Meta recomendações editoriais que são da Tweed, ensinar a contornar moderação, prometer alcance ou tratar cliques como prova de valor. Não fazer recomendações de saúde sobre bebidas nem inventar características de rótulos. Diferenciar de imagem de campanha e prova de entrega: foco no compromisso narrativo da chamada com o próprio conteúdo, não na fidelidade de uma representação visual ao produto. Diferenciar de continuidade editorial: foco no que uma peça promete e responde internamente, não na ligação entre episódios. Diferenciar de comunicar resultados e expectativas: não trata de divulgar resultados comerciais, mas de formular uma pergunta ou afirmação de abertura proporcional ao desenvolvimento disponível.",
+        "audience": "Responsáveis por conteúdo e marketing de lojas de vinhos, bares, restaurantes e empresas que usam chamadas e vídeos curtos para apresentar sua oferta.",
+        "goal": "De aprovar uma chamada apenas por chamar atenção para conferir que expectativa ela cria e onde o conteúdo entrega uma resposta compatível.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-17",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, atualização sobre conteúdos recomendados no Instagram na Índia, 16/11/2026",
+              "url": "https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/",
+              "publishedAt": "2026-11-16"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-18T17:58:14.073Z",
+      "startedAt": "2026-11-18T20:32:24.829Z",
+      "completedAt": "2026-11-18T20:34:24.987Z"
+    },
+    {
+      "id": "d3bf3b06-ec0b-4be7-a9a3-687cf545a156",
+      "itemId": "pauta-diaria-2026-11-18",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "964c5c01b1e164f2bb5d3074f18b49a69e4d67815100983357f132142f4bba41",
+      "snapshot": "6ed7599aec6be9d1c8dca530ce5a2025d389b6b821acbfdef8afba2f27bbce99",
+      "input": {
+        "id": "pauta-diaria-2026-11-18",
+        "title": "O mesmo vídeo, vários perfis: combine a circulação antes de publicar",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 18/11/2026: o Instagram anunciou em 17/11 a chegada de Content Protection a criadores elegíveis, com identificação de correspondências de vídeos e uma lista de perfis autorizados. O acesso depende de elegibilidade; não afirmar disponibilidade para todas as empresas ou no Brasil. A detecção de falas reutilizadas com imagens de IA foi anunciada como teste futuro limitado, não como recurso geral. Tese própria: quando um vídeo circula no perfil da empresa, de um profissional e de um parceiro, a equipe precisa distinguir a distribuição combinada de uma utilização que deve ser revista. Abrir pela passagem concreta de um vídeo de uma consultoria para o perfil de quem o apresenta e para um parceiro comercial, sem repetir a fórmula Imagine. Examinar quais versões foram liberadas, em quais perfis, com qual contexto e quem mantém essa referência quando muda a equipe ou termina a colaboração. Comparar o registro de distribuição combinado com o alerta da ferramenta antes de decidir o encaminhamento, sem tratar uma correspondência automática como prova de irregularidade. Diferenciar de autoria de produto e de adaptação criativa de vídeo: o foco é a circulação coordenada da mesma peça entre perfis. Não emitir parecer jurídico, presumir direitos sobre materiais de terceiros, prometer remoções ou alcance, sugerir denúncias automáticas ou ensinar a contornar a plataforma. Os critérios de operação são análise editorial da Tweed, não resultados demonstrados pelo anúncio.",
+        "audience": "Responsáveis por marketing e sócios de empresas de serviços que distribuem vídeos entre perfis institucionais, profissionais e parceiros.",
+        "goal": "De tratar cada republicação como uma ação isolada para manter uma referência compartilhada sobre onde, como e por quem a mesma peça pode circular.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-18",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Instagram for Creators, Introducing content protection: a new way to protect your original videos on Instagram, 17/11/2026",
+              "url": "https://creators.instagram.com/blog/introducing-content-protection/",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-18T17:58:19.663Z",
+      "startedAt": "2026-11-18T20:32:24.992Z",
+      "completedAt": "2026-11-18T20:34:25.329Z"
     }
   ]
 }

@@ -53,8 +53,18 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-12T16:13:52.704Z",
-    "scheduledRound": 3
+    "state": "published",
+    "runKey": "2026-11-18T20:29:15.009Z",
+    "url": "https://www.agenciatweed.com.br/evento-confirmar-presenca-reservar-vaga/",
+    "publishedAt": "2026-11-18T20:41:38.835385+00:00",
+    "job": "c514a64d-9c58-48bf-a5e9-9e77b5b6df41",
+    "files": [
+      "assets/artigos-editoriais/0d062a778fb727d4d301fe490ebbbb0c017e69116f80c872a91f7dfb850079ab.png",
+      "evento-confirmar-presenca-reservar-vaga/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

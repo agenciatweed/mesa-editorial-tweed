@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-18-817e8856611e",
+  "title": "A mensagem do seu e-mail não pode ficar presa na imagem",
+  "edition": 2,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário de 17/11/2026: a Adobe Express publicou um guia sobre design de newsletters por e-mail que recomenda manter informação essencial em texto e conferir a mensagem com imagens desativadas, além da versão de texto simples. É uma orientação de fornecedor, não prova de desempenho nem regra universal de dimensões. Tese própria: a identidade de uma newsletter precisa organizar uma mensagem que continue compreensível quando a imagem não aparece; uma arte bem acabada não pode ser o único lugar que informa assunto, condições pertinentes e próximo passo. Recorte em um escritório de contabilidade que envia uma seleção editorial de temas de gestão para seus contatos, sem elaborar aconselhamento fiscal, jurídico ou financeiro. Abrir pela leitura de um e-mail recebido com espaço vazio no lugar da arte, contrastando o que foi aprovado na composição com a informação efetivamente disponível. Examinar quais trechos precisam permanecer como texto do e-mail, que função a imagem cumpre, como o nome do link esclarece o destino e como conferir a ordem da leitura na versão sem imagens. Não prescrever clientes de e-mail, ferramentas, código, dimensões, taxas de abertura ou resultados; não criar prazos legais, obrigações contábeis ou campanhas a partir de dados pessoais. A análise é editorial e visual da Tweed, não auditoria de acessibilidade ou garantia de compatibilidade. Diferenciar de legibilidade digital para pessoas e IA: foco no conteúdo que permanece disponível num e-mail sem imagens. Diferenciar de apresentação que circula sem o apresentador: foco na relação entre arte e texto no e-mail recebido, não no contexto de um arquivo encaminhado. Diferenciar de chamada e entrega: foco na disponibilidade da mensagem, não na promessa narrativa da abertura. Usar links e texto descritivo sem transformar o artigo em tutorial de software.",
+  "audience": "Sócios e responsáveis por conteúdo e relacionamento de escritórios de contabilidade, auditoria e outras empresas de serviços que enviam newsletters a contatos interessados.",
+  "goal": "De aprovar a newsletter apenas pela composição da arte para conferir se o e-mail mantém assunto, informação pertinente e próximo passo compreensíveis mesmo quando a imagem não carrega.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-18",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Adobe Express, How to design an email newsletter, 17/11/2026",
+        "url": "https://www.adobe.com/express/learn/blog/how-to-design-an-email-newsletter",
+        "publishedAt": "2026-11-17"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "evento-confirmar-presenca-reservar-vaga",
+  "contentSha256": "959a9709bf2c39278620c18e3da8d07bd583fbc28ccce58e47bcc6e4ebedcd5c",
+  "modifiedAt": "2026-11-18",
+  "links": [
+    {
+      "from": "evento-confirmar-presenca-reservar-vaga",
+      "to": "mensagem-automatica-recebimento-solucao",
+      "anchor": "o próximo passo real",
+      "context": "Na PME, o retorno pode esclarecer o que foi registrado e o próximo passo real.",
+      "reason": "Aprofunda a distinção entre receber uma resposta e concluir uma solicitação, pertinente ao retorno depois da manifestação de presença."
+    }
+  ]
+}
