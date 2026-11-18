@@ -4,6 +4,14 @@ Autorização de Felipe, atualizada em 17/11/2026: priorizar os artigos novos ap
 
 Usar título e texto integral do artigo público, com parágrafos, subtítulos, ênfases e links do corpo, além da mesma capa. Não copiar navegação, sumário técnico, rodapé do site ou FAQ estruturado. A legenda contém o título entre aspas e, abaixo, `Artigo originalmente publicado no blog da Agência Tweed:` e o URL canônico. **Agência Tweed fica em texto simples, sem @menção**, conforme autorização para dispensar essa etapa. Não inventar resumos, hashtags, fatos ou novas imagens.
 
+## Ponto de partida obrigatório no Chrome
+
+Antes de iniciar qualquer trabalho na interface do LinkedIn, de cada artigo seguinte e de toda retomada ou reconexão, volte à página de publicações da Agência Tweed: https://www.linkedin.com/company/35563028/admin/page-posts/published/ (`adminUrl` na configuração). Confirme que a página carregou e que a identidade é Agência Tweed, Company Page 35563028. Se a aba já estiver nessa página e carregada, basta conferir a identidade; não recarregue sem necessidade. Não comece pelo feed pessoal, pelo último artigo aberto ou diretamente por um editor novo.
+
+Depois dessa conferência, siga o slug elegível de `next`. Para um artigo novo, use o botão Escrever artigo da página administrativa. Se houver `draftUrl`, abra o rascunho salvo após conferir a página administrativa; não crie outro. Em `reason:reconcile` ou `state:publishing`, confira primeiro as publicações realizadas nessa página para determinar o resultado do envio anterior.
+
+Esse retorno ocorre no início de cada fluxo e nas retomadas, não entre os cliques de um preenchimento em andamento. Preserve o rascunho e seu salvamento antes de sair do editor. Se o Chrome estiver inacessível ou a identidade não puder ser confirmada, mantenha a fila pendente sem iniciar envio.
+
 ## Fila e retomada
 
 `node scripts/linkedin.mjs sync` descobre artigos nos catálogos publicados do site. `status` ou `next` informa totais, uso diário, motivo da seleção e o próximo artigo elegível. O registro fica em `.local/linkedin/estado.json`, sob o mesmo lock de gravação da Mesa. Não altera pautas, aprovação, datas do blog ou jobs existentes. O wrapper de publicação chama sync após sucesso real; se falhar, a próxima rodada reconcilia sem republicar o blog.
@@ -17,7 +25,7 @@ Usar título e texto integral do artigo público, com parágrafos, subtítulos, 
 - `start` e `publishing` revalidam a seleção e as quotas sob lock. Só envios realmente confirmados contam como publicados; envios incertos bloqueiam novos envios até conciliação. A confirmação repetida do mesmo artigo não consome outra vaga.
 
 1. Use exclusivamente o slug elegível de `next` e execute `node scripts/linkedin.mjs start SLUG`. A saída informa o payload local e eventual `draftUrl`. Abra o rascunho existente; não crie outro. Com `state:publishing` ou `reason:reconcile`, primeiro confira as publicações reais da empresa: um erro de conexão não comprova falha no envio. Preserve os rascunhos antigos enquanto os novos têm prioridade.
-2. No Chrome conectado, abra a aba administrativa ou editor indicado na configuração. Verifique a identidade Agência Tweed. Preencha primeiro o título; espere a URL mudar de `/article/new/` para `/article/edit/` e o indicador confirmar o salvamento. Registre `node scripts/linkedin.mjs draft SLUG URL_DO_EDITOR` imediatamente.
+2. Parta obrigatoriamente da página administrativa e confirme a identidade, conforme a seção acima. Abra Escrever artigo para o novo selecionado ou retome o `draftUrl` existente. Preencha primeiro o título; espere a URL mudar de `/article/new/` para `/article/edit/` e o indicador confirmar o salvamento. Registre `node scripts/linkedin.mjs draft SLUG URL_DO_EDITOR` imediatamente.
 3. Envie a capa pelo seletor de arquivo suportado. Confira sua prévia, aplique e espere o salvamento. Cole o HTML do corpo preservando formatação. Compare o texto integral do editor com bodyText do payload, ignorando apenas espaços. Verifique que título e capa não desapareceram após a recriação automática do editor. Nunca publicar texto vazio ou truncado.
 4. Avance e preencha a legenda inteira de uma vez. setValue pelo índice da árvore de acessibilidade funcionou; digitar trechos separados reposicionou o cursor e causou inversões. Não tentar @menções. Leia e confira a legenda antes do envio.
 5. Execute `node scripts/linkedin.mjs publishing SLUG` antes de clicar em Publicar. Publique e confira a confirmação real do LinkedIn, o título e a URL `/pulse/`. Abra “Visualizar publicação” e confira a legenda, capa e link do blog. Salve screenshot como prova. Sem confirmação, mantenha o estado incerto para conciliar na retomada.
