@@ -1,4 +1,4 @@
-# No seu evento, confirmar presença é o mesmo que reservar uma vaga?
+# Confirmar presença não é necessariamente reservar uma vaga
 
 A pessoa recebe um convite, marca que vai participar e organiza a agenda. A empresa enxerga aquela resposta numa lista, mas ainda pretende conferir a disponibilidade antes de confirmar a vaga. Cada lado acredita que uma etapa diferente foi concluída. O desencontro só aparece quando alguém pergunta se está tudo certo para chegar.
 

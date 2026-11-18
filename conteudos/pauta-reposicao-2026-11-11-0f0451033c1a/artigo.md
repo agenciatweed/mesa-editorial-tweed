@@ -1,4 +1,4 @@
-# O que pode ser surpresa no produto que sua marca vende?
+# Surpresa no pacote, clareza na compra
 
 A foto mostra várias ilustrações bonitas, a embalagem promete uma descoberta e a pessoa decide comprar. Quando abre o pacote, percebe que não podia escolher a versão que mais chamou sua atenção. O problema pode começar antes da entrega: ela entendeu que comprava aquela imagem ou que a ilustração seria uma surpresa?
 

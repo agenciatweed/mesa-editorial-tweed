@@ -1,4 +1,4 @@
-# A ajuda da sua marca precisa saber sair do caminho
+# Ajuda que sai de cena e volta quando faz falta
 
 A pessoa volta ao site para fazer algo que já conhece. Antes de continuar, precisa fechar a mesma apresentação que viu na primeira visita. A empresa queria explicar bem o serviço. Para quem já entendeu, a explicação virou uma tarefa a mais.
 

@@ -1,4 +1,4 @@
-# Quando sua marca mostra um prêmio, o cliente entende o que foi reconhecido?
+# O prêmio ganha sentido quando o projeto aparece
 
 O selo aparece na abertura do site, ao lado de uma frase sobre excelência. A empresa comemora, o comercial inclui a conquista na apresentação e a equipe passa a chamar a marca de premiada. Quem chega de fora, porém, ainda não sabe qual trabalho recebeu o reconhecimento nem o que isso ajuda a avaliar.
 

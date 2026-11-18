@@ -1,4 +1,4 @@
-# O cargo do contato explica por que ele precisa do seu serviço?
+# Seu público tem um cargo. E um problema para resolver.
 
 Uma administradora de clínica pergunta como organizar a passagem de responsabilidades entre recepção e gestão. Outra, com o mesmo cargo, procura ajuda para entender por que a equipe recebe orientações diferentes em cada unidade. O título profissional coincide. A situação que pode tornar uma consultoria pertinente precisa ser compreendida em cada conversa.
 

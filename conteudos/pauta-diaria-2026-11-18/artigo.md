@@ -1,3 +1,3 @@
-# Sua marca sabe em quais perfis o mesmo vídeo pode circular?
+# O mesmo vídeo, vários perfis: combine a circulação antes de publicar
 
 

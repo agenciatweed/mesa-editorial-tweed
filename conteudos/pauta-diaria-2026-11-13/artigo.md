@@ -1,4 +1,4 @@
-# O cliente consegue retomar a escolha que deixou para depois?
+# Deixar a compra para depois não deveria apagar a escolha
 
 A cliente encontra duas mesas que parecem servir para sua casa. Antes de escolher, quer confirmar o espaço disponível. Volta à loja alguns dias depois e descreve a opção que ficava perto da janela, com um acabamento mais claro. A conversa recomeça tentando descobrir de qual produto ela está falando.
 

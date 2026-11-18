@@ -1,4 +1,4 @@
-# A peça aprovada é a mesma que sua marca está veiculando?
+# Aprovou a peça. Conferiu o que foi ao ar?
 
 A campanha recebeu aprovação depois de uma correção importante na descrição do serviço. Na hora de publicar, outra pessoa encontra uma pasta com várias exportações e escolhe uma imagem que parece pronta. A peça entra no ar com a informação anterior. A decisão estava correta; a versão que chegou ao público não a acompanhou.
 

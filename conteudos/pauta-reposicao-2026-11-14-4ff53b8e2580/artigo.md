@@ -1,4 +1,4 @@
-# O cliente sabe quando uma IA está falando em nome da sua marca?
+# Quando a IA atende, quem assina a conversa?
 
 “Qual opção você recomenda?” A pergunta parece simples. A resposta muda de sentido conforme quem está do outro lado da conversa.
 

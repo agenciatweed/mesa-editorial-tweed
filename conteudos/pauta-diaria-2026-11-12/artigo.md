@@ -1,4 +1,4 @@
-# Sua nova oferta precisa mesmo de outra marca?
+# Nem todo lançamento precisa nascer com outra marca
 
 A consultoria decide oferecer cursos. Antes de definir como a novidade será apresentada, alguém sugere criar outro nome, outro logotipo e um perfil próprio nas redes. O lançamento ganha aparência de empresa nova, embora ainda não esteja claro por que o público precisaria perceber essa separação.
 

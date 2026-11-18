@@ -1,4 +1,4 @@
-# O protótipo do seu site mostra o que ainda precisa ser construído?
+# Navegar no protótipo não comprova que o site está pronto
 
 O botão responde, a próxima tela aparece e o percurso parece completo. Na apresentação do projeto, alguém conclui que o agendamento já está pronto para receber clientes. A equipe de criação, porém, estava mostrando como essa experiência poderia funcionar. Ainda falta esclarecer o que existe de fato por trás da navegação.
 

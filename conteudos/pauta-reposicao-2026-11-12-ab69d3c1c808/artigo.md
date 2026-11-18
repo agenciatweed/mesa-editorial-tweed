@@ -1,4 +1,4 @@
-# Seu logotipo funciona no tamanho em que o cliente encontra a marca?
+# Seu logotipo ainda é sua marca quando fica pequeno?
 
 Na apresentação da identidade, o nome da empresa ocupa boa parte da tela. As letras estão nítidas e os detalhes aparecem com clareza. Depois, o mesmo desenho vai para o avatar de um perfil. O círculo corta as extremidades e o nome fica pequeno demais para ser lido naquela aplicação.
 

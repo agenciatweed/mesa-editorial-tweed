@@ -1,4 +1,4 @@
-# Quem responde às perguntas quando sua marca entra ao vivo?
+# Ao vivo, abrir perguntas é assumir uma conversa
 
 O apresentador convida o público a mandar perguntas. Durante a transmissão, chegam dúvidas sobre o produto, uma situação de entrega e uma aplicação que exige outra pessoa da equipe. A demonstração continua, o campo recebe mensagens e ninguém sabe quais questões já foram lidas.
 

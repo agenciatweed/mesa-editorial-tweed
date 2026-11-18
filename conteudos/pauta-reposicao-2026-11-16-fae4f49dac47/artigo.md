@@ -1,4 +1,4 @@
-# Um vale-presente também precisa de projeto
+# O presente começa antes de usar o vale
 
 O pagamento está confirmado. Falta decidir o que a pessoa vai colocar no envelope. Um comprovante informa uma transação; um vale-presente pode apresentar a experiência que alguém escolheu oferecer. Essa diferença começa no projeto da peça.
 

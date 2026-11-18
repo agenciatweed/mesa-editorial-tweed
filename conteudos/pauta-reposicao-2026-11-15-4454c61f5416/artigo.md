@@ -1,4 +1,4 @@
-# Sua apresentação faz sentido para quem recebe o arquivo sem você?
+# Sua apresentação precisa funcionar sem você na sala
 
 O PDF chega encaminhado, sem a conversa que o apresentou. A diretora abre a primeira página e tenta descobrir: essa proposta trata de uma avaliação pontual ou de um acompanhamento? A pessoa que participou da reunião entendeu a diferença. O arquivo, sozinho, deixou a pergunta em aberto.
 

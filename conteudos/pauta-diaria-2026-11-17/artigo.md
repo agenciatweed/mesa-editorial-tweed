@@ -1,4 +1,4 @@
-# Quem chega à sua empresa reconhece por onde entrar?
+# A experiência da sua marca começa na porta de entrada
 
 O número está na fachada, mas a porta parece fechada. A pessoa confere o endereço mais uma vez, caminha até a esquina e liga para a recepção. Só então descobre que a entrada do consultório fica na lateral do prédio. Ela chegou ao lugar indicado. Ainda não conseguiu entrar na experiência que a empresa preparou.
 

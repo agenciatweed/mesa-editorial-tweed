@@ -1,4 +1,4 @@
-# A trilha do seu vídeo está encobrindo o que precisa ser ouvido?
+# Deixe a voz atravessar a trilha
 
 O vídeo mostra o móvel em funcionamento. A locução explica qual versão está sendo apresentada e informa que um acessório é opcional. Nesse mesmo trecho, a música cresce e um efeito acompanha o movimento da peça. A demonstração parece bem acabada, mas a informação sobre o que está incluído fica difícil de ouvir.
 

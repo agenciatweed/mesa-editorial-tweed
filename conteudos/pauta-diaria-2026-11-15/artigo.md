@@ -1,4 +1,4 @@
-# As fotos do seu espaço mostram como ele pode ser usado?
+# Fotografar um espaço é mostrar o que pode acontecer nele
 
 O vaso está impecável na fotografia. A luz atravessa a cortina, a madeira tem textura e o enquadramento parece saído de uma revista. Na mensagem seguinte, a pessoa pergunta se as mesas podem ser reunidas e onde acontece a recepção dos convidados. Nenhuma imagem responde.
 

@@ -1,4 +1,4 @@
-# A fonte da sua marca chega a quem precisa produzir o material?
+# A tipografia da marca também precisa chegar à produção
 
 “O texto é o mesmo. Por que agora ocupa duas páginas?”
 

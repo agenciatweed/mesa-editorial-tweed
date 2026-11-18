@@ -1,4 +1,4 @@
-# A tipografia do seu cardápio ajuda a escolher ou só cria atmosfera?
+# No cardápio, a letra também serve à escolha
 
 O cliente encontra o vinho pelo nome, mas precisa percorrer a linha duas vezes para descobrir se o preço corresponde à taça ou à garrafa. Em outra página, o prato tem uma assinatura elegante e uma descrição tão discreta que a pessoa chama o atendimento para entender o que vem junto. O cardápio tem personalidade. Parte da leitura ficou por resolver.
 
