@@ -76,3 +76,8 @@ Além da sugestão diária com menos de 10 cards em Pautas, a automação cria u
 ## Variedade das capas — 26/10/2026
 
 As capas mostram situações, espaços ou objetos tratados no artigo, com um detalhe teal na cena. A direção completa está em editorial/diretrizes.md.
+
+
+## Inicializacao sem janela — 18/11/2026
+
+A tarefa local Tweed - Estudio Editorial executa scripts/iniciar-servidor.pyw com pythonw.exe. O Node usa CREATE_NO_WINDOW, arquivos privados de log e trava de instancia unica; o Agendador preserva o usuario, gatilho de logon e reinicio em falha existentes. scripts/iniciar-servidor.ps1 fica como entrada manual de compatibilidade e tambem inicia pythonw sem console. Abrir-Estudio.cmd usa essa mesma entrada. Interface e API em http://127.0.0.1:4173/ conferidas com o servidor ativo entre chamadas, sem janela de PowerShell ou Terminal.
