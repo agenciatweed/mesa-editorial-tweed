@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-19-38e9f5debd11",
+  "title": "A técnica de criação também cabe no briefing",
+  "edition": 2,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário verificado em 19/11/2026: o Canva anunciou controles para ativar ou desativar recursos generativos e reduzir conteúdo gerado por IA na biblioteca. A data 2026-11-19T12:30:00.000Z consta em publishedAt no HTML da notícia. O anúncio distingue ferramentas generativas de recursos assistivos que editam material existente; não tratar todo uso de edição como geração nem prometer ausência completa de conteúdo de IA. Tese própria: o briefing de uma peça pode precisar esclarecer quais partes serão desenhadas, fotografadas, editadas ou geradas, quando essa escolha participa da intenção do projeto. Recorte em restaurante que encomenda ilustrações para uma carta e precisa combinar o papel do traço do ilustrador e das referências de criação. Abrir pela diferença entre pedir um resultado visual e combinar como ele será desenvolvido, sem Imagine ou avisos de exemplo hipotético. Examinar quais expectativas precisam ser explicitadas, onde há espaço para experimentar e quem resolve dúvidas antes de produzir; não impor um método único nem transformar preferência estética em superioridade moral. Diferenciar de imagem de campanha e prova de entrega: foco no acordo criativo antes da execução, não no valor documental da imagem final. Diferenciar de equipe que aprende IA: foco na escolha de processo de uma peça, não em treinamento. Diferenciar de identidade ensinada à IA: foco na delimitação do trabalho, não em consistência de outputs. Sem tutorial, contratação de plataforma, parecer sobre direitos, promessa de exclusividade ou discussão de dados privados. Não redigir até Felipe salvar a pauta.",
+  "audience": "Gestores de marketing, donos de restaurantes e empresas de serviços que encomendam ilustrações, fotografias e peças de comunicação a equipes criativas.",
+  "goal": "De presumir que aprovar a aparência também define o processo para explicitar no briefing as escolhas de criação que fazem diferença para aquela entrega.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-19",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Canva, Introducing AI Controls: Your creativity, your call, 19/11/2026",
+        "url": "https://www.canva.com/newsroom/news/ai-controls-canva/",
+        "publishedAt": "2026-11-19"
+      }
+    ]
+  }
+}

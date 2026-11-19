@@ -14788,6 +14788,132 @@
       "createdAt": "2026-11-18T17:58:19.663Z",
       "startedAt": "2026-11-18T20:32:24.992Z",
       "completedAt": "2026-11-18T20:34:25.329Z"
+    },
+    {
+      "id": "685e86ab-8761-4c5f-bdb4-0019f1900a64",
+      "itemId": "pauta-reposicao-2026-11-18-817e8856611e",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "0d08e065eb32a4c0420bd246c42165265341bc0527e87b7ce57a8a0d00da39ea",
+      "snapshot": "92131a29195f2eb92e6565b6fc9fd3bd13256242f98ddd06c1dc548136d4aa85",
+      "input": {
+        "id": "pauta-reposicao-2026-11-18-817e8856611e",
+        "title": "A mensagem do seu e-mail não pode ficar presa na imagem",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 17/11/2026: a Adobe Express publicou um guia sobre design de newsletters por e-mail que recomenda manter informação essencial em texto e conferir a mensagem com imagens desativadas, além da versão de texto simples. É uma orientação de fornecedor, não prova de desempenho nem regra universal de dimensões. Tese própria: a identidade de uma newsletter precisa organizar uma mensagem que continue compreensível quando a imagem não aparece; uma arte bem acabada não pode ser o único lugar que informa assunto, condições pertinentes e próximo passo. Recorte em um escritório de contabilidade que envia uma seleção editorial de temas de gestão para seus contatos, sem elaborar aconselhamento fiscal, jurídico ou financeiro. Abrir pela leitura de um e-mail recebido com espaço vazio no lugar da arte, contrastando o que foi aprovado na composição com a informação efetivamente disponível. Examinar quais trechos precisam permanecer como texto do e-mail, que função a imagem cumpre, como o nome do link esclarece o destino e como conferir a ordem da leitura na versão sem imagens. Não prescrever clientes de e-mail, ferramentas, código, dimensões, taxas de abertura ou resultados; não criar prazos legais, obrigações contábeis ou campanhas a partir de dados pessoais. A análise é editorial e visual da Tweed, não auditoria de acessibilidade ou garantia de compatibilidade. Diferenciar de legibilidade digital para pessoas e IA: foco no conteúdo que permanece disponível num e-mail sem imagens. Diferenciar de apresentação que circula sem o apresentador: foco na relação entre arte e texto no e-mail recebido, não no contexto de um arquivo encaminhado. Diferenciar de chamada e entrega: foco na disponibilidade da mensagem, não na promessa narrativa da abertura. Usar links e texto descritivo sem transformar o artigo em tutorial de software.",
+        "audience": "Sócios e responsáveis por conteúdo e relacionamento de escritórios de contabilidade, auditoria e outras empresas de serviços que enviam newsletters a contatos interessados.",
+        "goal": "De aprovar a newsletter apenas pela composição da arte para conferir se o e-mail mantém assunto, informação pertinente e próximo passo compreensíveis mesmo quando a imagem não carrega.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-18",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe Express, How to design an email newsletter, 17/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/how-to-design-an-email-newsletter",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-19T06:31:50.774Z",
+      "startedAt": "2026-11-19T08:32:58.373Z",
+      "completedAt": "2026-11-19T08:40:11.802Z"
+    },
+    {
+      "id": "e064289d-e330-43c2-a4ee-d87b7d964544",
+      "itemId": "pauta-reposicao-2026-11-18-817e8856611e",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "a8b8506538c2593c877e2e083e617860bf57232672479821cc6b54656ba01c72",
+      "snapshot": "1501996437bf7b2cc1d94ffb09495c3d854523802374293077aaeb0b80b3ea38",
+      "input": {
+        "id": "pauta-reposicao-2026-11-18-817e8856611e",
+        "title": "A mensagem do seu e-mail não pode ficar presa na imagem",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 17/11/2026: a Adobe Express publicou um guia sobre design de newsletters por e-mail que recomenda manter informação essencial em texto e conferir a mensagem com imagens desativadas, além da versão de texto simples. É uma orientação de fornecedor, não prova de desempenho nem regra universal de dimensões. Tese própria: a identidade de uma newsletter precisa organizar uma mensagem que continue compreensível quando a imagem não aparece; uma arte bem acabada não pode ser o único lugar que informa assunto, condições pertinentes e próximo passo. Recorte em um escritório de contabilidade que envia uma seleção editorial de temas de gestão para seus contatos, sem elaborar aconselhamento fiscal, jurídico ou financeiro. Abrir pela leitura de um e-mail recebido com espaço vazio no lugar da arte, contrastando o que foi aprovado na composição com a informação efetivamente disponível. Examinar quais trechos precisam permanecer como texto do e-mail, que função a imagem cumpre, como o nome do link esclarece o destino e como conferir a ordem da leitura na versão sem imagens. Não prescrever clientes de e-mail, ferramentas, código, dimensões, taxas de abertura ou resultados; não criar prazos legais, obrigações contábeis ou campanhas a partir de dados pessoais. A análise é editorial e visual da Tweed, não auditoria de acessibilidade ou garantia de compatibilidade. Diferenciar de legibilidade digital para pessoas e IA: foco no conteúdo que permanece disponível num e-mail sem imagens. Diferenciar de apresentação que circula sem o apresentador: foco na relação entre arte e texto no e-mail recebido, não no contexto de um arquivo encaminhado. Diferenciar de chamada e entrega: foco na disponibilidade da mensagem, não na promessa narrativa da abertura. Usar links e texto descritivo sem transformar o artigo em tutorial de software.",
+        "audience": "Sócios e responsáveis por conteúdo e relacionamento de escritórios de contabilidade, auditoria e outras empresas de serviços que enviam newsletters a contatos interessados.",
+        "goal": "De aprovar a newsletter apenas pela composição da arte para conferir se o e-mail mantém assunto, informação pertinente e próximo passo compreensíveis mesmo quando a imagem não carrega.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-18",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe Express, How to design an email newsletter, 17/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/how-to-design-an-email-newsletter",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "685e86ab-8761-4c5f-bdb4-0019f1900a64",
+          "completedAt": "2026-11-19T08:40:11.660Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "No lugar da arte, um retângulo vazio. Abaixo dele, apenas “saiba mais” e a assinatura do escritório. O e-mail sem imagens chegou, mas a informação que justificaria sua leitura ficou pelo caminho.\n\nNa aprovação, a newsletter estava completa: título, fotografia, chamada e convite para continuar. Tudo fazia parte de uma única composição. Na mensagem recebida, porém, quase nada existia fora daquela imagem. O problema estava na maneira de distribuir a informação entre a arte e o texto do e-mail.\n\nUma newsletter pode expressar a identidade da marca e continuar compreensível quando uma imagem não aparece. Para isso, a composição precisa reconhecer o que cada elemento comunica e o que o leitor ainda consegue encontrar sem ele.\n\n## A arte foi aprovada; o e-mail também precisa ser lido\n\nNum escritório de contabilidade que envia uma seleção de temas de gestão, a equipe prepara uma abertura visual para apresentar o assunto da edição. A imagem reúne a chamada principal e o convite para ler o material no site. Ao montar o envio, alguém acrescenta uma saudação e a assinatura. O restante permanece dentro da arte.\n\nQuem recebeu o e-mail com a imagem disponível encontra uma mensagem. Quem não a vê encontra outra, muito mais vaga. O assunto pode ser pertinente para os dois leitores, mas só um recebeu informação suficiente para reconhecer essa pertinência.\n\nA revisão começa separando a função editorial da função visual. Qual é o assunto desta edição? O que a pessoa precisa saber antes de decidir continuar? Qual próximo passo o escritório está oferecendo? Essas respostas não deveriam depender exclusivamente de conseguir visualizar uma peça gráfica.\n\nO nome do escritório ajuda a identificar quem enviou. A fotografia pode situar o tema. Cores e composição organizam a presença da marca. Ainda assim, o leitor precisa encontrar no próprio e-mail uma explicação compreensível sobre o que está sendo apresentado.\n\nEm guia publicado em 17 de novembro de 2026, a Adobe Express recomenda manter informações essenciais em texto, conferir o e-mail com imagens desativadas e revisar também a versão de texto simples. É orientação de um fornecedor. O recorte editorial aqui é como repartir a mensagem para que a arte acrescente sentido sem guardar sozinha o que precisa ser entendido.\n\nIsso pode começar com uma mudança pequena: transformar em texto do e-mail a chamada que hoje só existe na imagem e escrever uma apresentação breve do conteúdo. A decisão depende do material real. Não há vantagem em duplicar uma composição inteira se poucas frases bem organizadas explicam a proposta.\n\n## O que permanece quando a imagem sai de cena\n\nLeia a edição sem usar a imagem como fonte de informação. O assunto continua identificável? A apresentação explica por que aquele conteúdo entrou na seleção? O convite para seguir leva a um destino compreensível?\n\nNo escritório, uma frase como “veja o material abaixo” deixa de ajudar quando o material mencionado não aparece. Uma abertura que apresenta o tema e nomeia o conteúdo permite decidir mesmo antes de qualquer elemento visual carregar. A mensagem ganha uma sequência que pode ser lida por conta própria.\n\nA imagem continua tendo trabalho a fazer. Pode mostrar um ambiente, organizar a identidade da edição ou acrescentar uma referência que as frases não oferecem. Quando traz informação relevante, a descrição alternativa merece atenção conforme sua função. Ela não precisa repetir toda a newsletter nem receber palavras-chave que não descrevem a imagem.\n\nTambém não convém transferir a explicação inteira para essa descrição e manter o corpo vazio. As informações necessárias à decisão merecem um lugar no texto principal. O leitor deve conseguir reconhecer o assunto e o encaminhamento pela mensagem que recebeu.\n\nEsse raciocínio ajuda a distribuir as prioridades. Uma imagem de abertura muito alta pode ocupar grande parte da primeira leitura no celular. Um conjunto de textos curtos pode permitir encontrar mais cedo a questão principal. A escolha deve ser conferida no e-mail, sem tratar uma medida de arquivo como regra suficiente para organizar qualquer edição.\n\nO texto também precisa caber no seu papel. A apresentação pode indicar o recorte e oferecer um caminho para o conteúdo completo. Não precisa carregar todo o artigo para justificar o envio. Clareza na distribuição da informação não significa acrescentar parágrafos até preencher o espaço antes ocupado pela arte.\n\n## O destino começa no nome do link\n\n“Saiba mais” pode estar ligado a um texto, a uma página de serviços ou a um formulário. Se a imagem era o único elemento que esclarecia essa relação, o nome genérico fica ainda menos útil quando ela não aparece.\n\nPrefira uma indicação que permita reconhecer a ação e o conteúdo de destino. Numa seleção editorial, o próprio título do material pode cumprir esse papel. Quando existe outro encaminhamento, descreva o que ele oferece de fato, sem transformar uma visita ao site numa promessa de resposta individual.\n\nConfira também a relação entre os links da edição. Se há vários conteúdos, cada um precisa de identificação suficiente para ser distinguido. Uma sequência de botões iguais não deve obrigar a pessoa a adivinhar a qual assunto cada botão pertence.\n\nO escritório pode manter uma organização reconhecível de uma edição para outra e variar o conteúdo apresentado. Essa continuidade visual é útil quando acompanha uma leitura clara. Um modelo herdado não precisa preservar um bloco que já não tem função só porque ele sempre esteve ali.\n\nAntes do envio, examine uma mensagem de teste recebida, incluindo a leitura no celular e a situação sem imagens. Confira também a ordem das informações na versão de texto simples, quando disponível no processo utilizado. Observe se assuntos, descrições e destinos continuam relacionados depois de sair da composição visual.\n\nEssa conferência revela problemas daquela edição e daqueles contextos de leitura. Não equivale a garantir funcionamento em todos os aplicativos nem substitui uma avaliação específica de acessibilidade. Se a mudança exigir trabalho técnico, a observação deve chegar a quem consegue executá-lo e verificar o resultado.\n\nGuarde a referência que funcionou para a próxima montagem, mas volte a ler a mensagem quando o conteúdo mudar. A nova arte pode reunir uma informação que antes estava no texto. Um botão reaproveitado pode manter um nome que já não descreve o destino.\n\nA newsletter está pronta quando a pessoa consegue reconhecer o assunto, compreender o convite e encontrar uma continuidade pertinente. O cuidado com a marca aparece nessa leitura inteira. A imagem participa dela, sem se tornar a única porta de entrada para a mensagem.",
+        "sources": "[Adobe Express, guia de design de newsletters por e-mail, 17/11/2026](https://www.adobe.com/express/learn/blog/how-to-design-an-email-newsletter)\n\nO guia recomenda informação essencial em texto e conferência sem imagens. A análise editorial da Tweed trata da organização da mensagem, sem prescrever ferramenta, dimensões universais ou desempenho e sem declarar compatibilidade ou acessibilidade completas.",
+        "prompt": "Literal editorial photograph without people of an upright desktop monitor in a quiet accounting office, tight three-quarter crop of the screen and its slim stand, an email layout on screen with one empty rectangular image placeholder above a few soft out-of-focus paragraph lines and a simple button, deliberately no readable writing, a pale teal desk lamp base inspired by #08ffb1 visible at the lower edge, soft window daylight and realistic neutral screen reflections, calm practical work setting, no paper samples, laptop, abstract metaphor, legible text or logos --ar 3:2",
+        "imageAlt": "Monitor de mesa exibe um e-mail com espaço vazio para uma imagem, linhas de texto desfocadas e um botão; parte de uma luminária teal aparece ao lado.",
+        "date": "2026-11-28"
+      },
+      "createdAt": "2026-11-19T13:43:14.884Z",
+      "startedAt": "2026-11-19T14:31:47.776Z",
+      "completedAt": "2026-11-19T14:33:15.023Z"
+    },
+    {
+      "id": "4cb3f420-4fdd-449d-aee4-5d0ec0aa6800",
+      "itemId": "pauta-diaria-2026-11-19",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "e37c935639029f10fda477f7da97250cb8d00cb9dad8960b472ea1f01f31841b",
+      "snapshot": "2ea40e94243de1a7af9556f98741e47aab61341eb96880d6d93ca47ff0b2b588",
+      "input": {
+        "id": "pauta-diaria-2026-11-19",
+        "title": "No adesivo transparente, o fundo também entra no projeto",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário de 13/11/2026: guia da Adobe Express sobre adesivos para impressão distingue arte, recorte e material; ao tratar de suportes transparentes, recomenda definir quais áreas serão opacas, translúcidas ou sem impressão e conferir essas decisões com o fornecedor. O guia observa que uma prova em tela não demonstra todas as condições do material. É orientação de fornecedor, não comprovação de resultado comercial. Tese própria: num adesivo transparente, a superfície e o que aparece através dela participam da leitura da identidade; aprovar o desenho isolado em fundo neutro deixa uma parte do projeto sem avaliação. Recorte numa delicatessen que pretende aplicar sua identificação numa vitrine de vidro, com interior, reflexos e mercadorias visíveis ao fundo. Abrir pela mudança observada entre a arte isolada e a mesma identificação sobre o vidro, sem Imagine nem adendo de exemplo hipotético. Examinar o que precisa ser reconhecido, a relação entre áreas opacas e transparentes e as condições reais de observação que devem ser discutidas com designer e fornecedor. Não prescrever tintas, espessuras, adesivos ou parâmetros de impressão; não prometer desempenho, segurança, durabilidade, remoção ou conformidade, nem criar afirmações sobre produtos alimentícios. A escolha técnica precisa ser confirmada por quem produz. Diferenciar de logotipo em tamanho pequeno: foco no fundo que atravessa o material e modifica a leitura, não na redução da marca. Diferenciar de chegada à empresa: foco na interação visual entre suporte transparente e ambiente, não no percurso até a entrada. Diferenciar de embalagem e gesto de uso: não analisar abertura, manuseio ou variantes de produto. Diferenciar de peça aprovada e versão veiculada: não tratar de controle de versões, mas do desenho e das condições em que a identidade será vista.",
+        "audience": "Responsáveis por marcas, designers e gestores de delicatessens, lojas de vinhos, restaurantes e empresas que aplicam identidade visual em vidro ou suportes transparentes.",
+        "goal": "De aprovar uma identificação transparente apenas no arquivo em fundo neutro para considerar como superfície, transparência e ambiente participam da leitura real da marca.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-19",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe Express, How to design stickers for print, 13/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/how-to-design-stickers-for-print",
+              "publishedAt": "2026-11-13"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-19T13:43:20.598Z",
+      "startedAt": "2026-11-19T14:31:47.924Z",
+      "completedAt": "2026-11-19T14:33:15.418Z"
     }
   ]
 }
