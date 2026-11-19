@@ -1,0 +1,37 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const path=require('node:path');
+const vm=require('node:vm');
+const source=fs.readFileSync(path.join(__dirname,'../studio/local.js'),'utf8');
+const apiStart=source.indexOf('async function api(');
+const apiSource=source.slice(apiStart,source.indexOf('\n}',apiStart)+2);
+const refreshSource=source.slice(source.indexOf('async function refreshLocal('),source.indexOf('\nsetInterval('));
+const response=(status,value)=>({status,ok:status>=200&&status<300,json:async()=>value});
+function context(fetch){const state={fetch,TypeError,localToken:'old'};vm.createContext(state);vm.runInContext(apiSource,state);return state}
+(async()=>{
+ const calls=[];
+ const c=context(async(url,options)=>{calls.push({url,options});return calls.length===1?response(403,{error:'Sessao antiga'}):calls.length===2?response(200,{token:'new'}):response(200,{saved:true})});
+ assert.equal((await c.api('/api/project',{revision:'unchanged',doc:{items:[]}})).saved,true);
+ assert.equal(calls.length,3);assert.equal(calls[1].options,undefined);
+ assert.equal(calls[2].options.headers['X-Tweed-Token'],'new');
+ assert.equal(calls[0].options.body,calls[2].options.body,'Preservar revisao e documento ao renovar a sessao');
+ let attempts=0;
+ const lost=context(async()=>{attempts++;throw new TypeError('Failed to fetch')});
+ await assert.rejects(lost.api('/api/project',{revision:'r'}),/rascunho foi preservado/);
+ assert.equal(attempts,1,'Nao repetir envio de resultado incerto');
+ let conflicts=0;
+ const conflict=context(async()=>{conflicts++;return response(409,{error:'Conflito externo'})});
+ await assert.rejects(conflict.api('/api/project',{}),e=>e.status===409);
+ assert.equal(conflicts,1,'Nao contornar conflitos');
+ let refused=0;
+ const denied=context(async()=>{refused++;return refused===2?response(200,{token:'old'}):response(403,{error:'Negado'})});
+ await assert.rejects(denied.api('/api/project',{}),e=>e.status===403);
+ assert.equal(refused,2,'Nao repetir se o token nao mudou');
+ let loaded=0;
+ const state={localReady:false,localDirty:true,localInFlight:false,localUploading:false,localConflict:false,localToken:'old',localRevision:'original',localQueue:{},items:[{id:'rascunho',body:'edicao local'}],loadLocal:async()=>{loaded++},api:async()=>({token:'renewed',revision:'external',queue:{jobs:[]},doc:{items:[]}})};
+ vm.createContext(state);vm.runInContext(refreshSource,state);
+ await state.refreshLocal();assert.equal(loaded,1,'Tentar conexao inicial novamente');
+ state.localReady=true;await state.refreshLocal();assert.equal(state.localToken,'renewed');
+ assert.equal(state.localRevision,'original');assert.equal(state.items[0].body,'edicao local','Reconexao preserva rascunho e deteccao de conflitos');
+ console.log('OK: reconexao, sessao renovada, rascunho preservado e nenhum reenvio incerto.');
+})().catch(e=>{console.error(e);process.exitCode=1});

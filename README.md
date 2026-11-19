@@ -81,3 +81,11 @@ As capas mostram situações, espaços ou objetos tratados no artigo, com um det
 ## Inicializacao sem janela — 18/11/2026
 
 A tarefa local Tweed - Estudio Editorial executa scripts/iniciar-servidor.pyw com pythonw.exe. O Node usa CREATE_NO_WINDOW, arquivos privados de log e trava de instancia unica; o Agendador preserva o usuario, gatilho de logon e reinicio em falha existentes. scripts/iniciar-servidor.ps1 fica como entrada manual de compatibilidade e tambem inicia pythonw sem console. Abrir-Estudio.cmd usa essa mesma entrada. Interface e API em http://127.0.0.1:4173/ conferidas com o servidor ativo entre chamadas, sem janela de PowerShell ou Terminal.
+
+## Recuperacao da conexao — 19/11/2026
+
+O launcher sem console supervisiona o Node e reinicia o servidor quando ele encerra, com intervalo progressivo de 2 a 30 segundos. A tarefa do Windows permanece ativa; iniciar uma segunda instancia continua bloqueado. Para interromper permanentemente, pare a tarefa e seus processos.
+
+O painel tenta novamente a conexao inicial e renova a sessao apos reinicios. Rascunhos e revisoes otimistas sao preservados. Um envio sem resposta nunca e repetido automaticamente; somente um POST explicitamente recusado com 403 pode ser tentado uma vez com a sessao renovada. `node scripts/check-connection.cjs` verifica reconexao, sessao, rascunhos e ausencia de reenvio incerto.
+
+Verificacao local: encerramento controlado do Node seguido de reinicio automatico pela tarefa, API HTTP 200, hashes de pautas/fila inalterados e painel reconectado no navegador. Nenhuma janela de console foi aberta.

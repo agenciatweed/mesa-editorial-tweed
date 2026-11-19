@@ -7,6 +7,7 @@ import os
 import shutil
 import subprocess
 import sys
+import time
 import traceback
 import urllib.error
 import urllib.request
@@ -47,20 +48,28 @@ def main():
             node = shutil.which('node')
             if not node:
                 raise RuntimeError('Node.js nao encontrado.')
-            stamp = datetime.datetime.now().strftime('%Y%m%d-%H%M%S-%f')
-            out_path = LOCAL / f'servidor-{stamp}.stdout.log'
-            err_path = LOCAL / f'servidor-{stamp}.stderr.log'
-            with out_path.open('ab') as output, err_path.open('ab') as errors:
-                process = subprocess.Popen(
-                    [node, str(ROOT / 'scripts/serve.mjs')], cwd=ROOT,
-                    env={**os.environ, 'TWEED_PORT': '4173'},
-                    stdin=subprocess.DEVNULL, stdout=output, stderr=errors,
-                    creationflags=subprocess.CREATE_NO_WINDOW,
-                )
-                log(f'Servidor sem console PID {process.pid}; stdout={out_path}; stderr={err_path}')
-                code = process.wait()
-                log(f'Servidor PID {process.pid} encerrou: {code}')
-                return 1 if code else 0
+            delay = 2
+            while True:
+                started = time.monotonic()
+                stamp = datetime.datetime.now().strftime('%Y%m%d-%H%M%S-%f')
+                out_path = LOCAL / f'servidor-{stamp}.stdout.log'
+                err_path = LOCAL / f'servidor-{stamp}.stderr.log'
+                with out_path.open('ab') as output, err_path.open('ab') as errors:
+                    process = subprocess.Popen(
+                        [node, str(ROOT / 'scripts/serve.mjs')], cwd=ROOT,
+                        env={**os.environ, 'TWEED_PORT': '4173'},
+                        stdin=subprocess.DEVNULL, stdout=output, stderr=errors,
+                        creationflags=subprocess.CREATE_NO_WINDOW,
+                    )
+                    log(f'Servidor sem console PID {process.pid}; stdout={out_path}; stderr={err_path}')
+                    code = process.wait()
+                    log(f'Servidor PID {process.pid} encerrou: {code}')
+                # A tarefa continua viva mesmo se o Node for encerrado externamente.
+                if time.monotonic() - started >= 60:
+                    delay = 2
+                log(f'Reiniciando o servidor em {delay} segundos.')
+                time.sleep(delay)
+                delay = min(delay * 2, 30)
         finally:
             lock.seek(0)
             msvcrt.locking(lock.fileno(), msvcrt.LK_UNLCK, 1)

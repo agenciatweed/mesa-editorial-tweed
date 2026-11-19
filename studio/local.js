@@ -1,6 +1,21 @@
 'use strict';
 let localRevision=null,localToken=null,localQueue={jobs:[]},localRoot='',localReady=false,localConflict=false,localDirty=false,localInFlight=false,localUploading=false,localTimer=null,localSaving=Promise.resolve();
-async function api(url,data){const r=await fetch(url,{method:data?'POST':'GET',headers:data?{'Content-Type':'application/json','X-Tweed-Token':localToken}:{},body:data?JSON.stringify(data):undefined});const b=await r.json();if(!r.ok){const e=Error(b.error||'Falha no servidor local.');e.status=r.status;throw e}return b}
+async function api(url,data){
+ const options=()=>({method:data?'POST':'GET',headers:data?{'Content-Type':'application/json','X-Tweed-Token':localToken}:{},body:data?JSON.stringify(data):undefined});
+ try{
+  let r=await fetch(url,options());
+  // Um 403 e recusado antes de qualquer gravacao. Renove a sessao uma unica vez.
+  if(data&&r.status===403){
+   const session=await fetch('/api/project');
+   if(session.ok){const current=await session.json();if(current.token&&current.token!==localToken){localToken=current.token;r=await fetch(url,options())}}
+  }
+  const b=await r.json();if(!r.ok){const e=Error(b.error||'Falha no servidor local.');e.status=r.status;throw e}return b;
+ }catch(e){
+  // Nunca repetir um POST sem resposta: ele pode ter sido gravado no servidor.
+  if(e instanceof TypeError)throw Error('A conexão com a Mesa foi interrompida. Seu rascunho foi preservado; aguarde a reconexão e tente salvar novamente.');
+  throw e;
+ }
+}
 const isPublished=i=>i.publication?.state==='published';
 const stageGreen=i=>isPublished(i)||(i.automation?.state==='done'&&(i.automation.stage===i.status||(i.status==='Pronto'&&i.automation.stage==='Revisão')));
 function stageLabel(i){if(isPublished(i))return 'Publicado';if(i.automation?.state==='failed')return 'Falha na automação';if(stageGreen(i))return i.status==='Redação'?'Redação pronta':i.status==='Pronto'?'Aprovado · aguarda publicação':'Revisão concluída';return i.submitted||i.automation?.state==='pending'?'Aguarda automação':'Aguardando salvar';}
@@ -43,6 +58,6 @@ function updateJobStatus(){if(!active||!$('#job-status'))return;const j=localQue
 storageView=function(){return heading('ARQUIVOS E AUTOMAÇÃO','Seu trabalho fica nos arquivos.','Uma rodada por hora; cada etapa tem uma ação.',false)+'<section class="panel"><h2>Projeto local</h2><p class="folder-path">'+esc(localRoot)+'</p><p>Abra Abrir-Estudio.cmd nesta pasta. O servidor salva seus rascunhos automaticamente; o botão Salvar conclui a etapa.</p><p>Pauta → GPT redige → Redação → você salva → Revisão → GPT prepara SEO → você envia a capa e aprova → Pronto → publicação confirmada → Artigos.</p><p>Luz vermelha: falta a automação. Luz verde: entrega concluída nesta etapa. Mantenha o computador ligado e o Codex aberto para as rodadas horárias.</p><a class="btn" href="'+REPO+'" target="_blank" rel="noopener">Abrir repositório ↗</a></section>'};
 async function loadLocal(){try{const result=await api('/api/project');localToken=result.token;localRevision=result.revision;localRoot=result.root;localQueue=result.queue;if(localStorage.getItem(KEY))localStorage.setItem(KEY+'-antes-servidor-'+Date.now(),localStorage.getItem(KEY));items=result.doc.items;localReady=true;localStorage.setItem(KEY,JSON.stringify(items));render();localLabel('Salvo nos arquivos · servidor conectado');}catch(e){localLabel('Servidor indisponível');toast(e.message+' Abra Abrir-Estudio.cmd.')}}
 loadLocal();
-async function refreshLocal(){if(!localReady||localDirty||localInFlight||localUploading||localConflict)return;const r=await api('/api/project');localQueue=r.queue;if(r.revision!==localRevision){const id=active?.id;items=r.doc.items;localRevision=r.revision;localStorage.setItem(KEY,JSON.stringify(items));render();if(id){if(items.some(i=>i.id===id))openEditor(id);else $('#editor').close()}localLabel('Atualizado pela automação')}else updateJobStatus()}
+async function refreshLocal(){if(!localReady){await loadLocal();return}if(localInFlight||localUploading||localConflict)return;const r=await api('/api/project');localToken=r.token;localQueue=r.queue;if(localDirty)return;if(r.revision!==localRevision){const id=active?.id;items=r.doc.items;localRevision=r.revision;localStorage.setItem(KEY,JSON.stringify(items));render();if(id){if(items.some(i=>i.id===id))openEditor(id);else $('#editor').close()}localLabel('Atualizado pela automação')}else{updateJobStatus();if($('#save-state').textContent==='Servidor desconectado')localLabel('Servidor reconectado · arquivos preservados')}}
 setInterval(()=>refreshLocal().catch(()=>localLabel('Servidor desconectado')),12000);
 window.addEventListener('beforeunload',e=>{if(localDirty||localInFlight||localUploading){e.preventDefault();e.returnValue=''}});
