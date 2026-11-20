@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "peca-aprovada-versao-veiculada",
+  "contentSha256": "4eaf67bf9e5e964c6cde3897a7c2e28c92d66e1817fa73071f4d7291c884d06b",
+  "modifiedAt": "2026-11-20",
+  "links": [
+    {
+      "from": "aprovacao-campanha-feedback-decisoes",
+      "to": "peca-aprovada-versao-veiculada",
+      "anchor": "versões para os canais combinados",
+      "context": "A equipe já ajustou a imagem, exportou o vídeo e preparou as versões para os canais combinados.",
+      "reason": "Conecta a preparação aprovada à conferência do arquivo realmente entregue a cada canal."
+    }
+  ]
+}

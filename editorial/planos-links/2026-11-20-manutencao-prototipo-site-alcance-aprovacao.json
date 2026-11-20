@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "prototipo-site-alcance-aprovacao",
+  "contentSha256": "63f580935c87909a0e62a9ea960addbb528f32e5c497b4d39230635161be98d8",
+  "modifiedAt": "2026-11-20",
+  "links": [
+    {
+      "from": "redesign-site-transicao-usabilidade",
+      "to": "prototipo-site-alcance-aprovacao",
+      "anchor": "Uma apresentação de telas",
+      "context": "Uma apresentação de telas mostra composição, hierarquia e linguagem visual.",
+      "reason": "Explica o alcance de uma apresentação de telas em contraste com a avaliação do funcionamento real."
+    }
+  ]
+}

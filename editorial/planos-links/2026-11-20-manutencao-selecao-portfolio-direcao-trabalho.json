@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "selecao-portfolio-direcao-trabalho",
+  "contentSha256": "7a887f2fc491dbd43cb527f2887fa7f2987526dadaac9f6bcf55a9f54ea71803",
+  "modifiedAt": "2026-11-20",
+  "links": [
+    {
+      "from": "imagem-campanha-prova-entrega",
+      "to": "selecao-portfolio-direcao-trabalho",
+      "anchor": "Um portfólio de trabalhos executados",
+      "context": "Um portfólio de trabalhos executados precisa permitir reconhecer o que foi efetivamente entregue.",
+      "reason": "Aprofunda a seleção e a contextualização de trabalhos executados que funcionam como evidências."
+    }
+  ]
+}

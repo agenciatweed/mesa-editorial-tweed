@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "evento-confirmar-presenca-reservar-vaga",
+  "contentSha256": "959a9709bf2c39278620c18e3da8d07bd583fbc28ccce58e47bcc6e4ebedcd5c",
+  "modifiedAt": "2026-11-20",
+  "links": [
+    {
+      "from": "evento-informar-recursos-acessibilidade",
+      "to": "evento-confirmar-presenca-reservar-vaga",
+      "anchor": "pedir uma inscrição",
+      "context": "Para uma pequena empresa que prepara um encontro presencial, a pergunta útil é o que consegue explicar sobre as condições de participação antes de pedir uma inscrição.",
+      "reason": "Complementa as condições do convite com o significado da inscrição e da confirmação de vaga."
+    }
+  ]
+}

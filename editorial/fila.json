@@ -15004,6 +15004,99 @@
       "createdAt": "2026-11-19T20:23:32.640Z",
       "startedAt": "2026-11-19T20:29:53.011Z",
       "completedAt": "2026-11-19T20:33:17.671Z"
+    },
+    {
+      "id": "66b1ebb4-91ba-4cc0-b8d2-bbc38b313626",
+      "itemId": "pauta-reposicao-2026-11-19-553c7142e90e",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "c1dfa95f5306b0d68876e38743844f4acdc1c2925ad2a819f11e7def97bcfa90",
+      "snapshot": "7237a9f17417eadb19c87ab0a6780ef7642154e10c669f455b896d613c410d29",
+      "input": {
+        "id": "pauta-reposicao-2026-11-19-553c7142e90e",
+        "title": "No aniversário da empresa, a marca continua sendo a protagonista",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 19/11/2026: a Pentagram divulgou o trabalho para a Philharmonia em seu índice de notícias, datado de 19/11. O estudo do projeto descreve uma composição de aniversário de 80 anos, com o numeral dourado sobre a assinatura empilhada, além de um sistema visual que pode variar entre temporadas. Essa é a data de divulgação observada, não uma data comprovada de implantação da identidade. Tese própria: a comemoração de uma empresa precisa ter uma relação legível com sua identidade e uma duração definida, em vez de substituir sua assinatura por um número que perde sentido depois da ocasião. Recorte em escritório de contabilidade que prepara uma campanha de aniversário: decidir qual informação celebra a trajetória, qual identifica a empresa e onde a combinação será usada. Abrir pelo contraste entre a peça comemorativa e um material de uso contínuo, sem Imagine ou avisos de exemplo hipotético. Examinar hierarquia entre nome, marca e elemento comemorativo, adaptação aos suportes pertinentes e o que volta à apresentação habitual quando a campanha termina. Não prescrever a solução da Philharmonia, recomendar redesign ou inferir resultados comerciais. Diferenciar de prêmio como evidência: foco no sistema de aplicação temporário, não numa chancela externa. Diferenciar de arquitetura de marcas para ofertas: foco num marco de calendário da mesma empresa, não numa nova linha ou negócio. Sem alegar idade, clientes, superioridade ou resultados reais para a empresa ilustrada. Não redigir até Felipe salvar a pauta.",
+        "audience": "Sócios e responsáveis por comunicação de escritórios, clínicas, restaurantes e empresas de serviços que preparam campanhas de aniversário ou marcos de trajetória.",
+        "goal": "De tratar o aniversário como um selo que cabe em qualquer material para planejar sua hierarquia, seus usos e sua duração dentro da identidade da empresa.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-19",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Pentagram, Philharmonia, divulgação no índice News em 19/11/2026",
+              "url": "https://www.pentagram.com/work/philharmonia",
+              "publishedAt": "2026-11-19"
+            },
+            {
+              "title": "Pentagram News, registro de Philharmonia datado de 19/11/2026",
+              "url": "https://www.pentagram.com/news",
+              "publishedAt": "2026-11-19"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-20T08:30:12.486Z",
+      "startedAt": "2026-11-20T09:36:53.135Z",
+      "completedAt": "2026-11-20T09:39:14.930Z"
+    },
+    {
+      "id": "ea40cdd9-092f-4a84-917b-b25501777ffb",
+      "itemId": "pauta-reposicao-2026-11-19-38e9f5debd11",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "a4ee3b8b7cd712765fe8c2a5e0abc5077c9f2d78f1db246bbe1b0f441e3f9794",
+      "snapshot": "93985c6814d82dfb41f3106bc9783793187286d27131971e5cd663a83258add8",
+      "input": {
+        "id": "pauta-reposicao-2026-11-19-38e9f5debd11",
+        "title": "A técnica de criação também cabe no briefing",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 19/11/2026: o Canva anunciou controles para ativar ou desativar recursos generativos e reduzir conteúdo gerado por IA na biblioteca. A data 2026-11-19T12:30:00.000Z consta em publishedAt no HTML da notícia. O anúncio distingue ferramentas generativas de recursos assistivos que editam material existente; não tratar todo uso de edição como geração nem prometer ausência completa de conteúdo de IA. Tese própria: o briefing de uma peça pode precisar esclarecer quais partes serão desenhadas, fotografadas, editadas ou geradas, quando essa escolha participa da intenção do projeto. Recorte em restaurante que encomenda ilustrações para uma carta e precisa combinar o papel do traço do ilustrador e das referências de criação. Abrir pela diferença entre pedir um resultado visual e combinar como ele será desenvolvido, sem Imagine ou avisos de exemplo hipotético. Examinar quais expectativas precisam ser explicitadas, onde há espaço para experimentar e quem resolve dúvidas antes de produzir; não impor um método único nem transformar preferência estética em superioridade moral. Diferenciar de imagem de campanha e prova de entrega: foco no acordo criativo antes da execução, não no valor documental da imagem final. Diferenciar de equipe que aprende IA: foco na escolha de processo de uma peça, não em treinamento. Diferenciar de identidade ensinada à IA: foco na delimitação do trabalho, não em consistência de outputs. Sem tutorial, contratação de plataforma, parecer sobre direitos, promessa de exclusividade ou discussão de dados privados. Não redigir até Felipe salvar a pauta.",
+        "audience": "Gestores de marketing, donos de restaurantes e empresas de serviços que encomendam ilustrações, fotografias e peças de comunicação a equipes criativas.",
+        "goal": "De presumir que aprovar a aparência também define o processo para explicitar no briefing as escolhas de criação que fazem diferença para aquela entrega.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-19",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Canva, Introducing AI Controls: Your creativity, your call, 19/11/2026",
+              "url": "https://www.canva.com/newsroom/news/ai-controls-canva/",
+              "publishedAt": "2026-11-19"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "09b14027-e83f-4e6d-a2d6-b53793928c00",
+          "completedAt": "2026-11-19T20:33:17.819Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Uma ilustração pode ser escolhida pelo que mostra e pela maneira como foi criada. Quando essa segunda parte importa para o projeto, ela precisa aparecer antes da primeira proposta. Deixar a técnica de criação fora do briefing transfere uma decisão relevante para uma suposição que talvez ninguém perceba ter feito.\n\n“Queremos desenhos com personalidade” ainda permite caminhos muito diferentes. A equipe pode encomendar o traço de uma ilustradora, trabalhar com um acervo disponível, fotografar os ingredientes para desenvolver uma composição ou experimentar imagens geradas. A intenção visual precisa orientar a escolha, mas nem sempre a aparência desejada explica tudo o que se espera do processo.\n\nNum restaurante que prepara uma carta ilustrada, o interesse pode estar justamente no modo como uma artista observa as ervas usadas pela cozinha. Se a encomenda foi entendida apenas como uma coleção de imagens de plantas, o primeiro material pode chegar bem acabado e ainda deixar uma parte importante da proposta sem resposta.\n\n## Dê um motivo à escolha da técnica\n\nAntes de definir como produzir, explique qual contribuição a imagem deve oferecer. Ela apresenta um ingrediente? Aproxima a carta do ambiente da casa? Faz parte de uma colaboração com uma profissional cujo trabalho o restaurante conhece? Cada resposta ajuda a delimitar uma tarefa diferente.\n\nNo caso da carta, a equipe gosta do traço de uma ilustradora porque ele combina observação e simplificação de uma maneira particular. Essa escolha pode orientar a encomenda com mais precisão do que uma referência genérica a algo artesanal. A conversa precisa deixar claro se o trabalho procurado envolve desenvolver novos desenhos daquela artista e como as referências serão usadas no percurso.\n\nUma preferência de processo não precisa virar um julgamento sobre todos os outros métodos. O que interessa é sua relação com aquela entrega. Há projetos em que experimentar gerações ajuda a explorar uma direção; há outros em que a participação de uma pessoa e seu modo de desenhar integram a própria proposta.\n\nEsse motivo também ajuda a examinar mudanças. Se a equipe sugerir outro caminho, é possível perguntar como ele responde à intenção combinada. A discussão deixa de depender apenas de uma reação à palavra IA ou de uma defesa abstrata da tecnologia.\n\nEm anúncio de 19 de novembro de 2026, o Canva apresentou controles para ativar ou desativar recursos generativos e reduzir conteúdo gerado por IA na biblioteca. A comunicação distingue esses recursos de ferramentas assistivas que editam material existente. O anúncio descreve escolhas dentro daquela plataforma; não estabelece o método adequado para qualquer marca.\n\nA distinção ajuda a formular uma conversa de criação mais precisa. Usar um recurso para editar uma fotografia não descreve a mesma atividade que gerar uma cena nova. Uma frase ampla sobre usar ou não usar IA pode deixar essas operações misturadas, mesmo quando a equipe acredita ter combinado o processo.\n\n## Separe as decisões que precisam estar combinadas\n\nO briefing não precisa acompanhar cada movimento de produção. Precisa tornar reconhecíveis as escolhas que afetam a intenção da peça. Para isso, vale dar nome ao material principal, ao desenvolvimento esperado e às dúvidas que ainda dependem de confirmação.\n\nNa carta do restaurante, a encomenda pode distinguir a ilustração das etapas posteriores de montagem. A artista desenvolve o desenho; outra pessoa prepara sua aplicação nas páginas. Ajustar a posição dessa imagem não significa necessariamente criar outro desenho. Alterar uma parte relevante da composição, porém, pode exigir uma nova conversa sobre o que foi pedido.\n\nEssa separação impede que a palavra edição carregue qualquer transformação. Se uma mudança interfere no traço procurado, nas características representadas ou na participação prevista da ilustradora, convém esclarecer seu alcance antes de executá-la. A equipe não precisa adivinhar onde termina um ajuste de aplicação e começa outra decisão criativa.\n\nAs referências também merecem contexto. Uma fotografia de uma erva disponível na cozinha pode ajudar a reconhecer o que será representado. Uma imagem de estilo pode orientar uma discussão sobre composição. As duas cumprem papéis diferentes, que devem ser compreendidos por quem desenvolve o material.\n\nNão basta reunir arquivos numa pasta e supor que todos serão usados da mesma forma. Explique por que cada referência foi incluída e encaminhe dúvidas a quem conhece sua finalidade. Utilize materiais adequados e autorizados para o trabalho, sem transformar essa seleção numa promessa de direitos ou exclusividade que ninguém confirmou.\n\nO mesmo raciocínio vale para o espaço de experimentação. A equipe pode querer avaliar possibilidades antes de escolher uma direção. Se esse momento existe, deixe explícito o que será explorado e o que uma proposta inicial pretende demonstrar. Uma exploração não deve se tornar silenciosamente o método definitivo de uma entrega cuja intenção era outra.\n\n## Faça a proposta responder ao que foi pedido\n\nQuando o primeiro material chega, avalie também sua relação com o processo combinado. A pergunta pode ser direta: como esta imagem foi desenvolvida e de que forma esse caminho atende à encomenda? A resposta interessa quando esclarece uma escolha relevante, sem exigir uma narrativa grandiosa sobre qualquer tarefa de edição.\n\nNo restaurante, alguém pode reconhecer que o desenho está visualmente próximo do esperado, mas perceber que a participação desejada da artista não foi compreendida. Esse ponto precisa voltar à conversa antes de a equipe tratar a semelhança como aprovação suficiente. Uma peça pode agradar ao olhar e ainda não corresponder ao trabalho que se pretendia encomendar.\n\nSe houver um desencontro, procure a suposição que ficou sem confirmação. A intenção foi descrita? O método foi discutido? Uma mudança de caminho foi proposta e aceita? Essas perguntas ajudam a retomar a decisão sem atribuir má-fé a partir de uma diferença de entendimento.\n\nO encaminhamento pode envolver ajustar a peça, rever uma etapa ou combinar outra abordagem com os responsáveis. O texto do briefing precisa acompanhar a decisão que for efetivamente tomada. Não há utilidade em manter uma orientação que a conversa já mudou, nem em apresentar a alteração como se sempre tivesse feito parte do pedido.\n\nEssa clareza também melhora a próxima encomenda. Se a observação da artista era central, ela merece ser nomeada desde o início. Se o importante era explorar possibilidades visuais com liberdade de técnica, isso também pode ser dito. O cuidado está em tornar a escolha discutível antes que ela apareça incorporada ao material.\n\nUma boa direção criativa dá espaço para trabalhar e oferece referências para decidir. Quando a maneira de criar faz parte do sentido da entrega, o briefing precisa acolher essa informação. Assim, a conversa sobre ferramentas e técnicas passa a servir ao projeto que a marca realmente quer desenvolver.",
+        "sources": "[Canva, anúncio de AI Controls, 19/11/2026](https://www.canva.com/newsroom/news/ai-controls-canva/)\n\nA fonte apresenta controles de recursos generativos e de conteúdo da biblioteca e distingue edição assistiva de geração. A análise do briefing e da encomenda de ilustrações é editorial da Tweed, sem prescrever plataforma, emitir parecer sobre direitos ou prometer exclusividade.",
+        "prompt": "Literal editorial photograph of one adult female illustrator actively painting a loose basil sprig in watercolor on a large upright easel inside a quiet restaurant before opening, medium side view showing her brush touching the paper and the actual small potted basil plant standing beside the easel, a few empty dining chairs softly visible behind her, she wears a muted teal apron inspired by #08ffb1 over neutral clothing, soft window daylight with natural skin tones and realistic pigments, candid focused making rather than a meeting or presentation, no laptop, paper samples on a table, abstract metaphor, readable text or logos --ar 3:2",
+        "imageAlt": "Ilustradora de avental teal pinta um ramo de manjericão em um cavalete, ao lado de um vaso da planta, dentro de um restaurante vazio.",
+        "date": "2026-11-29"
+      },
+      "createdAt": "2026-11-20T08:30:17.278Z",
+      "startedAt": "2026-11-20T09:36:53.299Z",
+      "completedAt": "2026-11-20T09:39:15.348Z"
     }
   ]
 }
