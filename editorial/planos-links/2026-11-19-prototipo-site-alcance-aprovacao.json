@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "prototipo-site-alcance-aprovacao",
+  "contentSha256": "63f580935c87909a0e62a9ea960addbb528f32e5c497b4d39230635161be98d8",
+  "modifiedAt": "2026-11-19",
+  "links": [
+    {
+      "from": "prototipo-site-alcance-aprovacao",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "caminho difícil de compreender",
+      "context": "Essas observações podem indicar um nome ambíguo, uma mensagem que promete mais do que deveria ou um caminho difícil de compreender.",
+      "reason": "Aprofunda como a compreensão da navegação participa da experiência de marca, que o protótipo ajuda a discutir."
+    },
+    {
+      "from": "prototipo-site-alcance-aprovacao",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "quais escolhas foram confirmadas",
+      "context": "Na PME, a referência pode indicar qual versão foi apresentada, quais escolhas foram confirmadas e quais pontos continuam pendentes.",
+      "reason": "Retoma critérios e registro de decisões para delimitar o que foi efetivamente aprovado."
+    }
+  ]
+}

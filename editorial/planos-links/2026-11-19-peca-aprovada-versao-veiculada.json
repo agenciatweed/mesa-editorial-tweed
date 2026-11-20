@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "peca-aprovada-versao-veiculada",
+  "contentSha256": "4eaf67bf9e5e964c6cde3897a7c2e28c92d66e1817fa73071f4d7291c884d06b",
+  "modifiedAt": "2026-11-19",
+  "links": [
+    {
+      "from": "peca-aprovada-versao-veiculada",
+      "to": "aprovacao-campanha-feedback-decisoes",
+      "anchor": "referência aprovada",
+      "context": "Compare a saída preparada com a referência aprovada nas informações pertinentes.",
+      "reason": "Retoma os critérios e registros da decisão para orientar a conferência da saída final."
+    },
+    {
+      "from": "peca-aprovada-versao-veiculada",
+      "to": "informacoes-empresa-atualizadas-canais",
+      "anchor": "condição de atendimento",
+      "context": "Se uma condição de atendimento mudou desde a decisão, a equipe precisa conferir o que continua válido antes de colocar a peça em circulação.",
+      "reason": "Aprofunda como fazer uma mudança operacional chegar às informações públicas da marca."
+    }
+  ]
+}

@@ -53,8 +53,18 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-12T16:16:32.763Z",
-    "scheduledRound": 3
+    "state": "published",
+    "runKey": "2026-11-19T20:28:39.430Z",
+    "url": "https://www.agenciatweed.com.br/prototipo-site-alcance-aprovacao/",
+    "publishedAt": "2026-11-19T20:32:12.011421+00:00",
+    "job": "70d7faa9-2588-4f22-a057-afc0b9b26754",
+    "files": [
+      "assets/artigos-editoriais/d9aabf9ef581076dd3901ee66ae6132a237dcb6f0dcc3a8ea5e2489e58f4a1fa.png",
+      "prototipo-site-alcance-aprovacao/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

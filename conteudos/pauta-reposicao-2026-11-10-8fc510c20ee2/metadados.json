@@ -53,8 +53,18 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-12T16:14:19.845Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-19T08:31:28.869Z",
+    "url": "https://www.agenciatweed.com.br/peca-aprovada-versao-veiculada/",
+    "publishedAt": "2026-11-19T08:41:41.237186+00:00",
+    "job": "46c9b7d0-d46d-4e09-8198-2b885bdf0b07",
+    "files": [
+      "assets/artigos-editoriais/ea2d474c489c2fa48b5f159efaaba2243f9f14dc017b262bb5fb62dbc11bfcc0.png",
+      "peca-aprovada-versao-veiculada/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }
