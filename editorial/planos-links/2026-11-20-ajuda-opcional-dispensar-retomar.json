@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "ajuda-opcional-dispensar-retomar",
+  "contentSha256": "00e80828098da4d0933f96e493dbaf2ce6d2bec3c89e1fa89a4be0d018953c27",
+  "modifiedAt": "2026-11-20",
+  "links": [
+    {
+      "from": "ajuda-opcional-dispensar-retomar",
+      "to": "o-que-o-seu-site-diz-sobre-sua-marca-ux-como-extensao-do-branding",
+      "anchor": "O texto e o comportamento precisam corresponder",
+      "context": "O texto e o comportamento precisam corresponder.",
+      "reason": "Relaciona a linguagem dos controles à experiência de marca durante o uso."
+    },
+    {
+      "from": "ajuda-opcional-dispensar-retomar",
+      "to": "redesign-site-transicao-usabilidade",
+      "anchor": "Uma mudança relevante",
+      "context": "Uma mudança relevante pode justificar um aviso específico.",
+      "reason": "Aprofunda a orientação necessária quando mudanças no site afetam percursos conhecidos."
+    }
+  ]
+}

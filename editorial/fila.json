@@ -13224,7 +13224,7 @@
       "id": "6002fba8-8675-447e-8d33-b44847b0d347",
       "itemId": "pauta-reposicao-2026-11-11-d1945dcd03bc",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "afd7919e96671ea7c85937f234e1a58322845dc3b444d756e8750f8fa2f5144c",
       "snapshot": "afd7919e96671ea7c85937f234e1a58322845dc3b444d756e8750f8fa2f5144c",
       "input": {
@@ -13287,7 +13287,8 @@
           "scheduledRound": 1
         }
       },
-      "createdAt": "2026-11-12T16:16:43.868Z"
+      "createdAt": "2026-11-12T16:16:43.868Z",
+      "completedAt": "2026-11-20T15:39:12.982854+00:00"
     },
     {
       "id": "25f553fb-8d9a-45c0-8add-66aa90dea4d1",
@@ -15097,6 +15098,44 @@
       "createdAt": "2026-11-20T08:30:17.278Z",
       "startedAt": "2026-11-20T09:36:53.299Z",
       "completedAt": "2026-11-20T09:39:15.348Z"
+    },
+    {
+      "id": "c2dcc91d-81f6-4bdf-a991-ffd42ccd67ac",
+      "itemId": "pauta-diaria-2026-11-20",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "9b31da3d64759ec385c73569cafd0d0650d61652ac0239af373751ec43a61272",
+      "snapshot": "080d263210d32fa223e286c1c757f34ae40ea653056c13a8032c146583ea07b7",
+      "input": {
+        "id": "pauta-diaria-2026-11-20",
+        "title": "A foto da abertura precisa funcionar dentro do site",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: em 13/11/2026, a Adobe Express publicou um guia sobre imagens de abertura e banners de sites, distinguindo dimensões do arquivo, proporção da área de exibição e recorte. O guia explica que títulos e botões podem ocupar a foto de modos diferentes no celular e recomenda conferir a composição na página real; não fornece uma medida universal para toda abertura. Tese própria: a escolha da fotografia de abertura precisa considerar o que continua visível e compreensível junto da chamada e da ação da página, além da qualidade da foto isolada. Recorte num restaurante cuja foto mostra salão, passagem e balcão: ao compor a abertura, decidir qual desses elementos apresenta a proposta da casa e que contexto não pode desaparecer no recorte estreito. Começar pela comparação entre a fotografia inteira e a abertura do site no celular, sem Imagine nem avisos de exemplo hipotético. Discutir o papel da imagem na mensagem, posição do assunto, espaço para a chamada e avaliação conjunta com título e botão. Quando necessário, considerar outro enquadramento ou uma versão prevista para celular, sem impor uma solução única ou inventar recursos que o site não oferece. Diferenciar da pauta de fotografar espaços: o foco é a relação entre uma foto já escolhida e sua área efetiva de exibição na abertura, não o planejamento de um conjunto fotográfico do ambiente. Diferenciar de adaptar vídeo: tratar do recorte estático e da composição com elementos da página, não duração, roteiro ou versões audiovisuais. Diferenciar de protótipo aprovado: conferir o significado da imagem no layout, não o alcance funcional de um protótipo. Não criar regras universais de pixels, tutoriais, código, números de conversão, promessas de acessibilidade ou alegações sobre experiências reais de clientes. As escolhas editoriais são análise da Tweed; a notícia é contexto, não prova de resultados comerciais.",
+        "audience": "Gestores de restaurantes, bares e negócios de serviços que aprovam fotografias e a apresentação inicial de seus sites, junto das equipes de design e conteúdo.",
+        "goal": "De aprovar a fotografia isoladamente para avaliar se a abertura preserva a mensagem e o assunto relevante junto do título e do próximo passo, inclusive em telas estreitas.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-20",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe Express, Website hero images and web banner sizes guide, 13/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/website-hero-image-web-banner-sizes",
+              "publishedAt": "2026-11-13"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-20T15:13:10.131Z",
+      "startedAt": "2026-11-20T15:37:21.917Z",
+      "completedAt": "2026-11-20T15:40:06.140Z"
     }
   ]
 }

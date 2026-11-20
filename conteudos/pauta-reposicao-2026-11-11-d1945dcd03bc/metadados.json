@@ -53,8 +53,18 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/83d6c42f28d967df179b14ef1388619eba45f43406b667cb1f47792be0dd32d4.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-12T16:16:43.853Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-20T15:36:41.319Z",
+    "url": "https://www.agenciatweed.com.br/ajuda-opcional-dispensar-retomar/",
+    "publishedAt": "2026-11-20T15:39:12.972548+00:00",
+    "job": "6002fba8-8675-447e-8d33-b44847b0d347",
+    "files": [
+      "assets/artigos-editoriais/83d6c42f28d967df179b14ef1388619eba45f43406b667cb1f47792be0dd32d4.png",
+      "ajuda-opcional-dispensar-retomar/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }
