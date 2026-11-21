@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "produto-surpresa-informacao-escolha",
+  "contentSha256": "e3511f60911f44f5149c93a73bb3883968e3dc3f28b62f766ee71f0e1288b182",
+  "modifiedAt": "2026-11-21",
+  "links": [
+    {
+      "from": "produto-surpresa-informacao-escolha",
+      "to": "imagem-campanha-prova-entrega",
+      "anchor": "Uma imagem de referência",
+      "context": "Uma imagem de referência precisa ser reconhecida como referência, sem depender de uma correção posterior pelo atendimento.",
+      "reason": "Aprofunda a identificação do papel de uma imagem, evitando confundir uma possibilidade ilustrada com aquilo que foi efetivamente oferecido."
+    }
+  ]
+}

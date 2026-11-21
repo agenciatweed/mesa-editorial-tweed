@@ -53,8 +53,18 @@
   "faq": "O que precisa ficar claro numa oferta de produto surpresa?\nA pessoa deve compreender a composição conhecida, as características necessárias ao uso e qual parte permanece variável, incluindo o que pode ou não escolher.\n\nComo apresentar fotos de uma coleção vendida em pacotes surpresa?\nConfira se a imagem permite distinguir o conteúdo de um pacote das possibilidades da coleção e se uma ilustração de referência não parece uma versão garantida.\n\nComo avaliar o entendimento da oferta antes da compra?\nApresente os materiais a adultos que não participaram da criação e peça que expliquem a quantidade, as escolhas disponíveis e os elementos variáveis. Compare as respostas com a composição real.",
   "url": "https://www.agenciatweed.com.br/produto-surpresa-informacao-escolha/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-13T20:25:28.804Z",
-    "scheduledRound": 3
+    "state": "published",
+    "runKey": "2026-11-21T03:37:22.854Z",
+    "url": "https://www.agenciatweed.com.br/produto-surpresa-informacao-escolha/",
+    "publishedAt": "2026-11-21T03:42:44.465994+00:00",
+    "job": "d7b0c95a-a6e8-4fd6-95b2-0a447220390e",
+    "files": [
+      "assets/artigos-editoriais/77fa1fdd2ddadae887711ab5f35fc32f24fb9fcf64fbd0fb4d753388d8e106ac.png",
+      "produto-surpresa-informacao-escolha/index.html",
+      "blog/index.html",
+      "blog-marcas-com-alma/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }
