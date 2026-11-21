@@ -53,8 +53,18 @@
   "faq": "Uma nova oferta precisa de uma marca independente?\nNão necessariamente. Ela pode ser apresentada sob a marca existente, como uma linha vinculada ou com identidade mais independente, conforme a relação que o público precisa reconhecer.\n\nO que avaliar antes de separar a identidade de uma oferta?\nExamine diferenças de público, promessa e percurso comercial, além da capacidade de manter materiais, canais e respostas coerentes depois do lançamento.\n\nComo conferir se o vínculo entre as ofertas está compreensível?\nObserve se, no ponto de descoberta, a pessoa consegue identificar quem oferece a novidade, sua relação com o trabalho existente e o próximo passo pertinente. A semelhança visual não comprova identidade jurídica.",
   "url": "https://www.agenciatweed.com.br/nova-oferta-arquitetura-marcas/",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-13T20:25:25.200Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-21T15:36:04.100Z",
+    "url": "https://www.agenciatweed.com.br/nova-oferta-arquitetura-marcas/",
+    "publishedAt": "2026-11-21T15:41:35.211516+00:00",
+    "job": "25f553fb-8d9a-45c0-8add-66aa90dea4d1",
+    "files": [
+      "assets/artigos-editoriais/f237fa76a2cd43e0bde7d6950e210c4c508399cf3c7f81659887d7354cf39d99.png",
+      "nova-oferta-arquitetura-marcas/index.html",
+      "blog/index.html",
+      "blog-pequeno-mas-estrategico/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

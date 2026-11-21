@@ -13294,7 +13294,7 @@
       "id": "25f553fb-8d9a-45c0-8add-66aa90dea4d1",
       "itemId": "pauta-diaria-2026-11-12",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "ce37114f490639ebe50ca85236294e54c7ce66fc3d6d7e6b5944d703eb3eb70e",
       "snapshot": "ce37114f490639ebe50ca85236294e54c7ce66fc3d6d7e6b5944d703eb3eb70e",
       "input": {
@@ -13357,7 +13357,8 @@
           "scheduledRound": 1
         }
       },
-      "createdAt": "2026-11-13T20:25:25.260Z"
+      "createdAt": "2026-11-13T20:25:25.260Z",
+      "completedAt": "2026-11-21T15:41:35.227424+00:00"
     },
     {
       "id": "d7b0c95a-a6e8-4fd6-95b2-0a447220390e",
@@ -15318,6 +15319,144 @@
       "createdAt": "2026-11-21T06:46:48.942Z",
       "startedAt": "2026-11-21T09:36:21.737Z",
       "completedAt": "2026-11-21T09:38:58.195Z"
+    },
+    {
+      "id": "6d0d288c-31bb-4827-8049-c3bdd8da423e",
+      "itemId": "pauta-reposicao-2026-11-20-6b8f8ad37c63",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "a6d4de5ba62bb789e80aad8be1b6e44c0c97e94b36945ed5ad549ae07f9f9f26",
+      "snapshot": "092aad358d067aba0f6820c970fc46af46dc202dc1d500b7420bdd032d9154d5",
+      "input": {
+        "id": "pauta-reposicao-2026-11-20-6b8f8ad37c63",
+        "title": "O desenho da embalagem continua depois da dobra",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: guia da Adobe Express publicado em 17/11/2026 orienta solicitar ao fabricante o gabarito atual da embalagem e conferir a arte em amostra montada. O documento distingue criação gráfica e estrutura fornecida pelo produtor; é orientação de fornecedor, sem prova de resultado comercial. Tese própria: a identidade aprovada na arte plana precisa manter hierarquia e reconhecimento quando as faces se encontram, dobram ou ficam encobertas. Recorte numa loja de vinhos que encomenda uma caixa para presentes: observar onde a assinatura, o elemento gráfico e a identificação ficam na peça montada. Abrir pela comparação entre uma linha visual contínua na arte e sua interrupção numa dobra, sem Imagine nem avisos de exemplo hipotético. Examinar a conversa entre criação e fornecedor, as áreas confirmadas para aplicação e a conferência visual em tamanho real. Não projetar estrutura, proteção ou parâmetros de impressão, nem impor medidas universais; decisões técnicas dependem do produtor. Diferenciar de embalagem e gesto de uso: foco na composição gráfica entre faces montadas, não na sequência de abertura. Diferenciar de variantes: não trata de distinguir produtos. Diferenciar de peça aprovada versus veiculada: foco no suporte tridimensional, não em controle de versões. Não prometer vendas, recomendar software ou abordar alegações ambientais e regras de rotulagem.",
+        "audience": "Gestores de marcas, lojas de vinhos e delicatessens que encomendam embalagens e precisam avaliar a aplicação da identidade junto da criação e do fornecedor.",
+        "goal": "De aprovar apenas a arte aberta para avaliar a composição e a identificação na embalagem montada, com as condições de produção confirmadas pelo fornecedor.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-20",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe Express, How do you design packaging for boxes, mailers, and pouches?, 17/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/how-to-design-packaging-boxes-mailers",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "6f5283dd-2d0d-415c-b357-f8d0ec913670",
+          "completedAt": "2026-11-21T09:38:56.163Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A faixa atravessa a arte de ponta a ponta. Na caixa montada, termina numa lateral, reaparece mais abaixo e desaparece sob uma aba. O desenho que parecia contínuo na apresentação agora precisa ser entendido por partes.\n\nNa embalagem montada, a composição ganha encontros, interrupções e superfícies que não são vistas ao mesmo tempo. A aprovação da arte aberta mostra uma parte do projeto. Falta conferir o que acontece com a identidade quando aquele desenho ocupa um objeto.\n\nUma loja de vinhos prepara uma caixa para presentes. A equipe escolheu uma assinatura discreta e uma faixa gráfica que percorre o conjunto. No arquivo, as duas parecem bem resolvidas. Ao montar a amostra, percebe que o nome ficou perto de uma dobra e que a faixa perdeu a relação entre frente e lateral.\n\nNão é uma discussão sobre a caixa ser bonita. É uma pergunta sobre onde a comunicação acontece. Qual face apresenta a loja? O que alguém reconhece quando olha o pacote fechado? A lateral continua parecendo parte do mesmo desenho?\n\nEm guia publicado em 17 de novembro de 2026, a Adobe Express recomenda solicitar ao fabricante o gabarito atual da embalagem e avaliar a arte numa amostra montada. A fonte distingue o trabalho gráfico da estrutura e das especificações fornecidas pelo produtor. Essa divisão ajuda a organizar a conversa antes de refinar o desenho.\n\n## Descubra onde cada parte vai aparecer\n\nUma área grande na arte aberta pode virar duas faces estreitas. Outra região, aparentemente disponível, pode ficar encoberta depois da montagem. O espaço no arquivo não corresponde automaticamente a uma superfície de comunicação.\n\nNa caixa da loja, a primeira tarefa é reconhecer frente, laterais e demais áreas previstas no modelo confirmado. Depois, discutir o papel de cada uma. A assinatura precisa ser encontrada em qual posição? A faixa deve conectar superfícies ou pode terminar deliberadamente numa delas?\n\nEssa leitura evita que o desenho seja distribuído como uma estampa indiferente ao suporte. Uma continuidade pode ser interessante quando ajuda a perceber o conjunto. Uma interrupção pode funcionar quando foi prevista. O problema é descobrir essas relações apenas quando a peça já está pronta.\n\nTambém vale olhar para as faces isoladas. Quem recebe uma fotografia lateral talvez não veja o mesmo conjunto que aparece na imagem principal. A identidade precisa ser avaliada nas posições pertinentes à apresentação da caixa, sem exigir que toda superfície repita todos os elementos.\n\nDefina primeiro o que cada área precisa comunicar. Isso oferece um critério para decidir onde colocar o nome, o grafismo e as informações que efetivamente pertencem àquela embalagem.\n\n## Trabalhe sobre a estrutura confirmada\n\nO gabarito precisa corresponder à caixa e ao material que serão produzidos. Um arquivo parecido, usado numa encomenda anterior, não basta como referência se houve mudança de formato ou fornecedor.\n\nNa loja, antes de ajustar a faixa, criação e produtor podem confirmar qual é o modelo atual e quais áreas estão disponíveis para aplicação gráfica. As dúvidas sobre dobras, encontros e regiões encobertas devem ser resolvidas com quem conhece a produção.\n\nO designer organiza a comunicação dentro dessas condições. Não precisa inventar a construção da caixa para demonstrar uma ideia visual. Tampouco deve tratar uma simulação atraente como confirmação de que qualquer encontro será executado daquela maneira.\n\nSe uma proposta depende de uma continuidade muito precisa entre faces, essa intenção precisa entrar na conversa. O fornecedor pode esclarecer o que o processo permite e quais pontos merecem outra solução. A decisão gráfica passa a considerar uma condição real, em vez de depender de uma coincidência na montagem.\n\nNão existe uma distância ou uma medida única que resolva todos os projetos. As referências técnicas devem vir do produtor responsável pela peça escolhida. O trabalho conjunto começa por tornar essas condições compreensíveis antes da aprovação final.\n\n## Confira o nome no objeto, não apenas no arquivo\n\nNa apresentação ampliada, a assinatura da loja ocupa um espaço confortável. Na caixa em tamanho real, fica próxima da mudança de face. Parte do nome pode ser percebida de um ângulo e outra parte exigir que a pessoa gire o pacote.\n\nEsse efeito não é necessariamente um defeito em qualquer composição. Precisa ser compatível com o papel daquela informação. Se a intenção é identificar rapidamente quem oferece o presente, convém avaliar se a posição escolhida permite essa leitura.\n\nO mesmo cuidado vale para um detalhe gráfico que parece importante apenas porque está grande na tela. Ao montar a amostra, ele pode ocupar uma região pouco visível enquanto uma área mais exposta fica sem uma função clara.\n\nObserve a caixa a uma distância pertinente ao seu uso, na posição em que será apresentada. Depois aproxime o olhar. A assinatura continua reconhecível? A distribuição dos elementos parece intencional? Uma dobra separa partes que precisariam ser lidas juntas?\n\nEssa conferência não é um teste de resistência nem uma validação da proteção do conteúdo. Seu objetivo é examinar a composição gráfica. Outras perguntas exigem as avaliações apropriadas do fabricante e dos responsáveis pelo produto.\n\n## Use a amostra para decidir um ajuste concreto\n\nUma visualização digital ajuda a discutir a intenção. Uma amostra apropriada permite observar como as faces se encontram no objeto. Cada referência oferece uma informação, e nenhuma precisa fingir que resolve todas as dúvidas.\n\nNa loja de vinhos, a amostra pode mostrar que a faixa deveria mudar de altura ou terminar antes de uma dobra. Talvez seja suficiente reposicionar a assinatura. Talvez o grafismo precise de uma composição própria para a lateral.\n\nEm vez de pedir que a embalagem fique mais elegante, registre a questão encontrada. O nome perde leitura naquela posição. A continuidade entre as faces parece acidental. Uma parte importante fica coberta. Cada observação orienta um tipo de ajuste e permite conferir depois se ele resolveu o problema visual.\n\nEvite acrescentar elementos apenas para preencher a área que sobrou. Uma superfície sem impressão pode participar do desenho. O critério é a relação entre as partes e a mensagem que a loja pretende apresentar, não a obrigação de ocupar todo o gabarito.\n\nDepois do ajuste, volte à peça montada. A alteração de uma face pode modificar a relação com outra. A aprovação precisa considerar o conjunto resultante, além do trecho que recebeu a correção.\n\n## A identidade precisa chegar inteira à aprovação\n\nAntes de liberar a arte, reúna o gabarito confirmado, a composição e a referência montada que foi avaliada. Deixe identificadas as decisões gráficas que dependem de uma condição de produção esclarecida com o fornecedor.\n\nNa caixa, a faixa pode continuar atravessando as faces. Pode também encontrar um término mais adequado. O importante é que essa relação tenha sido escolhida e conferida, em vez de ser uma consequência inesperada da passagem do plano para o volume.\n\nA embalagem não precisa exibir a marca da mesma maneira em todos os lados. Precisa fazer com que cada lado pertença a uma composição compreensível. A dobra participa desse desenho desde o início, mesmo quando só fica visível depois da montagem.",
+        "sources": "[Adobe Express, guia de design de caixas e embalagens, 17/11/2026](https://www.adobe.com/express/learn/blog/how-to-design-packaging-boxes-mailers)\n\nA fonte orienta a preparação gráfica junto do fabricante. As decisões de composição são análise editorial da Tweed; especificações de produção dependem do fornecedor responsável.",
+        "prompt": "Literal editorial product photograph without people of a finished rigid paperboard wine gift box standing upright on a low dark wooden shelf in a quiet wine shop, close three-quarter view showing the front and one side meeting at a crisp folded edge, a narrow pale teal printed stripe inspired by #08ffb1 continues around the corner while a blank cream identification panel remains entirely on the front face, a few wine bottles softly blurred well behind the box, realistic paper texture and folded construction, soft neutral window light, no open package, loose samples on a table, abstract metaphor, readable text or logos --ar 3:2",
+        "imageAlt": "Caixa de presente em papel cartão sobre uma prateleira de madeira, com faixa teal atravessando a quina e garrafas de vinho desfocadas ao fundo.",
+        "date": "2026-11-30"
+      },
+      "createdAt": "2026-11-21T09:53:16.485Z",
+      "startedAt": "2026-11-21T15:38:03.578Z",
+      "completedAt": "2026-11-21T15:40:00.757Z"
+    },
+    {
+      "id": "f8e77eeb-7528-4d50-aef1-32df527568a8",
+      "itemId": "pauta-diaria-2026-11-21",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "35178b0de248f53008bf636c2e0ace2e4d4f849e7304ed3528e49a6fadf30b15",
+      "snapshot": "cac5ce51c9c9fb9403e5e468cc8345ed89ac33aa2413c7d4b5ba02e69a1be116",
+      "input": {
+        "id": "pauta-diaria-2026-11-21",
+        "title": "Uma frase também pode construir a imagem da marca",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: a Pentagram divulgou em seu índice de notícias de 17/11/2026 a identidade da Poetry Foundation. O estudo https://www.pentagram.com/work/poetry-identity mostra palavras de poetas como matéria visual e trechos de poemas na composição das capas. Usar 17/11 como data da divulgação observada, sem inventar data de implantação ou resultados. Tese própria: um conteúdo verbal específico pode orientar a composição visual, em vez de a criação depender sempre de uma fotografia genérica seguida de texto. Recorte numa consultoria de gestão que prepara uma série de peças a partir de observações autorais sobre o trabalho, sem citar clientes. Comparar uma frase pertinente apresentada com hierarquia e uma frase vaga ampliada apenas para ocupar espaço. Discutir seleção do trecho, ritmo de linhas, escala, continuidade entre peças e leitura no suporte final. Não propor que todo conteúdo vire cartaz tipográfico nem substituir fotografias necessárias para demonstrar uma entrega. Diferenciar de fontes disponíveis na produção: foco no conteúdo verbal como elemento visual, não no acesso aos arquivos tipográficos. Diferenciar de cardápios: foco na expressão de uma ideia da marca, não na hierarquia de itens e preços. Não copiar poemas, identidade ou fontes da instituição, presumir direitos de uso, recomendar software ou prometer reconhecimento. A aplicação a serviços é análise editorial da Tweed.",
+        "audience": "Sócios, equipes de conteúdo e criação de consultorias e empresas de serviços que produzem materiais autorais e recorrem repetidamente a fotografias genéricas.",
+        "goal": "De escolher uma imagem de banco antes de definir a mensagem para avaliar quando as próprias palavras podem conduzir o desenho de uma peça e expressar uma ideia específica da marca.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-21",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Pentagram, divulgação de Poetry Foundation no índice de notícias, 17/11/2026",
+              "url": "https://www.pentagram.com/news",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "0b8d72c1-b577-4d76-9631-7cf7bc2e79cf",
+          "completedAt": "2026-11-21T09:38:56.763Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "“Precisamos de uma imagem para essa ideia.” A frase já está escrita, é específica e tem relação com o trabalho da consultoria. Mesmo assim, a busca começa por uma fotografia de pessoas numa sala de reunião. O texto acaba menor, espremido no espaço que a foto deixou.\n\nO conteúdo verbal também pode ser a matéria visual de uma peça. Uma frase da marca pode ganhar presença pela composição, pelo ritmo e pela relação entre suas palavras, sem precisar entrar sempre como legenda de uma fotografia genérica.\n\nIsso não significa abandonar imagens ou ampliar qualquer chamada até ocupar a página. Significa incluir outra possibilidade na decisão criativa: talvez aquilo que a empresa tem a dizer já ofereça o ponto de partida para o desenho.\n\nO trabalho da Pentagram para a Poetry Foundation ajuda a observar essa escolha. Divulgado no índice de notícias da agência em 17 de novembro de 2026, o projeto apresenta palavras de poetas como elementos visuais e utiliza trechos de poemas nas capas da revista. É uma solução vinculada à atividade daquela instituição, sem representar uma receita para outras marcas.\n\nA questão que pode atravessar essa referência é simples: a forma de apresentar uma ideia pode nascer do próprio conteúdo que merece ser lido?\n\n## Escolha uma frase que tenha algo para sustentar\n\nNa consultoria, um material sobre decisões de gestão pode conter uma observação autoral que sintetiza um problema recorrente do trabalho. Essa passagem oferece uma ideia para desenvolver. Já uma frase que apenas promete excelência poderia aparecer em muitos negócios sem mudar de sentido.\n\nAs duas podem receber um desenho expressivo. A diferença continua no conteúdo. O tamanho das letras não transforma uma afirmação vaga numa visão particular da empresa.\n\nAntes de compor, leia o trecho sem qualquer tratamento visual. Existe uma ideia reconhecível? A formulação corresponde ao argumento do material? A empresa consegue explicar o que está dizendo sem recorrer a uma promessa maior do que seu trabalho permite?\n\nTambém é preciso considerar o recorte. Uma frase retirada de um texto mais longo pode depender da explicação anterior. Ao circular sozinha, talvez pareça uma regra absoluta ou uma afirmação que o artigo original limitava a determinada situação.\n\nEscolher o trecho faz parte da criação. O objetivo é encontrar uma passagem capaz de conduzir a peça com sentido próprio, sem retirar as condições necessárias para compreendê-la.\n\n## Deixe a composição acompanhar o pensamento\n\nUma quebra de linha pode aproximar palavras que pertencem à mesma ideia ou separar uma expressão que precisava ser lida em conjunto. O desenho interfere no ritmo, além de organizar espaço.\n\nNa série da consultoria, uma observação curta pode pedir uma leitura direta. Outra talvez dependa da relação entre dois trechos. A composição pode tornar essa relação visível, desde que preserve a ordem e o sentido do que foi escrito.\n\nNão é necessário dar o mesmo destaque a todas as palavras. O peso visual pode indicar por onde começar e onde o argumento muda de direção. O cuidado é evitar que uma palavra isolada passe a afirmar outra coisa apenas porque ficou maior.\n\nLeia a composição em voz alta e compare com o texto corrido. A pausa sugerida pelo desenho ajuda a acompanhar a frase? Uma linha parece terminar antes da ideia? O contraste entre os blocos corresponde ao que realmente se pretende contrastar?\n\nEssas perguntas oferecem um critério mais útil do que escolher o arranjo que parece mais ousado. A expressão visual precisa trabalhar com o conteúdo, sem obrigar o leitor a reconstruir uma frase que o projeto desorganizou.\n\n## Faça a peça pertencer à marca\n\nUsar palavras como elemento principal não dispensa identidade. A composição continua precisando conversar com as escolhas tipográficas, as cores e a maneira de apresentar conteúdo que a empresa já reconhece como suas.\n\nNa consultoria, uma peça pode ser intensa e outra mais contida sem parecer que vieram de empresas diferentes. É possível preservar relações de margem, contraste, posição da assinatura ou organização dos elementos, conforme o sistema existente.\n\nIsso não exige criar uma regra universal para todas as frases. Uma composição adequada a poucas palavras pode não servir a um pensamento mais longo. A continuidade pode estar nos critérios, em vez de depender de encaixar todo conteúdo no mesmo molde.\n\nO projeto da Poetry Foundation apresenta uma resposta própria à poesia e à atuação da instituição. O aprendizado não está em copiar seus tipos, suas cores ou suas capas. Está em perceber que conteúdo e linguagem visual podem ser desenvolvidos juntos, a partir de uma razão ligada à marca.\n\nPara a consultoria, essa razão precisa vir de suas próprias ideias e da finalidade de cada material. Uma aparência emprestada não substitui a decisão sobre o que merece ser dito daquela maneira.\n\n## Confira a leitura onde ela vai acontecer\n\nUma composição que funciona ampliada na apresentação pode perder a leitura quando aparece no telefone. Um trecho secundário fica pequeno. A assinatura desaparece. A quebra que parecia expressiva se torna difícil de acompanhar.\n\nPor isso, a revisão precisa mostrar a peça no suporte pertinente. Na publicação de uma rede social, observe o conjunto no tamanho em que será encontrado. Num cartaz, considere a distância e as condições previstas de leitura. Não existe um tamanho único de letra que responda por qualquer aplicação.\n\nNa série da consultoria, confira também as peças lado a lado. A ordem da leitura continua compreensível? A variação ajuda a desenvolver assuntos diferentes ou apenas troca o arranjo para parecer novidade? A assinatura permanece disponível sem competir com a ideia principal?\n\nUma frase mais longa talvez pertença ao desenvolvimento de um artigo, e não à imagem de abertura. Reconhecer esse limite também é uma decisão criativa. O conteúdo não precisa ser comprimido até caber num formato que deixou de favorecê-lo.\n\nQuando a imagem será compartilhada separadamente, examine o contexto que permanece. A peça precisa continuar identificável e compreensível fora da legenda original. Se depende de uma ressalva importante, essa condição deve participar da decisão sobre seu uso.\n\n## Nem toda mensagem precisa ocupar esse lugar\n\nHá materiais em que a fotografia oferece algo que as palavras não substituem: mostrar um espaço real, apresentar um produto ou documentar um trabalho concluído. Uma composição tipográfica não deveria assumir essas funções apenas porque ficou bem resolvida.\n\nEm outros materiais, uma imagem de banco pode acrescentar pouco ao argumento. Voltar à frase permite discutir se a peça precisa mesmo de uma cena ilustrativa ou se o conteúdo autoral oferece uma direção mais pertinente.\n\nA consultoria pode começar por uma única publicação, com uma ideia que consegue sustentar. Escolhe o trecho, desenvolve a composição dentro da identidade e confere sua leitura no destino previsto. Depois avalia em quais assuntos essa linguagem continua fazendo sentido.\n\nO recurso não precisa virar obrigação para toda a comunicação. Seu valor está em ampliar as escolhas da criação. Antes de procurar uma fotografia para completar a próxima peça, vale olhar de novo para as palavras: talvez a imagem comece ali.",
+        "sources": "[Pentagram, projeto de identidade da Poetry Foundation](https://www.pentagram.com/work/poetry-identity)\n[Pentagram, índice de notícias com divulgação de Poetry Foundation em 17/11/2026](https://www.pentagram.com/news)\n\nA data se refere à divulgação observada no índice de notícias. A análise aplicada à comunicação de serviços é da Tweed; o projeto de referência não comprova resultados comerciais.",
+        "prompt": "Literal documentary editorial photograph of one adult female graphic designer mounting a large typographic poster on an upright white studio wall, close side view of her hands aligning the top corner and pressing the paper flat, the poster uses oversized black and pale teal letterforms inspired by #08ffb1 with most characters cropped by the camera and all wording deliberately unreadable, soft daylight from a side window, natural skin tones and realistic paper texture, focused physical installation rather than a meeting or presentation, no laptop, table of paper samples, abstract metaphor, legible text or logos --ar 3:2",
+        "imageAlt": "Designer alinha um cartaz tipográfico numa parede branca, com formas de letras pretas e teal parcialmente enquadradas.",
+        "date": "2026-12-01"
+      },
+      "createdAt": "2026-11-21T09:53:20.207Z",
+      "startedAt": "2026-11-21T15:38:03.752Z",
+      "completedAt": "2026-11-21T15:40:01.241Z"
+    },
+    {
+      "id": "dcb3e506-a088-48ec-b291-e82de48874c4",
+      "itemId": "pauta-reposicao-2026-11-21-7cd3ca5bd963",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "de0546e1f046b1915eb71803292cb17cea099908b1a535bc0ae40f57e46583dd",
+      "snapshot": "21029945fd6b8d04c6d36f31858086d5e9e739af7826abc43b6071007a71151f",
+      "input": {
+        "id": "pauta-reposicao-2026-11-21-7cd3ca5bd963",
+        "title": "Mostre as conexões que fazem seu serviço funcionar",
+        "edition": 0,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: o índice de notícias da Pentagram divulga o projeto Parker Institute em 20/11/2026. O estudo https://www.pentagram.com/work/parker-institute apresenta o modelo de atuação da instituição como parte do sistema visual e do site, mostrando relações e sobreposições entre fases. A data é da divulgação observada, não da implantação. Usar somente a decisão de comunicação visual, sem reproduzir promessas, slogans ou alegações médicas. Tese própria: o desenho de um serviço precisa esclarecer como atividades se relacionam, em vez de organizar tudo numa fila de etapas apenas porque a sequência fica bonita na apresentação. Recorte na apresentação comercial de um escritório de auditoria: verificar quando levantamento de informações, conversas e análises se conectam, quais relações precisam ser explicadas ao cliente e onde uma representação simplificada pode sugerir um funcionamento diferente do real. Abrir pela leitura de um diagrama e pela pergunta que uma seta deixa sem resposta, sem personagem obrigatório nem Imagine. Discutir o que os blocos representam, o significado das conexões, a diferença entre ordem e simultaneidade e a necessidade de validar o desenho com quem presta o serviço. Não criar normas ou procedimentos de auditoria, recomendar mudanças operacionais nem prometer prazos ou resultados. Diferenciar de apresentação sem apresentador: foco no significado das relações desenhadas, não na autonomia de todo o documento. Diferenciar de demonstrar produto: foco na representação do trabalho entre atividades, não numa demonstração de uso. Não prescrever animações, ferramentas ou um modelo universal; a solução visual depende do funcionamento confirmado.",
+        "audience": "Sócios e responsáveis por comunicação e comercial de escritórios de auditoria, consultorias e empresas de serviços que precisam explicar uma forma de trabalhar com atividades interdependentes.",
+        "goal": "De aprovar um diagrama apenas pela aparência para conferir se seus blocos e conexões explicam o funcionamento real do serviço e as relações importantes para quem pretende contratá-lo.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-21",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Pentagram, divulgação de Parker Institute no índice de notícias, 20/11/2026",
+              "url": "https://www.pentagram.com/news",
+              "publishedAt": "2026-11-20"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-21T09:53:26.266Z",
+      "startedAt": "2026-11-21T15:38:03.404Z",
+      "completedAt": "2026-11-21T15:40:01.732Z"
     }
   ]
 }

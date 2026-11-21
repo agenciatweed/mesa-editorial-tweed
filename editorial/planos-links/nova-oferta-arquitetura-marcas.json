@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "nova-oferta-arquitetura-marcas",
+  "contentSha256": "565e149ea276b269a6c6a2b9c55d64603983b8748b533c685f6a4db3fd53e5ea",
+  "modifiedAt": "2026-11-21",
+  "links": [
+    {
+      "from": "nova-oferta-arquitetura-marcas",
+      "to": "nome-produto-clareza-proposta",
+      "anchor": "descrições claras de temas e formatos",
+      "context": "No exemplo, uma possibilidade é apresentar os cursos como parte da consultoria, com descrições claras de temas e formatos.",
+      "reason": "A apresentação de cursos sob a marca existente depende de descritores que expliquem a oferta; o destino aprofunda a relação entre nome, descritor e portfólio."
+    },
+    {
+      "from": "nova-oferta-arquitetura-marcas",
+      "to": "seu-logotipo-e-bonito-mas-sua-marca-e-clara",
+      "anchor": "razão estratégica",
+      "context": "Uma construção independente também pode ser examinada quando houver uma razão estratégica para isso.",
+      "reason": "O destino desenvolve a clareza de posicionamento como ponto de partida anterior ao desenho de outra identidade."
+    }
+  ]
+}
