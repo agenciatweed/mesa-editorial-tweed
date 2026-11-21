@@ -15137,6 +15137,187 @@
       "createdAt": "2026-11-20T15:13:10.131Z",
       "startedAt": "2026-11-20T15:37:21.917Z",
       "completedAt": "2026-11-20T15:40:06.140Z"
+    },
+    {
+      "id": "0b8d72c1-b577-4d76-9631-7cf7bc2e79cf",
+      "itemId": "pauta-diaria-2026-11-21",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "434821e525173b57bfab764318d6cebfdf4a5a108846e2e935e6bd5eea7ea6db",
+      "snapshot": "f5e2a17f6845302433a36c701118f1276e1c1d20fc6c12fac02fbe4dcf51e4ac",
+      "input": {
+        "id": "pauta-diaria-2026-11-21",
+        "title": "Uma frase também pode construir a imagem da marca",
+        "edition": 2,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: a Pentagram divulgou em seu índice de notícias de 17/11/2026 a identidade da Poetry Foundation. O estudo https://www.pentagram.com/work/poetry-identity mostra palavras de poetas como matéria visual e trechos de poemas na composição das capas. Usar 17/11 como data da divulgação observada, sem inventar data de implantação ou resultados. Tese própria: um conteúdo verbal específico pode orientar a composição visual, em vez de a criação depender sempre de uma fotografia genérica seguida de texto. Recorte numa consultoria de gestão que prepara uma série de peças a partir de observações autorais sobre o trabalho, sem citar clientes. Comparar uma frase pertinente apresentada com hierarquia e uma frase vaga ampliada apenas para ocupar espaço. Discutir seleção do trecho, ritmo de linhas, escala, continuidade entre peças e leitura no suporte final. Não propor que todo conteúdo vire cartaz tipográfico nem substituir fotografias necessárias para demonstrar uma entrega. Diferenciar de fontes disponíveis na produção: foco no conteúdo verbal como elemento visual, não no acesso aos arquivos tipográficos. Diferenciar de cardápios: foco na expressão de uma ideia da marca, não na hierarquia de itens e preços. Não copiar poemas, identidade ou fontes da instituição, presumir direitos de uso, recomendar software ou prometer reconhecimento. A aplicação a serviços é análise editorial da Tweed.",
+        "audience": "Sócios, equipes de conteúdo e criação de consultorias e empresas de serviços que produzem materiais autorais e recorrem repetidamente a fotografias genéricas.",
+        "goal": "De escolher uma imagem de banco antes de definir a mensagem para avaliar quando as próprias palavras podem conduzir o desenho de uma peça e expressar uma ideia específica da marca.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-21",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Pentagram, divulgação de Poetry Foundation no índice de notícias, 17/11/2026",
+              "url": "https://www.pentagram.com/news",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-21T06:46:31.360Z",
+      "startedAt": "2026-11-21T09:36:20.991Z",
+      "completedAt": "2026-11-21T09:38:57.103Z"
+    },
+    {
+      "id": "6f5283dd-2d0d-415c-b357-f8d0ec913670",
+      "itemId": "pauta-reposicao-2026-11-20-6b8f8ad37c63",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "d6f7368119fc519ba72389171e343563366074aca2c647013214ae5add1889ef",
+      "snapshot": "20b544388edc34278124c3513b0ab87b3f1e200c89ccae54d405218e4a9c866f",
+      "input": {
+        "id": "pauta-reposicao-2026-11-20-6b8f8ad37c63",
+        "title": "O desenho da embalagem continua depois da dobra",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: guia da Adobe Express publicado em 17/11/2026 orienta solicitar ao fabricante o gabarito atual da embalagem e conferir a arte em amostra montada. O documento distingue criação gráfica e estrutura fornecida pelo produtor; é orientação de fornecedor, sem prova de resultado comercial. Tese própria: a identidade aprovada na arte plana precisa manter hierarquia e reconhecimento quando as faces se encontram, dobram ou ficam encobertas. Recorte numa loja de vinhos que encomenda uma caixa para presentes: observar onde a assinatura, o elemento gráfico e a identificação ficam na peça montada. Abrir pela comparação entre uma linha visual contínua na arte e sua interrupção numa dobra, sem Imagine nem avisos de exemplo hipotético. Examinar a conversa entre criação e fornecedor, as áreas confirmadas para aplicação e a conferência visual em tamanho real. Não projetar estrutura, proteção ou parâmetros de impressão, nem impor medidas universais; decisões técnicas dependem do produtor. Diferenciar de embalagem e gesto de uso: foco na composição gráfica entre faces montadas, não na sequência de abertura. Diferenciar de variantes: não trata de distinguir produtos. Diferenciar de peça aprovada versus veiculada: foco no suporte tridimensional, não em controle de versões. Não prometer vendas, recomendar software ou abordar alegações ambientais e regras de rotulagem.",
+        "audience": "Gestores de marcas, lojas de vinhos e delicatessens que encomendam embalagens e precisam avaliar a aplicação da identidade junto da criação e do fornecedor.",
+        "goal": "De aprovar apenas a arte aberta para avaliar a composição e a identificação na embalagem montada, com as condições de produção confirmadas pelo fornecedor.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-20",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Adobe Express, How do you design packaging for boxes, mailers, and pouches?, 17/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/how-to-design-packaging-boxes-mailers",
+              "publishedAt": "2026-11-17"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-21T06:46:35.710Z",
+      "startedAt": "2026-11-21T09:36:21.197Z",
+      "completedAt": "2026-11-21T09:38:56.516Z"
+    },
+    {
+      "id": "a0676a81-6515-47b2-a79e-08c0c32618cd",
+      "itemId": "pauta-reposicao-2026-11-19-553c7142e90e",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "3ddcbf0768c34b1126c35c488a7b1dcee0212557cab64c534b85271e91233ad6",
+      "snapshot": "650381e60e41fc34a5873eabc5714d7ebf91f278d5af815d66892e6a0727ad34",
+      "input": {
+        "id": "pauta-reposicao-2026-11-19-553c7142e90e",
+        "title": "No aniversário da empresa, a marca continua sendo a protagonista",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado em 19/11/2026: a Pentagram divulgou o trabalho para a Philharmonia em seu índice de notícias, datado de 19/11. O estudo do projeto descreve uma composição de aniversário de 80 anos, com o numeral dourado sobre a assinatura empilhada, além de um sistema visual que pode variar entre temporadas. Essa é a data de divulgação observada, não uma data comprovada de implantação da identidade. Tese própria: a comemoração de uma empresa precisa ter uma relação legível com sua identidade e uma duração definida, em vez de substituir sua assinatura por um número que perde sentido depois da ocasião. Recorte em escritório de contabilidade que prepara uma campanha de aniversário: decidir qual informação celebra a trajetória, qual identifica a empresa e onde a combinação será usada. Abrir pelo contraste entre a peça comemorativa e um material de uso contínuo, sem Imagine ou avisos de exemplo hipotético. Examinar hierarquia entre nome, marca e elemento comemorativo, adaptação aos suportes pertinentes e o que volta à apresentação habitual quando a campanha termina. Não prescrever a solução da Philharmonia, recomendar redesign ou inferir resultados comerciais. Diferenciar de prêmio como evidência: foco no sistema de aplicação temporário, não numa chancela externa. Diferenciar de arquitetura de marcas para ofertas: foco num marco de calendário da mesma empresa, não numa nova linha ou negócio. Sem alegar idade, clientes, superioridade ou resultados reais para a empresa ilustrada. Não redigir até Felipe salvar a pauta.",
+        "audience": "Sócios e responsáveis por comunicação de escritórios, clínicas, restaurantes e empresas de serviços que preparam campanhas de aniversário ou marcos de trajetória.",
+        "goal": "De tratar o aniversário como um selo que cabe em qualquer material para planejar sua hierarquia, seus usos e sua duração dentro da identidade da empresa.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-19",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Pentagram, Philharmonia, divulgação no índice News em 19/11/2026",
+              "url": "https://www.pentagram.com/work/philharmonia",
+              "publishedAt": "2026-11-19"
+            },
+            {
+              "title": "Pentagram News, registro de Philharmonia datado de 19/11/2026",
+              "url": "https://www.pentagram.com/news",
+              "publishedAt": "2026-11-19"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "66b1ebb4-91ba-4cc0-b8d2-bbc38b313626",
+          "completedAt": "2026-11-20T09:39:14.650Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Na recepção, a identificação do escritório divide espaço com um elemento de aniversário. Na assinatura do e-mail, o número da comemoração ocupa quase toda a imagem. Já na proposta comercial, continua aparecendo a marca habitual. Cada material parece ter respondido a uma pergunta diferente sobre como celebrar.\n\nO aniversário da empresa pode ganhar uma expressão própria sem fazer a identidade desaparecer. Para isso, a peça comemorativa precisa deixar claro quem está celebrando, o que aquele marco significa e por quanto tempo a apresentação será utilizada. Um número destacado, sozinho, não resolve essas três decisões.\n\nO cuidado começa antes de escolher uma cor festiva ou desenhar um selo. A empresa precisa saber qual papel a comemoração terá na sua comunicação. Será uma campanha delimitada? Uma ocasião de encontro? Um conteúdo sobre a trajetória? A resposta ajuda a organizar os materiais e evita que uma aplicação temporária vire, por falta de combinação, outra versão permanente da marca.\n\n## A celebração precisa ter um endereço dentro da identidade\n\nNum escritório de contabilidade, os sócios podem querer marcar uma etapa da trajetória com um encontro e uma série de conteúdos. A comunicação cotidiana continua existindo: propostas são enviadas, contatos chegam ao site e a equipe responde mensagens. Nem tudo passa a ter a mesma finalidade porque o calendário trouxe uma ocasião especial.\n\nVale separar os materiais que anunciam a comemoração daqueles que precisam identificar o serviço durante todo o ano. Um convite pode dar mais espaço ao elemento festivo. Uma apresentação de serviços talvez peça apenas uma referência discreta. O critério é a função da peça, sem exigir que a mesma composição seja aplicada a tudo.\n\nEssa definição também ajuda a decidir o que permanece reconhecível. O nome do escritório precisa continuar legível? A assinatura habitual participa da composição? Há uma frase que esclarece o marco? São questões de hierarquia, que devem ser respondidas junto da identidade existente e das condições em que cada material será visto.\n\nNão é necessário presumir que um aniversário pede um logotipo novo. Às vezes, o trabalho está em construir uma camada de comunicação que convive com a marca durante um período definido. Quando a ocasião terminar, essa camada pode sair sem deixar a equipe procurando qual assinatura deveria voltar.\n\n## Um projeto de referência mostra uma escolha, não uma receita\n\nEm divulgação datada de 19 de novembro de 2026 em seu índice de notícias, a Pentagram apresentou o trabalho para a Philharmonia. O estudo do projeto descreve, entre outras aplicações, uma composição para a temporada de 80 anos: um numeral dourado sobre a assinatura empilhada da orquestra, em branco sobre preto.\n\nO que interessa aqui é a relação visível entre o elemento comemorativo e a identificação da instituição. O numeral participa de uma composição que continua apresentando a Philharmonia. A referência oferece uma decisão concreta para discutir, sem estabelecer que outras empresas precisem usar dourado, sobreposição ou a mesma organização tipográfica.\n\nA data citada é a da divulgação observada, não uma comprovação de quando a identidade começou a ser usada. O estudo também apresenta escolhas próprias daquela orquestra. Não permite atribuir resultados comerciais ao design nem concluir que a solução de uma instituição cultural possa ser transportada diretamente para um escritório.\n\nNo projeto de uma empresa, a pergunta permanece particular: como a comemoração entra na linguagem que já a identifica? Uma referência pode ampliar a conversa. A resposta precisa considerar a marca, os materiais e a capacidade de aplicação de quem vai utilizá-la.\n\n## Faça a hierarquia sobreviver à mudança de suporte\n\nUma composição aprovada em tamanho grande pode perder o sentido quando entra numa assinatura de e-mail. O número continua visível, mas o nome se torna difícil de ler. Em outra aplicação, a frase da comemoração aparece sem espaço suficiente e parece uma informação secundária que não se consegue concluir.\n\nNo escritório, a equipe pode conferir os usos previstos lado a lado: convite, abertura da apresentação, imagem do site e identificação temporária do encontro. O objetivo é observar quais informações precisam permanecer compreensíveis em cada situação, sem obrigar a mesma versão a resolver proporções diferentes.\n\nQuando uma aplicação não comporta todos os elementos, convém decidir uma alternativa com quem cuida do sistema visual. Reduzir tudo até caber pode conservar o desenho e perder a comunicação. Retirar partes por conta própria pode criar uma composição que ninguém avaliou.\n\nTambém é útil olhar para a peça fora da apresentação de aprovação. A assinatura será vista junto de uma mensagem. O convite terá data e orientação de participação. A comunicação do site dividirá atenção com a oferta do escritório. O aniversário precisa encontrar seu lugar nesses conjuntos.\n\nEssa avaliação não depende de uma medida universal. Depende de conferir a leitura no tamanho e no suporte pertinentes, com as demais informações que realmente estarão presentes. Uma escolha pode funcionar num convite e precisar de outra hierarquia num material de uso cotidiano.\n\n## Combine a entrada e a saída da campanha\n\nAlém dos arquivos, a equipe precisa saber quando usar cada apresentação. Uma orientação breve pode distinguir a versão habitual, as aplicações comemorativas e o período previsto para a campanha. Quem envia uma proposta não deveria precisar interpretar sozinho se o aniversário ocupa a capa ou apenas uma referência de apoio.\n\nNo escritório, vale combinar quem disponibiliza os materiais e quem acompanha os pontos que precisarão voltar à apresentação cotidiana. Isso inclui locais menos lembrados na aprovação, como uma assinatura de e-mail ou uma imagem que fica armazenada num modelo compartilhado.\n\nO encerramento merece uma decisão específica. Quais materiais serão substituídos? Quais registros podem continuar disponíveis como parte da história? Um conteúdo sobre a comemoração não precisa desaparecer, mas deve ser reconhecível como registro de uma ocasião, sem sugerir que a campanha continua acontecendo.\n\nTambém não faz sentido exigir a retirada indiscriminada de tudo. Um convite já enviado tem contexto próprio. Uma página atual de serviços tem outra função. O encaminhamento precisa respeitar essa diferença e as condições de atualização de cada suporte.\n\nAntes de lançar a campanha, reúna uma aplicação que anuncia a ocasião e outra que identifica a empresa no cotidiano. Confira o papel do nome, do elemento comemorativo e das informações de uso. Depois, registre como o conjunto volta à apresentação habitual.\n\nCelebrar a trajetória pode dar à marca uma expressão de ocasião. O trabalho de design está em fazer essa expressão pertencer à empresa, ser compreendida onde aparece e ter uma duração que a equipe saiba conduzir.",
+        "sources": "[Pentagram, projeto Philharmonia](https://www.pentagram.com/work/philharmonia)\n[Pentagram News, divulgação de Philharmonia em 19/11/2026](https://www.pentagram.com/news)\n\nA data refere-se à divulgação no índice News, não à implantação da identidade. A composição de aniversário é uma referência de projeto; as recomendações para empresas são análise editorial e não inferem resultados comerciais.",
+        "prompt": "Literal editorial photograph without people of a restrained anniversary decoration at the entrance of a professional accounting office, close three-quarter view of a removable champagne-gold folded paper rosette and short fine paper garland positioned beside a permanent frosted-glass identification panel, the panel lettering deliberately fully out of focus and unreadable, permanent office architecture clearly visible around the temporary decoration, a subtle pale teal wall accent inspired by #08ffb1, soft neutral morning daylight, realistic glass and folded paper textures, quiet professional setting rather than a party, no abstract metaphor, laptop, samples on a table, readable text, numbers or logos --ar 3:2",
+        "imageAlt": "Roseta dourada de papel e uma pequena guirlanda ao lado de um painel de vidro fosco na entrada de um escritório, com detalhe teal na parede.",
+        "date": "2026-11-29"
+      },
+      "createdAt": "2026-11-21T06:46:41.028Z",
+      "startedAt": "2026-11-21T09:36:21.416Z",
+      "completedAt": "2026-11-21T09:38:57.620Z"
+    },
+    {
+      "id": "5a3fe87f-82ed-4435-aa37-39c75af7d04e",
+      "itemId": "pauta-diaria-2026-11-20",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "f0517cf488a205a7c7228f67eb1b16867a12888964de84146e7f88f391945586",
+      "snapshot": "341f590f5f7d5215253bc4bfdbe271e8178ea9892bc2d48d297a83b8f73e058d",
+      "input": {
+        "id": "pauta-diaria-2026-11-20",
+        "title": "A foto da abertura precisa funcionar dentro do site",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: em 13/11/2026, a Adobe Express publicou um guia sobre imagens de abertura e banners de sites, distinguindo dimensões do arquivo, proporção da área de exibição e recorte. O guia explica que títulos e botões podem ocupar a foto de modos diferentes no celular e recomenda conferir a composição na página real; não fornece uma medida universal para toda abertura. Tese própria: a escolha da fotografia de abertura precisa considerar o que continua visível e compreensível junto da chamada e da ação da página, além da qualidade da foto isolada. Recorte num restaurante cuja foto mostra salão, passagem e balcão: ao compor a abertura, decidir qual desses elementos apresenta a proposta da casa e que contexto não pode desaparecer no recorte estreito. Começar pela comparação entre a fotografia inteira e a abertura do site no celular, sem Imagine nem avisos de exemplo hipotético. Discutir o papel da imagem na mensagem, posição do assunto, espaço para a chamada e avaliação conjunta com título e botão. Quando necessário, considerar outro enquadramento ou uma versão prevista para celular, sem impor uma solução única ou inventar recursos que o site não oferece. Diferenciar da pauta de fotografar espaços: o foco é a relação entre uma foto já escolhida e sua área efetiva de exibição na abertura, não o planejamento de um conjunto fotográfico do ambiente. Diferenciar de adaptar vídeo: tratar do recorte estático e da composição com elementos da página, não duração, roteiro ou versões audiovisuais. Diferenciar de protótipo aprovado: conferir o significado da imagem no layout, não o alcance funcional de um protótipo. Não criar regras universais de pixels, tutoriais, código, números de conversão, promessas de acessibilidade ou alegações sobre experiências reais de clientes. As escolhas editoriais são análise da Tweed; a notícia é contexto, não prova de resultados comerciais.",
+        "audience": "Gestores de restaurantes, bares e negócios de serviços que aprovam fotografias e a apresentação inicial de seus sites, junto das equipes de design e conteúdo.",
+        "goal": "De aprovar a fotografia isoladamente para avaliar se a abertura preserva a mensagem e o assunto relevante junto do título e do próximo passo, inclusive em telas estreitas.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-20",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe Express, Website hero images and web banner sizes guide, 13/11/2026",
+              "url": "https://www.adobe.com/express/learn/blog/website-hero-image-web-banner-sizes",
+              "publishedAt": "2026-11-13"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "c2dcc91d-81f6-4bdf-a991-ffd42ccd67ac",
+          "completedAt": "2026-11-20T15:40:05.850Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "No computador, a fotografia apresenta o salão, a passagem entre as mesas e o balcão ao fundo. No celular, restou um pedaço de parede. A imagem continua bonita, mas deixou de mostrar aquilo que justificou sua escolha para abrir o site do restaurante.\n\nA foto da abertura participa de uma composição que muda conforme a tela. Ela precisa funcionar junto do título, do texto de apoio e do próximo passo oferecido ao visitante. Aprovar o arquivo inteiro numa apresentação não basta para saber o que a pessoa encontrará na página.\n\nEssa diferença costuma aparecer quando a fotografia já foi escolhida e o layout começa a ganhar forma. O assunto importante ficou numa borda? A chamada ocupa a região de maior detalhe? O recorte mais estreito preserva o ambiente ou elimina sua característica principal? São decisões de comunicação, além de questões de acabamento.\n\nEm guia publicado em 13 de novembro de 2026, a Adobe Express distingue dimensões do arquivo, proporção da área de exibição e recorte. Também recomenda avaliar a fotografia com os elementos da página em telas diferentes. O material oferece um contexto de produção, sem estabelecer uma medida universal para a abertura de qualquer site.\n\nPara a empresa, a conversa pode começar por uma pergunta anterior ao tamanho do arquivo: o que esta imagem precisa ajudar a compreender?\n\n## Escolha o que merece continuar visível\n\nO restaurante pode ter uma fotografia atraente de seu salão. Nela aparecem vários detalhes: uma luminária, o desenho do balcão, a relação entre mesas e janelas. Todos pertencem ao ambiente, mas nem todos precisam exercer o mesmo papel na abertura do site.\n\nSe a intenção é apresentar o espaço de convivência, um recorte que mostra apenas um acabamento pode mudar a mensagem. Se o destaque procurado está no balcão, talvez uma composição ampla demais o deixe pouco reconhecível. A foto disponível precisa ser avaliada em relação à finalidade que recebeu.\n\nIsso ajuda a discutir escolhas sem reduzir a conversa a gostar ou não gostar da imagem. O que o visitante consegue reconhecer? Que informação a fotografia acrescenta ao título? O conjunto apresenta o restaurante ou apenas cria uma atmosfera que poderia pertencer a muitos lugares?\n\nUma foto de detalhe pode ser adequada. Uma vista de conjunto também. O problema aparece quando a função foi definida depois da escolha e a equipe tenta fazer a mesma imagem responder a qualquer intenção.\n\nAntes de ajustar, nomeie o assunto que precisa permanecer. No restaurante, pode ser a relação entre o salão e o balcão, porque ela apresenta uma característica pertinente da casa. Essa escolha orienta a discussão do recorte, sem exigir que todos os elementos da fotografia tenham a mesma importância.\n\n## A área de exibição também desenha a mensagem\n\nO arquivo tem uma forma; o espaço que o recebe pode ter outra. Quando a página preenche uma área com a fotografia, partes dela podem ficar fora do que se vê. Aumentar o arquivo não muda, por si só, a relação entre essas proporções.\n\nNo restaurante, a fotografia horizontal pode entrar numa abertura ampla no computador e numa região mais estreita no telefone. O balcão que aparecia ao lado das mesas fica fora do enquadramento. A empresa continua usando o mesmo arquivo, mas não está apresentando o mesmo conjunto de informações visuais.\n\nVale conferir esse resultado dentro da página. Uma prévia isolada de recorte ajuda a estudar possibilidades, porém não mostra tudo o que participa da composição final. A altura da seção, a posição da imagem e o espaço ocupado pelos textos também influenciam o que chega ao visitante.\n\nQuando o assunto essencial não cabe, existem alternativas a discutir com quem desenvolve o site: outro posicionamento previsto no layout, um enquadramento diferente ou uma imagem específica para a versão estreita, se o projeto oferecer essa possibilidade. A solução depende das condições reais da página.\n\nNão é preciso defender um arquivo único a qualquer custo nem produzir versões adicionais sem necessidade. Primeiro, observe a dificuldade. Depois, escolha um ajuste que preserve a intenção da abertura e possa ser mantido pela equipe.\n\n## O título e o botão fazem parte da fotografia escolhida\n\nUma imagem pode funcionar sozinha e disputar atenção com a chamada quando entra no site. A região de maior contraste coincide com o texto. Uma linha do título atravessa um detalhe importante. O botão parece solto num trecho visualmente carregado.\n\nNo restaurante, talvez o espaço vazio da foto estivesse adequado para receber a chamada na tela ampla. No celular, a mudança de composição aproxima as palavras de uma janela iluminada ou de um conjunto de objetos. Não basta perguntar se a imagem tem qualidade. É preciso conferir a leitura do conjunto.\n\nO texto também pode mudar de tamanho ou ocupar mais linhas. Uma chamada curta na apresentação pode crescer quando a equipe define a mensagem real. Por isso, a avaliação deve utilizar as palavras previstas para aquela página, além do botão que oferece uma ação compreensível.\n\nEvite tratar a fotografia como o único lugar capaz de carregar toda a mensagem. No site, título e botão podem permanecer como elementos da página, independentes do recorte da imagem. Essa separação permite discutir sua posição e leitura sem prender as palavras ao arquivo fotográfico.\n\nEla não resolve automaticamente a composição. A equipe ainda precisa verificar contraste, proximidade entre elementos e o que fica encoberto. O cuidado é examinar a fotografia com o conteúdo que realmente estará sobre ela ou ao seu lado, em vez de aprovar cada parte como se fosse aparecer sozinha.\n\n## Confira a abertura como ela será encontrada\n\nA revisão pode colocar lado a lado a imagem inteira e a página no telefone. No restaurante, essa comparação torna visível uma diferença que a equipe talvez não percebesse olhando apenas a versão de computador: o detalhe que dava identidade ao espaço desapareceu.\n\nObserve o que permanece, o que foi cortado e o que se sobrepõe. Depois leia o título e identifique o próximo passo. A fotografia ainda ajuda a entender a proposta? A chamada continua legível? A ação pode ser reconhecida sem depender de uma explicação verbal de quem apresenta o projeto?\n\nConfira também uma largura intermediária. O layout pode mudar antes de chegar ao tamanho mais estreito. O objetivo não é prometer uma composição idêntica em toda tela, mas encontrar situações em que a mensagem perde uma parte relevante.\n\nRegistre o ajuste junto de sua finalidade. Se foi preparado outro enquadramento, indique onde será utilizado e preserve a referência aprovada. Quando a foto mudar numa atualização futura, a equipe terá uma razão para repetir a conferência.\n\nA abertura não precisa mostrar tudo o que o restaurante é. Precisa apresentar uma ideia clara e conduzir para o conteúdo pertinente. Uma fotografia cumpre melhor esse papel quando sua escolha considera o espaço em que aparece, as palavras que a acompanham e o que o visitante consegue reconhecer no conjunto.",
+        "sources": "[Adobe Express, guia de imagens de abertura e banners para sites, 13/11/2026](https://www.adobe.com/express/learn/blog/website-hero-image-web-banner-sizes)\n\nO guia distingue arquivo, área de exibição e recorte. As escolhas de composição discutidas são análise editorial da Tweed, sem medidas universais ou promessa de desempenho comercial.",
+        "prompt": "Literal editorial photograph of one adult male web designer standing inside a quiet restaurant before opening and checking a website on an upright smartphone, over-the-shoulder medium close view with the phone showing a tightly cropped photograph of the same dining room visible beyond it, the real curved counter and window seats remain recognizable in the background while the narrow phone image shows only part of that setting, screen interface deliberately minimal with no readable writing or logos, a pale teal shirt inspired by #08ffb1, soft natural window light, realistic skin tones and screen reflections, no meeting, papers, laptop or abstract metaphor --ar 3:2",
+        "imageAlt": "Pessoa de camisa teal confere no celular uma foto recortada do salão de um restaurante, com o balcão e as mesas visíveis ao fundo.",
+        "date": "2026-11-30"
+      },
+      "createdAt": "2026-11-21T06:46:48.942Z",
+      "startedAt": "2026-11-21T09:36:21.737Z",
+      "completedAt": "2026-11-21T09:38:58.195Z"
     }
   ]
 }

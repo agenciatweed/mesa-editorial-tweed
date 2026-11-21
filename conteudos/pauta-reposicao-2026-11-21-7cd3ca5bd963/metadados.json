@@ -1,0 +1,27 @@
+{
+  "id": "pauta-reposicao-2026-11-21-7cd3ca5bd963",
+  "title": "Mostre as conexões que fazem seu serviço funcionar",
+  "edition": 0,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário: o índice de notícias da Pentagram divulga o projeto Parker Institute em 20/11/2026. O estudo https://www.pentagram.com/work/parker-institute apresenta o modelo de atuação da instituição como parte do sistema visual e do site, mostrando relações e sobreposições entre fases. A data é da divulgação observada, não da implantação. Usar somente a decisão de comunicação visual, sem reproduzir promessas, slogans ou alegações médicas. Tese própria: o desenho de um serviço precisa esclarecer como atividades se relacionam, em vez de organizar tudo numa fila de etapas apenas porque a sequência fica bonita na apresentação. Recorte na apresentação comercial de um escritório de auditoria: verificar quando levantamento de informações, conversas e análises se conectam, quais relações precisam ser explicadas ao cliente e onde uma representação simplificada pode sugerir um funcionamento diferente do real. Abrir pela leitura de um diagrama e pela pergunta que uma seta deixa sem resposta, sem personagem obrigatório nem Imagine. Discutir o que os blocos representam, o significado das conexões, a diferença entre ordem e simultaneidade e a necessidade de validar o desenho com quem presta o serviço. Não criar normas ou procedimentos de auditoria, recomendar mudanças operacionais nem prometer prazos ou resultados. Diferenciar de apresentação sem apresentador: foco no significado das relações desenhadas, não na autonomia de todo o documento. Diferenciar de demonstrar produto: foco na representação do trabalho entre atividades, não numa demonstração de uso. Não prescrever animações, ferramentas ou um modelo universal; a solução visual depende do funcionamento confirmado.",
+  "audience": "Sócios e responsáveis por comunicação e comercial de escritórios de auditoria, consultorias e empresas de serviços que precisam explicar uma forma de trabalhar com atividades interdependentes.",
+  "goal": "De aprovar um diagrama apenas pela aparência para conferir se seus blocos e conexões explicam o funcionamento real do serviço e as relações importantes para quem pretende contratá-lo.",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-21",
+    "mode": "replenishment",
+    "sources": [
+      {
+        "title": "Pentagram, divulgação de Parker Institute no índice de notícias, 20/11/2026",
+        "url": "https://www.pentagram.com/news",
+        "publishedAt": "2026-11-20"
+      }
+    ]
+  }
+}
