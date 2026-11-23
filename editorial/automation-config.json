@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "runEveryHours": 12,
+  "broadReviewDays": 30,
+  "focusedLinkReview": true,
+  "verificationCacheHours": 24
+}

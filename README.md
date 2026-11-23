@@ -1,3 +1,7 @@
+# Rotina economica vigente — 23/11/2026
+
+A execucao e a cada 12 horas. A triagem compacta e feita por scripts/round-summary.mjs. Ler editorial/ROTINA-ECONOMICA.md (na pasta editorial, ROTINA-ECONOMICA.md) antes do procedimento detalhado: abrir somente conteudos selecionados, reutilizar provas locais validas por hash, revisao ampla mensal e acervo LinkedIn pausado. A regra vigente substitui frequencias anteriores e cotas antigas. Publicacao de um artigo novo/dia e confirmacoes FTP/HTTP continuam obrigatorias.
+
 # Estúdio Editorial Tweed
 
 Painel local privado para pautas, redação, revisão, capa e publicação no blog estático.
@@ -12,7 +16,7 @@ Para ver o servidor no terminal: `node scripts/serve.mjs`. Fechar a aba não enc
 
 ## Fluxo de trabalho
 
-1. **Pauta:** preencha somente título, editoria, voz principal, ângulo e tese, quem precisa ler e mudança de percepção. Clique em **Salvar pauta**. A luz fica vermelha enquanto aguarda a tarefa a cada 24 horas.
+1. **Pauta:** preencha somente título, editoria, voz principal, ângulo e tese, quem precisa ler e mudança de percepção. Clique em **Salvar pauta**. A luz fica vermelha enquanto aguarda a tarefa a cada 12 horas.
 2. **Redação:** o GPT escreve o artigo e o prompt de capa para Midjourney, e devolve o post nesta coluna com luz verde. Se um post em Redação tiver texto mas estiver sem prompt, a tarefa também cria apenas o prompt na próxima rodada, inclusive para rascunhos antigos, sem reescrever o artigo. Edite o texto e clique em **Salvar redação e enviar para revisão**.
 3. **Revisão:** a luz fica vermelha até o GPT conferir o texto e preencher frase-chave de foco, slug e metadescrição. Ele também prepara o FAQ exclusivamente como metadado. Você pode enviar a capa e preencher a descrição assim que entrar nesta etapa. Quando a luz ficar verde, confira os dados. Use **Salvar e manter em revisão** para guardar a capa, a descrição e suas edições enquanto aguarda o GPT. Somente **Aprovar e enviar para Pronto** autoriza a publicação. Se mudar o texto ou o briefing após a revisão, a luz volta a vermelho e os metadados precisam ser conferidos novamente.
 4. **Pronto:** o post está aprovado e aguarda a rodada diária, com no máximo um artigo publicado por dia de São Paulo, inclusive em rodadas extras. Ao entrar em Revisão, a data é preenchida com o primeiro dia sem artigo reservado a partir de amanhã (America/Sao_Paulo), considerando os itens em Revisão e Pronto. Datas já preenchidas são preservadas e você pode alterar a sugestão manualmente, inclusive para um dia já ocupado. Se apagar a data, a aprovação calcula novamente o primeiro dia futuro com vaga. Uma data futura adia o envio. **Voltar para revisão** cancela o envio pendente para permitir ajustes.
@@ -28,9 +32,9 @@ Capa: PNG, JPEG ou WebP até 12 MB, mínimo 600 × 400 px. O upload fica dispon�
 
 ## GPT e agendamento
 
-A criação de conteúdo acontece pelo GPT da tarefa agendada do Codex, usando os arquivos locais e pesquisa de fontes. Não há chave OpenAI no painel nem cobrança de API configurada. Salvar a etapa registra o trabalho correspondente; o retorno do GPT ocorre na rodada a cada 24 horas. Mantenha o computador ligado, conectado e o aplicativo Codex aberto. O navegador e o servidor do painel podem estar fechados durante o processamento.
+A criação de conteúdo acontece pelo GPT da tarefa agendada do Codex, usando os arquivos locais e pesquisa de fontes. Não há chave OpenAI no painel nem cobrança de API configurada. Salvar a etapa registra o trabalho correspondente; o retorno do GPT ocorre na rodada a cada 12 horas. Mantenha o computador ligado, conectado e o aplicativo Codex aberto. O navegador e o servidor do painel podem estar fechados durante o processamento.
 
-A especificação da tarefa está em `editorial/AUTOMACAO.md`. Ela processa a fila a cada 24 horas e usa `scripts/worker.mjs` para assumir e concluir pedidos com verificação de versão. Não existe webhook ou GitHub Actions executando este painel na nuvem. O GitHub guarda o histórico; o computador local executa o trabalho.
+A especificação da tarefa está em `editorial/AUTOMACAO.md`. Ela processa a fila a cada 12 horas e usa `scripts/worker.mjs` para assumir e concluir pedidos com verificação de versão. Não existe webhook ou GitHub Actions executando este painel na nuvem. O GitHub guarda o histórico; o computador local executa o trabalho.
 
 ## Arquivos e Git
 
@@ -60,7 +64,7 @@ O endereço hospedado anteriormente no ChatGPT Sites é uma cópia independente 
 
 ## Links e recomendações
 
-Cada publicação prepara links naturais do artigo novo para antigos e suas duas recomendações de leitura. A análise ampla para alterar links e recomendações dos artigos antigos acontece apenas a cada 10 execuções da tarefa, contadas em arquivo privado persistente, incluindo rodadas sem fila. O limite continua sendo quatro links para outros artigos no corpo; as duas recomendações finais não entram nesse limite. As regras e o contador estão em editorial/AUTOMACAO.md.
+Cada publicação prepara links naturais do artigo novo para antigos e suas duas recomendações de leitura. A análise ampla para alterar links e recomendações dos artigos antigos acontece a cada 30 dias, contadas em arquivo privado persistente, incluindo rodadas sem fila. O limite continua sendo quatro links para outros artigos no corpo; as duas recomendações finais não entram nesse limite. As regras e o contador estão em editorial/AUTOMACAO.md.
 
 Fontes e notas é opcional: vazio ou só com espaços não cria seção na página nem bloqueia a publicação. As informações factuais utilizadas continuam exigindo evidência apropriada.
 

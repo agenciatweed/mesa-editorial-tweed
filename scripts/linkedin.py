@@ -195,6 +195,8 @@ def summarize(state, at=None):
             selected, reason = new[0], 'new-article'
         else:
             reason = 'new-daily-limit'
+    elif old and (not config.get('backlogAuthorized', True) or backlog_limit == 0):
+        reason = 'backlog-paused'
     elif old and backlog_sent < backlog_limit:
         selected, reason = old[0], 'backlog-slot'
     elif old:

@@ -1,4 +1,8 @@
-# Operação a cada 24 horas — fluxo editorial por etapas (versão 2)
+# Rotina economica vigente — 23/11/2026
+
+A execucao e a cada 12 horas. A triagem compacta e feita por scripts/round-summary.mjs. Ler editorial/ROTINA-ECONOMICA.md (na pasta editorial, ROTINA-ECONOMICA.md) antes do procedimento detalhado: abrir somente conteudos selecionados, reutilizar provas locais validas por hash, revisao ampla mensal e acervo LinkedIn pausado. A regra vigente substitui frequencias anteriores e cotas antigas. Publicacao de um artigo novo/dia e confirmacoes FTP/HTTP continuam obrigatorias.
+
+# Operação a cada 12 horas — fluxo editorial por etapas (versão 2)
 
 ## Escopo
 
@@ -8,7 +12,7 @@ Felipe autorizou processar as etapas salvas no painel, gerar conteúdo pelo GPT,
 
 ## Cadência e contador de manutenção
 
-A tarefa roda a cada 24 horas. A partir desta mudança, a revisão dos artigos antigos acontece apenas na 10ª, 20ª, 30ª execução e assim por diante. Conte também rodadas sem fila, mas não conte leituras, dry-runs ou repetição da mesma execução.
+A tarefa roda a cada 12 horas. A revisão ampla acontece a cada 30 dias, com análise pontual dos novos/alterados entre revisões. Conte também rodadas sem fila, mas não conte leituras, dry-runs ou repetição da mesma execução.
 
 No início de cada rodada real, rode `node scripts/link-cycle.mjs tick CHAVE`, usando `current_time_iso` do heartbeat como chave estável. Em execução manual solicitada pelo usuário, use uma chave única para essa solicitação. Retomadas usam a mesma chave. O contador privado em `.local/link-cycle.json` persiste entre rodadas. `status` consulta sem contar. `reviewDue:true` mantém a manutenção pendente até ser concluída; não a descarte se houver falha.
 
@@ -64,7 +68,7 @@ O publicador gera a página no layout existente com BlogPosting, FAQ somente est
 
 Somente após confirmação, publication.state=published e job.state=done são gravados. Isso faz o post sair das quatro colunas e aparecer apenas em **Artigos**, com texto, metadados, capa e link preservados. Não excluir o item ou os arquivos para arquivar. Não simular confirmação em produção. Para envio interrompido, retome o mesmo job e `.local/publicacoes/ID.json`; não apague o registro nem crie outro post.
 
-## Links e recomendações: publicação leve e manutenção a cada 10 rodadas
+## Links e recomendações: publicação leve e manutenção ampla a cada 30 dias
 
 Esta regra substitui a exigência anterior de analisar o acervo inteiro e editar artigos antigos em toda publicação. Trata-se dos links internos entre artigos do blog, não de adicionar referências externas.
 
@@ -122,7 +126,7 @@ Escreva o prompt em inglês, sem texto ou logos legíveis, terminando apenas em 
 
 ## Republicação no LinkedIn — atualizada em 17/11/2026
 
-Depois da confirmação de cada publicação no blog, e também antes de encerrar rodadas sem publicação nova, execute `node scripts/linkedin.mjs sync` e `node scripts/linkedin.mjs next`. Antes de qualquer trabalho na interface do LinkedIn, de cada próximo artigo e de toda retomada/reconexão, volte a https://www.linkedin.com/company/35563028/admin/page-posts/published/ e confirme Agência Tweed (35563028). A partir dela, abra Escrever artigo ou, depois dessa conferência, o draftUrl salvo; com envio incerto, concilie primeiro as publicações realizadas. Preserve o rascunho e não navegue de volta entre os cliques de um preenchimento em andamento. Siga [LINKEDIN.md](LINKEDIN.md) para publicar os artigos completos, com as capas originais, na Company Page Agência Tweed (35563028), usando o Chrome conectado. A legenda leva o título, “Artigo originalmente publicado no blog da Agência Tweed:” em texto simples, sem @menção, e o link canônico. A partir de 17/11/2026, o envio de artigos novos fica limitado a UM por dia em São Paulo, inclusive nas retomadas, e eles têm prioridade após a confirmação no blog, inclusive quando aguardam uma retomada; acrescente no máximo UM artigo do acervo antigo por dia, com teto TOTAL de cinco publicações LinkedIn por dia em America/Sao_Paulo. O acervo autorizado continua posterior a “Marca não se faz no Canva. Se faz no cotidiano.”, mas deixa de ser publicado em massa. Use exclusivamente a seleção e as quotas de next, revalidadas por start/publishing; vagas ociosas não permitem mais antigos nem compensações. Dentro de cada grupo, preserve a ordem cronológica. Rascunho antigo não precede artigo novo; envio incerto precisa ser conciliado antes de outro envio. Confirme URLs e conteúdo na interface antes de registrar publicação. O registro persistente privado impede duplicações. Falhas de conexão ou limite de uso deixam o trabalho pendente para retomada, sem desfazer o blog e sem alterar etapas humanas. Não presumir publicação por um clique nem execução em segundo plano após encerramento.
+Depois da confirmação de cada publicação no blog, e também antes de encerrar rodadas sem publicação nova, execute `node scripts/linkedin.mjs sync` e `node scripts/linkedin.mjs next`. Antes de qualquer trabalho na interface do LinkedIn, de cada próximo artigo e de toda retomada/reconexão, volte a https://www.linkedin.com/company/35563028/admin/page-posts/published/ e confirme Agência Tweed (35563028). A partir dela, abra Escrever artigo ou, depois dessa conferência, o draftUrl salvo; com envio incerto, concilie primeiro as publicações realizadas. Preserve o rascunho e não navegue de volta entre os cliques de um preenchimento em andamento. Siga [LINKEDIN.md](LINKEDIN.md) para publicar os artigos completos, com as capas originais, na Company Page Agência Tweed (35563028), usando o Chrome conectado. A legenda leva o título, “Artigo originalmente publicado no blog da Agência Tweed:” em texto simples, sem @menção, e o link canônico. A partir de 17/11/2026, o envio de artigos novos fica limitado a UM por dia em São Paulo, inclusive nas retomadas, e eles têm prioridade após a confirmação no blog, inclusive quando aguardam uma retomada; mantenha PAUSADO o envio do acervo antigo, preservando sua fila e rascunhos. Novos limitados a UM por dia. O acervo autorizado continua posterior a “Marca não se faz no Canva. Se faz no cotidiano.”, mas deixa de ser publicado em massa. Use exclusivamente a seleção e as quotas de next, revalidadas por start/publishing; vagas ociosas não permitem mais antigos nem compensações. Dentro de cada grupo, preserve a ordem cronológica. Rascunho antigo não precede artigo novo; envio incerto precisa ser conciliado antes de outro envio. Confirme URLs e conteúdo na interface antes de registrar publicação. O registro persistente privado impede duplicações. Falhas de conexão ou limite de uso deixam o trabalho pendente para retomada, sem desfazer o blog e sem alterar etapas humanas. Não presumir publicação por um clique nem execução em segundo plano após encerramento.
 
 
 ## Equilibrio das pautas — 23/11/2026

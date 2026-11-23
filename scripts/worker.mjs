@@ -1,12 +1,14 @@
 // O GPT entrega redação em Redação e metadados em Revisão; aprovação é humana.
 import {readFile} from 'node:fs/promises';
 import {locked,json,atomic,project,saveContent,workKey,reconcile,phaseFor} from './project.mjs';
+import {summarizeJobs} from './queue-summary.mjs';
 const [command,id,resultFile]=process.argv.slice(2);
 try{await locked(async()=>{
  const queue=await json('editorial/fila.json',{version:1,jobs:[]});
- if(command==='sync'){const {doc}=await project();const before=JSON.stringify(doc),oldQueue=JSON.stringify(queue);await reconcile(doc,queue);if(JSON.stringify(doc)!==before)await atomic('editorial/pautas.json',doc);if(JSON.stringify(queue)!==oldQueue)await atomic('editorial/fila.json',queue);console.log(JSON.stringify(queue.jobs.filter(j=>['pending','running'].includes(j.state)),null,2));return}
- if(command==='list'){console.log(JSON.stringify(queue.jobs.filter(j=>['pending','running'].includes(j.state)),null,2));return}
+ if(command==='sync'){const {doc}=await project();const before=JSON.stringify(doc),oldQueue=JSON.stringify(queue);await reconcile(doc,queue);if(JSON.stringify(doc)!==before)await atomic('editorial/pautas.json',doc);if(JSON.stringify(queue)!==oldQueue)await atomic('editorial/fila.json',queue);console.log(JSON.stringify(summarizeJobs(queue.jobs)));return}
+ if(command==='list'){console.log(JSON.stringify(summarizeJobs(queue.jobs)));return}
  const job=queue.jobs.find(j=>j.id===id);if(!job)throw Error('Solicitação inexistente.');
+ if(command==='show'){console.log(JSON.stringify(job));return}
  if(command==='claim'){if(job.state!=='pending')throw Error('Solicitação já assumida.');const {doc}=await project();const i=doc.items.find(i=>i.id===job.itemId);if(!i||i.status!==phaseFor(job.action)||workKey(i,job.action)!==job.workKey)throw Error('Pedido obsoleto. Execute sync.');job.state='running';job.startedAt=new Date().toISOString();await atomic('editorial/fila.json',queue);console.log(JSON.stringify(job,null,2));return}
  if(command==='fail'){if(!['pending','running'].includes(job.state))throw Error('Solicitação encerrada.');job.state='failed';job.message=(await readFile(resultFile,'utf8')).slice(0,2000);const {doc}=await project();const i=doc.items.find(i=>i.id===job.itemId);if(i&&!['publicar'].includes(job.action))i.automation={...i.automation,state:'failed',stage:i.status,message:job.message};await saveContent(doc);await atomic('editorial/fila.json',queue);return}
  if(command!=='complete'||job.state!=='running'||!['redigir','revisar','prompt'].includes(job.action))throw Error('Comando ou estado inválido.');

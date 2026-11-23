@@ -64,6 +64,19 @@ class QueueTest(unittest.TestCase):
         self.assertEqual(selection['reason'], 'new-article')
         self.assertEqual(old['draftUrl'], 'https://www.linkedin.com/article/edit/123/')
 
+    def test_paused_backlog_preserves_draft_and_keeps_new_article_eligible(self):
+        config = queue.read(queue.CONFIG)
+        config.update(backlogAuthorized=False, backlogDailyLimit=0)
+        queue.write(queue.CONFIG, config)
+        old = self.state['items'][0]
+        old.update(state='draft', draftUrl='https://www.linkedin.com/article/edit/123/')
+        self.assertEqual(queue.summarize(self.state, '2026-11-17T18:00:00Z')['reason'], 'backlog-paused')
+        new = self.policy_item('novo-do-dia', published='2026-11-17T10:00:00-03:00')
+        self.assertIs(queue.summarize(self.state, '2026-11-17T18:00:00Z')['next'], new)
+        old['state'] = 'publishing'
+        self.assertIs(queue.summarize(self.state, '2026-11-17T18:00:00Z')['next'], old)
+        self.assertEqual(old['draftUrl'], 'https://www.linkedin.com/article/edit/123/')
+
     def test_one_new_article_per_sao_paulo_day_preserves_pending_draft(self):
         self.policy_item('novo-enviado', published='2026-11-17T09:00:00-03:00', state='published', confirmedAt='2026-11-17T12:00:00-03:00')
         pending = self.policy_item('novo-pendente', published='2026-11-17T10:00:00-03:00', state='draft', draftUrl='https://www.linkedin.com/article/edit/456/')
