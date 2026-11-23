@@ -53,8 +53,18 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-15T09:14:18.698Z",
-    "scheduledRound": 3
+    "state": "published",
+    "runKey": "2026-11-22T03:42:17.678Z",
+    "url": "https://www.agenciatweed.com.br/logotipo-tamanho-pequeno-aplicacoes/",
+    "publishedAt": "2026-11-22T03:50:42.240971+00:00",
+    "job": "18d5281e-d806-4d16-86b6-fc0634e14dec",
+    "files": [
+      "assets/artigos-editoriais/eb0c47025a2632ef4a0d9949568eeb27da6d8bb040a8cf661b3d5d5d729a45b1.png",
+      "logotipo-tamanho-pequeno-aplicacoes/index.html",
+      "blog/index.html",
+      "blog-branding-na-marra/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

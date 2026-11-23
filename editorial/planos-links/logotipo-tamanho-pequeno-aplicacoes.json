@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "logotipo-tamanho-pequeno-aplicacoes",
+  "contentSha256": "64780868b2f47c2b53fccfc90212e989c3cece80871369c2646381867b13f80f",
+  "modifiedAt": "2026-11-22",
+  "links": [
+    {
+      "from": "logotipo-tamanho-pequeno-aplicacoes",
+      "to": "marca-codigos-visuais-setor",
+      "anchor": "a relação com a marca existente",
+      "context": "O ajuste exige compreender quais elementos sustentam a relação com a marca existente.",
+      "reason": "A discussão dos sinais visuais próprios e da consistência entre pontos de contato complementa a escolha de uma versão compacta reconhecível."
+    },
+    {
+      "from": "logotipo-tamanho-pequeno-aplicacoes",
+      "to": "peca-aprovada-versao-veiculada",
+      "anchor": "depois de inserir o arquivo no canal",
+      "context": "Confira também o resultado depois de inserir o arquivo no canal.",
+      "reason": "O destino aprofunda a conferência da aplicação efetivamente veiculada, que não se encerra na aprovação do arquivo."
+    }
+  ]
+}
