@@ -12,10 +12,10 @@ Para ver o servidor no terminal: `node scripts/serve.mjs`. Fechar a aba não enc
 
 ## Fluxo de trabalho
 
-1. **Pauta:** preencha somente título, editoria, voz principal, ângulo e tese, quem precisa ler e mudança de percepção. Clique em **Salvar pauta**. A luz fica vermelha enquanto aguarda a tarefa a cada 5 horas.
+1. **Pauta:** preencha somente título, editoria, voz principal, ângulo e tese, quem precisa ler e mudança de percepção. Clique em **Salvar pauta**. A luz fica vermelha enquanto aguarda a tarefa a cada 24 horas.
 2. **Redação:** o GPT escreve o artigo e o prompt de capa para Midjourney, e devolve o post nesta coluna com luz verde. Se um post em Redação tiver texto mas estiver sem prompt, a tarefa também cria apenas o prompt na próxima rodada, inclusive para rascunhos antigos, sem reescrever o artigo. Edite o texto e clique em **Salvar redação e enviar para revisão**.
 3. **Revisão:** a luz fica vermelha até o GPT conferir o texto e preencher frase-chave de foco, slug e metadescrição. Ele também prepara o FAQ exclusivamente como metadado. Você pode enviar a capa e preencher a descrição assim que entrar nesta etapa. Quando a luz ficar verde, confira os dados. Use **Salvar e manter em revisão** para guardar a capa, a descrição e suas edições enquanto aguarda o GPT. Somente **Aprovar e enviar para Pronto** autoriza a publicação. Se mudar o texto ou o briefing após a revisão, a luz volta a vermelho e os metadados precisam ser conferidos novamente.
-4. **Pronto:** o post está aprovado e aguarda a primeira ou terceira rodada do dia agendado (uma publicação por rodada). Ao entrar em Revisão, a data é preenchida com o primeiro dia com menos de dois artigos a partir de amanhã (America/Sao_Paulo), considerando os itens em Revisão e Pronto. Datas já preenchidas são preservadas e você pode alterar a sugestão manualmente, inclusive para um dia já ocupado. Se apagar a data, a aprovação calcula novamente o primeiro dia futuro com vaga. Uma data futura adia o envio. **Voltar para revisão** cancela o envio pendente para permitir ajustes.
+4. **Pronto:** o post está aprovado e aguarda a rodada diária, com no máximo um artigo publicado por dia de São Paulo, inclusive em rodadas extras. Ao entrar em Revisão, a data é preenchida com o primeiro dia sem artigo reservado a partir de amanhã (America/Sao_Paulo), considerando os itens em Revisão e Pronto. Datas já preenchidas são preservadas e você pode alterar a sugestão manualmente, inclusive para um dia já ocupado. Se apagar a data, a aprovação calcula novamente o primeiro dia futuro com vaga. Uma data futura adia o envio. **Voltar para revisão** cancela o envio pendente para permitir ajustes.
 5. **Artigos:** depois que SFTP e HTTP confirmarem a publicação, o post sai das quatro colunas e aparece somente nesta aba, com texto, metadados, capa, data e link do site preservados. O histórico publicado é somente leitura.
 
 O rascunho é salvo automaticamente durante a edição. Em Revisão, **Salvar e manter em revisão** confirma a gravação sem avançar; **Aprovar e enviar para Pronto** conclui a etapa. Uma pauta nova só entra na fila ao clicar em Salvar pauta. As seis pautas do pacote original continuam preservadas: abra e salve a etapa para incluí-las no fluxo novo.
@@ -28,9 +28,9 @@ Capa: PNG, JPEG ou WebP até 12 MB, mínimo 600 × 400 px. O upload fica dispon�
 
 ## GPT e agendamento
 
-A criação de conteúdo acontece pelo GPT da tarefa agendada do Codex, usando os arquivos locais e pesquisa de fontes. Não há chave OpenAI no painel nem cobrança de API configurada. Salvar a etapa registra o trabalho correspondente; o retorno do GPT ocorre na rodada a cada 5 horas. Mantenha o computador ligado, conectado e o aplicativo Codex aberto. O navegador e o servidor do painel podem estar fechados durante o processamento.
+A criação de conteúdo acontece pelo GPT da tarefa agendada do Codex, usando os arquivos locais e pesquisa de fontes. Não há chave OpenAI no painel nem cobrança de API configurada. Salvar a etapa registra o trabalho correspondente; o retorno do GPT ocorre na rodada a cada 24 horas. Mantenha o computador ligado, conectado e o aplicativo Codex aberto. O navegador e o servidor do painel podem estar fechados durante o processamento.
 
-A especificação da tarefa está em `editorial/AUTOMACAO.md`. Ela processa a fila a cada hora e usa `scripts/worker.mjs` para assumir e concluir pedidos com verificação de versão. Não existe webhook ou GitHub Actions executando este painel na nuvem. O GitHub guarda o histórico; o computador local executa o trabalho.
+A especificação da tarefa está em `editorial/AUTOMACAO.md`. Ela processa a fila a cada 24 horas e usa `scripts/worker.mjs` para assumir e concluir pedidos com verificação de versão. Não existe webhook ou GitHub Actions executando este painel na nuvem. O GitHub guarda o histórico; o computador local executa o trabalho.
 
 ## Arquivos e Git
 
@@ -89,3 +89,8 @@ O launcher sem console supervisiona o Node e reinicia o servidor quando ele ence
 O painel tenta novamente a conexao inicial e renova a sessao apos reinicios. Rascunhos e revisoes otimistas sao preservados. Um envio sem resposta nunca e repetido automaticamente; somente um POST explicitamente recusado com 403 pode ser tentado uma vez com a sessao renovada. `node scripts/check-connection.cjs` verifica reconexao, sessao, rascunhos e ausencia de reenvio incerto.
 
 Verificacao local: encerramento controlado do Node seguido de reinicio automatico pela tarefa, API HTTP 200, hashes de pautas/fila inalterados e painel reconectado no navegador. Nenhuma janela de console foi aberta.
+
+
+## Equilibrio das editorias — 23/11/2026
+
+As sugestoes automaticas priorizam a editoria com menos artigos publicados. Nos empates, tem prioridade a que recebeu pauta nova ha mais tempo. O helper reconta e revalida sob lock; criacoes manuais permanecem livres.

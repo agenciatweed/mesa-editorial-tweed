@@ -16,6 +16,7 @@ try{
  let s=await api('/api/project');token=s.token;
  s=await save(items=>items.push({id:'teste',title:'Uma oferta clara',edition:0,status:'Pauta',expert:'Lorenzo',angle:'Explicar antes de comparar',audience:'Gestores',goal:'Compreender o escopo'}));assert.equal(s.queue.jobs.length,0,'Rascunho não submetido não entra na fila');
  s=await save(()=>{},{advance:'teste'});assert.equal(s.doc.items[0].status,'Pauta');assert.equal(s.queue.jobs[0].action,'redigir');assert.equal(s.doc.items[0].automation.state,'pending');
+ const createdAt=s.doc.items[0].createdAt;assert(Number.isFinite(Date.parse(createdAt)));s=await save(items=>items[0].createdAt='1990-01-01T00:00:00Z');assert.equal(s.doc.items[0].createdAt,createdAt,'Edicao nao altera a data original da pauta');
  assert.equal(worker('sync').status,0);assert.equal((await api('/api/project')).queue.jobs.length,1,'Não duplicar solicitações');
  let job=s.queue.jobs[0];assert.equal(worker('claim',job.id).status,0);
  s=await save(items=>items[0].angle='Explicar escopo e decisões');assert.equal(s.queue.jobs[0].state,'cancelled');assert.equal(s.queue.jobs.length,2);

@@ -16,9 +16,9 @@ export function publicationWindow(keys, key, items, jobs, now = new Date()) {
  const distinct = [...new Set(keys.filter(k => day(k) === date))];
  const round = distinct.indexOf(key) + 1;
  const result = {date, round, runKey: key, job: null};
- if (!date || calendar.format(now) !== date || keys.at(-1) !== key || ![1, 3].includes(round)) return result;
+ if (!date || calendar.format(now) !== date || keys.at(-1) !== key || round < 1) return result;
  const completed = items.filter(i => i.publication?.state === 'published' && day(i.publication.publishedAt) === date);
- if (completed.length >= 2 || completed.some(i => i.publication.runKey === key || Date.parse(i.publication.publishedAt) >= Date.parse(key))) return result;
+ if (completed.length >= 1) return result;
  const byId = new Map(items.map(i => [i.id, i]));
  const candidates = jobs.filter(j => {
   const i = byId.get(j.itemId);

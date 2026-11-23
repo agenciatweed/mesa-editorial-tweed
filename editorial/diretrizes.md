@@ -2,6 +2,14 @@
 
 Marcas crescem por clareza, consistência e confiança. A Tweed integra estratégia e execução para resolver a comunicação com direção.
 
+## Equilíbrio das editorias — 23/11/2026
+
+Antes de pesquisar cada pauta automática, use a contagem retornada por daily-pauta.mjs check. O helper lê os dois catálogos completos de publicações, deduplica por slug e conta os artigos das seis editorias; pautas e textos ainda não publicados aparecem separadamente como estoque, sem inflar a contagem de publicações.
+
+Pesquise uma oportunidade pertinente à selectedEdition, a editoria com MENOS artigos publicados no momento. Entre editorias empatadas nessa contagem, escolha a que está há mais tempo sem receber pauta nova. Essa regra também mantém a rotação quando as quantidades se aproximam. Use a data de criação da pauta, nunca a data agendada de publicação nem a última edição do texto. O ledger diário recupera as datas existentes; pautas manuais novas também recebem createdAt. Editorias sem registro de pauta têm prioridade no desempate e o índice estável resolve um empate completo.
+
+Não mudar editorias de textos existentes nem forçar um assunto que não corresponda à série. Se não houver oportunidade relevante e verificável para a editoria selecionada, não fabricar pauta. Recontar em cada execução. O add revalida a seleção sob lock; reason:editoria-changed pede nova consulta e pesquisa adequada, sem criar uma segunda sugestão. As criações manuais permanecem livres.
+
 ## Voz
 Português brasileiro natural. Exigência no padrão, repertório na substância e generosidade na entrega. Ensinar o porquê com exemplos concretos. Sem travessões na redação, emojis, jargão ornamental, superlativos ou promessa de resultado. O leitor nunca é o vilão.
 

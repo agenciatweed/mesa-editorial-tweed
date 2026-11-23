@@ -64,6 +64,26 @@ class QueueTest(unittest.TestCase):
         self.assertEqual(selection['reason'], 'new-article')
         self.assertEqual(old['draftUrl'], 'https://www.linkedin.com/article/edit/123/')
 
+    def test_one_new_article_per_sao_paulo_day_preserves_pending_draft(self):
+        self.policy_item('novo-enviado', published='2026-11-17T09:00:00-03:00', state='published', confirmedAt='2026-11-17T12:00:00-03:00')
+        pending = self.policy_item('novo-pendente', published='2026-11-17T10:00:00-03:00', state='draft', draftUrl='https://www.linkedin.com/article/edit/456/')
+        before = queue.summarize(self.state, '2026-11-18T02:59:59Z')
+        self.assertEqual(before['reason'], 'new-daily-limit')
+        self.assertIsNone(before['next'])
+        self.assertEqual(before['newPublishedToday'], 1)
+        self.assertIs(queue.summarize(self.state, '2026-11-18T03:00:00Z')['next'], pending)
+        self.assertEqual(pending['draftUrl'], 'https://www.linkedin.com/article/edit/456/')
+
+    def test_cli_new_cap_is_revalidated_before_start_and_publish(self):
+        pending = self.policy_item('novo-pendente', published='2026-11-17T10:00:00-03:00', state='draft', draftUrl='https://www.linkedin.com/article/edit/456/', bodySha256='a'*64)
+        self.policy_item('novo-enviado', published='2026-11-17T09:00:00-03:00', state='published', confirmedAt='2026-11-17T12:00:00-03:00')
+        queue.write(queue.STATE, self.state)
+        for command in ('start', 'publishing'):
+            with mock.patch.object(sys, 'argv', ['linkedin.py', command, pending['slug']]), mock.patch.object(queue, 'now', return_value='2026-11-17T18:00:00Z'):
+                with self.assertRaisesRegex(ValueError, 'new-daily-limit'):
+                    queue.main()
+            self.assertEqual(queue.read(queue.STATE), self.state)
+
     def test_one_backlog_a_day_even_with_four_unused_slots(self):
         self.policy_item('antigo-enviado', state='published', confirmedAt='2026-11-17T10:00:00-03:00')
         selection = queue.summarize(self.state, '2026-11-17T18:00:00Z')

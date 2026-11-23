@@ -12,10 +12,16 @@ async function put(d){await writeFile(path.join(fixture,'editorial/pautas.json')
 function run(...args){const p=spawnSync(process.execPath,[path.join(root,'scripts/daily-pauta.mjs'),...args],{env,encoding:'utf8'});assert.equal(p.status,0,p.stderr);return JSON.parse(p.stdout);}
 const first='2026-10-23T12:00:00Z',second='2026-10-23T17:00:00Z',third='2026-10-23T22:00:00Z';
 const result=path.join(fixture,'result.json');let serial=0;
-async function add(instant){await writeFile(result,JSON.stringify({title:'Pauta teste '+(++serial),edition:0,expert:'Lorenzo',angle:'Tese de teste',audience:'Leitor',goal:'Percepcao',researchSources:[{title:'Fonte',url:'https://example.org/news',publishedAt:'2026-10-22'}]}));return run('add',instant,result);}
+async function add(instant){const edition=run('check',instant).selectedEdition;await writeFile(result,JSON.stringify({title:'Pauta teste '+(++serial),edition,expert:'Lorenzo',angle:'Tese de teste',audience:'Leitor',goal:'Percepcao',researchSources:[{title:'Fonte',url:'https://example.org/news',publishedAt:'2026-10-22'}]}));return run('add',instant,result);}
 try{
  await mkdir(path.join(fixture,'editorial'));await put({version:1,items:[]});
- assert.equal(run('check',first).reason,'daily');assert.equal((await add(first)).created,true);
+ await mkdir(path.join(fixture,'site/docs'),{recursive:true});
+ await writeFile(path.join(fixture,'editorial/integracao.json'),JSON.stringify({siteRoot:'site'}));
+ await writeFile(path.join(fixture,'editorial/editorias.json'),JSON.stringify({editorias:Array.from({length:6},(_,n)=>({name:'Editoria '+n}))}));
+ for(const name of ['artigos-recuperados.json','artigos-editoriais.json'])await writeFile(path.join(fixture,'site/docs',name),'[]');
+ assert.equal(run('check',first).reason,'daily');
+ await writeFile(result,JSON.stringify({edition:1}));const rejected=run('add',first,result);assert.equal(rejected.created,false);assert.equal(rejected.reason,'editoria-changed');assert.equal((await doc()).items.length,0);
+ assert.equal((await add(first)).created,true);
  assert.equal(run('check',second).shouldResearch,false);
  let d=await doc();d.items[0].status='Redação';await put(d);
  assert.equal(run('check',first).reason,'already-created-this-run');

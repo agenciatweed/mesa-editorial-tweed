@@ -18,7 +18,7 @@ export function nextPublicationDate(items,excludeId,now=new Date()){
   occupied.set(item.date,(occupied.get(item.date) || 0)+1);
  }
  const day=new Date(today+'T12:00:00Z');
- do{day.setUTCDate(day.getUTCDate()+1)}while((occupied.get(day.toISOString().slice(0,10)) || 0)>=2);
+ do{day.setUTCDate(day.getUTCDate()+1)}while((occupied.get(day.toISOString().slice(0,10)) || 0)>=1);
  return day.toISOString().slice(0,10);
 }
 

@@ -167,16 +167,20 @@ def summarize(state, at=None):
     config.setdefault('prioritySince', '2026-11-17T00:00:00-03:00')
     daily_limit = config.get('dailyLimit', 5)
     backlog_limit = config.get('backlogDailyLimit', 1)
+    new_limit = config.get('newDailyLimit', 1)
     if not isinstance(daily_limit, int) or not 1 <= daily_limit <= 5:
         raise ValueError('Limite diario LinkedIn invalido')
     if not isinstance(backlog_limit, int) or not 0 <= backlog_limit <= 1:
         raise ValueError('Limite diario do acervo invalido')
+    if not isinstance(new_limit, int) or new_limit != 1:
+        raise ValueError('Limite diario de artigos novos deve ser um')
     day = local_date(at or now(), timezone)
     pending = [i for i in state['items'] if i['state'] != 'published']
     pending.sort(key=lambda i: instant(i['blogPublishedAt']))
     sent = [i for i in state['items'] if i['state'] == 'published'
             and local_date(i['confirmedAt'], timezone) == day]
     backlog_sent = sum(queue_class(i, config) == 'backlog' for i in sent)
+    new_sent = sum(queue_class(i, config) == 'new' for i in sent)
     uncertain = [i for i in pending if i['state'] == 'publishing']
     new = [i for i in pending if queue_class(i, config) == 'new']
     old = [i for i in pending if queue_class(i, config) == 'backlog']
@@ -187,7 +191,10 @@ def summarize(state, at=None):
     elif len(sent) >= daily_limit:
         reason = 'daily-limit'
     elif new:
-        selected, reason = new[0], 'new-article'
+        if new_sent < new_limit:
+            selected, reason = new[0], 'new-article'
+        else:
+            reason = 'new-daily-limit'
     elif old and backlog_sent < backlog_limit:
         selected, reason = old[0], 'backlog-slot'
     elif old:
@@ -197,6 +204,7 @@ def summarize(state, at=None):
             'dailyLimit': daily_limit, 'publishedToday': len(sent),
             'remainingToday': max(0, daily_limit - len(sent)),
             'backlogDailyLimit': backlog_limit, 'backlogPublishedToday': backlog_sent,
+            'newDailyLimit': new_limit, 'newPublishedToday': new_sent,
             'reason': reason, 'nextClass': queue_class(selected, config) if selected else None,
             'next': selected}
 

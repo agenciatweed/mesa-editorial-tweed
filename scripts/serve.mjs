@@ -21,6 +21,7 @@ const server=http.createServer(async(req,res)=>{try{
  for(const item of input.doc.items){const before=old.doc.items.find(i=>i.id===item.id);
   if(before&&published(before)){if(snapshot(item)!==snapshot(before))throw Error('O histórico publicado é somente leitura.');Object.assign(item,before);continue}
   if((before&&item.status!==before.status)||(!before&&item.status!=='Pauta'))throw Error('Use o botão Salvar da etapa para avançar.');
+  if(!before)item.createdAt=new Date().toISOString();else if(before.createdAt)item.createdAt=before.createdAt;else delete item.createdAt;
   item.logo=canonical+'/assets/logo_tweed_teal.svg';item.author=canonical+'/#agencia';item.publication=before?.publication;item.automation=before?.automation;item.submitted=before?.submitted||false;item.workflowVersion=before?.workflowVersion;
   if(input.reopen===item.id){if(item.status!=='Pronto')throw Error('Só Pronto pode voltar para revisão.');item.status='Revisão';item.date=item.date||nextPublicationDate(input.doc.items,item.id);item.publication={state:'cancelled'};item.checks={};}
   if(input.saveReview===item.id){if(item.status!=='Revisão')throw Error('Salvar revisão requer a etapa de Revisão.');item.workflowVersion=2;item.submitted=true;}

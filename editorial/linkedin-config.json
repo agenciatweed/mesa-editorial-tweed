@@ -13,5 +13,6 @@
   "timeZone": "America/Sao_Paulo",
   "prioritySince": "2026-11-17T00:00:00-03:00",
   "dailyLimit": 5,
-  "backlogDailyLimit": 1
+  "backlogDailyLimit": 1,
+  "newDailyLimit": 1
 }
