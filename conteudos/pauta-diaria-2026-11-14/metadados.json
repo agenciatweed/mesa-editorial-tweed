@@ -53,8 +53,18 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/b25d2c869de0ca99615bd15d74a29d47d517838c9bfc8aec5b45ee1cc82ffbd9.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-15T09:19:23.594Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-25T22:08:08.000Z",
+    "url": "https://www.agenciatweed.com.br/audio-video-fala-compreensivel/",
+    "publishedAt": "2026-11-25T22:20:14.066294+00:00",
+    "job": "52666115-6be6-4fc1-bb16-c45305cca98a",
+    "files": [
+      "assets/artigos-editoriais/b25d2c869de0ca99615bd15d74a29d47d517838c9bfc8aec5b45ee1cc82ffbd9.png",
+      "audio-video-fala-compreensivel/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

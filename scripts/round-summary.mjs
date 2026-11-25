@@ -1,7 +1,8 @@
 import {spawnSync} from 'node:child_process';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
-import {root} from './project.mjs';
+import {root,json} from './project.mjs';
+import {validManualPublication} from './manual-publication.mjs';
 const instant=process.argv[2];
 const scripts=path.dirname(fileURLToPath(import.meta.url));
 if(!instant||!Number.isFinite(Date.parse(instant)))throw Error('Informe o current_time_iso estável da rodada.');
@@ -11,6 +12,8 @@ function run(script,...args){
  return JSON.parse(p.stdout);
 }
 const maintenance=run('link-cycle.mjs','tick',instant);
+const manual=await json('.local/manual-publication.json',null);
+if(validManualPublication(manual)&&manual.runKey!==instant){console.log(JSON.stringify({runKey:instant,needsWork:false,reason:'manual-publication-in-progress'}));process.exit(0)}
 const queue=run('worker.mjs','sync');
 const publication=run('publication-window.mjs',instant);
 const pauta=run('daily-pauta.mjs','check',instant);

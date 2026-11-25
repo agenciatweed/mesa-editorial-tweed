@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "audio-video-fala-compreensivel",
+  "contentSha256": "5742d2da5b975262dec732441bc72955ea792d079f2f7afa5d110e73cf1558d9",
+  "modifiedAt": "2026-11-25",
+  "links": [
+    {
+      "from": "audio-video-fala-compreensivel",
+      "to": "peca-aprovada-versao-veiculada",
+      "anchor": "Ouça o vídeo exportado, incluindo abertura, transições e encerramento.",
+      "context": "Ouça o vídeo exportado, incluindo abertura, transições e encerramento. Na empresa, confira novamente a frase sobre o acessório e as demais informações importantes. Se existir uma prévia no canal de destino, avalie também o que ela permite verificar.",
+      "reason": "A conferência do arquivo de saída e do canal final evita confundir aprovação da base com a versão publicada."
+    },
+    {
+      "from": "audio-video-fala-compreensivel",
+      "to": "demonstracao-produto-ajudar-cliente-decidir",
+      "anchor": "o acessório mostrado é opcional",
+      "context": "Na fabricante, uma frase informa que o acessório mostrado é opcional. Se ela ficar encoberta, o público pode não compreender a composição apresentada, mesmo que a imagem esteja nítida.",
+      "reason": "O destino explica a importância de explicitar condições e limites na demonstração de um produto."
+    }
+  ]
+}

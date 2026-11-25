@@ -58,8 +58,18 @@
   "imageHeight": 896,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/eb44b0d22ca373077b4d862467a13e20da06c95fd2b85694c9eda012a8468ae2.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-15T09:15:41.646Z",
-    "scheduledRound": 3
+    "state": "published",
+    "runKey": "2026-11-25T22:08:08.000Z",
+    "url": "https://www.agenciatweed.com.br/perguntas-ao-vivo-respostas-marca/",
+    "publishedAt": "2026-11-25T22:17:51.927447+00:00",
+    "job": "7deebe85-2d0f-45ac-b897-bd71b6afe640",
+    "files": [
+      "assets/artigos-editoriais/eb44b0d22ca373077b4d862467a13e20da06c95fd2b85694c9eda012a8468ae2.png",
+      "perguntas-ao-vivo-respostas-marca/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

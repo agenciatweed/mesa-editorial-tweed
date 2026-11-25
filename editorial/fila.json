@@ -13504,7 +13504,7 @@
       "id": "7deebe85-2d0f-45ac-b897-bd71b6afe640",
       "itemId": "pauta-reposicao-2026-11-12-cb848cc54d53",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "04ddffe755dbe82b4dd6a77683665b80e3853f1d77f6b7c4e4b3f34addb64323",
       "snapshot": "04ddffe755dbe82b4dd6a77683665b80e3853f1d77f6b7c4e4b3f34addb64323",
       "input": {
@@ -13572,13 +13572,14 @@
           "scheduledRound": 3
         }
       },
-      "createdAt": "2026-11-15T09:15:41.661Z"
+      "createdAt": "2026-11-15T09:15:41.661Z",
+      "completedAt": "2026-11-25T22:17:51.946430+00:00"
     },
     {
       "id": "d41bf16b-7ef5-4ad9-89e6-fa984332c59e",
       "itemId": "pauta-diaria-2026-11-13",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "18ac925651a65c80b1f98b9cd76c88b31490a5958e658195ce4072dce4866080",
       "snapshot": "18ac925651a65c80b1f98b9cd76c88b31490a5958e658195ce4072dce4866080",
       "input": {
@@ -13641,7 +13642,8 @@
           "scheduledRound": 1
         }
       },
-      "createdAt": "2026-11-15T09:16:10.195Z"
+      "createdAt": "2026-11-15T09:16:10.195Z",
+      "completedAt": "2026-11-25T22:15:40.030392+00:00"
     },
     {
       "id": "b19aa061-5b6c-474a-8aa2-e7fa4c12c749",
@@ -13716,7 +13718,7 @@
       "id": "52666115-6be6-4fc1-bb16-c45305cca98a",
       "itemId": "pauta-diaria-2026-11-14",
       "action": "publicar",
-      "state": "pending",
+      "state": "done",
       "workKey": "f1ec39eca5780760ad4f131552a2c6b462caa0c94ba2fddb4a731cb72567511d",
       "snapshot": "f1ec39eca5780760ad4f131552a2c6b462caa0c94ba2fddb4a731cb72567511d",
       "input": {
@@ -13779,7 +13781,8 @@
           "scheduledRound": 1
         }
       },
-      "createdAt": "2026-11-15T09:19:23.630Z"
+      "createdAt": "2026-11-15T09:19:23.630Z",
+      "completedAt": "2026-11-25T22:20:14.076994+00:00"
     },
     {
       "id": "5d0ff92d-2b9a-43de-b5a6-b7d6c029a25d",
@@ -15546,6 +15549,183 @@
       "createdAt": "2026-11-21T22:38:01.990Z",
       "startedAt": "2026-11-22T03:43:26.192Z",
       "completedAt": "2026-11-22T03:46:33.261Z"
+    },
+    {
+      "id": "92cb75fe-ad50-42d5-80d3-9d2e0b7e22ba",
+      "itemId": "pauta-reposicao-2026-11-21-47648473299e",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "b0fa2c493ccc36dddda02f886cbf6e7eb7d36c5d176474077b1c178e3996d305",
+      "snapshot": "4944bf66e73ae1f568945fe5b9714fd048a86215c56db54b76329fb605ba08d0",
+      "input": {
+        "id": "pauta-reposicao-2026-11-21-47648473299e",
+        "title": "O produto não pode mudar de uma cena para outra",
+        "edition": 3,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário verificado: em comunicado de 15/11/2026 sobre pequenas empresas de Singapura, a Meta apresenta Dream Render, que parte de descrição ou foto para criar rascunhos de vídeos de produtos. O texto informa ajustes de planos, enquadramento e ritmo antes da aprovação. Tratar como anúncio do fornecedor, sem confirmar disponibilidade no Brasil, recomendar adesão ou reproduzir números da pesquisa e depoimentos promocionais. Tese própria: na revisão de um vídeo gerado ou composto a partir de várias cenas, o produto precisa continuar sendo reconhecido como a mesma oferta; a fluidez entre cortes não substitui a conferência de suas características. Recorte numa delicatessen que apresenta um kit de presentes com dois potes e uma embalagem externa: comparar uma referência confirmada com o conjunto das cenas para observar quantidade de itens, cores, formato, proporções relativas e elementos que aparecem ou desaparecem. Não prescrever rotulagem, segurança de alimentos ou especificações técnicas de geração. Abrir por um corte entre dois planos: a tampa ou um componente mudou, embora cada cena isolada pareça convincente. Discutir o que precisa permanecer constante, quando uma mudança de ângulo apenas altera a percepção e quando o material representa outra coisa; registrar a correção e conferir o vídeo completo na sequência final. Não afirmar que a ferramenta necessariamente erra nem prometer que uma técnica garante fidelidade. Diferenciar de IA e identidade da marca: o foco é continuidade visual do objeto entre cenas, não paleta, estilo ou conhecimento da marca. Diferenciar de imagem de campanha e prova de entrega: o foco é coerência entre planos, não classificar uma imagem como documento de um resultado. Diferenciar de produto surpresa: aqui a composição do kit é conhecida e precisa permanecer consistente ao longo do vídeo. A aplicação é análise editorial da Tweed.",
+        "audience": "Equipes de criação e marketing de delicatessens, lojas de presentes e marcas de produtos que revisam vídeos com várias cenas, inclusive materiais gerados por IA.",
+        "goal": "De aprovar cada plano pela aparência isolada para conferir a continuidade das características do produto na sequência inteira, usando uma referência real e confirmada da oferta.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-21",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Meta, comunicado de Singapura com apresentação do Dream Render, 15/11/2026",
+              "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+              "publishedAt": "2026-11-15"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "56c3770f-8b30-4da8-adb5-140fd11225c2",
+          "completedAt": "2026-11-22T03:46:32.353Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "O vídeo abre com dois potes dentro de uma caixa. No corte seguinte, a tampa mudou de cor. Mais adiante, aparece um terceiro recipiente. Cada imagem parece convincente quando está parada. Na sequência, o kit começa a se transformar em outra oferta.\n\nA continuidade visual do produto merece uma revisão própria. Enquadramento, distância e iluminação podem variar entre cenas; as características que definem aquilo que está sendo apresentado precisam continuar correspondendo à referência confirmada. Uma transição suave não resolve uma diferença no objeto.\n\nEm comunicado de 15 de novembro de 2026 sobre pequenas empresas de Singapura, a Meta apresentou o Dream Render como uma ferramenta que parte de uma descrição ou foto para produzir rascunhos de vídeos de produtos. O anúncio menciona ajustes de planos, enquadramento e ritmo antes da aprovação. Essa possibilidade ajuda a colocar uma pergunta prática: o que deve ser conferido quando várias cenas são reunidas para mostrar a mesma oferta?\n\nNa delicatessen, a resposta começa antes da edição. O kit escolhido para o vídeo tem dois potes e uma embalagem externa. Essa composição foi definida pela empresa. O trabalho de criação pode escolher como mostrá-la, mas precisa reconhecer o que não está autorizado a mudar.\n\n## Uma referência para acompanhar o vídeo inteiro\n\nQuem aprovou o kit conhece seus componentes. Quem monta o vídeo pode receber uma fotografia de frente, uma descrição e diferentes imagens produzidas durante o trabalho. Se cada cena partir de uma interpretação separada, a revisão precisará descobrir depois qual delas corresponde à oferta.\n\nReúna uma referência confirmada com o que precisa permanecer: quantidade de itens, formato dos recipientes, cores pertinentes, relação entre suas dimensões e aparência da embalagem externa. Não é necessário transformar essa referência num documento extenso. Ela precisa permitir uma comparação objetiva.\n\nNa delicatessen, dois potes podem ter alturas diferentes. Uma fita pode fazer parte da apresentação escolhida. A tampa de uma determinada cor pode identificar aquele conjunto. Esses elementos ajudam a distinguir uma mudança de enquadramento de uma mudança no produto mostrado.\n\nTambém convém esclarecer o que pertence apenas à composição da cena. Um tecido de apoio ou um objeto decorativo ao fundo pode não fazer parte do kit. A direção de imagem deve evitar que a proximidade entre eles sugira outra composição da oferta.\n\nEssa referência não serve somente para materiais gerados por IA. Um vídeo com fotografias, cenas captadas em momentos diferentes ou imagens de arquivo também pode reunir versões incompatíveis. A pergunta acompanha o material, independentemente da técnica escolhida.\n\n## O corte aproxima duas imagens que antes estavam separadas\n\nUma cena aberta apresenta o conjunto. A próxima se aproxima da tampa. Outra mostra a lateral da caixa. São escolhas capazes de revelar aspectos diferentes do mesmo objeto. A coerência precisa sobreviver a essa variação.\n\nAo olhar os planos em sequência, observe o ponto em que uma imagem entrega a leitura para a seguinte. O pote que estava à direita continua sendo reconhecível? A caixa mantém o formato? Um detalhe desapareceu porque saiu do enquadramento ou porque deixou de existir naquela representação?\n\nNão espere que tudo pareça idêntico em qualquer posição. Um recipiente mais perto da câmera pode parecer maior. Uma superfície pode receber outra incidência de luz. O enquadramento pode esconder parte da composição. A avaliação deve considerar essas condições antes de concluir que o objeto foi alterado.\n\nQuando houver dúvida, compare com a referência e com o plano anterior. A diferença precisa ter uma explicação compatível com a cena. Se a equipe não consegue distinguir uma mudança de perspectiva de uma mudança na representação, talvez falte uma referência mais clara ou um enquadramento menos ambíguo.\n\nNa delicatessen, um plano fechado pode mostrar apenas um dos potes sem sugerir que o outro desapareceu da oferta. Já uma nova visão do conjunto com quantidade diferente exige correção. A questão é o entendimento construído pela sequência, não a obrigação de mostrar todos os componentes em todos os segundos.\n\n## A correção precisa dizer o que mudou\n\n“Essa cena está estranha” oferece pouca direção. “A tampa ficou escura, mas a referência aprovada é clara” aponta uma diferença que pode ser examinada. Uma revisão específica permite discutir o material sem depender apenas de preferências.\n\nNa edição do kit, registre a cena, o detalhe observado e a referência pertinente. Se a posição de um item parece incompatível, indique o encontro entre os planos em que isso aparece. Se um elemento foi acrescentado, confirme primeiro se existe na composição oferecida.\n\nA resposta pode envolver trocar uma imagem, ajustar a montagem ou desenvolver outro plano. Não há uma técnica única que garanta a solução. O importante é que a alteração responda ao problema identificado e possa ser conferida novamente.\n\nUm ajuste isolado também pode mudar o conjunto. Ao substituir a aproximação de uma tampa, a cena nova talvez apresente outra luz ou outro ângulo em relação à seguinte. Volte à passagem entre os planos, em vez de aprovar apenas o novo arquivo parado.\n\nEvite aceitar uma diferença porque ela ficou visualmente atraente. Se o vídeo apresenta uma oferta específica, uma embalagem mais sofisticada ou um componente adicional não deveria aparecer por conveniência da imagem. A criação precisa saber onde existe liberdade de apresentação e onde está mudando aquilo que a empresa vende.\n\nO cuidado inverso também importa: não é preciso eliminar toda variação expressiva para preservar o produto. É possível mudar ritmo, ponto de vista e composição mantendo suas características pertinentes. A referência funciona como critério, não como obrigação de repetir a mesma fotografia.\n\n## A aprovação acontece na sequência final\n\nA equipe pode ter examinado cada cena e ainda encontrar uma transformação inesperada ao assistir ao vídeo completo. O ritmo aproxima imagens, cria expectativas e deixa alguns detalhes visíveis por pouco tempo. A revisão final precisa considerar essa experiência.\n\nAssista no formato em que o material será utilizado, sem interromper a primeira passagem a cada corte. Depois retome os trechos que levantaram dúvida. A leitura contínua e a comparação cuidadosa respondem a perguntas diferentes e se complementam.\n\nNa delicatessen, vale conferir se o vídeo permite reconhecer o kit apresentado na página da oferta. As imagens precisam conversar com a descrição e com a composição confirmada. Se outros materiais mostram uma versão anterior, há outra relação a organizar antes da divulgação.\n\nGuarde a referência utilizada junto da versão aprovada. Quando a empresa mudar um componente ou preparar outro conjunto, ficará mais claro por que determinado vídeo talvez precise de revisão. Sem essa relação, uma peça antiga pode continuar circulando depois de perder correspondência com o produto.\n\nO anúncio da Meta trata de uma possibilidade de criação, sem demonstrar que cada resultado conservará automaticamente todas as características necessárias. Cabe à empresa definir o que está apresentando e à revisão conferir se o material corresponde a isso.\n\nUm vídeo pode oferecer vários olhares sobre o mesmo kit. O que não pode acontecer por descuido é que cada olhar apresente um kit diferente. Entre a primeira cena e a última, o produto precisa continuar sendo aquele que a pessoa encontrará ao escolher a oferta.\n",
+        "sources": "[Meta, comunicado sobre pequenas empresas de Singapura e Dream Render, publicado em 15/11/2026 e atualizado em 17/11/2026](https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/)\n\nO comunicado descreve uma iniciativa do fornecedor. A análise sobre continuidade entre cenas é da Tweed; não recomenda a ferramenta, confirma disponibilidade no Brasil ou reproduz estimativas promocionais de resultado.",
+        "prompt": "Literal editorial photograph of one adult female video editor comparing two product-video preview frames on a large desktop monitor, close over-the-shoulder view with her hand resting on a mouse, both previews show the same gift kit with two glass jars and a cream outer box from different camera angles, a narrow pale teal ribbon inspired by #08ffb1 remains visible on the box in both frames, minimal editing timeline beneath the previews with no readable interface text, realistic glass, paper and screen reflections, quiet creative workspace with soft neutral window light and natural skin tones, no meeting, laptop, loose paper samples, abstract metaphor, legible labels or logos --ar 3:2",
+        "imageAlt": "Editora compara na tela dois enquadramentos de um kit com dois potes e caixa clara, com fita teal na embalagem.",
+        "date": "2026-12-02"
+      },
+      "createdAt": "2026-11-22T18:50:39.915Z",
+      "startedAt": "2026-11-24T10:17:52.731Z",
+      "completedAt": "2026-11-24T10:19:12.831Z"
+    },
+    {
+      "id": "6f903550-b58e-4231-b7a1-fd510ce2ae6a",
+      "itemId": "pauta-diaria-2026-11-22",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "fc58a7bfc47f9c7b60e837f21582e0b3bf3cf550dc5fce481659eaa607e191a2",
+      "snapshot": "800f5e056cddcc5fbd56f41013e49d9f6c7eac9d74c4f46459b117bae8aa7a1e",
+      "input": {
+        "id": "pauta-diaria-2026-11-22",
+        "title": "Uma equipe, retratos que pertencem ao mesmo conjunto",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: artigo da Adobe for Business publicado em 19/11/2026 discute a organização de retratos de equipes e menciona critérios como fundo, iluminação e enquadramento, preservando a identidade das pessoas. Tratar como conteúdo de fornecedor, sem reproduzir números, alegações de confiança, estimativas de economia ou recomendar suas ferramentas. Tese própria: a página de equipe deve reunir retratos que pareçam parte da mesma apresentação da marca, sem apagar diferenças pessoais ou inventar uma aparência uniforme. Recorte num escritório de advocacia com sócios e profissionais fotografados em momentos distintos: observar se distância da câmera, direção de luz, enquadramento e tratamento de fundo permitem construir um conjunto coerente; decidir o que pode ser ajustado e o que pede uma nova foto. Não impor roupas, aparência, idade, textura de pele ou expressões idênticas. Preservar traços e identidade das pessoas e usar somente fotos cuja utilização tenha sido combinada, sem oferecer aconselhamento jurídico sobre imagem ou dados pessoais. Abrir pela página em que um rosto ocupa quase todo o card e outro fica distante no enquadramento, evitando Imagine. Discutir critérios de apresentação, conferência dos retratos lado a lado e no tamanho real dos cards, seleção de uma referência e manutenção do conjunto quando novas pessoas entram. Não prescrever medidas universais nem afirmar que padronização garante credibilidade ou negócios. Diferenciar de fotografia de espaços: foco na relação entre retratos de integrantes da equipe. Diferenciar de logotipo pequeno: foco na unidade de um conjunto fotográfico sem homogeneizar as pessoas, não na versão de um símbolo. A aplicação a um escritório de serviços é análise editorial da Tweed.",
+        "audience": "Sócios e responsáveis por comunicação de escritórios de advocacia, consultorias e empresas de serviços que apresentam suas equipes no site e em materiais institucionais.",
+        "goal": "De reunir as fotos disponíveis sem um critério comum para organizar uma apresentação coerente da equipe, preservando a aparência e a identidade de cada pessoa.",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-22",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe for Business, organização e padronização de retratos de equipes, 19/11/2026",
+              "url": "https://business.adobe.com/blog/standardizing-headshots",
+              "publishedAt": "2026-11-19"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-22T18:50:45.570Z",
+      "startedAt": "2026-11-24T10:17:52.917Z",
+      "completedAt": "2026-11-24T10:19:14.186Z"
+    },
+    {
+      "id": "e498cc55-d03f-4c5c-9ed5-e6d85c19080a",
+      "itemId": "pauta-diaria-2026-11-24",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "a7f3022ab2f6afb48f79829171c688f6ccfa009afd78f1f2d4431563d75176ac",
+      "snapshot": "22cd73e2299b8fc5a5a5f29f48c99b06a88ff39937c7057945c65d1116fc5c69",
+      "input": {
+        "id": "pauta-diaria-2026-11-24",
+        "title": "Um novo formato de loja precisa preservar o motivo da visita",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: comunicado da Starbucks de 12/11/2026 sobre sua expansão na Ásia-Pacífico descreve formatos menores e flexíveis, incluindo uma unidade em estação e um caminhão de café em eventos no Vietnã. Atribuir essas informações à empresa, sem usar escala, depoimentos ou projeções como prova de desempenho. Tese própria: ampliar presença por um formato diferente exige decidir que parte da experiência precisa continuar reconhecível e o que pode mudar para atender outra ocasião. Recorte numa cafeteria que avalia um ponto compacto de retirada além do salão: distinguir a visita para permanecer da passagem para buscar um pedido; conferir cardápio realmente disponível, orientação na chegada, retirada e limites do atendimento. Não afirmar que uma operação compacta reproduz toda a experiência do salão ou garante crescimento. Abrir pela decisão sobre o que cabe no ponto menor, sem imaginar uma pequena loja. Comparar ocasião, promessa e condições de entrega; decidir o que comunicar antes da visita e o que testar antes de ampliar. Diferenciar de arquitetura de marcas: foco no formato operacional e na ocasião de consumo, sem criar outra marca. Diferenciar de fotografar espaços e porta de entrada: foco na decisão estratégica de expansão, sem transformar o artigo num guia fotográfico ou de sinalização. A aplicação à PME é análise da Tweed, sem prescrever investimento ou atribuir causalidade comercial ao anúncio.",
+        "audience": "Donos de cafeterias, delicatessens e pequenos negócios de alimentação que estudam atender novas ocasiões por pontos compactos, retirada ou presença em eventos.",
+        "goal": "De avaliar a expansão apenas pelo espaço e pela presença da marca para definir qual ocasião o novo formato atende, quais características preserva e quais limites precisam ser compreendidos pelo cliente.",
+        "createdAt": "2026-11-24T10:15:44.087Z",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-24",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Starbucks, expansão na Ásia-Pacífico e formatos flexíveis, 12/11/2026",
+              "url": "https://about.starbucks.com/press/2026/starbucks-reaches-6000-coffeehouses-in-asia-pacific-marking-the-milestone-in-vietnam/",
+              "publishedAt": "2026-11-12"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-24T12:13:51.618Z",
+      "startedAt": "2026-11-24T22:22:20.482Z",
+      "completedAt": "2026-11-24T22:23:16.066Z"
+    },
+    {
+      "id": "e89b7f7a-0e59-4dad-a3c5-a394bf82156f",
+      "itemId": "pauta-diaria-2026-11-22",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "746726d6ce328ec9a84ffb44c37be466d9c6b5bfb0190ad54d183c09f708bfaa",
+      "snapshot": "d6234af10e2fc5cb029df4ed090cb9aade84e76bcbb47dd849466f033d7acb98",
+      "input": {
+        "id": "pauta-diaria-2026-11-22",
+        "title": "Uma equipe, retratos que pertencem ao mesmo conjunto",
+        "edition": 1,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: artigo da Adobe for Business publicado em 19/11/2026 discute a organização de retratos de equipes e menciona critérios como fundo, iluminação e enquadramento, preservando a identidade das pessoas. Tratar como conteúdo de fornecedor, sem reproduzir números, alegações de confiança, estimativas de economia ou recomendar suas ferramentas. Tese própria: a página de equipe deve reunir retratos que pareçam parte da mesma apresentação da marca, sem apagar diferenças pessoais ou inventar uma aparência uniforme. Recorte num escritório de advocacia com sócios e profissionais fotografados em momentos distintos: observar se distância da câmera, direção de luz, enquadramento e tratamento de fundo permitem construir um conjunto coerente; decidir o que pode ser ajustado e o que pede uma nova foto. Não impor roupas, aparência, idade, textura de pele ou expressões idênticas. Preservar traços e identidade das pessoas e usar somente fotos cuja utilização tenha sido combinada, sem oferecer aconselhamento jurídico sobre imagem ou dados pessoais. Abrir pela página em que um rosto ocupa quase todo o card e outro fica distante no enquadramento, evitando Imagine. Discutir critérios de apresentação, conferência dos retratos lado a lado e no tamanho real dos cards, seleção de uma referência e manutenção do conjunto quando novas pessoas entram. Não prescrever medidas universais nem afirmar que padronização garante credibilidade ou negócios. Diferenciar de fotografia de espaços: foco na relação entre retratos de integrantes da equipe. Diferenciar de logotipo pequeno: foco na unidade de um conjunto fotográfico sem homogeneizar as pessoas, não na versão de um símbolo. A aplicação a um escritório de serviços é análise editorial da Tweed.",
+        "audience": "Sócios e responsáveis por comunicação de escritórios de advocacia, consultorias e empresas de serviços que apresentam suas equipes no site e em materiais institucionais.",
+        "goal": "De reunir as fotos disponíveis sem um critério comum para organizar uma apresentação coerente da equipe, preservando a aparência e a identidade de cada pessoa.",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-22",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Adobe for Business, organização e padronização de retratos de equipes, 19/11/2026",
+              "url": "https://business.adobe.com/blog/standardizing-headshots",
+              "publishedAt": "2026-11-19"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "6f903550-b58e-4231-b7a1-fd510ce2ae6a",
+          "completedAt": "2026-11-24T10:19:13.121Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "Um rosto ocupa quase todo o cartão. No retrato ao lado, a pessoa aparece distante, cercada por uma sala inteira. Mais abaixo, uma fotografia tem luz muito fria; outra, uma sombra que esconde parte da expressão. A página reúne a equipe, mas as imagens parecem ter sido escolhidas para apresentações diferentes.\n\nOrganizar retratos de equipe começa por olhar essa relação. Cada pessoa tem sua aparência, seu jeito e sua história. O conjunto precisa oferecer um critério comum de apresentação, sem transformar essas diferenças num problema a corrigir.\n\nEm artigo de 19 de novembro de 2026, a Adobe for Business abordou a padronização de retratos de funcionários, incluindo aspectos como fundo, iluminação e enquadramento. É a perspectiva de um fornecedor. A questão que interessa aqui pode ser examinada sem adotar uma ferramenta: que decisões fazem as fotografias pertencerem à mesma página?\n\n## A referência organiza a apresentação\n\nNum escritório de advocacia, sócios e profissionais podem ter sido fotografados em momentos distintos. Há quem disponha de uma sessão recente e quem tenha apenas uma imagem usada numa palestra. Reunir os arquivos disponíveis é um começo, mas ainda não define como a equipe será mostrada.\n\nAntes de tratar cada foto, escolha uma referência compatível com a página. Observe a distância do rosto, o espaço ao redor da cabeça, a direção da luz e a relação com o fundo. A referência precisa ser possível para o conjunto. Uma imagem com uma iluminação difícil de reproduzir pode ser atraente isoladamente e pouco útil como orientação para os próximos retratos.\n\nO critério também depende do espaço de publicação. Uma página com cartões estreitos pede uma avaliação diferente de uma apresentação que dedica uma página inteira a cada profissional. Trabalhe com o formato efetivo, em vez de decidir somente pela fotografia aberta em tela cheia.\n\nNão é necessário estabelecer uma medida universal. É necessário conseguir explicar o que se busca: uma presença semelhante dentro dos cartões, luz que permita reconhecer os traços e um fundo que participe da mesma linguagem visual.\n\nEssa explicação orienta quem fotografa, quem seleciona e quem prepara os arquivos. Sem ela, cada nova imagem tende a depender de uma preferência diferente.\n\n## Enquadrar não é transformar a pessoa\n\nO recorte pode aproximar retratos feitos com distâncias distintas. Pode retirar uma área vazia e reposicionar o rosto dentro do cartão. Mas tem limites: um arquivo sem espaço acima da cabeça não permite qualquer ajuste, e ampliar uma imagem pequena pode comprometer a apresentação.\n\nNo escritório, faça primeiro uma montagem com os retratos lado a lado. Compare a presença das pessoas no conjunto. Uma testa cortada ou um rosto muito menor pode resultar do enquadramento, não de uma escolha deliberada de hierarquia.\n\nObserve também o que o recorte elimina. Um gesto que parecia natural na fotografia inteira pode ficar estranho quando resta apenas parte do braço. O trabalho não termina ao alinhar os olhos: é preciso olhar a pessoa dentro da composição resultante.\n\nEvite tratar diferenças de idade, cabelo, textura de pele ou expressão como falhas de consistência. A unidade pode estar no enquadramento e na luz sem exigir o mesmo sorriso ou a mesma aparência. A página apresenta integrantes de uma equipe, não versões de um único rosto.\n\n## Luz e fundo precisam de decisões possíveis\n\nUma fotografia feita junto de uma janela e outra sob uma lâmpada de teto podem exigir tratamentos diferentes. O objetivo não precisa ser apagar toda diferença de origem. Procure uma relação em que nenhuma imagem pareça pertencer a outro material por descuido.\n\nConfira se os ajustes preservam tons de pele plausíveis e os traços da pessoa. Um tratamento aplicado de modo idêntico a todos os arquivos pode produzir resultados diferentes porque as condições de partida também são diferentes. O critério comum está no resultado a avaliar, não na obrigação de repetir uma configuração.\n\nO fundo merece a mesma atenção. Uma parede discreta pode conviver com outra de tonalidade próxima. Já uma paisagem muito presente ou um cenário de evento pode disputar atenção com as demais imagens. Decida se aquele contexto ajuda a apresentação ou se a foto pede outra solução.\n\nQuando houver edição ou substituição de fundo, examine o contorno de cabelos, óculos e roupas. Uma aparência artificial pode aparecer somente depois de reduzir o retrato para o cartão. Não aprove o conjunto apenas porque os fundos passaram a ter a mesma cor.\n\nSe um ajuste exige reconstruir partes importantes da aparência ou deixa de representar a pessoa de modo fiel, considere uma nova fotografia. O arquivo disponível não precisa ser aproveitado a qualquer custo. Às vezes, refazer um retrato com uma orientação clara resolve melhor do que acumular intervenções.\n\n## Confira o conjunto no tamanho em que será visto\n\nDepois de preparar as imagens, coloque-as na composição da página. Veja os cartões no computador e no celular. O recorte que funciona num formato pode esconder parte do rosto em outro, dependendo da forma como o site exibe o arquivo.\n\nNo escritório, confira também a associação entre retrato, nome e apresentação profissional. Uma fotografia correta ao lado do nome errado continua sendo um problema de publicação. Essa checagem faz parte da apresentação da equipe, embora não dependa de tratamento fotográfico.\n\nFaça uma passagem olhando o conjunto e outra examinando cada pessoa. A primeira revela diferenças de escala e luz. A segunda ajuda a perceber cortes ruins e intervenções que passaram despercebidas. Nenhuma das duas substitui a outra.\n\nUse somente imagens cuja utilização tenha sido combinada com as pessoas envolvidas. Se a origem de uma foto ou seu uso pretendido levantar dúvida, esclareça antes de incorporá-la. Não presuma que uma imagem encontrada numa rede social está disponível para qualquer apresentação institucional.\n\nTambém vale conferir o resultado com quem aparece nele. A preparação visual não deveria tornar uma pessoa irreconhecível para atender a uma ideia de uniformidade.\n\n## O próximo retrato já faz parte da decisão\n\nUma equipe muda. Entram profissionais, algumas pessoas atualizam suas fotografias e outras deixam de integrar a apresentação. O conjunto precisa de uma orientação que continue útil depois da primeira organização.\n\nGuarde a referência aprovada e descreva os critérios essenciais de enquadramento, fundo e iluminação. Mantenha os arquivos originais e as versões preparadas identificados de modo compreensível. Assim, uma nova foto pode ser avaliada em relação a uma escolha existente, sem exigir a reconstrução de toda a página.\n\nQuando uma pessoa entrar no escritório, quem organiza a comunicação poderá explicar o retrato necessário antes da sessão. Isso não garante que qualquer arquivo servirá, mas permite discutir o que falta com mais precisão.\n\nA consistência dessa apresentação nasce de decisões que podem ser repetidas e revistas. O visitante deve encontrar pessoas diferentes que pertencem à mesma equipe. A fotografia ajuda quando torna essa relação visível e deixa cada integrante continuar sendo quem é.",
+        "sources": "[Adobe for Business, The one-brand workforce playbook, 19/11/2026](https://business.adobe.com/blog/standardizing-headshots)\n\nConteúdo de fornecedor usado como contexto. As orientações de apresentação são análise editorial da Tweed, sem promessa de confiança, economia ou resultado comercial.",
+        "prompt": "Literal editorial photograph of a desktop monitor displaying a clean grid of six professional team portraits in equally sized vertical cards, men and women of different ages with distinct natural faces and expressions, consistent head-and-shoulders framing and soft neutral side lighting against similar warm gray backgrounds, close frontal view of the screen in a quiet legal office with a slim pale teal monitor stand detail inspired by #08ffb1, realistic screen reflections, natural skin texture, generous spacing between portraits, no readable names, text or logos --ar 3:2",
+        "imageAlt": "Tela exibe seis retratos de profissionais com enquadramento semelhante, fundos cinza e expressões distintas, num escritório com detalhe teal.",
+        "date": "2026-12-16"
+      },
+      "createdAt": "2026-11-24T12:13:55.390Z",
+      "startedAt": "2026-11-24T22:22:20.678Z",
+      "completedAt": "2026-11-24T22:23:16.619Z"
     }
   ]
 }

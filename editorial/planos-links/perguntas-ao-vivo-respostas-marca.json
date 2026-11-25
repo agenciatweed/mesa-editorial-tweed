@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "perguntas-ao-vivo-respostas-marca",
+  "contentSha256": "a8f4c0243c65c62ad6a5444c793deec66380ef0f4f9450d14220583cba0d29ad",
+  "modifiedAt": "2026-11-25",
+  "links": [
+    {
+      "from": "perguntas-ao-vivo-respostas-marca",
+      "to": "mensagem-automatica-recebimento-solucao",
+      "anchor": "Apontar para um canal que ninguém acompanha apenas desloca a pergunta.",
+      "context": "O próximo passo precisa ser utilizável. Apontar para um canal que ninguém acompanha apenas desloca a pergunta. Quem recebe a continuidade deve conseguir reconhecer o assunto pertinente, respeitando o que pode ser compartilhado e sem exigir uma exposição pública para iniciar a conversa.",
+      "reason": "O destino aprofunda a diferença entre receber uma solicitação e assumir seu encaminhamento."
+    },
+    {
+      "from": "perguntas-ao-vivo-respostas-marca",
+      "to": "devolutiva-pesquisa-retorno-participantes",
+      "anchor": "o responsável precisa saber o que ficou pendente",
+      "context": "Na empresa, a equipe pode combinar como reconhecer essas situações e qual continuidade consegue oferecer. Se houver retorno previsto, o responsável precisa saber o que ficou pendente e qual informação deve conferir. Uma intenção vaga de responder depois não equivale a um encaminhamento organizado.",
+      "reason": "A devolutiva aos participantes detalha como comunicar encaminhamentos sem prometer conclusões inexistentes."
+    }
+  ]
+}

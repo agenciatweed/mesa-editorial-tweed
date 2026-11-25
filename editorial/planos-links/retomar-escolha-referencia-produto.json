@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "retomar-escolha-referencia-produto",
+  "contentSha256": "1da0a4bb0537b2b7a3e6e12c023f7aa5c7812eb3ea4110a4c716e5b2f057ccd7",
+  "modifiedAt": "2026-11-24",
+  "links": [
+    {
+      "from": "retomar-escolha-referencia-produto",
+      "to": "busca-interna-loja-linguagem-cliente",
+      "anchor": "localizar a mesa e identificar a dimensão considerada",
+      "context": "Na loja, a equipe pode percorrer o retorno como uma tarefa concreta: abrir a referência, localizar a mesa e identificar a dimensão considerada.",
+      "reason": "A organização de informações e variantes na busca complementa a recuperação de uma seleção."
+    },
+    {
+      "from": "retomar-escolha-referencia-produto",
+      "to": "proposta-comercial-comparavel-criterios",
+      "anchor": "reconhecer diferenças de dimensão, finalidade ou acabamento",
+      "context": "A comparação deve continuar permitindo reconhecer diferenças de dimensão, finalidade ou acabamento que importam para a pessoa.",
+      "reason": "A explicitação dos critérios da escolha complementa a comparação das alternativas na retomada."
+    }
+  ]
+}

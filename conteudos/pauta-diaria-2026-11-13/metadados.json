@@ -53,8 +53,18 @@
   "imageHeight": 1024,
   "image": "https://www.agenciatweed.com.br/assets/artigos-editoriais/65868e08e327c0d72d82793422441dc21185ecd4592145bfa7db7f3a58c8dc1f.png",
   "publication": {
-    "state": "queued",
-    "approvedAt": "2026-11-15T09:16:10.172Z",
-    "scheduledRound": 1
+    "state": "published",
+    "runKey": "2026-11-25T22:08:08.000Z",
+    "url": "https://www.agenciatweed.com.br/retomar-escolha-referencia-produto/",
+    "publishedAt": "2026-11-25T22:15:39.998242+00:00",
+    "job": "d41bf16b-7ef5-4ad9-89e6-fa984332c59e",
+    "files": [
+      "assets/artigos-editoriais/65868e08e327c0d72d82793422441dc21185ecd4592145bfa7db7f3a58c8dc1f.png",
+      "retomar-escolha-referencia-produto/index.html",
+      "blog/index.html",
+      "blog-marcas-em-acao/index.html",
+      "sitemap.xml",
+      ".htaccess"
+    ]
   }
 }

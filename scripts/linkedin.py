@@ -175,6 +175,13 @@ def summarize(state, at=None):
     if not isinstance(new_limit, int) or new_limit != 1:
         raise ValueError('Limite diario de artigos novos deve ser um')
     day = local_date(at or now(), timezone)
+    batch = read(ROOT / '.local/manual-publication.json', {})
+    batch_jobs = batch.get('jobs', [])
+    batch_valid = (batch.get('active') is True and batch.get('date') == day
+                   and bool(batch.get('authorization')) and len(batch_jobs) == 3
+                   and instant(batch['runKey']) <= instant(at or now()) < instant(batch['expiresAt'])
+                   and instant(batch['expiresAt']) - instant(batch['runKey']) <= dt.timedelta(hours=6))
+    batch_slugs = {j['slug'] for j in batch_jobs} if batch_valid else set()
     pending = [i for i in state['items'] if i['state'] != 'published']
     pending.sort(key=lambda i: instant(i['blogPublishedAt']))
     sent = [i for i in state['items'] if i['state'] == 'published'
@@ -191,7 +198,7 @@ def summarize(state, at=None):
     elif len(sent) >= daily_limit:
         reason = 'daily-limit'
     elif new:
-        if new_sent < new_limit:
+        if new_sent < new_limit or (batch_valid and new[0]['slug'] in batch_slugs):
             selected, reason = new[0], 'new-article'
         else:
             reason = 'new-daily-limit'

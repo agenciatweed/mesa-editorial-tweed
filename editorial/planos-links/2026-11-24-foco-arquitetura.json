@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "nova-oferta-arquitetura-marcas",
+  "contentSha256": "565e149ea276b269a6c6a2b9c55d64603983b8748b533c685f6a4db3fd53e5ea",
+  "modifiedAt": "2026-11-24",
+  "links": [
+    {
+      "from": "nome-produto-clareza-proposta",
+      "to": "nova-oferta-arquitetura-marcas",
+      "anchor": "organização da oferta",
+      "context": "Precisa funcionar junto do descritor e da organização da oferta, sem acrescentar uma confusão que o vendedor terá de desfazer depois.",
+      "reason": "A relação entre o nome do produto e o portfólio ganha aprofundamento específico nas decisões de arquitetura da nova oferta."
+    }
+  ]
+}

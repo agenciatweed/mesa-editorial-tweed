@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict';
+import {validManualPublication} from './manual-publication.mjs';
+import {publicationWindow} from './publication-window.mjs';
+
+const now=new Date('2026-11-25T22:15:00Z'), key='2026-11-25T22:08:08.000Z';
+const jobs=[1,2,3].map(n=>({id:`job${n}`,itemId:`item${n}`,slug:`post${n}`,snapshot:String(n).repeat(64),action:'publicar',state:'pending',createdAt:key}));
+const items=jobs.map((j,n)=>({id:j.itemId,slug:j.slug,status:'Pronto',date:`2026-11-${23+n}`,publication:{state:'queued'}}));
+const grant={active:true,date:'2026-11-25',runKey:key,expiresAt:'2026-11-26T02:08:08Z',authorization:'Pedido explicito para os tres artigos',jobs};
+assert(validManualPublication(grant,now));
+assert(!validManualPublication({...grant,active:false},now));
+assert(!validManualPublication({...grant,jobs:[jobs[0],jobs[0],jobs[2]]},now));
+assert(!validManualPublication({...grant,expiresAt:'2026-11-25T22:14:00Z'},now));
+assert(!validManualPublication({...grant,expiresAt:'2026-11-26T05:08:08Z'},now));
+const completed={id:'done',publication:{state:'published',publishedAt:key}};
+assert.equal(publicationWindow([key],key,[...items,completed],jobs,now).job,null);
+assert.equal(publicationWindow([key],key,[...items,completed],jobs,now,grant).job,'job1');
+assert.equal(publicationWindow([key,'2026-11-25T23:00:00Z'],key,items,jobs,now,grant).job,'job1');
+assert.equal(publicationWindow([key],key,items,[{...jobs[0],snapshot:'f'.repeat(64)}],now,grant).job,null);
+assert.equal(publicationWindow([key],key,items,[{...jobs[0],id:'other'}],now,grant).job,null);
+assert.equal(publicationWindow([key],key,items.map(i=>({...i,status:'Revisão'})),jobs,now,grant).job,null);
+assert.equal(publicationWindow([key],key,[...items,completed],jobs,now,{...grant,active:false}).job,null);
+console.log('PASS: exception is scoped to three snapshots, expires, preserves approval and restores daily cap.');
