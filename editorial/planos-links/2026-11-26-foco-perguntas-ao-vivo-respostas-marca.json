@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "perguntas-ao-vivo-respostas-marca",
+  "contentSha256": "a8f4c0243c65c62ad6a5444c793deec66380ef0f4f9450d14220583cba0d29ad",
+  "modifiedAt": "2026-11-26",
+  "links": [
+    {
+      "from": "demonstracao-produto-ajudar-cliente-decidir",
+      "to": "perguntas-ao-vivo-respostas-marca",
+      "anchor": "responder ou encaminhá-la",
+      "context": "Isso só ajuda quando existe capacidade de entender a pergunta e responder ou encaminhá-la.",
+      "reason": "A responsabilidade pelo Q&A aprofunda a organização de respostas durante a demonstração."
+    }
+  ]
+}

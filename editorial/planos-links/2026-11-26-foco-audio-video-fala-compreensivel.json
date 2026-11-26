@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "audio-video-fala-compreensivel",
+  "contentSha256": "5742d2da5b975262dec732441bc72955ea792d079f2f7afa5d110e73cf1558d9",
+  "modifiedAt": "2026-11-26",
+  "links": [
+    {
+      "from": "demonstracao-produto-ajudar-cliente-decidir",
+      "to": "audio-video-fala-compreensivel",
+      "anchor": "uma trilha que encobre a orientação",
+      "context": "Uma explicação incompreensível ou uma trilha que encobre a orientação dificulta aproveitar o que está sendo mostrado.",
+      "reason": "A revisão de inteligibilidade do áudio aprofunda a prioridade da explicação na demonstração."
+    }
+  ]
+}

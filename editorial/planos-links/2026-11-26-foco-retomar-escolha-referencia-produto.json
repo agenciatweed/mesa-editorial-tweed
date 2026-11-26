@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "scope": "full",
+  "newSlug": "retomar-escolha-referencia-produto",
+  "contentSha256": "1da0a4bb0537b2b7a3e6e12c023f7aa5c7812eb3ea4110a4c716e5b2f057ccd7",
+  "modifiedAt": "2026-11-26",
+  "links": [
+    {
+      "from": "busca-interna-loja-linguagem-cliente",
+      "to": "retomar-escolha-referencia-produto",
+      "anchor": "voltar à loja com o código exato de uma peça",
+      "context": "Alguém pode voltar à loja com o código exato de uma peça, o modelo de um acessório ou o nome de um produto comprado anteriormente.",
+      "reason": "O retorno por uma referência específica aprofunda a continuidade da seleção, sem recomeçar a procura."
+    }
+  ]
+}
