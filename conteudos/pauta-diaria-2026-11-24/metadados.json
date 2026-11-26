@@ -7,7 +7,7 @@
   "audience": "Donos de cafeterias, delicatessens e pequenos negócios de alimentação que estudam atender novas ocasiões por pontos compactos, retirada ou presença em eventos.",
   "goal": "De avaliar a expansão apenas pelo espaço e pela presença da marca para definir qual ocasião o novo formato atende, quais características preserva e quais limites precisam ser compreendidos pelo cliente.",
   "createdAt": "2026-11-24T10:15:44.087Z",
-  "status": "Redação",
+  "status": "Revisão",
   "submitted": true,
   "workflowVersion": 2,
   "voiceVersion": 2,
@@ -30,10 +30,16 @@
   "prompt": "Literal editorial photograph of a compact independent coffee pickup counter facing a pedestrian walkway, medium wide eye-level view of one adult barista handing a closed takeaway coffee cup to an adult customer who remains standing outside the counter, a professional espresso machine and a small refrigerated display behind the barista, no seating area, narrow pale teal trim inspired by #08ffb1 on the counter front, realistic paper cup and stainless steel textures, soft neutral morning daylight and natural skin tones, candid restrained composition, no readable menu, text or logos --ar 3:2",
   "imageAlt": "Barista entrega um café para viagem a uma cliente num balcão compacto voltado para a calçada, com detalhe teal e sem mesas.",
   "automation": {
-    "stage": "Redação",
+    "stage": "Revisão",
     "state": "done",
-    "lastJob": "e498cc55-d03f-4c5c-9ed5-e6d85c19080a",
-    "completedAt": "2026-11-24T22:23:15.663Z",
-    "message": "Redação e prompt prontos para edição."
-  }
+    "lastJob": "15671608-1c1d-40e2-a3aa-db40d072d1c5",
+    "completedAt": "2026-11-26T10:31:09.594Z",
+    "message": "SEO revisado; envie a capa e aprove.",
+    "reviewKey": "e2bbffc3028286a3fc544e1af787fe91fba823d2281e8beff46fd74bd567faaa"
+  },
+  "keyword": "novo formato de loja",
+  "slug": "novo-formato-loja-ocasiao-visita",
+  "meta": "Um novo formato de loja precisa atender uma ocasião clara. Defina o que permanece da marca e confira cardápio, retirada e limites antes de ampliar a promessa.",
+  "faq": "O que definir antes de divulgar um novo formato de loja?\nO motivo da visita, as opções disponíveis, os caminhos de pedido e retirada e as características da marca que podem ser sustentadas naquele ponto.\n\nUm ponto compacto precisa reproduzir a experiência do salão?\nNão. Pode atender outra ocasião, desde que as diferenças de espaço, cardápio e atendimento sejam assumidas e compreensíveis antes da visita.\n\nComo avaliar se a apresentação do formato está clara?\nObserve se uma pessoa localiza o ponto, entende sua proposta e identifica as opções disponíveis. Compare essas tarefas com as dúvidas do atendimento, sem extrapolar um teste limitado para todo o público.",
+  "url": "https://www.agenciatweed.com.br/novo-formato-loja-ocasiao-visita/"
 }

@@ -15726,6 +15726,135 @@
       "createdAt": "2026-11-24T12:13:55.390Z",
       "startedAt": "2026-11-24T22:22:20.678Z",
       "completedAt": "2026-11-24T22:23:16.619Z"
+    },
+    {
+      "id": "c12784d6-725f-48c9-97b7-9465d7cd4d76",
+      "itemId": "pauta-diaria-2026-11-25",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "d2c0ee4aff48fe91cb343dc081d5a804d97d05fac9cd31aab8c89644e2a3202a",
+      "snapshot": "d370c3b24ee7356e8d4adb8caf354527d9fe592a94db2ffaa6880a84dbf7a2c8",
+      "input": {
+        "id": "pauta-diaria-2026-11-25",
+        "title": "Entrar em outra região muda a promessa de atendimento",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: página da LEGO com data de publicação de 22/11/2026 anuncia uma fábrica planejada em Estarreja, Portugal; o corpo traz uma linha de anúncio datada de 23/11. Preservar essa distinção caso se mencione a cronologia. O comunicado apresenta a proximidade dos mercados e os acessos de transporte entre as razões da escolha, com produção prevista para 2030. É anúncio de intenção futura: não afirmar fábrica em operação, redução já obtida de prazos, crescimento comprovado ou benefício ambiental realizado. Não reproduzir investimentos ou projeções promocionais. Tese própria: a expansão geográfica precisa definir o que a marca consegue sustentar para quem está fora da região já atendida; ampliar a área da campanha não amplia automaticamente as condições de entrega e suporte. Recorte numa empresa de móveis sob medida que avalia atender uma cidade vizinha: antes de anunciar, esclarecer como levantamento, instalação e atendimento posterior podem ocorrer naquela área e quais condições estão confirmadas. Abrir pela pergunta de um interessado da nova cidade sobre a visita técnica, sem Imagine. Discutir dependências, limites de cobertura e o que precisa ser conferido com a operação antes de declarar atendimento local. Não fixar prazos, preços, políticas ou soluções logísticas universais. Diferenciar de novo formato de loja: foco na expansão territorial mantendo a mesma oferta, não em balcão compacto ou nova ocasião de consumo. Diferenciar de campanha e entrega: foco na escolha estratégica de uma área viável de atuação, não apenas na coerência de uma peça isolada. Diferenciar de origem regional: foco em atender outro território, não usar procedência como atributo. A aplicação à PME é análise editorial da Tweed; não recomendar investimento ou replicar a escala industrial da LEGO.",
+        "audience": "Gestores de empresas de móveis sob medida, instalação e serviços presenciais que estudam ampliar sua região de atendimento e divulgar essa expansão.",
+        "goal": "De considerar uma nova cidade apenas como mais uma área de divulgação para definir quais etapas da entrega conseguem ser sustentadas ali e como apresentar a cobertura real sem antecipar condições ainda não confirmadas.",
+        "createdAt": "2026-11-25T10:19:36.032Z",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-25",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "LEGO Group, anúncio de fábrica planejada em Estarreja, página publicada em 22/11/2026",
+              "url": "https://www.lego.com/en-us/aboutus/news/2026/november/the-lego-group-to-build-new-factory-in-estarreja-portugal",
+              "publishedAt": "2026-11-22"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-25T12:51:18.462Z",
+      "startedAt": "2026-11-26T10:29:23.703Z",
+      "completedAt": "2026-11-26T10:31:08.861Z"
+    },
+    {
+      "id": "41a2ed0a-fab0-4a2b-a4c9-22e90073207f",
+      "itemId": "pauta-reposicao-2026-11-24-5de78cafa3e9",
+      "action": "redigir",
+      "state": "done",
+      "workKey": "374ce6dbeda64ec4e2b7ed5ca94dadd48b1e9b1dfcef968d465ba5220c0a4e2f",
+      "snapshot": "9716d09854f79090922a8cc31922ca207a93fe93f2ea83361e546a36e90fa859",
+      "input": {
+        "id": "pauta-reposicao-2026-11-24-5de78cafa3e9",
+        "title": "Crescer entre novos públicos exige traduzir o repertório da marca",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: artigo da Unilever listado em 18/11/2026 descreve a TeethTalk Academy da Pepsodent, iniciativa para ajudar dentistas a produzir conteúdo social acessível. Tratar como relato da empresa, sem reproduzir percentuais de confiança, alcance, comparações com concorrentes, superlativos ou inferir eficácia e crescimento causal. A iniciativa serve apenas de contexto para analisar como uma marca com repertório técnico tenta conversar com um público que não acompanha sua linguagem habitual. Tese própria: ampliar público exige traduzir a entrada na conversa sem esvaziar a competência que sustenta a marca. Recorte numa escola independente de música conhecida por atender alunos experientes que passa a se apresentar também a adultos iniciantes: escolher uma dúvida real de quem começa, explicar uma decisão musical em linguagem reconhecível e conferir se o convite corresponde às aulas efetivamente oferecidas. Não presumir que toda geração prefere o mesmo canal ou que formato curto exige simplificação indevida. Abrir pela explicação que faz sentido para músicos mas deixa um iniciante sem saber se pode participar. Decidir o que pode sair da primeira mensagem, o que precisa aparecer antes de uma escolha e qual conteúdo permite aprofundar, com continuidade entre convite, esclarecimento e atendimento. Não dar orientações clínicas, prescrever técnicas musicais ou recomendar ferramentas e influenciadores. Diferenciar de segmentar por cargo e problema: foco na passagem de repertório de especialistas para um novo grupo de interessados, não na seleção de um público B2B. Diferenciar de escolher influenciador e humor: foco em preparar a própria equipe para traduzir conhecimento, sem contratar porta-voz ou adotar entretenimento como fórmula. A aplicação à escola é análise editorial da Tweed.",
+        "audience": "Gestores de escolas de música, cursos livres e empresas de serviços especializados que querem conversar com novos públicos sem perder precisão ou prometer uma entrega diferente da real.",
+        "goal": "De repetir a apresentação feita para quem já domina o assunto para organizar uma entrada compreensível na conversa, preservando o conhecimento e permitindo aprofundamento conforme a decisão do novo interessado.",
+        "createdAt": "2026-11-24T22:21:24.203Z",
+        "status": "Pauta",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-24",
+          "mode": "replenishment",
+          "sources": [
+            {
+              "title": "Unilever, Pepsodent e TeethTalk Academy, 18/11/2026",
+              "url": "https://www.unilever.com/news/news-search/2026/unilevers-pepsodent-elevates-oral-health-from-routine-to-relevance-online/",
+              "publishedAt": "2026-11-18"
+            }
+          ]
+        }
+      },
+      "createdAt": "2026-11-25T12:51:31.441Z",
+      "startedAt": "2026-11-26T10:29:23.965Z",
+      "completedAt": "2026-11-26T10:31:09.383Z"
+    },
+    {
+      "id": "15671608-1c1d-40e2-a3aa-db40d072d1c5",
+      "itemId": "pauta-diaria-2026-11-24",
+      "action": "revisar",
+      "state": "done",
+      "workKey": "e2bbffc3028286a3fc544e1af787fe91fba823d2281e8beff46fd74bd567faaa",
+      "snapshot": "691fe87e05e4425fb4529661a0794a16695b851295e7fc8f4e77cc07c8ec9ea6",
+      "input": {
+        "id": "pauta-diaria-2026-11-24",
+        "title": "Um novo formato de loja precisa preservar o motivo da visita",
+        "edition": 4,
+        "expert": "Lorenzo",
+        "angle": "Gancho primário: comunicado da Starbucks de 12/11/2026 sobre sua expansão na Ásia-Pacífico descreve formatos menores e flexíveis, incluindo uma unidade em estação e um caminhão de café em eventos no Vietnã. Atribuir essas informações à empresa, sem usar escala, depoimentos ou projeções como prova de desempenho. Tese própria: ampliar presença por um formato diferente exige decidir que parte da experiência precisa continuar reconhecível e o que pode mudar para atender outra ocasião. Recorte numa cafeteria que avalia um ponto compacto de retirada além do salão: distinguir a visita para permanecer da passagem para buscar um pedido; conferir cardápio realmente disponível, orientação na chegada, retirada e limites do atendimento. Não afirmar que uma operação compacta reproduz toda a experiência do salão ou garante crescimento. Abrir pela decisão sobre o que cabe no ponto menor, sem imaginar uma pequena loja. Comparar ocasião, promessa e condições de entrega; decidir o que comunicar antes da visita e o que testar antes de ampliar. Diferenciar de arquitetura de marcas: foco no formato operacional e na ocasião de consumo, sem criar outra marca. Diferenciar de fotografar espaços e porta de entrada: foco na decisão estratégica de expansão, sem transformar o artigo num guia fotográfico ou de sinalização. A aplicação à PME é análise da Tweed, sem prescrever investimento ou atribuir causalidade comercial ao anúncio.",
+        "audience": "Donos de cafeterias, delicatessens e pequenos negócios de alimentação que estudam atender novas ocasiões por pontos compactos, retirada ou presença em eventos.",
+        "goal": "De avaliar a expansão apenas pelo espaço e pela presença da marca para definir qual ocasião o novo formato atende, quais características preserva e quais limites precisam ser compreendidos pelo cliente.",
+        "createdAt": "2026-11-24T10:15:44.087Z",
+        "status": "Revisão",
+        "submitted": true,
+        "workflowVersion": 2,
+        "voiceVersion": 2,
+        "checks": {},
+        "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+        "author": "https://www.agenciatweed.com.br/#agencia",
+        "dailyResearch": {
+          "date": "2026-11-24",
+          "mode": "daily",
+          "sources": [
+            {
+              "title": "Starbucks, expansão na Ásia-Pacífico e formatos flexíveis, 12/11/2026",
+              "url": "https://about.starbucks.com/press/2026/starbucks-reaches-6000-coffeehouses-in-asia-pacific-marking-the-milestone-in-vietnam/",
+              "publishedAt": "2026-11-12"
+            }
+          ]
+        },
+        "automation": {
+          "stage": "Revisão",
+          "state": "pending",
+          "lastJob": "e498cc55-d03f-4c5c-9ed5-e6d85c19080a",
+          "completedAt": "2026-11-24T22:23:15.663Z",
+          "message": "Redação e prompt prontos para edição."
+        },
+        "body": "A máquina de café cabe. O balcão também. Ao desenhar o ponto compacto, porém, a equipe descobre que não haverá espaço para o cliente sentar, conversar com o atendente e escolher entre todos os itens do salão. O endereço novo pode levar a mesma marca, mas atenderá outra situação de visita.\n\nUm novo formato de loja exige essa definição antes de ganhar uma campanha de inauguração. O que leva alguém até ali? Qual parte da experiência precisa continuar reconhecível? O que muda porque aquele espaço foi pensado para outra ocasião?\n\nEm comunicado de 12 de novembro de 2026, a Starbucks descreveu sua expansão na Ásia-Pacífico com diferentes formatos. Citou uma cafeteria menor na estação de Vientiane, no Laos, e um caminhão de café em eventos no Vietnã. São informações da própria empresa, sem demonstração de que o formato, isoladamente, explique um resultado comercial.\n\nA referência ajuda a examinar uma decisão que também aparece em negócios menores: crescer pode envolver atender outra ocasião, em vez de reproduzir o salão em menos metros quadrados.\n\n## Comece pela visita que o ponto pretende receber\n\nUma cafeteria de bairro considera abrir um balcão de retirada perto de escritórios. No salão original, parte do público fica para conversar ou trabalhar. No ponto novo, a proposta seria atender quem quer buscar o pedido e continuar o trajeto.\n\nAs duas visitas envolvem café, mas pedem organizações diferentes. Quem vai permanecer procura condições para ficar. Quem passa para retirar precisa entender o que pode pedir, onde busca e como reconhece seu pedido. Uma decisão de expansão fica mais clara quando descreve essa situação concreta.\n\nAntes de escolher a linguagem da inauguração, formule o propósito do ponto. Atender pedidos já feitos? Receber escolhas na hora? Oferecer parte do cardápio durante determinados períodos? Cada resposta abre perguntas sobre o que a operação consegue entregar.\n\nIsso não obriga o negócio a atender todas as ocasiões no mesmo endereço. Ajuda a escolher uma proposta compreensível e a reconhecer quando o espaço disponível não corresponde a ela. Um balcão pode ser adequado para uma passagem breve sem precisar prometer o encontro que caracteriza o salão.\n\n## Decida o que atravessa a mudança de formato\n\nO nome e o logotipo tornam o vínculo visível, mas não explicam sozinhos o que o cliente encontrará. A continuidade pode estar numa seleção de produtos, numa maneira de orientar a escolha ou num cuidado da entrega que a empresa consegue sustentar também naquele ponto.\n\nNa cafeteria, a equipe precisa definir quais características são essenciais para que o pedido continue correspondendo à oferta da marca. Depois, deve conferir como essas características se realizam nas condições do balcão. Não basta escrever que a experiência será a mesma se uma parte importante dela depende de permanecer no salão.\n\nSepare o que precisa continuar do que pode ser diferente. O espaço pode ter menos lugares ou nenhum assento. O cardápio pode ser mais restrito. A forma de fazer o pedido pode mudar. Essas diferenças precisam ser decisões assumidas, com uma apresentação que permita reconhecê-las.\n\nO critério ajuda também a recusar uma adaptação inadequada. Se um item não pode ser oferecido de modo compatível com a proposta naquele espaço, colocá-lo na comunicação para tornar o lançamento mais atraente não resolve a limitação. Primeiro se decide o que será entregue; depois se apresenta essa escolha.\n\n## Um cardápio menor ainda precisa representar uma oferta inteira\n\nRetirar itens pode ser parte do formato, mas a seleção restante precisa fazer sentido para a ocasião atendida. O ponto não ganha uma proposta apenas por exibir uma versão reduzida do material do salão.\n\nNo balcão perto dos escritórios, examine o percurso de quem chega para buscar algo antes de uma reunião. A pessoa encontra as opções daquele endereço? Consegue distinguir o que está disponível ali do que pertence ao salão? Sabe como esclarecer uma dúvida antes de concluir o pedido?\n\nA comunicação precisa acompanhar as condições confirmadas. Uma fotografia de uma mesa completa pode sugerir uma experiência que aquele ponto não oferece. Uma página que mistura os dois cardápios pode levar alguém a sair de casa esperando encontrar um item disponível somente no outro endereço.\n\nConfira também o encontro entre os canais. Se a pessoa começa pela rede social, passa pelo site e chega ao balcão, a descrição do formato continua coerente? Se utiliza um caminho de pedido oferecido pela empresa, esse caminho apresenta as opções do lugar certo?\n\nEssas perguntas não exigem uma solução digital específica. Exigem uma relação clara entre a informação e o funcionamento definido para cada ponto.\n\n## A retirada faz parte da proposta de presença\n\nUm espaço compacto pode aproximar a marca de um trajeto, mas a proximidade perde parte do sentido quando chegar e retirar exige descobrir o processo por tentativa. O cliente precisa reconhecer o caminho pertinente àquilo que pretende fazer.\n\nNa cafeteria, percorra a visita de quem já fez um pedido e de quem ainda vai escolher. Os dois caminhos podem compartilhar o balcão sem serem a mesma tarefa. A equipe deve conseguir explicar onde cada conversa começa e o que precisa ser confirmado.\n\nConsidere também as dúvidas que o novo formato produz. A pessoa pode esperar consumir no local porque conhece o salão. Pode supor que encontrará todo o cardápio porque viu a marca na fachada. Pode chegar a outro endereço para buscar um pedido. Antes de tratar essas situações como distração, examine se a apresentação permite entender a diferença.\n\nO aviso sobre os limites precisa participar da escolha, não aparecer apenas depois da chegada. A informação mais útil é específica: formato de retirada, opções daquele ponto e caminhos efetivamente oferecidos. Expressões como experiência completa dizem pouco se não correspondem ao que está disponível.\n\n## Teste a ocasião antes de multiplicar a promessa\n\nUma inauguração pode chamar atenção sem esclarecer se o formato atende bem à situação para a qual foi criado. A avaliação precisa voltar ao motivo da visita, em vez de se limitar à aparência do ponto ou à movimentação do primeiro dia.\n\nDefina tarefas que permitam observar o percurso. Uma pessoa localiza o endereço e entende que se trata de retirada? Outra identifica quais produtos pode pedir ali? Alguém consegue explicar a diferença entre o ponto e o salão depois de consultar os materiais públicos?\n\nCompare essas observações com o atendimento real. Se a equipe precisa desfazer a mesma expectativa várias vezes, registre a dúvida e examine sua origem. Talvez falte uma informação. Talvez a oferta esteja organizada de maneira confusa. Talvez o próprio formato ainda prometa algo que não consegue acomodar.\n\nUm teste limitado não demonstra que todas as pessoas terão a mesma experiência nem garante a viabilidade de ampliar a operação. Ele permite identificar dificuldades concretas e decidir o que precisa ser revisto antes de repetir aquela apresentação em outros lugares.\n\nO crescimento por formatos diferentes pede escolhas sobre presença e entrega. O ponto compacto não precisa reproduzir cada característica do salão. Precisa ter um motivo claro para existir na rotina de quem passa por ele e uma promessa que suas condições conseguem sustentar. É essa relação que deve orientar o que muda e o que a marca faz questão de preservar.",
+        "sources": "[Starbucks, expansão na Ásia-Pacífico e formatos flexíveis, 12/11/2026](https://about.starbucks.com/press/2026/starbucks-reaches-6000-coffeehouses-in-asia-pacific-marking-the-milestone-in-vietnam/)\n\nO comunicado da empresa descreve formatos de operação. A aplicação a uma cafeteria independente é análise editorial da Tweed; não atribui resultados comerciais ao formato nem recomenda um investimento.",
+        "prompt": "Literal editorial photograph of a compact independent coffee pickup counter facing a pedestrian walkway, medium wide eye-level view of one adult barista handing a closed takeaway coffee cup to an adult customer who remains standing outside the counter, a professional espresso machine and a small refrigerated display behind the barista, no seating area, narrow pale teal trim inspired by #08ffb1 on the counter front, realistic paper cup and stainless steel textures, soft neutral morning daylight and natural skin tones, candid restrained composition, no readable menu, text or logos --ar 3:2",
+        "imageAlt": "Barista entrega um café para viagem a uma cliente num balcão compacto voltado para a calçada, com detalhe teal e sem mesas.",
+        "date": "2026-12-17"
+      },
+      "createdAt": "2026-11-25T12:51:24.057Z",
+      "startedAt": "2026-11-26T10:29:24.123Z",
+      "completedAt": "2026-11-26T10:31:09.912Z"
     }
   ]
 }

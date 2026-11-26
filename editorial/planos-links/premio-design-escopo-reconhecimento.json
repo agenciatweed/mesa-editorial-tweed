@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scope": "new-only",
+  "newSlug": "premio-design-escopo-reconhecimento",
+  "contentSha256": "dfb3765ac65acc5b6963e65a24e8976fa65af40c7c1775578eb827e706793e4a",
+  "modifiedAt": "2026-11-26",
+  "links": [
+    {
+      "from": "premio-design-escopo-reconhecimento",
+      "to": "reconhecer-contribuicoes-criacao-produto",
+      "anchor": "qual foi a participação da empresa",
+      "context": "Confira também quem consta como destinatário e qual foi a participação da empresa.",
+      "reason": "A atribuição precisa de contribuições ajuda a delimitar o papel da empresa no projeto reconhecido."
+    },
+    {
+      "from": "premio-design-escopo-reconhecimento",
+      "to": "selecao-portfolio-direcao-trabalho",
+      "anchor": "a apresentação do projeto",
+      "context": "O site da empresa também pode reunir a apresentação do projeto e a origem do reconhecimento.",
+      "reason": "A seleção e contextualização do trabalho no portfólio complementam a relevância comercial do reconhecimento."
+    }
+  ]
+}

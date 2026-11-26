@@ -4,6 +4,34 @@
   "exportedAt": "2026-11-07T17:56:44.913Z",
   "items": [
     {
+      "id": "pauta-diaria-2026-11-26",
+      "title": "A segunda unidade precisa saber quais decisões pode tomar",
+      "edition": 4,
+      "expert": "Lorenzo",
+      "angle": "Gancho primário: comunicado da Unilever de 03/11/2026, arquivado no Form 6-K da SEC, anuncia a evolução do modelo operacional com estratégia global e execução local, distinguindo responsabilidades centrais e dos mercados. A implantação é prevista progressivamente para 2027; não apresentar como modelo já concluído nem usar metas de produtividade ou crescimento como resultados. Tese própria: ao crescer para mais unidades, uma empresa precisa distinguir decisões comuns à marca das adaptações que a equipe de cada unidade pode realizar, com um caminho claro para exceções. Recorte num grupo independente de restaurantes que abre sua segunda casa: separar identidade, informações confirmadas da oferta e critérios compartilhados de decisões sobre uma ação local, uma dúvida recorrente ou a apresentação de uma disponibilidade específica. Abrir pelo gerente que recebe uma oportunidade de divulgação no bairro e não sabe o que pode aprovar. Não recomendar uma estrutura corporativa, mudar preços ou políticas, nem transformar autonomia em autorização irrestrita. Construir exemplos de decisões, responsáveis e encaminhamento, observar se a unidade depende dos fundadores para cada detalhe e se uma adaptação altera uma promessa que deveria permanecer comum. Diferenciar de expansão territorial: foco em direitos de decisão entre unidades, não em cobertura, deslocamento ou suporte em outra cidade. Diferenciar de formato de loja: foco em governança cotidiana da expressão da marca, não em qual ocasião de consumo o espaço atende. Diferenciar de aprovação de campanha: foco na distribuição estável de responsabilidade durante o crescimento, não na revisão de uma peça. A aplicação a restaurantes é análise editorial da Tweed, sem promessa de eficiência ou resultado financeiro.",
+      "audience": "Sócios e responsáveis por comunicação de restaurantes, cafeterias e pequenos grupos de serviços que passam de uma operação centralizada nos fundadores para duas ou mais unidades.",
+      "goal": "De tratar toda adaptação local como improviso ou assunto para os fundadores para definir quais escolhas seguem critérios comuns, quais podem ser feitas pela unidade e quando é preciso consultar outra pessoa.",
+      "createdAt": "2026-11-26T10:27:34.347Z",
+      "status": "Pauta",
+      "submitted": false,
+      "workflowVersion": 2,
+      "voiceVersion": 2,
+      "checks": {},
+      "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+      "author": "https://www.agenciatweed.com.br/#agencia",
+      "dailyResearch": {
+        "date": "2026-11-26",
+        "mode": "daily",
+        "sources": [
+          {
+            "title": "Unilever, anúncio de evolução do modelo operacional, 03/11/2026, Form 6-K",
+            "url": "https://www.sec.gov/Archives/edgar/data/217410/000165495426009451/a6665b.htm",
+            "publishedAt": "2026-11-03"
+          }
+        ]
+      }
+    },
+    {
       "id": "pauta-diaria-2026-11-25",
       "title": "Entrar em outra região muda a promessa de atendimento",
       "edition": 4,
@@ -12,8 +40,8 @@
       "audience": "Gestores de empresas de móveis sob medida, instalação e serviços presenciais que estudam ampliar sua região de atendimento e divulgar essa expansão.",
       "goal": "De considerar uma nova cidade apenas como mais uma área de divulgação para definir quais etapas da entrega conseguem ser sustentadas ali e como apresentar a cobertura real sem antecipar condições ainda não confirmadas.",
       "createdAt": "2026-11-25T10:19:36.032Z",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -29,7 +57,18 @@
             "publishedAt": "2026-11-22"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "c12784d6-725f-48c9-97b7-9465d7cd4d76",
+        "completedAt": "2026-11-26T10:31:08.565Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "“Vocês também fazem a visita técnica aqui?” A pergunta vem de uma cidade que a empresa de móveis sob medida começou a incluir na divulgação. O anúncio já chegou. A equipe ainda precisa conferir como realizará o levantamento, a instalação e um eventual retorno àquele endereço.\n\nExpandir a região de atendimento envolve mais do que acrescentar localidades à campanha. A empresa precisa conseguir sustentar, no novo território, as etapas que dão sentido à sua oferta. Uma promessa compreensível começa por saber onde e em quais condições o trabalho pode acontecer.\n\nNa página publicada em 22 de novembro de 2026, com linha de anúncio datada de 23 de novembro, a LEGO apresentou o plano de uma fábrica em Estarreja, Portugal. O comunicado menciona proximidade dos mercados e acessos de transporte entre as razões da escolha. A produção é prevista para 2030: trata-se de um projeto futuro, sem resultados dessa unidade já demonstrados.\n\nA escala industrial não fornece uma receita para uma PME. A aproximação útil está na decisão de relacionar a presença em um mercado às condições necessárias para atendê-lo.\n\n## A cidade entra na oferta inteira\n\nUma empresa de móveis sob medida avalia atender uma cidade vizinha. O projeto pode começar com uma conversa à distância, mas outras etapas dependem de presença. A facilidade do primeiro contato não resolve, por si só, as condições das próximas visitas.\n\nAntes de anunciar cobertura, percorra o trabalho completo com quem conhece sua execução. Como as informações do ambiente serão levantadas? O que precisa ser confirmado no local? Como a instalação será organizada? Quem poderá esclarecer uma dúvida depois da entrega?\n\nEssas perguntas não determinam uma solução única. Revelam dependências que a frase atendemos sua região pode esconder. Uma etapa ainda sem responsável ou sem condição definida precisa continuar sendo uma pendência interna, em vez de virar uma promessa por força da divulgação.\n\nNo exemplo, a empresa talvez consiga receber consultas sobre projetos em toda a cidade, mas ainda precise avaliar cada endereço antes de confirmar o serviço. A comunicação deve preservar essa distinção. Estar disponível para conversar e ter uma entrega confirmada são situações diferentes.\n\n## Cobertura exige um critério que a equipe consiga explicar\n\nO nome de uma cidade pode reunir condições bastante diferentes de acesso e deslocamento. Não convém transformar uma fronteira no mapa numa garantia automática sobre qualquer trabalho dentro dela.\n\nCombine com a operação quais informações permitem avaliar uma solicitação. A equipe comercial precisa reconhecer o que já pode afirmar e o que depende de conferência. Quando houver uma condição específica, ela deve acompanhar a conversa pertinente à escolha do cliente.\n\nNa empresa de móveis, uma pessoa pode procurar apenas uma peça, enquanto outra precisa de um projeto com instalação em vários ambientes. Mesmo que os endereços estejam próximos, os trabalhos podem exigir organizações distintas. A divulgação não precisa antecipar cada detalhe, mas deve abrir um caminho capaz de esclarecer o escopo real.\n\nEvite publicar prazos, valores de deslocamento ou disponibilidade com base apenas no que funciona na região atual. Esses dados precisam vir de decisões confirmadas por quem responde pela entrega. A redação ajuda a torná-los compreensíveis; não pode defini-los para completar um anúncio.\n\n## Uma presença digital não comprova uma estrutura local\n\nCriar uma página para a nova cidade pode ajudar a apresentar a cobertura. Isso não significa que exista uma unidade, uma equipe residente ou atendimento imediato naquele lugar.\n\nConfira o significado das palavras e das imagens usadas. Uma fotografia de fachada pode sugerir um endereço físico. A expressão nossa equipe na cidade pode ser entendida de maneira diferente de atendimento à cidade mediante avaliação. Escolha a descrição que corresponda à estrutura existente.\n\nO mesmo cuidado vale para a apresentação comercial e os canais de contato. Quem recebe a consulta sabe explicar como o trabalho começa? A informação do site corresponde à resposta dada no atendimento? Existe um caminho para confirmar as condições quando o caso sai do habitual?\n\nUma empresa pode atender bem um território sem manter uma loja nele. Precisa explicar essa relação de modo suficiente para que o cliente não dependa de uma suposição sobre proximidade ou disponibilidade.\n\n## O retorno também participa da decisão de expansão\n\nAo estudar uma área nova, é fácil concentrar a atenção na conquista do primeiro pedido. A relação com o cliente pode continuar depois da instalação, e essa continuidade merece entrar na avaliação antes da campanha.\n\nNa empresa de móveis, examine como serão encaminhadas perguntas sobre o trabalho entregue. Que informações ficam disponíveis para quem assume a conversa? Quem avalia se uma situação pede presença no local? Como o cliente encontra o canal apropriado?\n\nO artigo não estabelece políticas de suporte nem obrigações de atendimento. A questão editorial é conferir se a apresentação corresponde ao funcionamento definido pela empresa. Se uma condição depende de análise, a mensagem precisa permitir reconhecer essa dependência.\n\nTambém considere a relação com a região já atendida. A ampliação não deveria ser descrita como disponibilidade irrestrita antes de a equipe compreender como os compromissos se encontram. Essa avaliação cabe à operação; a comunicação precisa trabalhar com o que ela consegue confirmar.\n\n## Aprenda com uma área delimitada antes de anunciar a próxima\n\nUma expansão pode começar com um recorte que permita observar o percurso completo. A empresa define quais solicitações consegue avaliar, registra as dúvidas e acompanha os pontos em que a informação oferecida não foi suficiente.\n\nReúna as perguntas recebidas antes da contratação e depois da entrega. Elas indicam condições que ficaram pouco claras? O atendimento precisou desfazer uma impressão de presença local? Alguma etapa foi apresentada como definida quando ainda dependia de avaliação?\n\nUse essas observações para revisar o modo de apresentar a cobertura e para levar pendências à equipe responsável. Um conjunto limitado de casos não demonstra a viabilidade de qualquer expansão, mas pode revelar dificuldades concretas que merecem ser resolvidas antes de ampliar a mensagem.\n\nO mapa da divulgação pode crescer rapidamente. A região de atendimento precisa crescer com decisões sobre o trabalho inteiro. Quando o interessado pergunta se a empresa chega até ele, a resposta deve representar mais do que a distância alcançada pelo anúncio.",
+      "sources": "[LEGO Group, plano de fábrica em Estarreja, página de 22/11/2026](https://www.lego.com/en-us/aboutus/news/2026/november/the-lego-group-to-build-new-factory-in-estarreja-portugal)\n\nA página exibe 22/11 e uma linha de anúncio de 23/11. A produção é prevista para 2030. A aplicação a serviços presenciais é análise editorial, sem resultados comerciais atribuídos ao projeto futuro.",
+      "prompt": "Literal editorial photograph of an adult furniture installation coordinator and an adult craftsperson standing beside a stationary unbranded delivery van at a small custom cabinetry workshop, both looking at a large wall map with two adjacent areas marked in pale teal inspired by #08ffb1 and a few unlabeled route lines, packed cabinet components secured inside the open van behind them, medium wide candid view, soft neutral morning light, natural skin tones and realistic wood and fabric textures, no readable text, city names, logos or abstract metaphor --ar 3:2",
+      "imageAlt": "Dois profissionais observam um mapa ao lado de uma van com componentes de móveis embalados, em uma marcenaria, com áreas marcadas em teal."
     },
     {
       "id": "pauta-reposicao-2026-11-24-5de78cafa3e9",
@@ -40,8 +79,8 @@
       "audience": "Gestores de escolas de música, cursos livres e empresas de serviços especializados que querem conversar com novos públicos sem perder precisão ou prometer uma entrega diferente da real.",
       "goal": "De repetir a apresentação feita para quem já domina o assunto para organizar uma entrada compreensível na conversa, preservando o conhecimento e permitindo aprofundamento conforme a decisão do novo interessado.",
       "createdAt": "2026-11-24T22:21:24.203Z",
-      "status": "Pauta",
-      "submitted": false,
+      "status": "Redação",
+      "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
       "checks": {},
@@ -57,7 +96,18 @@
             "publishedAt": "2026-11-18"
           }
         ]
-      }
+      },
+      "automation": {
+        "stage": "Redação",
+        "state": "done",
+        "lastJob": "41a2ed0a-fab0-4a2b-a4c9-22e90073207f",
+        "completedAt": "2026-11-26T10:31:09.105Z",
+        "message": "Redação e prompt prontos para edição."
+      },
+      "body": "A escola anuncia uma turma com termos que seus alunos avançados conhecem bem. Quem nunca estudou música lê a apresentação e fica com uma dúvida anterior a todas aquelas informações: será que pode começar ali sem saber tocar nada?\n\nTraduzir o repertório da marca exige reconhecer esse ponto de entrada. Uma empresa pode conhecer profundamente seu trabalho e ainda apresentar esse conhecimento de uma maneira que pressupõe familiaridade. Para conversar com um público novo, precisa descobrir o que falta compreender antes que sua oferta faça sentido.\n\nEm artigo listado em 18 de novembro de 2026, a Unilever descreveu a TeethTalk Academy da Pepsodent, uma iniciativa para ajudar dentistas a produzir conteúdo social acessível. O relato é da própria empresa. Ele oferece contexto para examinar a tradução de conhecimento especializado, sem demonstrar que uma PME obterá crescimento ao repetir a iniciativa.\n\nNa escola de música, o desafio não precisa começar pela escolha de uma plataforma. Começa por tornar uma primeira conversa possível sem alterar aquilo que a escola realmente ensina.\n\n## A pergunta do iniciante vem antes da apresentação do especialista\n\nUma escola independente é conhecida entre músicos que já têm prática. Ao decidir receber também adultos iniciantes, utiliza a mesma descrição dos cursos, apenas acrescentando que há vagas para novos alunos.\n\nPara quem conhece o assunto, a lista de conteúdos ajuda a comparar percursos. Para quem começa, ela pode deixar sem resposta se é preciso ter instrumento, alguma experiência ou condições específicas para participar. Essas respostas precisam corresponder à organização real da escola.\n\nConverse com a equipe que recebe interessados. Que perguntas surgem antes de alguém entender a diferença entre as turmas? Quais palavras exigem explicação? Em que momento uma pessoa conclui que a oferta talvez não seja para ela?\n\nNão trate toda dúvida como algo a eliminar com uma chamada mais animada. Pode haver uma condição importante que ainda não foi apresentada. Também pode existir uma diferença real entre a turma oferecida e a necessidade daquela pessoa. Clareza permite reconhecer ambas.\n\n## Escolha o que a primeira mensagem precisa fazer\n\nUma publicação não precisa carregar o programa inteiro do curso. Precisa oferecer uma entrada fiel e um caminho para esclarecer o que falta. O corte exige um critério: qual entendimento permite que a pessoa decida se vale continuar a conversa?\n\nNa escola, uma mensagem pode começar por uma dúvida sobre iniciar os estudos na vida adulta. A resposta deve explicar as condições pertinentes à oferta disponível, sem prometer que qualquer pessoa aprenderá no mesmo tempo ou terá a mesma trajetória.\n\nDepois, é possível apresentar diferenças entre os percursos e orientar o contato. O conteúdo ganha profundidade por etapas, em vez de substituir toda explicação por uma frase de incentivo.\n\nSepare o que pode esperar do que participa da decisão. Um termo técnico pode ser explicado mais adiante. Um requisito para ingressar na turma precisa ser compreendido antes da inscrição. Reduzir a extensão da mensagem não deveria ocultar uma condição relevante.\n\n## A competência pode aparecer numa explicação compreensível\n\nO repertório de uma equipe não se limita aos nomes especializados que ela utiliza. Também aparece na capacidade de reconhecer uma dúvida, explicar uma diferença e admitir o que depende de avaliação.\n\nPeça a um professor que escolha uma pergunta recorrente e prepare uma resposta curta. Em seguida, confira se alguém sem experiência consegue dizer o que entendeu. A tarefa não é avaliar a inteligência do interessado. É examinar se a explicação depende de conhecimentos que ainda não foram apresentados.\n\nQuando uma palavra for necessária, explique sua função no contexto. Quando houver uma comparação, confira se ela ajuda sem mudar o significado. Uma imagem pode facilitar o entendimento de uma situação e ainda exigir limites para não sugerir uma equivalência inadequada.\n\nEvite criar uma falsa escolha entre precisão e proximidade. O trabalho é descobrir uma forma compreensível de dizer o que está confirmado. Se a resposta curta deixa de ser correta, revise a proposta da peça ou ofereça um caminho de aprofundamento.\n\n## Prepare quem conhece o assunto para participar da comunicação\n\nA equipe de conteúdo pode organizar a apresentação, mas precisa de acesso ao conhecimento de quem realiza o trabalho. Um professor sabe identificar uma condição que uma chamada atraente pode apagar. Quem atende sabe quais dúvidas continuam depois da publicação.\n\nNa escola, combine uma pergunta por vez e defina quem confere a resposta. O professor pode explicar, a comunicação organiza o material e alguém revisa se o convite corresponde às turmas oferecidas. Essa participação precisa ter um formato compatível com a rotina, sem depender de uma produção complexa para cada dúvida.\n\nO objetivo não é transformar todos os especialistas em apresentadores com o mesmo jeito. Uma pessoa pode explicar melhor por demonstração; outra, numa conversa breve. A expressão pode variar enquanto o critério permanece: o público consegue entender a questão e reconhecer o próximo passo?\n\nNão presuma que idade determina preferência por um canal ou estilo. Observe onde os interessados efetivamente encontram a escola e quais dúvidas apresentam. Um formato disponível na plataforma não prova, sozinho, que ele é adequado à conversa.\n\n## O convite precisa continuar verdadeiro no atendimento\n\nUma publicação acessível pode aproximar alguém que nunca considerou estudar música. Quando essa pessoa entra em contato, a conversa precisa continuar a partir do entendimento criado, com informações compatíveis.\n\nSe o conteúdo apresenta uma turma para quem começa, o atendimento deve conseguir explicar suas condições sem substituir a oferta por outro percurso silenciosamente. Se determinada necessidade exige avaliação, isso precisa aparecer de modo compreensível.\n\nConfira também se o caminho de aprofundamento existe. O interessado encontra a descrição pertinente? Consegue perguntar o que ainda não entendeu? Quem responde conhece a publicação que motivou a conversa?\n\nAo avaliar o trabalho, vá além de contar visualizações. Observe se as novas perguntas se tornam mais específicas e se o público consegue explicar para quem a oferta foi organizada. Essas observações ajudam a revisar a comunicação, sem comprovar por si só crescimento ou resultado comercial.\n\nAmpliar público exige conservar o conhecimento e rever as suposições sobre quem escuta. A marca não precisa falar como se todo mundo já pertencesse ao seu universo. Precisa oferecer uma maneira honesta de entrar nele e continuar aprendendo o suficiente para escolher.",
+      "sources": "[Unilever, Pepsodent e TeethTalk Academy, 18/11/2026](https://www.unilever.com/news/news-search/2026/unilevers-pepsodent-elevates-oral-health-from-routine-to-relevance-online/)\n\nRelato do fornecedor usado como contexto de tradução de conhecimento para conteúdo social. A aplicação à escola de música é análise editorial da Tweed, sem recomendação clínica, ferramenta indicada ou resultado comercial prometido.",
+      "prompt": "Literal editorial photograph of an adult music teacher seated beside an adult beginner student in a modest independent music school, the student holding an acoustic guitar while listening to a brief explanation, the teacher gesturing calmly toward the instrument without performing, medium side view at seated eye level, a narrow pale teal acoustic wall panel inspired by #08ffb1 in the background, soft neutral window light, natural skin tones, realistic wood grain and relaxed candid expressions, no stage, readable text, logos or abstract metaphor --ar 3:2",
+      "imageAlt": "Professor conversa com uma pessoa adulta que segura um violão numa escola de música, com painel acústico teal ao fundo."
     },
     {
       "id": "pauta-diaria-2026-11-24",
@@ -68,7 +118,7 @@
       "audience": "Donos de cafeterias, delicatessens e pequenos negócios de alimentação que estudam atender novas ocasiões por pontos compactos, retirada ou presença em eventos.",
       "goal": "De avaliar a expansão apenas pelo espaço e pela presença da marca para definir qual ocasião o novo formato atende, quais características preserva e quais limites precisam ser compreendidos pelo cliente.",
       "createdAt": "2026-11-24T10:15:44.087Z",
-      "status": "Redação",
+      "status": "Revisão",
       "submitted": true,
       "workflowVersion": 2,
       "voiceVersion": 2,
@@ -91,12 +141,18 @@
       "prompt": "Literal editorial photograph of a compact independent coffee pickup counter facing a pedestrian walkway, medium wide eye-level view of one adult barista handing a closed takeaway coffee cup to an adult customer who remains standing outside the counter, a professional espresso machine and a small refrigerated display behind the barista, no seating area, narrow pale teal trim inspired by #08ffb1 on the counter front, realistic paper cup and stainless steel textures, soft neutral morning daylight and natural skin tones, candid restrained composition, no readable menu, text or logos --ar 3:2",
       "imageAlt": "Barista entrega um café para viagem a uma cliente num balcão compacto voltado para a calçada, com detalhe teal e sem mesas.",
       "automation": {
-        "stage": "Redação",
+        "stage": "Revisão",
         "state": "done",
-        "lastJob": "e498cc55-d03f-4c5c-9ed5-e6d85c19080a",
-        "completedAt": "2026-11-24T22:23:15.663Z",
-        "message": "Redação e prompt prontos para edição."
-      }
+        "lastJob": "15671608-1c1d-40e2-a3aa-db40d072d1c5",
+        "completedAt": "2026-11-26T10:31:09.594Z",
+        "message": "SEO revisado; envie a capa e aprove.",
+        "reviewKey": "e2bbffc3028286a3fc544e1af787fe91fba823d2281e8beff46fd74bd567faaa"
+      },
+      "keyword": "novo formato de loja",
+      "slug": "novo-formato-loja-ocasiao-visita",
+      "meta": "Um novo formato de loja precisa atender uma ocasião clara. Defina o que permanece da marca e confira cardápio, retirada e limites antes de ampliar a promessa.",
+      "faq": "O que definir antes de divulgar um novo formato de loja?\nO motivo da visita, as opções disponíveis, os caminhos de pedido e retirada e as características da marca que podem ser sustentadas naquele ponto.\n\nUm ponto compacto precisa reproduzir a experiência do salão?\nNão. Pode atender outra ocasião, desde que as diferenças de espaço, cardápio e atendimento sejam assumidas e compreensíveis antes da visita.\n\nComo avaliar se a apresentação do formato está clara?\nObserve se uma pessoa localiza o ponto, entende sua proposta e identifica as opções disponíveis. Compare essas tarefas com as dúvidas do atendimento, sem extrapolar um teste limitado para todo o público.",
+      "url": "https://www.agenciatweed.com.br/novo-formato-loja-ocasiao-visita/"
     },
     {
       "id": "pauta-diaria-2026-11-22",

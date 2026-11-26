@@ -1,0 +1,28 @@
+{
+  "id": "pauta-diaria-2026-11-26",
+  "title": "A segunda unidade precisa saber quais decisões pode tomar",
+  "edition": 4,
+  "expert": "Lorenzo",
+  "angle": "Gancho primário: comunicado da Unilever de 03/11/2026, arquivado no Form 6-K da SEC, anuncia a evolução do modelo operacional com estratégia global e execução local, distinguindo responsabilidades centrais e dos mercados. A implantação é prevista progressivamente para 2027; não apresentar como modelo já concluído nem usar metas de produtividade ou crescimento como resultados. Tese própria: ao crescer para mais unidades, uma empresa precisa distinguir decisões comuns à marca das adaptações que a equipe de cada unidade pode realizar, com um caminho claro para exceções. Recorte num grupo independente de restaurantes que abre sua segunda casa: separar identidade, informações confirmadas da oferta e critérios compartilhados de decisões sobre uma ação local, uma dúvida recorrente ou a apresentação de uma disponibilidade específica. Abrir pelo gerente que recebe uma oportunidade de divulgação no bairro e não sabe o que pode aprovar. Não recomendar uma estrutura corporativa, mudar preços ou políticas, nem transformar autonomia em autorização irrestrita. Construir exemplos de decisões, responsáveis e encaminhamento, observar se a unidade depende dos fundadores para cada detalhe e se uma adaptação altera uma promessa que deveria permanecer comum. Diferenciar de expansão territorial: foco em direitos de decisão entre unidades, não em cobertura, deslocamento ou suporte em outra cidade. Diferenciar de formato de loja: foco em governança cotidiana da expressão da marca, não em qual ocasião de consumo o espaço atende. Diferenciar de aprovação de campanha: foco na distribuição estável de responsabilidade durante o crescimento, não na revisão de uma peça. A aplicação a restaurantes é análise editorial da Tweed, sem promessa de eficiência ou resultado financeiro.",
+  "audience": "Sócios e responsáveis por comunicação de restaurantes, cafeterias e pequenos grupos de serviços que passam de uma operação centralizada nos fundadores para duas ou mais unidades.",
+  "goal": "De tratar toda adaptação local como improviso ou assunto para os fundadores para definir quais escolhas seguem critérios comuns, quais podem ser feitas pela unidade e quando é preciso consultar outra pessoa.",
+  "createdAt": "2026-11-26T10:27:34.347Z",
+  "status": "Pauta",
+  "submitted": false,
+  "workflowVersion": 2,
+  "voiceVersion": 2,
+  "checks": {},
+  "logo": "https://www.agenciatweed.com.br/assets/logo_tweed_teal.svg",
+  "author": "https://www.agenciatweed.com.br/#agencia",
+  "dailyResearch": {
+    "date": "2026-11-26",
+    "mode": "daily",
+    "sources": [
+      {
+        "title": "Unilever, anúncio de evolução do modelo operacional, 03/11/2026, Form 6-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/217410/000165495426009451/a6665b.htm",
+        "publishedAt": "2026-11-03"
+      }
+    ]
+  }
+}
